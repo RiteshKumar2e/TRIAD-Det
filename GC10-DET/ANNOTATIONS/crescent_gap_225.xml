@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>crescent_gap</folder><filename>crescent_gap_225.jpg</filename><size><width>2048</width><height>1000</height><depth>1</depth></size><segmented>0</segmented><object><name>crescent_gap</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>46.0</xmin><ymin>609.0</ymin><xmax>294.0</xmax><ymax>998.0</ymax></bndbox></object></annotation>

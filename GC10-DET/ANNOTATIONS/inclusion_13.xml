@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>inclusion</folder><filename>inclusion_13.jpg</filename><size><width>2048</width><height>1000</height><depth>1</depth></size><segmented>0</segmented><object><name>inclusion</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1423.0</xmin><ymin>49.0</ymin><xmax>1450.0</xmax><ymax>78.0</ymax></bndbox></object></annotation>

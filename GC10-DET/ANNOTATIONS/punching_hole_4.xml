@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>punching_hole</folder><filename>punching_hole_4.jpg</filename><size><width>2048</width><height>1000</height><depth>1</depth></size><segmented>0</segmented><object><name>punching_hole</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>2011.0</xmin><ymin>108.0</ymin><xmax>2048.0</xmax><ymax>151.0</ymax></bndbox></object></annotation>
