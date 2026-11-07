@@ -1,0 +1,531 @@
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__SteelDefectX.jsonl: 13 records
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__NEU-DET.jsonl: 60 records
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__GC10-DET.jsonl: 47 records
+[predict_yolo] YOLOv8s__NEU-DET__on__SteelDefectX.jsonl: 13 records
+[predict_yolo] YOLOv8s__NEU-DET__on__NEU-DET.jsonl: 60 records
+[predict_yolo] YOLOv8s__NEU-DET__on__GC10-DET.jsonl: 47 records
+[predict_yolo] YOLO11s__NEU-DET__on__SteelDefectX.jsonl: 13 records
+[predict_yolo] YOLO11s__NEU-DET__on__NEU-DET.jsonl: 60 records
+[predict_yolo] YOLO11s__NEU-DET__on__GC10-DET.jsonl: 47 records
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__SteelDefectX.jsonl: 13 records
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__NEU-DET.jsonl: 30 records
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__GC10-DET.jsonl: 100 records
+[predict_yolo] YOLOv8s__GC10-DET__on__SteelDefectX.jsonl: 13 records
+[predict_yolo] YOLOv8s__GC10-DET__on__NEU-DET.jsonl: 30 records
+[predict_yolo] YOLOv8s__GC10-DET__on__GC10-DET.jsonl: 100 records
+[predict_yolo] YOLO11s__GC10-DET__on__SteelDefectX.jsonl: 13 records
+[predict_yolo] YOLO11s__GC10-DET__on__NEU-DET.jsonl: 30 records
+[predict_yolo] YOLO11s__GC10-DET__on__GC10-DET.jsonl: 100 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\smoke
+[in_domain] TRIAD-Det/NEU-DET: {'model': 'TRIAD-Det', 'dataset': 'NEU-DET', 'tau': 0.05, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'conf'}
+[in_domain] TRIAD-YOLO/NEU-DET: {'model': 'TRIAD-YOLO', 'dataset': 'NEU-DET', 'tau': 0.05, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'conf'}
+[in_domain] YOLOv8s/NEU-DET: {'model': 'YOLOv8s', 'dataset': 'NEU-DET', 'tau': 0.9, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'grey'}
+[in_domain] YOLO11s/NEU-DET: {'model': 'YOLO11s', 'dataset': 'NEU-DET', 'tau': 0.9, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'conf'}
+[in_domain] TRIAD-YOLO/GC10-DET: {'model': 'TRIAD-YOLO', 'dataset': 'GC10-DET', 'tau': 0.05, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'conf'}
+[in_domain] YOLOv8s/GC10-DET: {'model': 'YOLOv8s', 'dataset': 'GC10-DET', 'tau': 0.05, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'conf'}
+[in_domain] YOLO11s/GC10-DET: {'model': 'YOLO11s', 'dataset': 'GC10-DET', 'tau': 0.05, 'score_any': 'conf', 'headline_threshold': None, 'score_fraction': 'conf'}
+[in_domain] Classifier/SteelDefectX: {'model': 'Classifier', 'dataset': 'SteelDefectX', 'score': 'conf', 'top1_accuracy': np.float64(0.08510638297872342)}
+[in_domain] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\smoke
+[cross_domain] TRIAD-Det: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: GC10-DET -> NEU-DET
+[cross_domain] YOLOv8s: NEU-DET -> SteelDefectX
+[cross_domain] YOLOv8s: NEU-DET -> GC10-DET
+[cross_domain] YOLOv8s: GC10-DET -> SteelDefectX
+[cross_domain] YOLOv8s: GC10-DET -> NEU-DET
+[cross_domain] YOLO11s: NEU-DET -> SteelDefectX
+[cross_domain] YOLO11s: NEU-DET -> GC10-DET
+[cross_domain] YOLO11s: GC10-DET -> SteelDefectX
+[cross_domain] YOLO11s: GC10-DET -> NEU-DET
+[cross_domain] 14 pairs -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\smoke
+[recalibration] TRIAD-Det: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-Det: NEU-DET -> GC10-DET
+[recalibration] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: NEU-DET -> GC10-DET
+[recalibration] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: GC10-DET -> NEU-DET
+[recalibration] YOLOv8s: NEU-DET -> SteelDefectX
+[recalibration] YOLOv8s: NEU-DET -> GC10-DET
+[recalibration] YOLOv8s: GC10-DET -> SteelDefectX
+[recalibration] YOLOv8s: GC10-DET -> NEU-DET
+[recalibration] YOLO11s: NEU-DET -> SteelDefectX
+[recalibration] YOLO11s: NEU-DET -> GC10-DET
+[recalibration] YOLO11s: GC10-DET -> SteelDefectX
+[recalibration] YOLO11s: GC10-DET -> NEU-DET
+[recalibration] 42 rows -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\smoke\recalibration.csv
+[ablation] TRIAD-Det/NEU-DET
+[ablation] TRIAD-YOLO/NEU-DET
+[ablation] YOLOv8s/NEU-DET
+[ablation] YOLO11s/NEU-DET
+[ablation] TRIAD-YOLO/GC10-DET
+[ablation] YOLOv8s/GC10-DET
+[ablation] YOLO11s/GC10-DET
+[ablation] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\smoke
+[cross_domain] TRIAD-Det: SteelDefectX -> NEU-DET
+[cross_domain] TRIAD-Det: SteelDefectX -> GC10-DET
+[cross_domain] TRIAD-Det: SteelDefectX -> X-SDD
+[cross_domain] TRIAD-Det: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-Det: NEU-DET -> X-SDD
+[cross_domain] TRIAD-Det: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: GC10-DET -> NEU-DET
+[cross_domain] TRIAD-Det: GC10-DET -> X-SDD
+[cross_domain] TRIAD-Det: X-SDD -> SteelDefectX
+[cross_domain] TRIAD-Det: X-SDD -> NEU-DET
+[cross_domain] TRIAD-Det: X-SDD -> GC10-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> NEU-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> GC10-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> X-SDD
+[cross_domain] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-YOLO: NEU-DET -> X-SDD
+[cross_domain] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: GC10-DET -> NEU-DET
+[cross_domain] TRIAD-YOLO: GC10-DET -> X-SDD
+[cross_domain] TRIAD-YOLO: X-SDD -> SteelDefectX
+[cross_domain] TRIAD-YOLO: X-SDD -> NEU-DET
+[cross_domain] TRIAD-YOLO: X-SDD -> GC10-DET
+[cross_domain] YOLOv8s: SteelDefectX -> NEU-DET
+[cross_domain] YOLOv8s: SteelDefectX -> GC10-DET
+[cross_domain] YOLOv8s: SteelDefectX -> X-SDD
+[cross_domain] YOLOv8s: NEU-DET -> SteelDefectX
+[cross_domain] YOLOv8s: NEU-DET -> GC10-DET
+[cross_domain] YOLOv8s: NEU-DET -> X-SDD
+[cross_domain] YOLOv8s: GC10-DET -> SteelDefectX
+[cross_domain] YOLOv8s: GC10-DET -> NEU-DET
+[cross_domain] YOLOv8s: GC10-DET -> X-SDD
+[cross_domain] YOLOv8s: X-SDD -> SteelDefectX
+[cross_domain] YOLOv8s: X-SDD -> NEU-DET
+[cross_domain] YOLOv8s: X-SDD -> GC10-DET
+[cross_domain] YOLO11s: SteelDefectX -> NEU-DET
+[cross_domain] YOLO11s: SteelDefectX -> GC10-DET
+[cross_domain] YOLO11s: SteelDefectX -> X-SDD
+[cross_domain] YOLO11s: NEU-DET -> SteelDefectX
+[cross_domain] YOLO11s: NEU-DET -> GC10-DET
+[cross_domain] YOLO11s: NEU-DET -> X-SDD
+[cross_domain] YOLO11s: GC10-DET -> SteelDefectX
+[cross_domain] YOLO11s: GC10-DET -> NEU-DET
+[cross_domain] YOLO11s: GC10-DET -> X-SDD
+[cross_domain] YOLO11s: X-SDD -> SteelDefectX
+[cross_domain] YOLO11s: X-SDD -> NEU-DET
+[cross_domain] YOLO11s: X-SDD -> GC10-DET
+[cross_domain] 48 pairs -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\synthcheck
+[recalibration] TRIAD-Det: SteelDefectX -> NEU-DET
+[recalibration] TRIAD-Det: SteelDefectX -> GC10-DET
+[recalibration] TRIAD-Det: SteelDefectX -> X-SDD
+[recalibration] TRIAD-Det: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-Det: NEU-DET -> GC10-DET
+[recalibration] TRIAD-Det: NEU-DET -> X-SDD
+[recalibration] TRIAD-Det: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-Det: GC10-DET -> NEU-DET
+[recalibration] TRIAD-Det: GC10-DET -> X-SDD
+[recalibration] TRIAD-Det: X-SDD -> SteelDefectX
+[recalibration] TRIAD-Det: X-SDD -> NEU-DET
+[recalibration] TRIAD-Det: X-SDD -> GC10-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> NEU-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> GC10-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> X-SDD
+[recalibration] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: NEU-DET -> GC10-DET
+[recalibration] TRIAD-YOLO: NEU-DET -> X-SDD
+[recalibration] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: GC10-DET -> NEU-DET
+[recalibration] TRIAD-YOLO: GC10-DET -> X-SDD
+[recalibration] TRIAD-YOLO: X-SDD -> SteelDefectX
+[recalibration] TRIAD-YOLO: X-SDD -> NEU-DET
+[recalibration] TRIAD-YOLO: X-SDD -> GC10-DET
+[recalibration] YOLOv8s: SteelDefectX -> NEU-DET
+[recalibration] YOLOv8s: SteelDefectX -> GC10-DET
+[recalibration] YOLOv8s: SteelDefectX -> X-SDD
+[recalibration] YOLOv8s: NEU-DET -> SteelDefectX
+[recalibration] YOLOv8s: NEU-DET -> GC10-DET
+[recalibration] YOLOv8s: NEU-DET -> X-SDD
+[recalibration] YOLOv8s: GC10-DET -> SteelDefectX
+[recalibration] YOLOv8s: GC10-DET -> NEU-DET
+[recalibration] YOLOv8s: GC10-DET -> X-SDD
+[recalibration] YOLOv8s: X-SDD -> SteelDefectX
+[recalibration] YOLOv8s: X-SDD -> NEU-DET
+[recalibration] YOLOv8s: X-SDD -> GC10-DET
+[recalibration] YOLO11s: SteelDefectX -> NEU-DET
+[recalibration] YOLO11s: SteelDefectX -> GC10-DET
+[recalibration] YOLO11s: SteelDefectX -> X-SDD
+[recalibration] YOLO11s: NEU-DET -> SteelDefectX
+[recalibration] YOLO11s: NEU-DET -> GC10-DET
+[recalibration] YOLO11s: NEU-DET -> X-SDD
+[recalibration] YOLO11s: GC10-DET -> SteelDefectX
+[recalibration] YOLO11s: GC10-DET -> NEU-DET
+[recalibration] YOLO11s: GC10-DET -> X-SDD
+[recalibration] YOLO11s: X-SDD -> SteelDefectX
+[recalibration] YOLO11s: X-SDD -> NEU-DET
+[recalibration] YOLO11s: X-SDD -> GC10-DET
+[recalibration] 864 rows -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\synthcheck\recalibration.csv
+[ablation] TRIAD-Det/SteelDefectX
+[ablation] TRIAD-YOLO/SteelDefectX
+[ablation] YOLOv8s/SteelDefectX
+[ablation] YOLO11s/SteelDefectX
+[ablation] TRIAD-Det/NEU-DET
+[ablation] TRIAD-YOLO/NEU-DET
+[ablation] YOLOv8s/NEU-DET
+[ablation] YOLO11s/NEU-DET
+[ablation] TRIAD-Det/GC10-DET
+[ablation] TRIAD-YOLO/GC10-DET
+[ablation] YOLOv8s/GC10-DET
+[ablation] YOLO11s/GC10-DET
+[ablation] TRIAD-Det/X-SDD
+[ablation] TRIAD-YOLO/X-SDD
+[ablation] YOLOv8s/X-SDD
+[ablation] YOLO11s/X-SDD
+[ablation] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\synthcheck
+[figures] 13 figures -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\figures\smoke: fig01_dataset_splits, fig02_detection_map, fig03_risk_coverage, fig04_coverage_vs_alpha, fig05_risk_vs_alpha, fig06_validity, fig07_method_coverage, fig08_score_aurc, fig09_cross_domain, fig10_recalibration, fig11_iou_ablation, fig12_examples_NEU-DET, fig12_examples_GC10-DET
+[predict_yolo] TRIAD-YOLO__SteelDefectX__on__SteelDefectX.jsonl: 7193 records
+[predict_yolo] TRIAD-YOLO__SteelDefectX__on__NEU-DET.jsonl: 720 records
+[predict_yolo] TRIAD-YOLO__SteelDefectX__on__GC10-DET.jsonl: 924 records
+[predict_yolo] TRIAD-YOLO__SteelDefectX__on__X-SDD.jsonl: 549 records
+[predict_yolo] YOLOv8s__SteelDefectX__on__SteelDefectX.jsonl: 7193 records
+[predict_yolo] YOLOv8s__SteelDefectX__on__NEU-DET.jsonl: 720 records
+[predict_yolo] YOLOv8s__SteelDefectX__on__GC10-DET.jsonl: 924 records
+[predict_yolo] YOLOv8s__SteelDefectX__on__X-SDD.jsonl: 549 records
+[predict_yolo] YOLO11s__SteelDefectX__on__SteelDefectX.jsonl: 7193 records
+[predict_yolo] YOLO11s__SteelDefectX__on__NEU-DET.jsonl: 720 records
+[predict_yolo] YOLO11s__SteelDefectX__on__GC10-DET.jsonl: 924 records
+[predict_yolo] YOLO11s__SteelDefectX__on__X-SDD.jsonl: 549 records
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__NEU-DET.jsonl: 1800 records
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__GC10-DET.jsonl: 924 records
+[predict_yolo] TRIAD-YOLO__NEU-DET__on__X-SDD.jsonl: 549 records
+[predict_yolo] YOLOv8s__NEU-DET__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] YOLOv8s__NEU-DET__on__NEU-DET.jsonl: 1800 records
+[predict_yolo] YOLOv8s__NEU-DET__on__GC10-DET.jsonl: 924 records
+[predict_yolo] YOLOv8s__NEU-DET__on__X-SDD.jsonl: 549 records
+[predict_yolo] YOLO11s__NEU-DET__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] YOLO11s__NEU-DET__on__NEU-DET.jsonl: 1800 records
+[predict_yolo] YOLO11s__NEU-DET__on__GC10-DET.jsonl: 924 records
+[predict_yolo] YOLO11s__NEU-DET__on__X-SDD.jsonl: 549 records
+[in_domain] TRIAD-Det/SteelDefectX: {'model': 'TRIAD-Det', 'dataset': 'SteelDefectX', 'tau': 0.65, 'score_any': 'stats', 'headline_threshold': 0.16783065208844314, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/SteelDefectX: {'model': 'TRIAD-YOLO', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.1729024345495223, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/SteelDefectX: {'model': 'YOLOv8s', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.09750890798317947, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/SteelDefectX: {'model': 'YOLO11s', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.13497441757960243, 'score_fraction': 'stats'}
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__NEU-DET.jsonl: 720 records
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__GC10-DET.jsonl: 2292 records
+[predict_yolo] TRIAD-YOLO__GC10-DET__on__X-SDD.jsonl: 549 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] YOLOv8s__GC10-DET__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] YOLOv8s__GC10-DET__on__NEU-DET.jsonl: 720 records
+[predict_yolo] YOLOv8s__GC10-DET__on__GC10-DET.jsonl: 2292 records
+[predict_yolo] YOLOv8s__GC10-DET__on__X-SDD.jsonl: 549 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] YOLO11s__GC10-DET__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] YOLO11s__GC10-DET__on__NEU-DET.jsonl: 720 records
+[predict_yolo] YOLO11s__GC10-DET__on__GC10-DET.jsonl: 2292 records
+[predict_yolo] YOLO11s__GC10-DET__on__X-SDD.jsonl: 549 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] TRIAD-YOLO__X-SDD__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] TRIAD-YOLO__X-SDD__on__NEU-DET.jsonl: 720 records
+[predict_yolo] TRIAD-YOLO__X-SDD__on__GC10-DET.jsonl: 924 records
+[predict_yolo] TRIAD-YOLO__X-SDD__on__X-SDD.jsonl: 1360 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] YOLOv8s__X-SDD__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] YOLOv8s__X-SDD__on__NEU-DET.jsonl: 720 records
+[predict_yolo] YOLOv8s__X-SDD__on__GC10-DET.jsonl: 924 records
+[predict_yolo] YOLOv8s__X-SDD__on__X-SDD.jsonl: 1360 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] YOLO11s__X-SDD__on__SteelDefectX.jsonl: 2822 records
+[predict_yolo] YOLO11s__X-SDD__on__NEU-DET.jsonl: 720 records
+[predict_yolo] YOLO11s__X-SDD__on__GC10-DET.jsonl: 924 records
+[predict_yolo] YOLO11s__X-SDD__on__X-SDD.jsonl: 1360 records
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[predict_yolo] done -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\predictions\full
+[in_domain] TRIAD-Det/SteelDefectX: {'model': 'TRIAD-Det', 'dataset': 'SteelDefectX', 'tau': 0.55, 'score_any': 'stats', 'headline_threshold': 0.2616163145156914, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/SteelDefectX: {'model': 'TRIAD-YOLO', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.1729024345495223, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/SteelDefectX: {'model': 'YOLOv8s', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.09750890798317947, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/SteelDefectX: {'model': 'YOLO11s', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.13497441757960243, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/NEU-DET: {'model': 'TRIAD-Det', 'dataset': 'NEU-DET', 'tau': 0.65, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/NEU-DET: {'model': 'TRIAD-YOLO', 'dataset': 'NEU-DET', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/NEU-DET: {'model': 'YOLOv8s', 'dataset': 'NEU-DET', 'tau': 0.45, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/NEU-DET: {'model': 'YOLO11s', 'dataset': 'NEU-DET', 'tau': 0.2, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/GC10-DET: {'model': 'TRIAD-Det', 'dataset': 'GC10-DET', 'tau': 0.6, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/GC10-DET: {'model': 'TRIAD-YOLO', 'dataset': 'GC10-DET', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.2644619781095291, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/GC10-DET: {'model': 'YOLOv8s', 'dataset': 'GC10-DET', 'tau': 0.35, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/GC10-DET: {'model': 'YOLO11s', 'dataset': 'GC10-DET', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/X-SDD: {'model': 'TRIAD-Det', 'dataset': 'X-SDD', 'tau': 0.5, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/X-SDD: {'model': 'TRIAD-YOLO', 'dataset': 'X-SDD', 'tau': 0.2, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/X-SDD: {'model': 'YOLOv8s', 'dataset': 'X-SDD', 'tau': 0.15, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'grey'}
+[in_domain] YOLO11s/X-SDD: {'model': 'YOLO11s', 'dataset': 'X-SDD', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'grey'}
+[in_domain] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\full
+[cross_domain] TRIAD-Det: SteelDefectX -> NEU-DET
+[cross_domain] TRIAD-Det: SteelDefectX -> GC10-DET
+[cross_domain] TRIAD-Det: SteelDefectX -> X-SDD
+[cross_domain] TRIAD-Det: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-Det: NEU-DET -> X-SDD
+[cross_domain] TRIAD-Det: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: GC10-DET -> NEU-DET
+[cross_domain] TRIAD-Det: GC10-DET -> X-SDD
+[cross_domain] TRIAD-Det: X-SDD -> SteelDefectX
+[cross_domain] TRIAD-Det: X-SDD -> NEU-DET
+[cross_domain] TRIAD-Det: X-SDD -> GC10-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> NEU-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> GC10-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> X-SDD
+[cross_domain] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-YOLO: NEU-DET -> X-SDD
+[cross_domain] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: GC10-DET -> NEU-DET
+[cross_domain] TRIAD-YOLO: GC10-DET -> X-SDD
+[cross_domain] TRIAD-YOLO: X-SDD -> SteelDefectX
+[cross_domain] TRIAD-YOLO: X-SDD -> NEU-DET
+[cross_domain] TRIAD-YOLO: X-SDD -> GC10-DET
+[cross_domain] YOLOv8s: SteelDefectX -> NEU-DET
+[cross_domain] YOLOv8s: SteelDefectX -> GC10-DET
+[cross_domain] YOLOv8s: SteelDefectX -> X-SDD
+[cross_domain] YOLOv8s: NEU-DET -> SteelDefectX
+[cross_domain] YOLOv8s: NEU-DET -> GC10-DET
+[cross_domain] YOLOv8s: NEU-DET -> X-SDD
+[cross_domain] YOLOv8s: GC10-DET -> SteelDefectX
+[cross_domain] YOLOv8s: GC10-DET -> NEU-DET
+[cross_domain] YOLOv8s: GC10-DET -> X-SDD
+[cross_domain] YOLOv8s: X-SDD -> SteelDefectX
+[cross_domain] YOLOv8s: X-SDD -> NEU-DET
+[cross_domain] YOLOv8s: X-SDD -> GC10-DET
+[cross_domain] YOLO11s: SteelDefectX -> NEU-DET
+[cross_domain] YOLO11s: SteelDefectX -> GC10-DET
+[cross_domain] YOLO11s: SteelDefectX -> X-SDD
+[cross_domain] YOLO11s: NEU-DET -> SteelDefectX
+[cross_domain] YOLO11s: NEU-DET -> GC10-DET
+[cross_domain] YOLO11s: NEU-DET -> X-SDD
+[cross_domain] YOLO11s: GC10-DET -> SteelDefectX
+[cross_domain] YOLO11s: GC10-DET -> NEU-DET
+[cross_domain] YOLO11s: GC10-DET -> X-SDD
+[cross_domain] YOLO11s: X-SDD -> SteelDefectX
+[cross_domain] YOLO11s: X-SDD -> NEU-DET
+[cross_domain] YOLO11s: X-SDD -> GC10-DET
+[cross_domain] 48 pairs -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\full
+[recalibration] TRIAD-Det: SteelDefectX -> NEU-DET
+[recalibration] TRIAD-Det: SteelDefectX -> GC10-DET
+[recalibration] TRIAD-Det: SteelDefectX -> X-SDD
+[recalibration] TRIAD-Det: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-Det: NEU-DET -> GC10-DET
+[recalibration] TRIAD-Det: NEU-DET -> X-SDD
+[recalibration] TRIAD-Det: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-Det: GC10-DET -> NEU-DET
+[recalibration] TRIAD-Det: GC10-DET -> X-SDD
+[recalibration] TRIAD-Det: X-SDD -> SteelDefectX
+[recalibration] TRIAD-Det: X-SDD -> NEU-DET
+[recalibration] TRIAD-Det: X-SDD -> GC10-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> NEU-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> GC10-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> X-SDD
+[recalibration] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: NEU-DET -> GC10-DET
+[recalibration] TRIAD-YOLO: NEU-DET -> X-SDD
+[recalibration] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: GC10-DET -> NEU-DET
+[recalibration] TRIAD-YOLO: GC10-DET -> X-SDD
+[recalibration] TRIAD-YOLO: X-SDD -> SteelDefectX
+[recalibration] TRIAD-YOLO: X-SDD -> NEU-DET
+[recalibration] TRIAD-YOLO: X-SDD -> GC10-DET
+[recalibration] YOLOv8s: SteelDefectX -> NEU-DET
+[recalibration] YOLOv8s: SteelDefectX -> GC10-DET
+[recalibration] YOLOv8s: SteelDefectX -> X-SDD
+[recalibration] YOLOv8s: NEU-DET -> SteelDefectX
+[recalibration] YOLOv8s: NEU-DET -> GC10-DET
+[recalibration] YOLOv8s: NEU-DET -> X-SDD
+[recalibration] YOLOv8s: GC10-DET -> SteelDefectX
+[recalibration] YOLOv8s: GC10-DET -> NEU-DET
+[recalibration] YOLOv8s: GC10-DET -> X-SDD
+[recalibration] YOLOv8s: X-SDD -> SteelDefectX
+[recalibration] YOLOv8s: X-SDD -> NEU-DET
+[recalibration] YOLOv8s: X-SDD -> GC10-DET
+[recalibration] YOLO11s: SteelDefectX -> NEU-DET
+[recalibration] YOLO11s: SteelDefectX -> GC10-DET
+[recalibration] YOLO11s: SteelDefectX -> X-SDD
+[recalibration] YOLO11s: NEU-DET -> SteelDefectX
+[recalibration] YOLO11s: NEU-DET -> GC10-DET
+[recalibration] YOLO11s: NEU-DET -> X-SDD
+[recalibration] YOLO11s: GC10-DET -> SteelDefectX
+[recalibration] YOLO11s: GC10-DET -> NEU-DET
+[recalibration] YOLO11s: GC10-DET -> X-SDD
+[recalibration] YOLO11s: X-SDD -> SteelDefectX
+[recalibration] YOLO11s: X-SDD -> NEU-DET
+[recalibration] YOLO11s: X-SDD -> GC10-DET
+[recalibration] 756 rows -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\full\recalibration.csv
+[ablation] TRIAD-Det/SteelDefectX
+[ablation] TRIAD-YOLO/SteelDefectX
+[ablation] YOLOv8s/SteelDefectX
+[ablation] YOLO11s/SteelDefectX
+[ablation] TRIAD-Det/NEU-DET
+[ablation] TRIAD-YOLO/NEU-DET
+[ablation] YOLOv8s/NEU-DET
+[ablation] YOLO11s/NEU-DET
+[ablation] TRIAD-Det/GC10-DET
+[ablation] TRIAD-YOLO/GC10-DET
+[ablation] YOLOv8s/GC10-DET
+[ablation] YOLO11s/GC10-DET
+[ablation] TRIAD-Det/X-SDD
+[ablation] TRIAD-YOLO/X-SDD
+[ablation] YOLOv8s/X-SDD
+[ablation] YOLO11s/X-SDD
+[ablation] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\full
+[figures] 15 figures -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\figures\full: fig01_dataset_splits, fig02_detection_map, fig03_risk_coverage, fig04_coverage_vs_alpha, fig05_risk_vs_alpha, fig06_validity, fig07_method_coverage, fig08_score_aurc, fig09_cross_domain, fig10_recalibration, fig11_iou_ablation, fig12_examples_SteelDefectX, fig12_examples_NEU-DET, fig12_examples_GC10-DET, fig12_examples_X-SDD
+[in_domain] TRIAD-Det/SteelDefectX: {'model': 'TRIAD-Det', 'dataset': 'SteelDefectX', 'tau': 0.65, 'score_any': 'stats', 'headline_threshold': 0.16783065208844314, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/NEU-DET: {'model': 'TRIAD-Det', 'dataset': 'NEU-DET', 'tau': 0.65, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/GC10-DET: {'model': 'TRIAD-Det', 'dataset': 'GC10-DET', 'tau': 0.55, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/X-SDD: {'model': 'TRIAD-Det', 'dataset': 'X-SDD', 'tau': 0.55, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\v1
+[cross_domain] TRIAD-Det: SteelDefectX -> NEU-DET
+[cross_domain] TRIAD-Det: SteelDefectX -> GC10-DET
+[cross_domain] TRIAD-Det: SteelDefectX -> X-SDD
+[cross_domain] TRIAD-Det: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-Det: NEU-DET -> X-SDD
+[cross_domain] TRIAD-Det: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-Det: GC10-DET -> NEU-DET
+[cross_domain] TRIAD-Det: GC10-DET -> X-SDD
+[cross_domain] TRIAD-Det: X-SDD -> SteelDefectX
+[cross_domain] TRIAD-Det: X-SDD -> NEU-DET
+[cross_domain] TRIAD-Det: X-SDD -> GC10-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> NEU-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> GC10-DET
+[cross_domain] TRIAD-YOLO: SteelDefectX -> X-SDD
+[cross_domain] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: NEU-DET -> GC10-DET
+[cross_domain] TRIAD-YOLO: NEU-DET -> X-SDD
+[cross_domain] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[cross_domain] TRIAD-YOLO: GC10-DET -> NEU-DET
+[cross_domain] TRIAD-YOLO: GC10-DET -> X-SDD
+[cross_domain] TRIAD-YOLO: X-SDD -> SteelDefectX
+[cross_domain] TRIAD-YOLO: X-SDD -> NEU-DET
+[cross_domain] TRIAD-YOLO: X-SDD -> GC10-DET
+[cross_domain] YOLOv8s: SteelDefectX -> NEU-DET
+[cross_domain] YOLOv8s: SteelDefectX -> GC10-DET
+[cross_domain] YOLOv8s: SteelDefectX -> X-SDD
+[cross_domain] YOLOv8s: NEU-DET -> SteelDefectX
+[cross_domain] YOLOv8s: NEU-DET -> GC10-DET
+[cross_domain] YOLOv8s: NEU-DET -> X-SDD
+[cross_domain] YOLOv8s: GC10-DET -> SteelDefectX
+[cross_domain] YOLOv8s: GC10-DET -> NEU-DET
+[cross_domain] YOLOv8s: GC10-DET -> X-SDD
+[cross_domain] YOLOv8s: X-SDD -> SteelDefectX
+[cross_domain] YOLOv8s: X-SDD -> NEU-DET
+[cross_domain] YOLOv8s: X-SDD -> GC10-DET
+[cross_domain] YOLO11s: SteelDefectX -> NEU-DET
+[cross_domain] YOLO11s: SteelDefectX -> GC10-DET
+[cross_domain] YOLO11s: SteelDefectX -> X-SDD
+[cross_domain] YOLO11s: NEU-DET -> SteelDefectX
+[cross_domain] YOLO11s: NEU-DET -> GC10-DET
+[cross_domain] YOLO11s: NEU-DET -> X-SDD
+[cross_domain] YOLO11s: GC10-DET -> SteelDefectX
+[cross_domain] YOLO11s: GC10-DET -> NEU-DET
+[cross_domain] YOLO11s: GC10-DET -> X-SDD
+[cross_domain] YOLO11s: X-SDD -> SteelDefectX
+[cross_domain] YOLO11s: X-SDD -> NEU-DET
+[cross_domain] YOLO11s: X-SDD -> GC10-DET
+[cross_domain] 48 pairs -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\selected
+[recalibration] TRIAD-Det: SteelDefectX -> NEU-DET
+[recalibration] TRIAD-Det: SteelDefectX -> GC10-DET
+[recalibration] TRIAD-Det: SteelDefectX -> X-SDD
+[recalibration] TRIAD-Det: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-Det: NEU-DET -> GC10-DET
+[recalibration] TRIAD-Det: NEU-DET -> X-SDD
+[recalibration] TRIAD-Det: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-Det: GC10-DET -> NEU-DET
+[recalibration] TRIAD-Det: GC10-DET -> X-SDD
+[recalibration] TRIAD-Det: X-SDD -> SteelDefectX
+[recalibration] TRIAD-Det: X-SDD -> NEU-DET
+[recalibration] TRIAD-Det: X-SDD -> GC10-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> NEU-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> GC10-DET
+[recalibration] TRIAD-YOLO: SteelDefectX -> X-SDD
+[recalibration] TRIAD-YOLO: NEU-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: NEU-DET -> GC10-DET
+[recalibration] TRIAD-YOLO: NEU-DET -> X-SDD
+[recalibration] TRIAD-YOLO: GC10-DET -> SteelDefectX
+[recalibration] TRIAD-YOLO: GC10-DET -> NEU-DET
+[recalibration] TRIAD-YOLO: GC10-DET -> X-SDD
+[recalibration] TRIAD-YOLO: X-SDD -> SteelDefectX
+[recalibration] TRIAD-YOLO: X-SDD -> NEU-DET
+[recalibration] TRIAD-YOLO: X-SDD -> GC10-DET
+[recalibration] YOLOv8s: SteelDefectX -> NEU-DET
+[recalibration] YOLOv8s: SteelDefectX -> GC10-DET
+[recalibration] YOLOv8s: SteelDefectX -> X-SDD
+[recalibration] YOLOv8s: NEU-DET -> SteelDefectX
+[recalibration] YOLOv8s: NEU-DET -> GC10-DET
+[recalibration] YOLOv8s: NEU-DET -> X-SDD
+[recalibration] YOLOv8s: GC10-DET -> SteelDefectX
+[recalibration] YOLOv8s: GC10-DET -> NEU-DET
+[recalibration] YOLOv8s: GC10-DET -> X-SDD
+[recalibration] YOLOv8s: X-SDD -> SteelDefectX
+[recalibration] YOLOv8s: X-SDD -> NEU-DET
+[recalibration] YOLOv8s: X-SDD -> GC10-DET
+[recalibration] YOLO11s: SteelDefectX -> NEU-DET
+[recalibration] YOLO11s: SteelDefectX -> GC10-DET
+[recalibration] YOLO11s: SteelDefectX -> X-SDD
+[recalibration] YOLO11s: NEU-DET -> SteelDefectX
+[recalibration] YOLO11s: NEU-DET -> GC10-DET
+[recalibration] YOLO11s: NEU-DET -> X-SDD
+[recalibration] YOLO11s: GC10-DET -> SteelDefectX
+[recalibration] YOLO11s: GC10-DET -> NEU-DET
+[recalibration] YOLO11s: GC10-DET -> X-SDD
+[recalibration] YOLO11s: X-SDD -> SteelDefectX
+[recalibration] YOLO11s: X-SDD -> NEU-DET
+[recalibration] YOLO11s: X-SDD -> GC10-DET
+[recalibration] 756 rows -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\selected\recalibration.csv
+[ablation] TRIAD-Det/SteelDefectX
+[ablation] TRIAD-YOLO/SteelDefectX
+[ablation] YOLOv8s/SteelDefectX
+[ablation] YOLO11s/SteelDefectX
+[ablation] TRIAD-Det/NEU-DET
+[ablation] TRIAD-YOLO/NEU-DET
+[ablation] YOLOv8s/NEU-DET
+[ablation] YOLO11s/NEU-DET
+[ablation] TRIAD-Det/GC10-DET
+[ablation] TRIAD-YOLO/GC10-DET
+[ablation] YOLOv8s/GC10-DET
+[ablation] YOLO11s/GC10-DET
+[ablation] TRIAD-Det/X-SDD
+[ablation] TRIAD-YOLO/X-SDD
+[ablation] YOLOv8s/X-SDD
+[ablation] YOLO11s/X-SDD
+[ablation] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\selected
+[in_domain] TRIAD-Det/SteelDefectX: {'model': 'TRIAD-Det', 'dataset': 'SteelDefectX', 'tau': 0.55, 'score_any': 'stats', 'headline_threshold': 0.2616163145156914, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/SteelDefectX: {'model': 'TRIAD-YOLO', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.1729024345495223, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/SteelDefectX: {'model': 'YOLOv8s', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.09750890798317947, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/SteelDefectX: {'model': 'YOLO11s', 'dataset': 'SteelDefectX', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.13497441757960243, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/NEU-DET: {'model': 'TRIAD-Det', 'dataset': 'NEU-DET', 'tau': 0.65, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/NEU-DET: {'model': 'TRIAD-YOLO', 'dataset': 'NEU-DET', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/NEU-DET: {'model': 'YOLOv8s', 'dataset': 'NEU-DET', 'tau': 0.45, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/NEU-DET: {'model': 'YOLO11s', 'dataset': 'NEU-DET', 'tau': 0.2, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/GC10-DET: {'model': 'TRIAD-Det', 'dataset': 'GC10-DET', 'tau': 0.55, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/GC10-DET: {'model': 'TRIAD-YOLO', 'dataset': 'GC10-DET', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': 0.2644619781095291, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/GC10-DET: {'model': 'YOLOv8s', 'dataset': 'GC10-DET', 'tau': 0.35, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLO11s/GC10-DET: {'model': 'YOLO11s', 'dataset': 'GC10-DET', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-Det/X-SDD: {'model': 'TRIAD-Det', 'dataset': 'X-SDD', 'tau': 0.5, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] TRIAD-YOLO/X-SDD: {'model': 'TRIAD-YOLO', 'dataset': 'X-SDD', 'tau': 0.2, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'stats'}
+[in_domain] YOLOv8s/X-SDD: {'model': 'YOLOv8s', 'dataset': 'X-SDD', 'tau': 0.15, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'grey'}
+[in_domain] YOLO11s/X-SDD: {'model': 'YOLO11s', 'dataset': 'X-SDD', 'tau': 0.25, 'score_any': 'stats', 'headline_threshold': None, 'score_fraction': 'grey'}
+[in_domain] tables -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\tables\selected
+[figures] 15 figures -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\figures\selected: fig01_dataset_splits, fig02_detection_map, fig03_risk_coverage, fig04_coverage_vs_alpha, fig05_risk_vs_alpha, fig06_validity, fig07_method_coverage, fig08_score_aurc, fig09_cross_domain, fig10_recalibration, fig11_iou_ablation, fig12_examples_SteelDefectX, fig12_examples_NEU-DET, fig12_examples_GC10-DET, fig12_examples_X-SDD
+[figures] 15 figures -> C:\Users\Shivapreetham\Desktop\TRIAD-Det\TRIAD_det\TRIAD_Det_Risk_Control\results\figures\full: fig01_dataset_splits, fig02_detection_map, fig03_risk_coverage, fig04_coverage_vs_alpha, fig05_risk_vs_alpha, fig06_validity, fig07_method_coverage, fig08_score_aurc, fig09_cross_domain, fig10_recalibration, fig11_iou_ablation, fig12_examples_SteelDefectX, fig12_examples_NEU-DET, fig12_examples_GC10-DET, fig12_examples_X-SDD

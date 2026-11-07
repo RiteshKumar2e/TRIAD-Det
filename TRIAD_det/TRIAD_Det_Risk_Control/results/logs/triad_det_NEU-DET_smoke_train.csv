@@ -1,0 +1,2 @@
+epoch,seconds,train_loss,train_cls,train_box,train_quality,train_count,train_presence,val_mAP50,val_mAP50_95
+1,9.0,4.006426632404327,1.0960893332958221,0.9996977746486664,0.575738750398159,0.9915053397417068,0.6845703125,0.0,0.0

@@ -1,0 +1,211 @@
+model,source,target,shares_source_images,tau,score,alpha,delta,protocol,cal_certified,cal_threshold,cal_n,cal_n_accepted,cal_risk,test_n_test,test_n_accepted,test_coverage,test_manual_review_rate,test_risk_accepted,test_risk_all,test_joint_risk,test_risk_ci95_low,test_risk_ci95_high,test_violated
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated naive,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,1,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated naive,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,1,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated naive,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,1,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated naive,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,1,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated naive,False,,12,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,1,0,,2,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.05,0.1,source-calibrated naive,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,16,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.1,0.1,source-calibrated naive,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,16,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.15,0.1,source-calibrated naive,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,16,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.2,0.1,source-calibrated naive,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,16,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.3,0.1,source-calibrated naive,False,,12,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,16,0,,16,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.05,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.1,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.15,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.2,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.3,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.05,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.05,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.1,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.1,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.15,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.15,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.2,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.2,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.3,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.3,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.05,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.1,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.15,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.2,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.3,0.1,source-calibrated naive,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.05,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.1,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.15,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.2,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.3,0.1,source-calibrated naive,False,,12,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.8888888888888888,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.05,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.05,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.05,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.1,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.1,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.1,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.15,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.15,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.15,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.2,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.2,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.2,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.3,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.3,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,0.3,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.05,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.05,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.05,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.1,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.1,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.1,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.15,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.15,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.15,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.2,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.2,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.2,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.3,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.3,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,0.3,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,0.8333333333333334,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.05,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.1,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.15,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.2,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.3,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,0.8,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.05,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.05,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.1,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.1,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.15,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.15,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.2,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.2,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.3,0.1,source-calibrated LTT,False,,12,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.3,0.1,source-calibrated naive,True,2.5033950805664062e-05,12,1,0.0,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,19,0,,18,0,0.0,1.0,,0.9444444444444444,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.05,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.1,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.15,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.2,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated LTT,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.3,0.1,source-calibrated naive,False,,19,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,4,0,,5,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.05,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.05,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.05,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.1,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.1,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.1,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.15,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.15,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.15,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.2,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.2,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.2,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.3,0.1,source-calibrated LTT,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.3,0.1,source-calibrated naive,False,,19,0,,12,0,0.0,1.0,,1.0,0.0,,,False
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,0.3,0.1,target-recalibrated LTT (full calib),False,,12,0,,12,0,0.0,1.0,,1.0,0.0,,,False

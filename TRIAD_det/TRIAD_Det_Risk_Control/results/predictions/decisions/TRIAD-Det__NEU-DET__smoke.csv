@@ -1,0 +1,13 @@
+id,path,u,loss_any,decision,reason,n_gt
+NEU-DET/crazing_100,NEU-DET\IMAGES\crazing\crazing_100.jpg,0.9030198156833649,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+NEU-DET/crazing_107,NEU-DET\IMAGES\crazing\crazing_107.jpg,0.9104908481240273,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+NEU-DET/inclusion_10,NEU-DET\IMAGES\inclusion\inclusion_10.jpg,0.9036009535193443,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+NEU-DET/inclusion_104,NEU-DET\IMAGES\inclusion\inclusion_104.jpg,0.9101116433739662,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+NEU-DET/patches_103,NEU-DET\IMAGES\patches\patches_103.jpg,0.8971455246210098,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+NEU-DET/patches_106,NEU-DET\IMAGES\patches\patches_106.jpg,0.9073326513171196,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+NEU-DET/pitted_surface_1,NEU-DET\IMAGES\pitted_surface\pitted_surface_1.jpg,0.9112052321434021,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+NEU-DET/pitted_surface_103,NEU-DET\IMAGES\pitted_surface\pitted_surface_103.jpg,0.9076730757951736,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+NEU-DET/rolled-in_scale_1,NEU-DET\IMAGES\rolled-in_scale\rolled-in_scale_1.jpg,0.9092448353767395,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+NEU-DET/rolled-in_scale_101,NEU-DET\IMAGES\rolled-in_scale\rolled-in_scale_101.jpg,0.9073282852768898,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+NEU-DET/scratches_100,NEU-DET\IMAGES\scratches\scratches_100.jpg,0.9088966324925423,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+NEU-DET/scratches_106,NEU-DET\IMAGES\scratches\scratches_106.jpg,0.9028588309884071,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1

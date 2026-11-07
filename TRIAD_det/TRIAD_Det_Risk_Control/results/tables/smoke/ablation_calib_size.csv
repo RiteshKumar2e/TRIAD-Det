@@ -1,0 +1,8 @@
+model,dataset,score,alpha,delta,n_calib,repeats,certified_rate,violation_rate,coverage_mean,coverage_std,risk_accepted_mean,risk_accepted_std
+TRIAD-Det,NEU-DET,conf,0.1,0.1,12,1,0.0,0.0,0.0,,,
+TRIAD-YOLO,NEU-DET,conf,0.1,0.1,12,1,0.0,0.0,0.0,,,
+YOLOv8s,NEU-DET,conf,0.1,0.1,12,1,0.0,0.0,0.0,,,
+YOLO11s,NEU-DET,conf,0.1,0.1,12,1,0.0,0.0,0.0,,,
+TRIAD-YOLO,GC10-DET,conf,0.1,0.1,19,1,0.0,0.0,0.0,,,
+YOLOv8s,GC10-DET,conf,0.1,0.1,19,1,0.0,0.0,0.0,,,
+YOLO11s,GC10-DET,conf,0.1,0.1,19,1,0.0,0.0,0.0,,,

@@ -1,0 +1,130 @@
+[
+  {
+    "model": "TRIAD-Det",
+    "dataset": "SteelDefectX",
+    "tau": 0.55,
+    "score_any": "stats",
+    "headline_threshold": 0.2616163145156914,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-YOLO",
+    "dataset": "SteelDefectX",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": 0.1729024345495223,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLOv8s",
+    "dataset": "SteelDefectX",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": 0.09750890798317947,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLO11s",
+    "dataset": "SteelDefectX",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": 0.13497441757960243,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-Det",
+    "dataset": "NEU-DET",
+    "tau": 0.65,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-YOLO",
+    "dataset": "NEU-DET",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLOv8s",
+    "dataset": "NEU-DET",
+    "tau": 0.45,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLO11s",
+    "dataset": "NEU-DET",
+    "tau": 0.2,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-Det",
+    "dataset": "GC10-DET",
+    "tau": 0.6,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-YOLO",
+    "dataset": "GC10-DET",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": 0.2644619781095291,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLOv8s",
+    "dataset": "GC10-DET",
+    "tau": 0.35,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLO11s",
+    "dataset": "GC10-DET",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-Det",
+    "dataset": "X-SDD",
+    "tau": 0.5,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-YOLO",
+    "dataset": "X-SDD",
+    "tau": 0.2,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "YOLOv8s",
+    "dataset": "X-SDD",
+    "tau": 0.15,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "grey"
+  },
+  {
+    "model": "YOLO11s",
+    "dataset": "X-SDD",
+    "tau": 0.25,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "grey"
+  }
+]

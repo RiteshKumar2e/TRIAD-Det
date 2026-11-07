@@ -1,0 +1,34 @@
+[
+  {
+    "model": "TRIAD-Det",
+    "dataset": "SteelDefectX",
+    "tau": 0.65,
+    "score_any": "stats",
+    "headline_threshold": 0.16783065208844314,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-Det",
+    "dataset": "NEU-DET",
+    "tau": 0.65,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-Det",
+    "dataset": "GC10-DET",
+    "tau": 0.55,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  },
+  {
+    "model": "TRIAD-Det",
+    "dataset": "X-SDD",
+    "tau": 0.55,
+    "score_any": "stats",
+    "headline_threshold": null,
+    "score_fraction": "stats"
+  }
+]

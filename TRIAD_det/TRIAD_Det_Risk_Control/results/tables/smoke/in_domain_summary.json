@@ -1,0 +1,64 @@
+[
+  {
+    "model": "TRIAD-Det",
+    "dataset": "NEU-DET",
+    "tau": 0.05,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "conf"
+  },
+  {
+    "model": "TRIAD-YOLO",
+    "dataset": "NEU-DET",
+    "tau": 0.05,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "conf"
+  },
+  {
+    "model": "YOLOv8s",
+    "dataset": "NEU-DET",
+    "tau": 0.9,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "grey"
+  },
+  {
+    "model": "YOLO11s",
+    "dataset": "NEU-DET",
+    "tau": 0.9,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "conf"
+  },
+  {
+    "model": "TRIAD-YOLO",
+    "dataset": "GC10-DET",
+    "tau": 0.05,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "conf"
+  },
+  {
+    "model": "YOLOv8s",
+    "dataset": "GC10-DET",
+    "tau": 0.05,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "conf"
+  },
+  {
+    "model": "YOLO11s",
+    "dataset": "GC10-DET",
+    "tau": 0.05,
+    "score_any": "conf",
+    "headline_threshold": null,
+    "score_fraction": "conf"
+  },
+  {
+    "model": "Classifier",
+    "dataset": "SteelDefectX",
+    "score": "conf",
+    "top1_accuracy": 0.08510638297872342
+  }
+]

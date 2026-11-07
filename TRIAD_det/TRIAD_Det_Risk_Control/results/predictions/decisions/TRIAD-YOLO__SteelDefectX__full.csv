@@ -1,0 +1,1129 @@
+id,path,u,loss_any,decision,reason,n_gt
+SteelDefectX/bs_01,SteelDefectX-DET\IMAGES\Bright scratch\bs_01.jpg,0.9264700376404142,0,MANUAL-REVIEW,uncertainty 0.926 > threshold 0.173; near-threshold box at conf 0.25,1
+SteelDefectX/bs_04,SteelDefectX-DET\IMAGES\Bright scratch\bs_04.jpg,0.3790235442636173,0,MANUAL-REVIEW,uncertainty 0.379 > threshold 0.173,2
+SteelDefectX/bs_09,SteelDefectX-DET\IMAGES\Bright scratch\bs_09.jpg,0.1317623214815807,0,AUTO-ACCEPT,uncertainty 0.132 <= calibrated threshold 0.173,1
+SteelDefectX/bs_103,SteelDefectX-DET\IMAGES\Bright scratch\bs_103.jpg,0.26585253612029885,0,MANUAL-REVIEW,uncertainty 0.266 > threshold 0.173,1
+SteelDefectX/bs_113,SteelDefectX-DET\IMAGES\Bright scratch\bs_113.jpg,0.7207864489388982,0,MANUAL-REVIEW,uncertainty 0.721 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/bs_117,SteelDefectX-DET\IMAGES\Bright scratch\bs_117.jpg,0.17699336441759195,0,MANUAL-REVIEW,uncertainty 0.177 > threshold 0.173,1
+SteelDefectX/bs_123,SteelDefectX-DET\IMAGES\Bright scratch\bs_123.jpg,0.8295823135300364,0,MANUAL-REVIEW,uncertainty 0.830 > threshold 0.173; near-threshold box at conf 0.22,2
+SteelDefectX/bs_125,SteelDefectX-DET\IMAGES\Bright scratch\bs_125.jpg,0.7596815322912369,0,MANUAL-REVIEW,uncertainty 0.760 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/bs_133,SteelDefectX-DET\IMAGES\Bright scratch\bs_133.jpg,0.06920325625524874,0,AUTO-ACCEPT,uncertainty 0.069 <= calibrated threshold 0.173,1
+SteelDefectX/bs_137,SteelDefectX-DET\IMAGES\Bright scratch\bs_137.jpg,0.06957782148929437,0,AUTO-ACCEPT,uncertainty 0.070 <= calibrated threshold 0.173,1
+SteelDefectX/bs_145,SteelDefectX-DET\IMAGES\Bright scratch\bs_145.jpg,0.43674229709489304,0,MANUAL-REVIEW,uncertainty 0.437 > threshold 0.173,2
+SteelDefectX/bs_151,SteelDefectX-DET\IMAGES\Bright scratch\bs_151.jpg,0.16903412263225145,0,AUTO-ACCEPT,uncertainty 0.169 <= calibrated threshold 0.173,2
+SteelDefectX/bs_152,SteelDefectX-DET\IMAGES\Bright scratch\bs_152.jpg,0.18361271752680858,0,MANUAL-REVIEW,uncertainty 0.184 > threshold 0.173,2
+SteelDefectX/bs_153,SteelDefectX-DET\IMAGES\Bright scratch\bs_153.jpg,0.8404778751930113,0,MANUAL-REVIEW,uncertainty 0.840 > threshold 0.173; near-threshold box at conf 0.25,4
+SteelDefectX/bs_154,SteelDefectX-DET\IMAGES\Bright scratch\bs_154.jpg,0.3109267572423967,0,MANUAL-REVIEW,uncertainty 0.311 > threshold 0.173,2
+SteelDefectX/bs_163,SteelDefectX-DET\IMAGES\Bright scratch\bs_163.jpg,0.20491888208465384,0,MANUAL-REVIEW,uncertainty 0.205 > threshold 0.173,1
+SteelDefectX/bs_164,SteelDefectX-DET\IMAGES\Bright scratch\bs_164.jpg,0.33633794975883174,0,MANUAL-REVIEW,uncertainty 0.336 > threshold 0.173,3
+SteelDefectX/bs_172,SteelDefectX-DET\IMAGES\Bright scratch\bs_172.jpg,0.07072754098085837,0,AUTO-ACCEPT,uncertainty 0.071 <= calibrated threshold 0.173,1
+SteelDefectX/bs_175,SteelDefectX-DET\IMAGES\Bright scratch\bs_175.jpg,0.19800743632967477,0,MANUAL-REVIEW,uncertainty 0.198 > threshold 0.173,4
+SteelDefectX/bs_182,SteelDefectX-DET\IMAGES\Bright scratch\bs_182.jpg,0.12503534550493403,0,AUTO-ACCEPT,uncertainty 0.125 <= calibrated threshold 0.173,2
+SteelDefectX/bs_187,SteelDefectX-DET\IMAGES\Bright scratch\bs_187.jpg,0.22312310996727192,1,MANUAL-REVIEW,uncertainty 0.223 > threshold 0.173,2
+SteelDefectX/bs_198,SteelDefectX-DET\IMAGES\Bright scratch\bs_198.jpg,0.6916772392819293,1,MANUAL-REVIEW,uncertainty 0.692 > threshold 0.173,4
+SteelDefectX/bs_205,SteelDefectX-DET\IMAGES\Bright scratch\bs_205.jpg,0.5114773198267726,0,MANUAL-REVIEW,uncertainty 0.511 > threshold 0.173,2
+SteelDefectX/bs_213,SteelDefectX-DET\IMAGES\Bright scratch\bs_213.jpg,0.800331897700278,0,MANUAL-REVIEW,uncertainty 0.800 > threshold 0.173; near-threshold box at conf 0.22,3
+SteelDefectX/bs_22,SteelDefectX-DET\IMAGES\Bright scratch\bs_22.jpg,0.08960633799628755,0,AUTO-ACCEPT,uncertainty 0.090 <= calibrated threshold 0.173,1
+SteelDefectX/bs_228,SteelDefectX-DET\IMAGES\Bright scratch\bs_228.jpg,0.6598028938344017,1,MANUAL-REVIEW,uncertainty 0.660 > threshold 0.173; near-threshold box at conf 0.22,2
+SteelDefectX/bs_229,SteelDefectX-DET\IMAGES\Bright scratch\bs_229.jpg,0.376611014183427,1,MANUAL-REVIEW,uncertainty 0.377 > threshold 0.173,2
+SteelDefectX/bs_23,SteelDefectX-DET\IMAGES\Bright scratch\bs_23.jpg,0.3078396659801804,1,MANUAL-REVIEW,uncertainty 0.308 > threshold 0.173,3
+SteelDefectX/bs_266,SteelDefectX-DET\IMAGES\Bright scratch\bs_266.jpg,0.7315316255885034,0,MANUAL-REVIEW,uncertainty 0.732 > threshold 0.173,4
+SteelDefectX/bs_270,SteelDefectX-DET\IMAGES\Bright scratch\bs_270.jpg,0.47321806923483767,0,MANUAL-REVIEW,uncertainty 0.473 > threshold 0.173,2
+SteelDefectX/bs_284,SteelDefectX-DET\IMAGES\Bright scratch\bs_284.jpg,0.7200790456203071,0,MANUAL-REVIEW,uncertainty 0.720 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/bs_294,SteelDefectX-DET\IMAGES\Bright scratch\bs_294.jpg,0.891820561777703,1,MANUAL-REVIEW,uncertainty 0.892 > threshold 0.173; near-threshold box at conf 0.25,5
+SteelDefectX/bs_297,SteelDefectX-DET\IMAGES\Bright scratch\bs_297.jpg,0.7339008090119796,1,MANUAL-REVIEW,uncertainty 0.734 > threshold 0.173; near-threshold box at conf 0.22,4
+SteelDefectX/bs_302,SteelDefectX-DET\IMAGES\Bright scratch\bs_302.jpg,0.4422902667040789,0,MANUAL-REVIEW,uncertainty 0.442 > threshold 0.173,1
+SteelDefectX/bs_304,SteelDefectX-DET\IMAGES\Bright scratch\bs_304.jpg,0.08204670091939516,0,AUTO-ACCEPT,uncertainty 0.082 <= calibrated threshold 0.173,1
+SteelDefectX/bs_307,SteelDefectX-DET\IMAGES\Bright scratch\bs_307.jpg,0.06927260183778632,0,AUTO-ACCEPT,uncertainty 0.069 <= calibrated threshold 0.173,1
+SteelDefectX/bs_310,SteelDefectX-DET\IMAGES\Bright scratch\bs_310.jpg,0.10064059466050258,0,AUTO-ACCEPT,uncertainty 0.101 <= calibrated threshold 0.173,1
+SteelDefectX/bs_314,SteelDefectX-DET\IMAGES\Bright scratch\bs_314.jpg,0.6998605759032458,0,MANUAL-REVIEW,uncertainty 0.700 > threshold 0.173,3
+SteelDefectX/bs_319,SteelDefectX-DET\IMAGES\Bright scratch\bs_319.jpg,0.2579710151434087,1,MANUAL-REVIEW,uncertainty 0.258 > threshold 0.173,6
+SteelDefectX/bs_32,SteelDefectX-DET\IMAGES\Bright scratch\bs_32.jpg,0.44121330011473076,0,MANUAL-REVIEW,uncertainty 0.441 > threshold 0.173,2
+SteelDefectX/bs_330,SteelDefectX-DET\IMAGES\Bright scratch\bs_330.jpg,0.3359358410001224,0,MANUAL-REVIEW,uncertainty 0.336 > threshold 0.173,3
+SteelDefectX/bs_333,SteelDefectX-DET\IMAGES\Bright scratch\bs_333.jpg,0.4245672154030144,1,MANUAL-REVIEW,uncertainty 0.425 > threshold 0.173,2
+SteelDefectX/bs_337,SteelDefectX-DET\IMAGES\Bright scratch\bs_337.jpg,0.2548775920810891,1,MANUAL-REVIEW,uncertainty 0.255 > threshold 0.173,2
+SteelDefectX/bs_341,SteelDefectX-DET\IMAGES\Bright scratch\bs_341.jpg,0.1844404287053296,0,MANUAL-REVIEW,uncertainty 0.184 > threshold 0.173,4
+SteelDefectX/bs_343,SteelDefectX-DET\IMAGES\Bright scratch\bs_343.jpg,0.45673388502602846,0,MANUAL-REVIEW,uncertainty 0.457 > threshold 0.173,1
+SteelDefectX/bs_357,SteelDefectX-DET\IMAGES\Bright scratch\bs_357.jpg,0.46589651743098903,1,MANUAL-REVIEW,uncertainty 0.466 > threshold 0.173,1
+SteelDefectX/bs_364,SteelDefectX-DET\IMAGES\Bright scratch\bs_364.jpg,0.13640220165605024,0,AUTO-ACCEPT,uncertainty 0.136 <= calibrated threshold 0.173,1
+SteelDefectX/bs_367,SteelDefectX-DET\IMAGES\Bright scratch\bs_367.jpg,0.07818109072443508,0,AUTO-ACCEPT,uncertainty 0.078 <= calibrated threshold 0.173,1
+SteelDefectX/bs_368,SteelDefectX-DET\IMAGES\Bright scratch\bs_368.jpg,0.1215073056220001,0,AUTO-ACCEPT,uncertainty 0.122 <= calibrated threshold 0.173,1
+SteelDefectX/bs_37,SteelDefectX-DET\IMAGES\Bright scratch\bs_37.jpg,0.5200690283355925,1,MANUAL-REVIEW,uncertainty 0.520 > threshold 0.173,3
+SteelDefectX/bs_371,SteelDefectX-DET\IMAGES\Bright scratch\bs_371.jpg,0.09057696466948706,0,AUTO-ACCEPT,uncertainty 0.091 <= calibrated threshold 0.173,1
+SteelDefectX/bs_377,SteelDefectX-DET\IMAGES\Bright scratch\bs_377.jpg,0.06797544531519385,0,AUTO-ACCEPT,uncertainty 0.068 <= calibrated threshold 0.173,1
+SteelDefectX/bs_399,SteelDefectX-DET\IMAGES\Bright scratch\bs_399.jpg,0.8505488693084783,0,MANUAL-REVIEW,uncertainty 0.851 > threshold 0.173,1
+SteelDefectX/bs_409,SteelDefectX-DET\IMAGES\Bright scratch\bs_409.jpg,0.7688976338467449,0,MANUAL-REVIEW,uncertainty 0.769 > threshold 0.173; near-threshold box at conf 0.21,1
+SteelDefectX/bs_415,SteelDefectX-DET\IMAGES\Bright scratch\bs_415.jpg,0.3458784222035585,0,MANUAL-REVIEW,uncertainty 0.346 > threshold 0.173,2
+SteelDefectX/bs_418,SteelDefectX-DET\IMAGES\Bright scratch\bs_418.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/bs_428,SteelDefectX-DET\IMAGES\Bright scratch\bs_428.jpg,0.10128786060049196,0,AUTO-ACCEPT,uncertainty 0.101 <= calibrated threshold 0.173,1
+SteelDefectX/bs_44,SteelDefectX-DET\IMAGES\Bright scratch\bs_44.jpg,0.7887514016199558,1,MANUAL-REVIEW,uncertainty 0.789 > threshold 0.173,3
+SteelDefectX/bs_55,SteelDefectX-DET\IMAGES\Bright scratch\bs_55.jpg,0.0713350619068828,0,AUTO-ACCEPT,uncertainty 0.071 <= calibrated threshold 0.173,1
+SteelDefectX/bs_58,SteelDefectX-DET\IMAGES\Bright scratch\bs_58.jpg,0.5435857569024003,1,MANUAL-REVIEW,uncertainty 0.544 > threshold 0.173,2
+SteelDefectX/bs_69,SteelDefectX-DET\IMAGES\Bright scratch\bs_69.jpg,0.7865852285738802,1,MANUAL-REVIEW,uncertainty 0.787 > threshold 0.173; near-threshold box at conf 0.25,5
+SteelDefectX/bs_75,SteelDefectX-DET\IMAGES\Bright scratch\bs_75.jpg,0.5910042386619494,0,MANUAL-REVIEW,uncertainty 0.591 > threshold 0.173,4
+SteelDefectX/bs_83,SteelDefectX-DET\IMAGES\Bright scratch\bs_83.jpg,0.29392820578049916,0,MANUAL-REVIEW,uncertainty 0.294 > threshold 0.173,2
+SteelDefectX/bs_84,SteelDefectX-DET\IMAGES\Bright scratch\bs_84.jpg,0.6269747759832943,0,MANUAL-REVIEW,uncertainty 0.627 > threshold 0.173; near-threshold box at conf 0.20,3
+SteelDefectX/cracking_03,SteelDefectX-DET\IMAGES\Crazing\cracking_03.jpg,0.9112188464999539,1,MANUAL-REVIEW,uncertainty 0.911 > threshold 0.173; near-threshold box at conf 0.23,9
+SteelDefectX/cracking_04,SteelDefectX-DET\IMAGES\Crazing\cracking_04.jpg,0.7841585235794157,1,MANUAL-REVIEW,uncertainty 0.784 > threshold 0.173; near-threshold box at conf 0.21,6
+SteelDefectX/cracking_05,SteelDefectX-DET\IMAGES\Crazing\cracking_05.jpg,0.9891168237533589,1,MANUAL-REVIEW,uncertainty 0.989 > threshold 0.173; near-threshold box at conf 0.20,4
+SteelDefectX/cracking_10,SteelDefectX-DET\IMAGES\Crazing\cracking_10.jpg,0.9231368532255219,1,MANUAL-REVIEW,uncertainty 0.923 > threshold 0.173,8
+SteelDefectX/cracking_104,SteelDefectX-DET\IMAGES\Crazing\cracking_104.jpg,0.9466099388383686,1,MANUAL-REVIEW,uncertainty 0.947 > threshold 0.173; near-threshold box at conf 0.21,6
+SteelDefectX/cracking_105,SteelDefectX-DET\IMAGES\Crazing\cracking_105.jpg,0.9665880501372183,1,MANUAL-REVIEW,uncertainty 0.967 > threshold 0.173; near-threshold box at conf 0.23,10
+SteelDefectX/cracking_107,SteelDefectX-DET\IMAGES\Crazing\cracking_107.jpg,0.9598533370821687,1,MANUAL-REVIEW,uncertainty 0.960 > threshold 0.173; near-threshold box at conf 0.24,9
+SteelDefectX/cracking_109,SteelDefectX-DET\IMAGES\Crazing\cracking_109.jpg,0.9730599630572627,1,MANUAL-REVIEW,uncertainty 0.973 > threshold 0.173,7
+SteelDefectX/cracking_111,SteelDefectX-DET\IMAGES\Crazing\cracking_111.jpg,0.9730208382880874,1,MANUAL-REVIEW,uncertainty 0.973 > threshold 0.173,10
+SteelDefectX/cracking_13,SteelDefectX-DET\IMAGES\Crazing\cracking_13.jpg,0.5302571234969716,1,MANUAL-REVIEW,uncertainty 0.530 > threshold 0.173,5
+SteelDefectX/cracking_132,SteelDefectX-DET\IMAGES\Crazing\cracking_132.jpg,0.8820108623612873,1,MANUAL-REVIEW,uncertainty 0.882 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/cracking_137,SteelDefectX-DET\IMAGES\Crazing\cracking_137.jpg,0.9793835835967707,1,MANUAL-REVIEW,uncertainty 0.979 > threshold 0.173; near-threshold box at conf 0.22,6
+SteelDefectX/cracking_152,SteelDefectX-DET\IMAGES\Crazing\cracking_152.jpg,0.9566005980972799,1,MANUAL-REVIEW,uncertainty 0.957 > threshold 0.173; near-threshold box at conf 0.21,10
+SteelDefectX/cracking_156,SteelDefectX-DET\IMAGES\Crazing\cracking_156.jpg,0.9632306582697441,0,MANUAL-REVIEW,uncertainty 0.963 > threshold 0.173,1
+SteelDefectX/cracking_160,SteelDefectX-DET\IMAGES\Crazing\cracking_160.jpg,0.9671675227037472,1,MANUAL-REVIEW,uncertainty 0.967 > threshold 0.173,8
+SteelDefectX/cracking_166,SteelDefectX-DET\IMAGES\Crazing\cracking_166.jpg,0.9798957177835348,1,MANUAL-REVIEW,uncertainty 0.980 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/cracking_167,SteelDefectX-DET\IMAGES\Crazing\cracking_167.jpg,0.9543727280105261,1,MANUAL-REVIEW,uncertainty 0.954 > threshold 0.173; near-threshold box at conf 0.23,9
+SteelDefectX/cracking_169,SteelDefectX-DET\IMAGES\Crazing\cracking_169.jpg,0.9722743423070669,1,MANUAL-REVIEW,uncertainty 0.972 > threshold 0.173,5
+SteelDefectX/cracking_172,SteelDefectX-DET\IMAGES\Crazing\cracking_172.jpg,0.8711327929239895,1,MANUAL-REVIEW,uncertainty 0.871 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/cracking_177,SteelDefectX-DET\IMAGES\Crazing\cracking_177.jpg,0.9274517678674276,1,MANUAL-REVIEW,uncertainty 0.927 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/cracking_18,SteelDefectX-DET\IMAGES\Crazing\cracking_18.jpg,0.8575552100103785,1,MANUAL-REVIEW,uncertainty 0.858 > threshold 0.173; near-threshold box at conf 0.24,5
+SteelDefectX/cracking_182,SteelDefectX-DET\IMAGES\Crazing\cracking_182.jpg,0.9420124627167211,1,MANUAL-REVIEW,uncertainty 0.942 > threshold 0.173,5
+SteelDefectX/cracking_198,SteelDefectX-DET\IMAGES\Crazing\cracking_198.jpg,0.8897317508866256,1,MANUAL-REVIEW,uncertainty 0.890 > threshold 0.173,5
+SteelDefectX/cracking_21,SteelDefectX-DET\IMAGES\Crazing\cracking_21.jpg,0.6463986520270261,1,MANUAL-REVIEW,uncertainty 0.646 > threshold 0.173,6
+SteelDefectX/cracking_227,SteelDefectX-DET\IMAGES\Crazing\cracking_227.jpg,0.9825944749069633,1,MANUAL-REVIEW,uncertainty 0.983 > threshold 0.173; near-threshold box at conf 0.24,7
+SteelDefectX/cracking_228,SteelDefectX-DET\IMAGES\Crazing\cracking_228.jpg,0.6387508316371094,1,MANUAL-REVIEW,uncertainty 0.639 > threshold 0.173,7
+SteelDefectX/cracking_232,SteelDefectX-DET\IMAGES\Crazing\cracking_232.jpg,0.8341283218695298,1,MANUAL-REVIEW,uncertainty 0.834 > threshold 0.173,6
+SteelDefectX/cracking_233,SteelDefectX-DET\IMAGES\Crazing\cracking_233.jpg,0.936996437322934,1,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.173,8
+SteelDefectX/cracking_243,SteelDefectX-DET\IMAGES\Crazing\cracking_243.jpg,0.9717960571874954,1,MANUAL-REVIEW,uncertainty 0.972 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/cracking_247,SteelDefectX-DET\IMAGES\Crazing\cracking_247.jpg,0.9622405105504956,1,MANUAL-REVIEW,uncertainty 0.962 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/cracking_282,SteelDefectX-DET\IMAGES\Crazing\cracking_282.jpg,0.8429198535288381,1,MANUAL-REVIEW,uncertainty 0.843 > threshold 0.173,5
+SteelDefectX/cracking_29,SteelDefectX-DET\IMAGES\Crazing\cracking_29.jpg,0.9586045511075763,1,MANUAL-REVIEW,uncertainty 0.959 > threshold 0.173; near-threshold box at conf 0.20,8
+SteelDefectX/cracking_291,SteelDefectX-DET\IMAGES\Crazing\cracking_291.jpg,0.8118126340485421,1,MANUAL-REVIEW,uncertainty 0.812 > threshold 0.173,10
+SteelDefectX/cracking_299,SteelDefectX-DET\IMAGES\Crazing\cracking_299.jpg,0.9901034250749353,1,MANUAL-REVIEW,uncertainty 0.990 > threshold 0.173,4
+SteelDefectX/cracking_53,SteelDefectX-DET\IMAGES\Crazing\cracking_53.jpg,0.9366634358141501,1,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.173; near-threshold box at conf 0.21,8
+SteelDefectX/cracking_56,SteelDefectX-DET\IMAGES\Crazing\cracking_56.jpg,0.9020210119306415,1,MANUAL-REVIEW,uncertainty 0.902 > threshold 0.173,4
+SteelDefectX/cracking_58,SteelDefectX-DET\IMAGES\Crazing\cracking_58.jpg,0.9735051061273344,1,MANUAL-REVIEW,uncertainty 0.974 > threshold 0.173; near-threshold box at conf 0.21,3
+SteelDefectX/cracking_61,SteelDefectX-DET\IMAGES\Crazing\cracking_61.jpg,0.9127016398907133,1,MANUAL-REVIEW,uncertainty 0.913 > threshold 0.173; near-threshold box at conf 0.25,2
+SteelDefectX/cracking_62,SteelDefectX-DET\IMAGES\Crazing\cracking_62.jpg,0.9513047726246451,1,MANUAL-REVIEW,uncertainty 0.951 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/cracking_65,SteelDefectX-DET\IMAGES\Crazing\cracking_65.jpg,0.9416573085484957,1,MANUAL-REVIEW,uncertainty 0.942 > threshold 0.173,4
+SteelDefectX/cracking_68,SteelDefectX-DET\IMAGES\Crazing\cracking_68.jpg,0.9377185577226972,1,MANUAL-REVIEW,uncertainty 0.938 > threshold 0.173; near-threshold box at conf 0.22,7
+SteelDefectX/cracking_72,SteelDefectX-DET\IMAGES\Crazing\cracking_72.jpg,0.8345514521860903,1,MANUAL-REVIEW,uncertainty 0.835 > threshold 0.173,5
+SteelDefectX/cracking_74,SteelDefectX-DET\IMAGES\Crazing\cracking_74.jpg,0.8691960404054689,1,MANUAL-REVIEW,uncertainty 0.869 > threshold 0.173,10
+SteelDefectX/cracking_78,SteelDefectX-DET\IMAGES\Crazing\cracking_78.jpg,0.6545845267950917,1,MANUAL-REVIEW,uncertainty 0.655 > threshold 0.173,10
+SteelDefectX/cracking_86,SteelDefectX-DET\IMAGES\Crazing\cracking_86.jpg,0.9381798618069253,1,MANUAL-REVIEW,uncertainty 0.938 > threshold 0.173,10
+SteelDefectX/crease_21,SteelDefectX-DET\IMAGES\Crease\crease_21.jpg,0.8640794604069564,1,MANUAL-REVIEW,uncertainty 0.864 > threshold 0.173; near-threshold box at conf 0.20,5
+SteelDefectX/crease_28,SteelDefectX-DET\IMAGES\Crease\crease_28.jpg,0.3714709243700707,0,MANUAL-REVIEW,uncertainty 0.371 > threshold 0.173,1
+SteelDefectX/crease_29,SteelDefectX-DET\IMAGES\Crease\crease_29.jpg,0.6857028980497599,1,MANUAL-REVIEW,uncertainty 0.686 > threshold 0.173; near-threshold box at conf 0.24,3
+SteelDefectX/crease_30,SteelDefectX-DET\IMAGES\Crease\crease_30.jpg,0.7953214275690607,1,MANUAL-REVIEW,uncertainty 0.795 > threshold 0.173,5
+SteelDefectX/crease_35,SteelDefectX-DET\IMAGES\Crease\crease_35.jpg,0.8566181528172214,1,MANUAL-REVIEW,uncertainty 0.857 > threshold 0.173; near-threshold box at conf 0.24,2
+SteelDefectX/crease_40,SteelDefectX-DET\IMAGES\Crease\crease_40.jpg,0.5951283290871574,1,MANUAL-REVIEW,uncertainty 0.595 > threshold 0.173,2
+SteelDefectX/crease_41,SteelDefectX-DET\IMAGES\Crease\crease_41.jpg,0.6182801133473894,0,MANUAL-REVIEW,uncertainty 0.618 > threshold 0.173; near-threshold box at conf 0.22,1
+SteelDefectX/crease_46,SteelDefectX-DET\IMAGES\Crease\crease_46.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+SteelDefectX/crease_50,SteelDefectX-DET\IMAGES\Crease\crease_50.jpg,0.90315919538626,1,MANUAL-REVIEW,uncertainty 0.903 > threshold 0.173,2
+SteelDefectX/crease_70,SteelDefectX-DET\IMAGES\Crease\crease_70.jpg,0.9201626585993564,0,MANUAL-REVIEW,uncertainty 0.920 > threshold 0.173,2
+SteelDefectX/crease_71,SteelDefectX-DET\IMAGES\Crease\crease_71.jpg,0.789204414688138,0,MANUAL-REVIEW,uncertainty 0.789 > threshold 0.173; near-threshold box at conf 0.25,1
+SteelDefectX/cg_04,SteelDefectX-DET\IMAGES\Crescent gap\cg_04.jpg,0.12989073760398975,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,1
+SteelDefectX/cg_05,SteelDefectX-DET\IMAGES\Crescent gap\cg_05.jpg,0.09756207482644254,0,AUTO-ACCEPT,uncertainty 0.098 <= calibrated threshold 0.173,1
+SteelDefectX/cg_07,SteelDefectX-DET\IMAGES\Crescent gap\cg_07.jpg,0.10965091570048027,0,AUTO-ACCEPT,uncertainty 0.110 <= calibrated threshold 0.173,1
+SteelDefectX/cg_08,SteelDefectX-DET\IMAGES\Crescent gap\cg_08.jpg,0.12476880150327903,0,AUTO-ACCEPT,uncertainty 0.125 <= calibrated threshold 0.173,1
+SteelDefectX/cg_09,SteelDefectX-DET\IMAGES\Crescent gap\cg_09.jpg,0.12179217140895145,0,AUTO-ACCEPT,uncertainty 0.122 <= calibrated threshold 0.173,1
+SteelDefectX/cg_135,SteelDefectX-DET\IMAGES\Crescent gap\cg_135.jpg,0.5766603309810013,0,MANUAL-REVIEW,uncertainty 0.577 > threshold 0.173,1
+SteelDefectX/cg_14,SteelDefectX-DET\IMAGES\Crescent gap\cg_14.jpg,0.14005509835966062,0,AUTO-ACCEPT,uncertainty 0.140 <= calibrated threshold 0.173,1
+SteelDefectX/cg_165,SteelDefectX-DET\IMAGES\Crescent gap\cg_165.jpg,0.1498904893681646,0,AUTO-ACCEPT,uncertainty 0.150 <= calibrated threshold 0.173,1
+SteelDefectX/cg_166,SteelDefectX-DET\IMAGES\Crescent gap\cg_166.jpg,0.08818202902583282,0,AUTO-ACCEPT,uncertainty 0.088 <= calibrated threshold 0.173,1
+SteelDefectX/cg_211,SteelDefectX-DET\IMAGES\Crescent gap\cg_211.jpg,0.11009161806343687,0,AUTO-ACCEPT,uncertainty 0.110 <= calibrated threshold 0.173,1
+SteelDefectX/cg_24,SteelDefectX-DET\IMAGES\Crescent gap\cg_24.jpg,0.12381005498958671,0,AUTO-ACCEPT,uncertainty 0.124 <= calibrated threshold 0.173,1
+SteelDefectX/cg_241,SteelDefectX-DET\IMAGES\Crescent gap\cg_241.jpg,0.05743143760688555,0,AUTO-ACCEPT,uncertainty 0.057 <= calibrated threshold 0.173,1
+SteelDefectX/cg_25,SteelDefectX-DET\IMAGES\Crescent gap\cg_25.jpg,0.4278584858156726,0,MANUAL-REVIEW,uncertainty 0.428 > threshold 0.173,1
+SteelDefectX/cg_27,SteelDefectX-DET\IMAGES\Crescent gap\cg_27.jpg,0.11026901798174124,0,AUTO-ACCEPT,uncertainty 0.110 <= calibrated threshold 0.173,1
+SteelDefectX/cg_31,SteelDefectX-DET\IMAGES\Crescent gap\cg_31.jpg,0.185190301961162,0,MANUAL-REVIEW,uncertainty 0.185 > threshold 0.173,1
+SteelDefectX/cg_32,SteelDefectX-DET\IMAGES\Crescent gap\cg_32.jpg,0.11459517431611177,0,AUTO-ACCEPT,uncertainty 0.115 <= calibrated threshold 0.173,1
+SteelDefectX/cg_41,SteelDefectX-DET\IMAGES\Crescent gap\cg_41.jpg,0.18072302424176384,0,MANUAL-REVIEW,uncertainty 0.181 > threshold 0.173,1
+SteelDefectX/cg_49,SteelDefectX-DET\IMAGES\Crescent gap\cg_49.jpg,0.11056743773248325,0,AUTO-ACCEPT,uncertainty 0.111 <= calibrated threshold 0.173,1
+SteelDefectX/cg_51,SteelDefectX-DET\IMAGES\Crescent gap\cg_51.jpg,0.3552870771965932,0,MANUAL-REVIEW,uncertainty 0.355 > threshold 0.173,1
+SteelDefectX/cg_52,SteelDefectX-DET\IMAGES\Crescent gap\cg_52.jpg,0.4471743725190788,0,MANUAL-REVIEW,uncertainty 0.447 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/cg_70,SteelDefectX-DET\IMAGES\Crescent gap\cg_70.jpg,0.07662117072617726,0,AUTO-ACCEPT,uncertainty 0.077 <= calibrated threshold 0.173,1
+SteelDefectX/cg_81,SteelDefectX-DET\IMAGES\Crescent gap\cg_81.jpg,0.057519421799229684,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/cg_94,SteelDefectX-DET\IMAGES\Crescent gap\cg_94.jpg,0.06355412406780474,0,AUTO-ACCEPT,uncertainty 0.064 <= calibrated threshold 0.173,1
+SteelDefectX/frp_101,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_101.jpg,0.8406230977966985,1,MANUAL-REVIEW,uncertainty 0.841 > threshold 0.173,1
+SteelDefectX/frp_110,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_110.jpg,0.4416945895504413,1,MANUAL-REVIEW,uncertainty 0.442 > threshold 0.173,2
+SteelDefectX/frp_111,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_111.jpg,0.5012556836361347,0,MANUAL-REVIEW,uncertainty 0.501 > threshold 0.173,1
+SteelDefectX/frp_112,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_112.jpg,0.3091479280992982,1,MANUAL-REVIEW,uncertainty 0.309 > threshold 0.173,2
+SteelDefectX/frp_130,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_130.jpg,0.858339702825118,1,MANUAL-REVIEW,uncertainty 0.858 > threshold 0.173; near-threshold box at conf 0.25,6
+SteelDefectX/frp_134,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_134.jpg,0.7169611652703446,0,MANUAL-REVIEW,uncertainty 0.717 > threshold 0.173,1
+SteelDefectX/frp_136,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_136.jpg,0.22473895589417658,0,MANUAL-REVIEW,uncertainty 0.225 > threshold 0.173,1
+SteelDefectX/frp_146,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_146.jpg,0.24329621722794628,0,MANUAL-REVIEW,uncertainty 0.243 > threshold 0.173,2
+SteelDefectX/frp_165,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_165.jpg,0.7235733460460534,0,MANUAL-REVIEW,uncertainty 0.724 > threshold 0.173,1
+SteelDefectX/frp_167,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_167.jpg,0.5808509131311386,1,MANUAL-REVIEW,uncertainty 0.581 > threshold 0.173,4
+SteelDefectX/frp_173,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_173.jpg,0.7188203640411549,0,MANUAL-REVIEW,uncertainty 0.719 > threshold 0.173,3
+SteelDefectX/frp_183,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_183.jpg,0.5304052751815246,1,MANUAL-REVIEW,uncertainty 0.530 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/frp_185,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_185.jpg,0.7273427328778762,0,MANUAL-REVIEW,uncertainty 0.727 > threshold 0.173,1
+SteelDefectX/frp_193,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_193.jpg,0.13866251399916119,1,AUTO-ACCEPT,uncertainty 0.139 <= calibrated threshold 0.173,2
+SteelDefectX/frp_199,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_199.jpg,0.2605303554473056,0,MANUAL-REVIEW,uncertainty 0.261 > threshold 0.173,1
+SteelDefectX/frp_203,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_203.jpg,0.40141517371647956,1,MANUAL-REVIEW,uncertainty 0.401 > threshold 0.173,3
+SteelDefectX/frp_22,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_22.jpg,0.8865907662916502,1,MANUAL-REVIEW,uncertainty 0.887 > threshold 0.173; near-threshold box at conf 0.25,7
+SteelDefectX/frp_28,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_28.jpg,0.6870658367567531,1,MANUAL-REVIEW,uncertainty 0.687 > threshold 0.173,4
+SteelDefectX/frp_35,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_35.jpg,0.08251217873737154,1,AUTO-ACCEPT,uncertainty 0.083 <= calibrated threshold 0.173,2
+SteelDefectX/frp_48,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_48.jpg,0.1763595680010996,0,MANUAL-REVIEW,uncertainty 0.176 > threshold 0.173,1
+SteelDefectX/frp_55,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_55.jpg,0.4978381242771362,0,MANUAL-REVIEW,uncertainty 0.498 > threshold 0.173,1
+SteelDefectX/frp_62,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_62.jpg,0.7657408110070615,1,MANUAL-REVIEW,uncertainty 0.766 > threshold 0.173,2
+SteelDefectX/frp_63,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_63.jpg,0.46111405260700783,1,MANUAL-REVIEW,uncertainty 0.461 > threshold 0.173,2
+SteelDefectX/frp_72,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_72.jpg,0.6973126798540071,1,MANUAL-REVIEW,uncertainty 0.697 > threshold 0.173; near-threshold box at conf 0.21,2
+SteelDefectX/frp_73,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_73.jpg,0.5347170862530904,0,MANUAL-REVIEW,uncertainty 0.535 > threshold 0.173,2
+SteelDefectX/frp_75,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_75.jpg,0.3870689559306698,0,MANUAL-REVIEW,uncertainty 0.387 > threshold 0.173,1
+SteelDefectX/frp_81,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_81.jpg,0.17394633565245182,0,MANUAL-REVIEW,uncertainty 0.174 > threshold 0.173,1
+SteelDefectX/frp_89,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_89.jpg,0.783233275436737,0,MANUAL-REVIEW,uncertainty 0.783 > threshold 0.173,1
+SteelDefectX/frp_93,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_93.jpg,0.2919775349603637,0,MANUAL-REVIEW,uncertainty 0.292 > threshold 0.173,1
+SteelDefectX/frp_96,SteelDefectX-DET\IMAGES\Finishing roll printing\frp_96.jpg,0.38983528816836666,0,MANUAL-REVIEW,uncertainty 0.390 > threshold 0.173,1
+SteelDefectX/in_03,SteelDefectX-DET\IMAGES\Inclusion\in_03.jpg,0.5428877491337557,1,MANUAL-REVIEW,uncertainty 0.543 > threshold 0.173,5
+SteelDefectX/in_08,SteelDefectX-DET\IMAGES\Inclusion\in_08.jpg,0.6416410877137046,0,MANUAL-REVIEW,uncertainty 0.642 > threshold 0.173,1
+SteelDefectX/in_111,SteelDefectX-DET\IMAGES\Inclusion\in_111.jpg,0.755131239631881,1,MANUAL-REVIEW,uncertainty 0.755 > threshold 0.173,6
+SteelDefectX/in_113,SteelDefectX-DET\IMAGES\Inclusion\in_113.jpg,0.5975312575497316,0,MANUAL-REVIEW,uncertainty 0.598 > threshold 0.173,7
+SteelDefectX/in_137,SteelDefectX-DET\IMAGES\Inclusion\in_137.jpg,0.478724681115997,0,MANUAL-REVIEW,uncertainty 0.479 > threshold 0.173,3
+SteelDefectX/in_168,SteelDefectX-DET\IMAGES\Inclusion\in_168.jpg,0.8598674689162391,1,MANUAL-REVIEW,uncertainty 0.860 > threshold 0.173,4
+SteelDefectX/in_170,SteelDefectX-DET\IMAGES\Inclusion\in_170.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,3
+SteelDefectX/in_206,SteelDefectX-DET\IMAGES\Inclusion\in_206.jpg,0.8150043941721082,1,MANUAL-REVIEW,uncertainty 0.815 > threshold 0.173; near-threshold box at conf 0.21,3
+SteelDefectX/in_21,SteelDefectX-DET\IMAGES\Inclusion\in_21.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,5
+SteelDefectX/in_22,SteelDefectX-DET\IMAGES\Inclusion\in_22.jpg,0.4108751325140695,0,MANUAL-REVIEW,uncertainty 0.411 > threshold 0.173,1
+SteelDefectX/in_222,SteelDefectX-DET\IMAGES\Inclusion\in_222.jpg,0.13021731328463862,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,1
+SteelDefectX/in_234,SteelDefectX-DET\IMAGES\Inclusion\in_234.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/in_24,SteelDefectX-DET\IMAGES\Inclusion\in_24.jpg,0.8666491596071029,1,MANUAL-REVIEW,uncertainty 0.867 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/in_246,SteelDefectX-DET\IMAGES\Inclusion\in_246.jpg,0.18533264587136036,0,MANUAL-REVIEW,uncertainty 0.185 > threshold 0.173,1
+SteelDefectX/in_252,SteelDefectX-DET\IMAGES\Inclusion\in_252.jpg,0.8629309124067543,1,MANUAL-REVIEW,uncertainty 0.863 > threshold 0.173,9
+SteelDefectX/in_28,SteelDefectX-DET\IMAGES\Inclusion\in_28.jpg,0.6911319672079207,1,MANUAL-REVIEW,uncertainty 0.691 > threshold 0.173,3
+SteelDefectX/in_291,SteelDefectX-DET\IMAGES\Inclusion\in_291.jpg,0.2826698858939421,0,MANUAL-REVIEW,uncertainty 0.283 > threshold 0.173,4
+SteelDefectX/in_320,SteelDefectX-DET\IMAGES\Inclusion\in_320.jpg,0.7468430793564949,1,MANUAL-REVIEW,uncertainty 0.747 > threshold 0.173,5
+SteelDefectX/in_392,SteelDefectX-DET\IMAGES\Inclusion\in_392.jpg,0.8439512444915008,0,MANUAL-REVIEW,uncertainty 0.844 > threshold 0.173; near-threshold box at conf 0.23,5
+SteelDefectX/in_393,SteelDefectX-DET\IMAGES\Inclusion\in_393.jpg,0.7864821513341232,1,MANUAL-REVIEW,uncertainty 0.786 > threshold 0.173,6
+SteelDefectX/in_401,SteelDefectX-DET\IMAGES\Inclusion\in_401.jpg,0.751687580883851,1,MANUAL-REVIEW,uncertainty 0.752 > threshold 0.173; near-threshold box at conf 0.22,4
+SteelDefectX/in_402,SteelDefectX-DET\IMAGES\Inclusion\in_402.jpg,0.8995123113451914,1,MANUAL-REVIEW,uncertainty 0.900 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/in_408,SteelDefectX-DET\IMAGES\Inclusion\in_408.jpg,0.7891707022655302,1,MANUAL-REVIEW,uncertainty 0.789 > threshold 0.173,5
+SteelDefectX/in_466,SteelDefectX-DET\IMAGES\Inclusion\in_466.jpg,0.8298613319093352,1,MANUAL-REVIEW,uncertainty 0.830 > threshold 0.173,8
+SteelDefectX/in_472,SteelDefectX-DET\IMAGES\Inclusion\in_472.jpg,0.6760608818039829,1,MANUAL-REVIEW,uncertainty 0.676 > threshold 0.173; near-threshold box at conf 0.24,2
+SteelDefectX/in_65,SteelDefectX-DET\IMAGES\Inclusion\in_65.jpg,0.07737252689493083,0,AUTO-ACCEPT,uncertainty 0.077 <= calibrated threshold 0.173,1
+SteelDefectX/in_97,SteelDefectX-DET\IMAGES\Inclusion\in_97.jpg,0.14559249626014725,0,AUTO-ACCEPT,uncertainty 0.146 <= calibrated threshold 0.173,2
+SteelDefectX/Isc_02,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_02.jpg,0.4147113276720377,1,MANUAL-REVIEW,uncertainty 0.415 > threshold 0.173,9
+SteelDefectX/Isc_108,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_108.jpg,0.2747092814820859,1,MANUAL-REVIEW,uncertainty 0.275 > threshold 0.173,5
+SteelDefectX/Isc_115,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_115.jpg,0.98405720315852,1,MANUAL-REVIEW,uncertainty 0.984 > threshold 0.173; near-threshold box at conf 0.25,8
+SteelDefectX/Isc_118,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_118.jpg,0.5030237520288038,0,MANUAL-REVIEW,uncertainty 0.503 > threshold 0.173,6
+SteelDefectX/Isc_120,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_120.jpg,0.9091392690367547,1,MANUAL-REVIEW,uncertainty 0.909 > threshold 0.173,8
+SteelDefectX/Isc_122,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_122.jpg,0.21170914737547739,0,MANUAL-REVIEW,uncertainty 0.212 > threshold 0.173,2
+SteelDefectX/Isc_128,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_128.jpg,0.8020724090244362,1,MANUAL-REVIEW,uncertainty 0.802 > threshold 0.173; near-threshold box at conf 0.22,6
+SteelDefectX/Isc_135,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_135.jpg,0.07237901783278443,0,AUTO-ACCEPT,uncertainty 0.072 <= calibrated threshold 0.173,1
+SteelDefectX/Isc_137,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_137.jpg,0.24237162281486269,0,MANUAL-REVIEW,uncertainty 0.242 > threshold 0.173,1
+SteelDefectX/Isc_144,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_144.jpg,0.4824123575862008,1,MANUAL-REVIEW,uncertainty 0.482 > threshold 0.173; near-threshold box at conf 0.24,4
+SteelDefectX/Isc_149,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_149.jpg,0.08820204574299778,1,AUTO-ACCEPT,uncertainty 0.088 <= calibrated threshold 0.173,3
+SteelDefectX/Isc_163,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_163.jpg,0.06480473981278422,0,AUTO-ACCEPT,uncertainty 0.065 <= calibrated threshold 0.173,1
+SteelDefectX/Isc_177,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_177.jpg,0.1293210118486126,0,AUTO-ACCEPT,uncertainty 0.129 <= calibrated threshold 0.173,2
+SteelDefectX/Isc_178,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_178.jpg,0.7536915981860742,0,MANUAL-REVIEW,uncertainty 0.754 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/Isc_181,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_181.jpg,0.15592757326528517,0,AUTO-ACCEPT,uncertainty 0.156 <= calibrated threshold 0.173,3
+SteelDefectX/Isc_196,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_196.jpg,0.8369677185702706,1,MANUAL-REVIEW,uncertainty 0.837 > threshold 0.173,9
+SteelDefectX/Isc_199,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_199.jpg,0.35365600031637023,0,MANUAL-REVIEW,uncertainty 0.354 > threshold 0.173,3
+SteelDefectX/Isc_22,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_22.jpg,0.7507999369492842,0,MANUAL-REVIEW,uncertainty 0.751 > threshold 0.173,4
+SteelDefectX/Isc_26,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_26.jpg,0.7326065236521668,1,MANUAL-REVIEW,uncertainty 0.733 > threshold 0.173,5
+SteelDefectX/Isc_32,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_32.jpg,0.8715687294560334,1,MANUAL-REVIEW,uncertainty 0.872 > threshold 0.173; near-threshold box at conf 0.23,9
+SteelDefectX/Isc_41,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_41.jpg,0.35023069397327006,0,MANUAL-REVIEW,uncertainty 0.350 > threshold 0.173,4
+SteelDefectX/Isc_44,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_44.jpg,0.08672515059311507,0,AUTO-ACCEPT,uncertainty 0.087 <= calibrated threshold 0.173,1
+SteelDefectX/Isc_45,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_45.jpg,0.9328262822297751,1,MANUAL-REVIEW,uncertainty 0.933 > threshold 0.173; near-threshold box at conf 0.22,7
+SteelDefectX/Isc_52,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_52.jpg,0.5087249663130688,0,MANUAL-REVIEW,uncertainty 0.509 > threshold 0.173,4
+SteelDefectX/Isc_54,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_54.jpg,0.7936539320753445,1,MANUAL-REVIEW,uncertainty 0.794 > threshold 0.173,7
+SteelDefectX/Isc_63,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_63.jpg,0.11742815892634836,0,AUTO-ACCEPT,uncertainty 0.117 <= calibrated threshold 0.173,2
+SteelDefectX/Isc_68,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_68.jpg,0.7009880950438933,0,MANUAL-REVIEW,uncertainty 0.701 > threshold 0.173,3
+SteelDefectX/Isc_69,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_69.jpg,0.33014236031967376,1,MANUAL-REVIEW,uncertainty 0.330 > threshold 0.173,4
+SteelDefectX/Isc_94,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_94.jpg,0.20364454307522212,0,MANUAL-REVIEW,uncertainty 0.204 > threshold 0.173,3
+SteelDefectX/Isc_98,SteelDefectX-DET\IMAGES\Iron scale compression\Isc_98.jpg,0.36701525893239667,0,MANUAL-REVIEW,uncertainty 0.367 > threshold 0.173,5
+SteelDefectX/Isa_02,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_02.jpg,0.872717316035553,1,MANUAL-REVIEW,uncertainty 0.873 > threshold 0.173; near-threshold box at conf 0.23,3
+SteelDefectX/Isa_05,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_05.jpg,0.6217627944209666,0,MANUAL-REVIEW,uncertainty 0.622 > threshold 0.173,2
+SteelDefectX/Isa_109,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_109.jpg,0.32049317435648245,0,MANUAL-REVIEW,uncertainty 0.320 > threshold 0.173,1
+SteelDefectX/Isa_11,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_11.jpg,0.08696086383878786,0,AUTO-ACCEPT,uncertainty 0.087 <= calibrated threshold 0.173,2
+SteelDefectX/Isa_116,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_116.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/Isa_22,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_22.jpg,0.2696622522301945,1,MANUAL-REVIEW,uncertainty 0.270 > threshold 0.173,3
+SteelDefectX/Isa_38,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_38.jpg,0.07747043515202255,0,AUTO-ACCEPT,uncertainty 0.077 <= calibrated threshold 0.173,1
+SteelDefectX/Isa_43,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_43.jpg,0.27225540897363537,0,MANUAL-REVIEW,uncertainty 0.272 > threshold 0.173,1
+SteelDefectX/Isa_48,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_48.jpg,0.08625680655222782,0,AUTO-ACCEPT,uncertainty 0.086 <= calibrated threshold 0.173,1
+SteelDefectX/Isa_50,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_50.jpg,0.15149185970485018,0,AUTO-ACCEPT,uncertainty 0.151 <= calibrated threshold 0.173,1
+SteelDefectX/Isa_54,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_54.jpg,0.21405586086015452,0,MANUAL-REVIEW,uncertainty 0.214 > threshold 0.173,2
+SteelDefectX/Isa_62,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_62.jpg,0.07160740870220533,0,AUTO-ACCEPT,uncertainty 0.072 <= calibrated threshold 0.173,1
+SteelDefectX/Isa_66,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_66.jpg,0.15929779648392106,0,AUTO-ACCEPT,uncertainty 0.159 <= calibrated threshold 0.173,1
+SteelDefectX/Isa_71,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_71.jpg,0.09870148409459882,1,AUTO-ACCEPT,uncertainty 0.099 <= calibrated threshold 0.173,2
+SteelDefectX/Isa_75,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_75.jpg,0.49392229533463816,0,MANUAL-REVIEW,uncertainty 0.494 > threshold 0.173,2
+SteelDefectX/Isa_77,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_77.jpg,0.10841286314826842,0,AUTO-ACCEPT,uncertainty 0.108 <= calibrated threshold 0.173,1
+SteelDefectX/Isa_80,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_80.jpg,0.4487000751837852,0,MANUAL-REVIEW,uncertainty 0.449 > threshold 0.173,5
+SteelDefectX/Isa_93,SteelDefectX-DET\IMAGES\Iron sheet ash\Isa_93.jpg,0.19687581190312214,1,MANUAL-REVIEW,uncertainty 0.197 > threshold 0.173,2
+SteelDefectX/os_09,SteelDefectX-DET\IMAGES\Oil spot\os_09.jpg,0.19754689618100832,1,MANUAL-REVIEW,uncertainty 0.198 > threshold 0.173,5
+SteelDefectX/os_10,SteelDefectX-DET\IMAGES\Oil spot\os_10.jpg,0.12683616343422321,0,AUTO-ACCEPT,uncertainty 0.127 <= calibrated threshold 0.173,6
+SteelDefectX/os_110,SteelDefectX-DET\IMAGES\Oil spot\os_110.jpg,0.3679770179078421,0,MANUAL-REVIEW,uncertainty 0.368 > threshold 0.173,4
+SteelDefectX/os_112,SteelDefectX-DET\IMAGES\Oil spot\os_112.jpg,0.35950987204073737,0,MANUAL-REVIEW,uncertainty 0.360 > threshold 0.173,3
+SteelDefectX/os_115,SteelDefectX-DET\IMAGES\Oil spot\os_115.jpg,0.13594266985888356,0,AUTO-ACCEPT,uncertainty 0.136 <= calibrated threshold 0.173,5
+SteelDefectX/os_123,SteelDefectX-DET\IMAGES\Oil spot\os_123.jpg,0.0953316241697383,0,AUTO-ACCEPT,uncertainty 0.095 <= calibrated threshold 0.173,1
+SteelDefectX/os_127,SteelDefectX-DET\IMAGES\Oil spot\os_127.jpg,0.9120838220066991,1,MANUAL-REVIEW,uncertainty 0.912 > threshold 0.173,8
+SteelDefectX/os_137,SteelDefectX-DET\IMAGES\Oil spot\os_137.jpg,0.16987613876935903,0,AUTO-ACCEPT,uncertainty 0.170 <= calibrated threshold 0.173,1
+SteelDefectX/os_14,SteelDefectX-DET\IMAGES\Oil spot\os_14.jpg,0.4580748527470437,1,MANUAL-REVIEW,uncertainty 0.458 > threshold 0.173,1
+SteelDefectX/os_162,SteelDefectX-DET\IMAGES\Oil spot\os_162.jpg,0.20595940772051058,0,MANUAL-REVIEW,uncertainty 0.206 > threshold 0.173,1
+SteelDefectX/os_164,SteelDefectX-DET\IMAGES\Oil spot\os_164.jpg,0.2628525670960817,1,MANUAL-REVIEW,uncertainty 0.263 > threshold 0.173,3
+SteelDefectX/os_170,SteelDefectX-DET\IMAGES\Oil spot\os_170.jpg,0.10037351517999117,0,AUTO-ACCEPT,uncertainty 0.100 <= calibrated threshold 0.173,2
+SteelDefectX/os_182,SteelDefectX-DET\IMAGES\Oil spot\os_182.jpg,0.2393334521726514,0,MANUAL-REVIEW,uncertainty 0.239 > threshold 0.173,1
+SteelDefectX/os_188,SteelDefectX-DET\IMAGES\Oil spot\os_188.jpg,0.1659342738961297,0,AUTO-ACCEPT,uncertainty 0.166 <= calibrated threshold 0.173,3
+SteelDefectX/os_192,SteelDefectX-DET\IMAGES\Oil spot\os_192.jpg,0.292849712978087,0,MANUAL-REVIEW,uncertainty 0.293 > threshold 0.173,4
+SteelDefectX/os_196,SteelDefectX-DET\IMAGES\Oil spot\os_196.jpg,0.24180668849762885,1,MANUAL-REVIEW,uncertainty 0.242 > threshold 0.173,9
+SteelDefectX/os_200,SteelDefectX-DET\IMAGES\Oil spot\os_200.jpg,0.09205032630714749,0,AUTO-ACCEPT,uncertainty 0.092 <= calibrated threshold 0.173,3
+SteelDefectX/os_202,SteelDefectX-DET\IMAGES\Oil spot\os_202.jpg,0.8864569221932292,0,MANUAL-REVIEW,uncertainty 0.886 > threshold 0.173; near-threshold box at conf 0.23,3
+SteelDefectX/os_210,SteelDefectX-DET\IMAGES\Oil spot\os_210.jpg,0.40964920780220077,0,MANUAL-REVIEW,uncertainty 0.410 > threshold 0.173,1
+SteelDefectX/os_213,SteelDefectX-DET\IMAGES\Oil spot\os_213.jpg,0.12025297707809297,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,5
+SteelDefectX/os_214,SteelDefectX-DET\IMAGES\Oil spot\os_214.jpg,0.11809054824618617,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,5
+SteelDefectX/os_218,SteelDefectX-DET\IMAGES\Oil spot\os_218.jpg,0.16964394013837872,0,AUTO-ACCEPT,uncertainty 0.170 <= calibrated threshold 0.173,3
+SteelDefectX/os_224,SteelDefectX-DET\IMAGES\Oil spot\os_224.jpg,0.5505503045618021,1,MANUAL-REVIEW,uncertainty 0.551 > threshold 0.173,2
+SteelDefectX/os_232,SteelDefectX-DET\IMAGES\Oil spot\os_232.jpg,0.3923698636318902,0,MANUAL-REVIEW,uncertainty 0.392 > threshold 0.173,7
+SteelDefectX/os_237,SteelDefectX-DET\IMAGES\Oil spot\os_237.jpg,0.24045991854553908,0,MANUAL-REVIEW,uncertainty 0.240 > threshold 0.173,5
+SteelDefectX/os_24,SteelDefectX-DET\IMAGES\Oil spot\os_24.jpg,0.05810333837624311,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/os_240,SteelDefectX-DET\IMAGES\Oil spot\os_240.jpg,0.5174788254925625,1,MANUAL-REVIEW,uncertainty 0.517 > threshold 0.173,8
+SteelDefectX/os_241,SteelDefectX-DET\IMAGES\Oil spot\os_241.jpg,0.8572309703006074,1,MANUAL-REVIEW,uncertainty 0.857 > threshold 0.173; near-threshold box at conf 0.21,8
+SteelDefectX/os_25,SteelDefectX-DET\IMAGES\Oil spot\os_25.jpg,0.8195771095366605,1,MANUAL-REVIEW,uncertainty 0.820 > threshold 0.173; near-threshold box at conf 0.24,5
+SteelDefectX/os_256,SteelDefectX-DET\IMAGES\Oil spot\os_256.jpg,0.6383150114018004,0,MANUAL-REVIEW,uncertainty 0.638 > threshold 0.173,6
+SteelDefectX/os_26,SteelDefectX-DET\IMAGES\Oil spot\os_26.jpg,0.2335482561941271,1,MANUAL-REVIEW,uncertainty 0.234 > threshold 0.173,6
+SteelDefectX/os_275,SteelDefectX-DET\IMAGES\Oil spot\os_275.jpg,0.28980036481769067,0,MANUAL-REVIEW,uncertainty 0.290 > threshold 0.173,10
+SteelDefectX/os_277,SteelDefectX-DET\IMAGES\Oil spot\os_277.jpg,0.8273792118752161,1,MANUAL-REVIEW,uncertainty 0.827 > threshold 0.173; near-threshold box at conf 0.24,10
+SteelDefectX/os_289,SteelDefectX-DET\IMAGES\Oil spot\os_289.jpg,0.8059113782941745,0,MANUAL-REVIEW,uncertainty 0.806 > threshold 0.173,2
+SteelDefectX/os_298,SteelDefectX-DET\IMAGES\Oil spot\os_298.jpg,0.35177343405234374,0,MANUAL-REVIEW,uncertainty 0.352 > threshold 0.173,6
+SteelDefectX/os_314,SteelDefectX-DET\IMAGES\Oil spot\os_314.jpg,0.07793645844604405,0,AUTO-ACCEPT,uncertainty 0.078 <= calibrated threshold 0.173,1
+SteelDefectX/os_315,SteelDefectX-DET\IMAGES\Oil spot\os_315.jpg,0.0813683073526014,0,AUTO-ACCEPT,uncertainty 0.081 <= calibrated threshold 0.173,1
+SteelDefectX/os_318,SteelDefectX-DET\IMAGES\Oil spot\os_318.jpg,0.07618850072824108,0,AUTO-ACCEPT,uncertainty 0.076 <= calibrated threshold 0.173,1
+SteelDefectX/os_337,SteelDefectX-DET\IMAGES\Oil spot\os_337.jpg,0.585877235022358,0,MANUAL-REVIEW,uncertainty 0.586 > threshold 0.173,7
+SteelDefectX/os_338,SteelDefectX-DET\IMAGES\Oil spot\os_338.jpg,0.06448738766501746,0,AUTO-ACCEPT,uncertainty 0.064 <= calibrated threshold 0.173,1
+SteelDefectX/os_35,SteelDefectX-DET\IMAGES\Oil spot\os_35.jpg,0.21049792949109258,0,MANUAL-REVIEW,uncertainty 0.210 > threshold 0.173,4
+SteelDefectX/os_353,SteelDefectX-DET\IMAGES\Oil spot\os_353.jpg,0.4903753532526561,1,MANUAL-REVIEW,uncertainty 0.490 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/os_359,SteelDefectX-DET\IMAGES\Oil spot\os_359.jpg,0.15175325153439195,0,AUTO-ACCEPT,uncertainty 0.152 <= calibrated threshold 0.173,4
+SteelDefectX/os_36,SteelDefectX-DET\IMAGES\Oil spot\os_36.jpg,0.7556272041306018,1,MANUAL-REVIEW,uncertainty 0.756 > threshold 0.173,6
+SteelDefectX/os_361,SteelDefectX-DET\IMAGES\Oil spot\os_361.jpg,0.7458761731816077,1,MANUAL-REVIEW,uncertainty 0.746 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/os_37,SteelDefectX-DET\IMAGES\Oil spot\os_37.jpg,0.20378781854222214,0,MANUAL-REVIEW,uncertainty 0.204 > threshold 0.173,4
+SteelDefectX/os_376,SteelDefectX-DET\IMAGES\Oil spot\os_376.jpg,0.3812473494372272,0,MANUAL-REVIEW,uncertainty 0.381 > threshold 0.173,7
+SteelDefectX/os_378,SteelDefectX-DET\IMAGES\Oil spot\os_378.jpg,0.1535798394610759,0,AUTO-ACCEPT,uncertainty 0.154 <= calibrated threshold 0.173,1
+SteelDefectX/os_385,SteelDefectX-DET\IMAGES\Oil spot\os_385.jpg,0.20121245344799024,0,MANUAL-REVIEW,uncertainty 0.201 > threshold 0.173,4
+SteelDefectX/os_386,SteelDefectX-DET\IMAGES\Oil spot\os_386.jpg,0.14748096419482773,0,AUTO-ACCEPT,uncertainty 0.147 <= calibrated threshold 0.173,2
+SteelDefectX/os_39,SteelDefectX-DET\IMAGES\Oil spot\os_39.jpg,0.21754011905635265,0,MANUAL-REVIEW,uncertainty 0.218 > threshold 0.173,9
+SteelDefectX/os_402,SteelDefectX-DET\IMAGES\Oil spot\os_402.jpg,0.130120759128699,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,1
+SteelDefectX/os_415,SteelDefectX-DET\IMAGES\Oil spot\os_415.jpg,0.897703746723288,1,MANUAL-REVIEW,uncertainty 0.898 > threshold 0.173; near-threshold box at conf 0.22,3
+SteelDefectX/os_425,SteelDefectX-DET\IMAGES\Oil spot\os_425.jpg,0.09210073634953475,0,AUTO-ACCEPT,uncertainty 0.092 <= calibrated threshold 0.173,1
+SteelDefectX/os_427,SteelDefectX-DET\IMAGES\Oil spot\os_427.jpg,0.7884862337509118,1,MANUAL-REVIEW,uncertainty 0.788 > threshold 0.173,3
+SteelDefectX/os_436,SteelDefectX-DET\IMAGES\Oil spot\os_436.jpg,0.10326345768249723,0,AUTO-ACCEPT,uncertainty 0.103 <= calibrated threshold 0.173,1
+SteelDefectX/os_441,SteelDefectX-DET\IMAGES\Oil spot\os_441.jpg,0.7087076822897105,0,MANUAL-REVIEW,uncertainty 0.709 > threshold 0.173,1
+SteelDefectX/os_443,SteelDefectX-DET\IMAGES\Oil spot\os_443.jpg,0.1063027652872233,0,AUTO-ACCEPT,uncertainty 0.106 <= calibrated threshold 0.173,1
+SteelDefectX/os_445,SteelDefectX-DET\IMAGES\Oil spot\os_445.jpg,0.49443120212312996,1,MANUAL-REVIEW,uncertainty 0.494 > threshold 0.173,1
+SteelDefectX/os_451,SteelDefectX-DET\IMAGES\Oil spot\os_451.jpg,0.7177706123281931,1,MANUAL-REVIEW,uncertainty 0.718 > threshold 0.173; near-threshold box at conf 0.20,3
+SteelDefectX/os_460,SteelDefectX-DET\IMAGES\Oil spot\os_460.jpg,0.9399763840695413,1,MANUAL-REVIEW,uncertainty 0.940 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/os_467,SteelDefectX-DET\IMAGES\Oil spot\os_467.jpg,0.5559094339800186,0,MANUAL-REVIEW,uncertainty 0.556 > threshold 0.173,7
+SteelDefectX/os_468,SteelDefectX-DET\IMAGES\Oil spot\os_468.jpg,0.17740359312388643,1,MANUAL-REVIEW,uncertainty 0.177 > threshold 0.173,1
+SteelDefectX/os_470,SteelDefectX-DET\IMAGES\Oil spot\os_470.jpg,0.5696155839755812,1,MANUAL-REVIEW,uncertainty 0.570 > threshold 0.173,1
+SteelDefectX/os_481,SteelDefectX-DET\IMAGES\Oil spot\os_481.jpg,0.3702555678255002,0,MANUAL-REVIEW,uncertainty 0.370 > threshold 0.173,2
+SteelDefectX/os_493,SteelDefectX-DET\IMAGES\Oil spot\os_493.jpg,0.299216414952744,1,MANUAL-REVIEW,uncertainty 0.299 > threshold 0.173,8
+SteelDefectX/os_52,SteelDefectX-DET\IMAGES\Oil spot\os_52.jpg,0.3545382170442258,0,MANUAL-REVIEW,uncertainty 0.355 > threshold 0.173,8
+SteelDefectX/os_62,SteelDefectX-DET\IMAGES\Oil spot\os_62.jpg,0.1828002999185861,0,MANUAL-REVIEW,uncertainty 0.183 > threshold 0.173,3
+SteelDefectX/os_75,SteelDefectX-DET\IMAGES\Oil spot\os_75.jpg,0.761249525936624,1,MANUAL-REVIEW,uncertainty 0.761 > threshold 0.173; near-threshold box at conf 0.22,2
+SteelDefectX/os_76,SteelDefectX-DET\IMAGES\Oil spot\os_76.jpg,0.2650080703613934,0,MANUAL-REVIEW,uncertainty 0.265 > threshold 0.173,1
+SteelDefectX/os_79,SteelDefectX-DET\IMAGES\Oil spot\os_79.jpg,0.21747898653789188,1,MANUAL-REVIEW,uncertainty 0.217 > threshold 0.173,4
+SteelDefectX/os_81,SteelDefectX-DET\IMAGES\Oil spot\os_81.jpg,0.16137808957154678,0,AUTO-ACCEPT,uncertainty 0.161 <= calibrated threshold 0.173,1
+SteelDefectX/os_93,SteelDefectX-DET\IMAGES\Oil spot\os_93.jpg,0.19920181379990792,0,MANUAL-REVIEW,uncertainty 0.199 > threshold 0.173,6
+SteelDefectX/os_94,SteelDefectX-DET\IMAGES\Oil spot\os_94.jpg,0.11912070590287495,0,AUTO-ACCEPT,uncertainty 0.119 <= calibrated threshold 0.173,3
+SteelDefectX/os_97,SteelDefectX-DET\IMAGES\Oil spot\os_97.jpg,0.16414118704282868,0,AUTO-ACCEPT,uncertainty 0.164 <= calibrated threshold 0.173,2
+SteelDefectX/Ops_04,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_04.jpg,0.060532137456429005,0,AUTO-ACCEPT,uncertainty 0.061 <= calibrated threshold 0.173,1
+SteelDefectX/Ops_11,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_11.jpg,0.0865521137825887,0,AUTO-ACCEPT,uncertainty 0.087 <= calibrated threshold 0.173,1
+SteelDefectX/Ops_25,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_25.jpg,0.07375146115249663,0,AUTO-ACCEPT,uncertainty 0.074 <= calibrated threshold 0.173,1
+SteelDefectX/Ops_32,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_32.jpg,0.25807318771309407,0,MANUAL-REVIEW,uncertainty 0.258 > threshold 0.173,1
+SteelDefectX/Ops_33,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_33.jpg,0.09469261245172164,0,AUTO-ACCEPT,uncertainty 0.095 <= calibrated threshold 0.173,1
+SteelDefectX/Ops_34,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_34.jpg,0.5096614447901928,0,MANUAL-REVIEW,uncertainty 0.510 > threshold 0.173,1
+SteelDefectX/Ops_48,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_48.jpg,0.13004084944140315,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,2
+SteelDefectX/Ops_49,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_49.jpg,0.7885674503573774,0,MANUAL-REVIEW,uncertainty 0.789 > threshold 0.173,1
+SteelDefectX/Ops_59,SteelDefectX-DET\IMAGES\Oxide scale of plate system\Ops_59.jpg,0.6897309740710627,1,MANUAL-REVIEW,uncertainty 0.690 > threshold 0.173,2
+SteelDefectX/Ots_07,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_07.jpg,0.9343853827767895,1,MANUAL-REVIEW,uncertainty 0.934 > threshold 0.173; near-threshold box at conf 0.25,7
+SteelDefectX/Ots_114,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_114.jpg,0.9854761573987301,1,MANUAL-REVIEW,uncertainty 0.985 > threshold 0.173; near-threshold box at conf 0.25,13
+SteelDefectX/Ots_119,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_119.jpg,0.9893472487976824,1,MANUAL-REVIEW,uncertainty 0.989 > threshold 0.173; near-threshold box at conf 0.24,10
+SteelDefectX/Ots_125,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_125.jpg,0.9438232234856853,1,MANUAL-REVIEW,uncertainty 0.944 > threshold 0.173; near-threshold box at conf 0.24,10
+SteelDefectX/Ots_128,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_128.jpg,0.9925523175362756,1,MANUAL-REVIEW,uncertainty 0.993 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/Ots_137,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_137.jpg,0.971860838446028,1,MANUAL-REVIEW,uncertainty 0.972 > threshold 0.173; near-threshold box at conf 0.23,10
+SteelDefectX/Ots_140,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_140.jpg,0.5421415332504931,1,MANUAL-REVIEW,uncertainty 0.542 > threshold 0.173,2
+SteelDefectX/Ots_157,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_157.jpg,0.9651521538820312,1,MANUAL-REVIEW,uncertainty 0.965 > threshold 0.173; near-threshold box at conf 0.21,9
+SteelDefectX/Ots_163,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_163.jpg,0.973784655175,1,MANUAL-REVIEW,uncertainty 0.974 > threshold 0.173,10
+SteelDefectX/Ots_164,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_164.jpg,0.9538335154813268,1,MANUAL-REVIEW,uncertainty 0.954 > threshold 0.173; near-threshold box at conf 0.21,10
+SteelDefectX/Ots_170,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_170.jpg,0.9774492267034638,1,MANUAL-REVIEW,uncertainty 0.977 > threshold 0.173; near-threshold box at conf 0.23,9
+SteelDefectX/Ots_172,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_172.jpg,0.9193525014621959,1,MANUAL-REVIEW,uncertainty 0.919 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/Ots_175,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_175.jpg,0.9529932366127304,1,MANUAL-REVIEW,uncertainty 0.953 > threshold 0.173; near-threshold box at conf 0.23,5
+SteelDefectX/Ots_177,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_177.jpg,0.9932491058194842,1,MANUAL-REVIEW,uncertainty 0.993 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/Ots_179,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_179.jpg,0.9673278178581424,1,MANUAL-REVIEW,uncertainty 0.967 > threshold 0.173; near-threshold box at conf 0.22,9
+SteelDefectX/Ots_180,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_180.jpg,0.9793967063120436,1,MANUAL-REVIEW,uncertainty 0.979 > threshold 0.173; near-threshold box at conf 0.24,9
+SteelDefectX/Ots_187,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_187.jpg,0.8980820575001859,1,MANUAL-REVIEW,uncertainty 0.898 > threshold 0.173; near-threshold box at conf 0.20,9
+SteelDefectX/Ots_192,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_192.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,6
+SteelDefectX/Ots_199,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_199.jpg,0.767159338221965,1,MANUAL-REVIEW,uncertainty 0.767 > threshold 0.173,9
+SteelDefectX/Ots_28,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_28.jpg,0.9824728389817008,1,MANUAL-REVIEW,uncertainty 0.982 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/Ots_40,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_40.jpg,0.9803355678116454,1,MANUAL-REVIEW,uncertainty 0.980 > threshold 0.173; near-threshold box at conf 0.24,4
+SteelDefectX/Ots_47,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_47.jpg,0.7887587468855942,1,MANUAL-REVIEW,uncertainty 0.789 > threshold 0.173; near-threshold box at conf 0.22,10
+SteelDefectX/Ots_48,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_48.jpg,0.9897192357123068,1,MANUAL-REVIEW,uncertainty 0.990 > threshold 0.173; near-threshold box at conf 0.22,4
+SteelDefectX/Ots_66,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_66.jpg,0.9357902975932672,1,MANUAL-REVIEW,uncertainty 0.936 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/Ots_67,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_67.jpg,0.9827718711283392,1,MANUAL-REVIEW,uncertainty 0.983 > threshold 0.173; near-threshold box at conf 0.25,6
+SteelDefectX/Ots_68,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_68.jpg,0.9472982110708074,1,MANUAL-REVIEW,uncertainty 0.947 > threshold 0.173; near-threshold box at conf 0.23,4
+SteelDefectX/Ots_70,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_70.jpg,0.9462211672149224,1,MANUAL-REVIEW,uncertainty 0.946 > threshold 0.173; near-threshold box at conf 0.21,8
+SteelDefectX/Ots_77,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_77.jpg,0.8729979419050916,1,MANUAL-REVIEW,uncertainty 0.873 > threshold 0.173; near-threshold box at conf 0.25,3
+SteelDefectX/Ots_80,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_80.jpg,0.7246563822750378,1,MANUAL-REVIEW,uncertainty 0.725 > threshold 0.173,9
+SteelDefectX/Ots_89,SteelDefectX-DET\IMAGES\Oxide scale of temperature system\Ots_89.jpg,0.99596464997014,1,MANUAL-REVIEW,uncertainty 0.996 > threshold 0.173; near-threshold box at conf 0.22,10
+SteelDefectX/pa_03,SteelDefectX-DET\IMAGES\Patches\pa_03.jpg,0.12026436966191324,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,3
+SteelDefectX/pa_09,SteelDefectX-DET\IMAGES\Patches\pa_09.jpg,0.07423015645860535,0,AUTO-ACCEPT,uncertainty 0.074 <= calibrated threshold 0.173,1
+SteelDefectX/pa_100,SteelDefectX-DET\IMAGES\Patches\pa_100.jpg,0.8061325286450834,1,MANUAL-REVIEW,uncertainty 0.806 > threshold 0.173; near-threshold box at conf 0.21,3
+SteelDefectX/pa_104,SteelDefectX-DET\IMAGES\Patches\pa_104.jpg,0.17584658615747054,0,MANUAL-REVIEW,uncertainty 0.176 > threshold 0.173,1
+SteelDefectX/pa_105,SteelDefectX-DET\IMAGES\Patches\pa_105.jpg,0.8084522615315977,1,MANUAL-REVIEW,uncertainty 0.808 > threshold 0.173,3
+SteelDefectX/pa_110,SteelDefectX-DET\IMAGES\Patches\pa_110.jpg,0.3211598716182114,0,MANUAL-REVIEW,uncertainty 0.321 > threshold 0.173,3
+SteelDefectX/pa_113,SteelDefectX-DET\IMAGES\Patches\pa_113.jpg,0.12023292709345373,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,1
+SteelDefectX/pa_122,SteelDefectX-DET\IMAGES\Patches\pa_122.jpg,0.321889182187742,1,MANUAL-REVIEW,uncertainty 0.322 > threshold 0.173,2
+SteelDefectX/pa_125,SteelDefectX-DET\IMAGES\Patches\pa_125.jpg,0.4024015993726301,0,MANUAL-REVIEW,uncertainty 0.402 > threshold 0.173,1
+SteelDefectX/pa_127,SteelDefectX-DET\IMAGES\Patches\pa_127.jpg,0.6317755314701592,1,MANUAL-REVIEW,uncertainty 0.632 > threshold 0.173,3
+SteelDefectX/pa_130,SteelDefectX-DET\IMAGES\Patches\pa_130.jpg,0.16463964533220934,1,AUTO-ACCEPT,uncertainty 0.165 <= calibrated threshold 0.173,2
+SteelDefectX/pa_133,SteelDefectX-DET\IMAGES\Patches\pa_133.jpg,0.8290469949682959,0,MANUAL-REVIEW,uncertainty 0.829 > threshold 0.173,3
+SteelDefectX/pa_140,SteelDefectX-DET\IMAGES\Patches\pa_140.jpg,0.8361825969910431,0,MANUAL-REVIEW,uncertainty 0.836 > threshold 0.173; near-threshold box at conf 0.24,2
+SteelDefectX/pa_142,SteelDefectX-DET\IMAGES\Patches\pa_142.jpg,0.3397702227536121,0,MANUAL-REVIEW,uncertainty 0.340 > threshold 0.173,2
+SteelDefectX/pa_143,SteelDefectX-DET\IMAGES\Patches\pa_143.jpg,0.8037065038550696,0,MANUAL-REVIEW,uncertainty 0.804 > threshold 0.173,3
+SteelDefectX/pa_146,SteelDefectX-DET\IMAGES\Patches\pa_146.jpg,0.32097604228979915,0,MANUAL-REVIEW,uncertainty 0.321 > threshold 0.173,1
+SteelDefectX/pa_148,SteelDefectX-DET\IMAGES\Patches\pa_148.jpg,0.6400487492915796,0,MANUAL-REVIEW,uncertainty 0.640 > threshold 0.173,4
+SteelDefectX/pa_149,SteelDefectX-DET\IMAGES\Patches\pa_149.jpg,0.6952495630143147,1,MANUAL-REVIEW,uncertainty 0.695 > threshold 0.173,3
+SteelDefectX/pa_150,SteelDefectX-DET\IMAGES\Patches\pa_150.jpg,0.30071397442387193,0,MANUAL-REVIEW,uncertainty 0.301 > threshold 0.173,1
+SteelDefectX/pa_154,SteelDefectX-DET\IMAGES\Patches\pa_154.jpg,0.4214151343891677,0,MANUAL-REVIEW,uncertainty 0.421 > threshold 0.173,2
+SteelDefectX/pa_167,SteelDefectX-DET\IMAGES\Patches\pa_167.jpg,0.3571832536982557,0,MANUAL-REVIEW,uncertainty 0.357 > threshold 0.173,2
+SteelDefectX/pa_170,SteelDefectX-DET\IMAGES\Patches\pa_170.jpg,0.2144064314540366,0,MANUAL-REVIEW,uncertainty 0.214 > threshold 0.173,1
+SteelDefectX/pa_183,SteelDefectX-DET\IMAGES\Patches\pa_183.jpg,0.14513218186249985,0,AUTO-ACCEPT,uncertainty 0.145 <= calibrated threshold 0.173,1
+SteelDefectX/pa_186,SteelDefectX-DET\IMAGES\Patches\pa_186.jpg,0.15721790301508143,0,AUTO-ACCEPT,uncertainty 0.157 <= calibrated threshold 0.173,2
+SteelDefectX/pa_187,SteelDefectX-DET\IMAGES\Patches\pa_187.jpg,0.4119833601973948,0,MANUAL-REVIEW,uncertainty 0.412 > threshold 0.173,3
+SteelDefectX/pa_188,SteelDefectX-DET\IMAGES\Patches\pa_188.jpg,0.800448211831376,0,MANUAL-REVIEW,uncertainty 0.800 > threshold 0.173; near-threshold box at conf 0.24,2
+SteelDefectX/pa_191,SteelDefectX-DET\IMAGES\Patches\pa_191.jpg,0.17652416166055476,0,MANUAL-REVIEW,uncertainty 0.177 > threshold 0.173,2
+SteelDefectX/pa_197,SteelDefectX-DET\IMAGES\Patches\pa_197.jpg,0.1280687388899086,0,AUTO-ACCEPT,uncertainty 0.128 <= calibrated threshold 0.173,3
+SteelDefectX/pa_204,SteelDefectX-DET\IMAGES\Patches\pa_204.jpg,0.1027048545305043,0,AUTO-ACCEPT,uncertainty 0.103 <= calibrated threshold 0.173,2
+SteelDefectX/pa_205,SteelDefectX-DET\IMAGES\Patches\pa_205.jpg,0.17566308970363562,0,MANUAL-REVIEW,uncertainty 0.176 > threshold 0.173,2
+SteelDefectX/pa_214,SteelDefectX-DET\IMAGES\Patches\pa_214.jpg,0.2964274127076732,0,MANUAL-REVIEW,uncertainty 0.296 > threshold 0.173,3
+SteelDefectX/pa_221,SteelDefectX-DET\IMAGES\Patches\pa_221.jpg,0.17839881761282114,0,MANUAL-REVIEW,uncertainty 0.178 > threshold 0.173,3
+SteelDefectX/pa_235,SteelDefectX-DET\IMAGES\Patches\pa_235.jpg,0.08218781589293966,0,AUTO-ACCEPT,uncertainty 0.082 <= calibrated threshold 0.173,2
+SteelDefectX/pa_263,SteelDefectX-DET\IMAGES\Patches\pa_263.jpg,0.32452773197651286,0,MANUAL-REVIEW,uncertainty 0.325 > threshold 0.173; near-threshold box at conf 0.20,1
+SteelDefectX/pa_266,SteelDefectX-DET\IMAGES\Patches\pa_266.jpg,0.37776434579979407,0,MANUAL-REVIEW,uncertainty 0.378 > threshold 0.173,3
+SteelDefectX/pa_273,SteelDefectX-DET\IMAGES\Patches\pa_273.jpg,0.35088258354987173,0,MANUAL-REVIEW,uncertainty 0.351 > threshold 0.173,3
+SteelDefectX/pa_274,SteelDefectX-DET\IMAGES\Patches\pa_274.jpg,0.10213049645175185,1,AUTO-ACCEPT,uncertainty 0.102 <= calibrated threshold 0.173,2
+SteelDefectX/pa_276,SteelDefectX-DET\IMAGES\Patches\pa_276.jpg,0.146558794544146,0,AUTO-ACCEPT,uncertainty 0.147 <= calibrated threshold 0.173,3
+SteelDefectX/pa_293,SteelDefectX-DET\IMAGES\Patches\pa_293.jpg,0.36978122367789934,0,MANUAL-REVIEW,uncertainty 0.370 > threshold 0.173,6
+SteelDefectX/pa_34,SteelDefectX-DET\IMAGES\Patches\pa_34.jpg,0.059266362770523065,1,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,2
+SteelDefectX/pa_38,SteelDefectX-DET\IMAGES\Patches\pa_38.jpg,0.10035723610570875,0,AUTO-ACCEPT,uncertainty 0.100 <= calibrated threshold 0.173,2
+SteelDefectX/pa_44,SteelDefectX-DET\IMAGES\Patches\pa_44.jpg,0.508073373206494,0,MANUAL-REVIEW,uncertainty 0.508 > threshold 0.173,3
+SteelDefectX/pa_73,SteelDefectX-DET\IMAGES\Patches\pa_73.jpg,0.5699255871476844,0,MANUAL-REVIEW,uncertainty 0.570 > threshold 0.173; near-threshold box at conf 0.21,1
+SteelDefectX/pa_75,SteelDefectX-DET\IMAGES\Patches\pa_75.jpg,0.5853118965580608,0,MANUAL-REVIEW,uncertainty 0.585 > threshold 0.173,3
+SteelDefectX/pa_86,SteelDefectX-DET\IMAGES\Patches\pa_86.jpg,0.7223088491230093,1,MANUAL-REVIEW,uncertainty 0.722 > threshold 0.173; near-threshold box at conf 0.25,2
+SteelDefectX/ps_02,SteelDefectX-DET\IMAGES\Pitted surface\ps_02.jpg,0.6480238360042446,1,MANUAL-REVIEW,uncertainty 0.648 > threshold 0.173,4
+SteelDefectX/ps_102,SteelDefectX-DET\IMAGES\Pitted surface\ps_102.jpg,0.16062358935620571,0,AUTO-ACCEPT,uncertainty 0.161 <= calibrated threshold 0.173,1
+SteelDefectX/ps_111,SteelDefectX-DET\IMAGES\Pitted surface\ps_111.jpg,0.6852555070461518,0,MANUAL-REVIEW,uncertainty 0.685 > threshold 0.173,1
+SteelDefectX/ps_116,SteelDefectX-DET\IMAGES\Pitted surface\ps_116.jpg,0.833838947569992,1,MANUAL-REVIEW,uncertainty 0.834 > threshold 0.173,4
+SteelDefectX/ps_134,SteelDefectX-DET\IMAGES\Pitted surface\ps_134.jpg,0.7395073762604509,1,MANUAL-REVIEW,uncertainty 0.740 > threshold 0.173,9
+SteelDefectX/ps_147,SteelDefectX-DET\IMAGES\Pitted surface\ps_147.jpg,0.5532239300783067,1,MANUAL-REVIEW,uncertainty 0.553 > threshold 0.173,6
+SteelDefectX/ps_149,SteelDefectX-DET\IMAGES\Pitted surface\ps_149.jpg,0.8585072920342713,1,MANUAL-REVIEW,uncertainty 0.859 > threshold 0.173,3
+SteelDefectX/ps_153,SteelDefectX-DET\IMAGES\Pitted surface\ps_153.jpg,0.9827431618480866,1,MANUAL-REVIEW,uncertainty 0.983 > threshold 0.173; near-threshold box at conf 0.24,3
+SteelDefectX/ps_154,SteelDefectX-DET\IMAGES\Pitted surface\ps_154.jpg,0.9563021599285709,1,MANUAL-REVIEW,uncertainty 0.956 > threshold 0.173; near-threshold box at conf 0.22,10
+SteelDefectX/ps_155,SteelDefectX-DET\IMAGES\Pitted surface\ps_155.jpg,0.9645771721680271,1,MANUAL-REVIEW,uncertainty 0.965 > threshold 0.173; near-threshold box at conf 0.20,10
+SteelDefectX/ps_156,SteelDefectX-DET\IMAGES\Pitted surface\ps_156.jpg,0.166169842991089,1,AUTO-ACCEPT,uncertainty 0.166 <= calibrated threshold 0.173,3
+SteelDefectX/ps_167,SteelDefectX-DET\IMAGES\Pitted surface\ps_167.jpg,0.12731527579225277,0,AUTO-ACCEPT,uncertainty 0.127 <= calibrated threshold 0.173,1
+SteelDefectX/ps_174,SteelDefectX-DET\IMAGES\Pitted surface\ps_174.jpg,0.11716019307003765,0,AUTO-ACCEPT,uncertainty 0.117 <= calibrated threshold 0.173,1
+SteelDefectX/ps_18,SteelDefectX-DET\IMAGES\Pitted surface\ps_18.jpg,0.9124762031768713,0,MANUAL-REVIEW,uncertainty 0.912 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/ps_188,SteelDefectX-DET\IMAGES\Pitted surface\ps_188.jpg,0.9430121653066227,1,MANUAL-REVIEW,uncertainty 0.943 > threshold 0.173; near-threshold box at conf 0.22,10
+SteelDefectX/ps_19,SteelDefectX-DET\IMAGES\Pitted surface\ps_19.jpg,0.1460497015455699,1,AUTO-ACCEPT,uncertainty 0.146 <= calibrated threshold 0.173,2
+SteelDefectX/ps_190,SteelDefectX-DET\IMAGES\Pitted surface\ps_190.jpg,0.9155300373310992,0,MANUAL-REVIEW,uncertainty 0.916 > threshold 0.173,2
+SteelDefectX/ps_196,SteelDefectX-DET\IMAGES\Pitted surface\ps_196.jpg,0.8033742386988485,1,MANUAL-REVIEW,uncertainty 0.803 > threshold 0.173,6
+SteelDefectX/ps_197,SteelDefectX-DET\IMAGES\Pitted surface\ps_197.jpg,0.4078745934442787,1,MANUAL-REVIEW,uncertainty 0.408 > threshold 0.173,3
+SteelDefectX/ps_198,SteelDefectX-DET\IMAGES\Pitted surface\ps_198.jpg,0.7676740274992216,1,MANUAL-REVIEW,uncertainty 0.768 > threshold 0.173,2
+SteelDefectX/ps_201,SteelDefectX-DET\IMAGES\Pitted surface\ps_201.jpg,0.6525235825183832,0,MANUAL-REVIEW,uncertainty 0.653 > threshold 0.173,1
+SteelDefectX/ps_203,SteelDefectX-DET\IMAGES\Pitted surface\ps_203.jpg,0.9851960358370675,1,MANUAL-REVIEW,uncertainty 0.985 > threshold 0.173,5
+SteelDefectX/ps_213,SteelDefectX-DET\IMAGES\Pitted surface\ps_213.jpg,0.8655176253747054,1,MANUAL-REVIEW,uncertainty 0.866 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/ps_226,SteelDefectX-DET\IMAGES\Pitted surface\ps_226.jpg,0.1177399991500641,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,1
+SteelDefectX/ps_236,SteelDefectX-DET\IMAGES\Pitted surface\ps_236.jpg,0.6372092858410227,1,MANUAL-REVIEW,uncertainty 0.637 > threshold 0.173; near-threshold box at conf 0.21,2
+SteelDefectX/ps_24,SteelDefectX-DET\IMAGES\Pitted surface\ps_24.jpg,0.17882726573117724,1,MANUAL-REVIEW,uncertainty 0.179 > threshold 0.173,8
+SteelDefectX/ps_243,SteelDefectX-DET\IMAGES\Pitted surface\ps_243.jpg,0.9107333092806318,1,MANUAL-REVIEW,uncertainty 0.911 > threshold 0.173,7
+SteelDefectX/ps_257,SteelDefectX-DET\IMAGES\Pitted surface\ps_257.jpg,0.18372103530424796,1,MANUAL-REVIEW,uncertainty 0.184 > threshold 0.173,5
+SteelDefectX/ps_26,SteelDefectX-DET\IMAGES\Pitted surface\ps_26.jpg,0.41947497596737443,1,MANUAL-REVIEW,uncertainty 0.419 > threshold 0.173,5
+SteelDefectX/ps_261,SteelDefectX-DET\IMAGES\Pitted surface\ps_261.jpg,0.5960954534157646,1,MANUAL-REVIEW,uncertainty 0.596 > threshold 0.173,2
+SteelDefectX/ps_263,SteelDefectX-DET\IMAGES\Pitted surface\ps_263.jpg,0.18633243060940352,1,MANUAL-REVIEW,uncertainty 0.186 > threshold 0.173,2
+SteelDefectX/ps_278,SteelDefectX-DET\IMAGES\Pitted surface\ps_278.jpg,0.314032301359724,1,MANUAL-REVIEW,uncertainty 0.314 > threshold 0.173,4
+SteelDefectX/ps_29,SteelDefectX-DET\IMAGES\Pitted surface\ps_29.jpg,0.9645855431668033,1,MANUAL-REVIEW,uncertainty 0.965 > threshold 0.173; near-threshold box at conf 0.23,5
+SteelDefectX/ps_291,SteelDefectX-DET\IMAGES\Pitted surface\ps_291.jpg,0.9936836746517367,1,MANUAL-REVIEW,uncertainty 0.994 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/ps_43,SteelDefectX-DET\IMAGES\Pitted surface\ps_43.jpg,0.8701656562536694,1,MANUAL-REVIEW,uncertainty 0.870 > threshold 0.173,5
+SteelDefectX/ps_54,SteelDefectX-DET\IMAGES\Pitted surface\ps_54.jpg,0.11830851624749741,1,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,2
+SteelDefectX/ps_55,SteelDefectX-DET\IMAGES\Pitted surface\ps_55.jpg,0.991812787615304,1,MANUAL-REVIEW,uncertainty 0.992 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/ps_56,SteelDefectX-DET\IMAGES\Pitted surface\ps_56.jpg,0.9180246342152001,1,MANUAL-REVIEW,uncertainty 0.918 > threshold 0.173; near-threshold box at conf 0.25,8
+SteelDefectX/ps_64,SteelDefectX-DET\IMAGES\Pitted surface\ps_64.jpg,0.8786996952627081,1,MANUAL-REVIEW,uncertainty 0.879 > threshold 0.173,8
+SteelDefectX/ps_67,SteelDefectX-DET\IMAGES\Pitted surface\ps_67.jpg,0.43458667617811825,1,MANUAL-REVIEW,uncertainty 0.435 > threshold 0.173,4
+SteelDefectX/ps_76,SteelDefectX-DET\IMAGES\Pitted surface\ps_76.jpg,0.6722055864188107,1,MANUAL-REVIEW,uncertainty 0.672 > threshold 0.173,3
+SteelDefectX/ps_82,SteelDefectX-DET\IMAGES\Pitted surface\ps_82.jpg,0.21368369166236673,1,MANUAL-REVIEW,uncertainty 0.214 > threshold 0.173,9
+SteelDefectX/ps_87,SteelDefectX-DET\IMAGES\Pitted surface\ps_87.jpg,0.8939151377509518,1,MANUAL-REVIEW,uncertainty 0.894 > threshold 0.173; near-threshold box at conf 0.20,2
+SteelDefectX/ps_89,SteelDefectX-DET\IMAGES\Pitted surface\ps_89.jpg,0.9515530730329231,0,MANUAL-REVIEW,uncertainty 0.952 > threshold 0.173,1
+SteelDefectX/ps_90,SteelDefectX-DET\IMAGES\Pitted surface\ps_90.jpg,0.13439321046957234,0,AUTO-ACCEPT,uncertainty 0.134 <= calibrated threshold 0.173,1
+SteelDefectX/pu_103,SteelDefectX-DET\IMAGES\Punching\pu_103.jpg,0.051992714762554626,0,AUTO-ACCEPT,uncertainty 0.052 <= calibrated threshold 0.173,1
+SteelDefectX/pu_110,SteelDefectX-DET\IMAGES\Punching\pu_110.jpg,0.09198113379630438,0,AUTO-ACCEPT,uncertainty 0.092 <= calibrated threshold 0.173,1
+SteelDefectX/pu_111,SteelDefectX-DET\IMAGES\Punching\pu_111.jpg,0.05554489203714486,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_119,SteelDefectX-DET\IMAGES\Punching\pu_119.jpg,0.053751508427227174,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_123,SteelDefectX-DET\IMAGES\Punching\pu_123.jpg,0.07213820422997562,0,AUTO-ACCEPT,uncertainty 0.072 <= calibrated threshold 0.173,1
+SteelDefectX/pu_129,SteelDefectX-DET\IMAGES\Punching\pu_129.jpg,0.05876076458887026,0,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,1
+SteelDefectX/pu_145,SteelDefectX-DET\IMAGES\Punching\pu_145.jpg,0.0525379959558548,0,AUTO-ACCEPT,uncertainty 0.053 <= calibrated threshold 0.173,1
+SteelDefectX/pu_151,SteelDefectX-DET\IMAGES\Punching\pu_151.jpg,0.11770329030369367,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,1
+SteelDefectX/pu_154,SteelDefectX-DET\IMAGES\Punching\pu_154.jpg,0.0555109331401513,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_155,SteelDefectX-DET\IMAGES\Punching\pu_155.jpg,0.06312878969270638,0,AUTO-ACCEPT,uncertainty 0.063 <= calibrated threshold 0.173,1
+SteelDefectX/pu_168,SteelDefectX-DET\IMAGES\Punching\pu_168.jpg,0.05373515370441632,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_173,SteelDefectX-DET\IMAGES\Punching\pu_173.jpg,0.11896173582980057,0,AUTO-ACCEPT,uncertainty 0.119 <= calibrated threshold 0.173,1
+SteelDefectX/pu_175,SteelDefectX-DET\IMAGES\Punching\pu_175.jpg,0.302924916457526,0,MANUAL-REVIEW,uncertainty 0.303 > threshold 0.173,1
+SteelDefectX/pu_176,SteelDefectX-DET\IMAGES\Punching\pu_176.jpg,0.19663453964844943,0,MANUAL-REVIEW,uncertainty 0.197 > threshold 0.173,1
+SteelDefectX/pu_182,SteelDefectX-DET\IMAGES\Punching\pu_182.jpg,0.055300978253777014,0,AUTO-ACCEPT,uncertainty 0.055 <= calibrated threshold 0.173,1
+SteelDefectX/pu_188,SteelDefectX-DET\IMAGES\Punching\pu_188.jpg,0.059072355531650224,0,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,1
+SteelDefectX/pu_190,SteelDefectX-DET\IMAGES\Punching\pu_190.jpg,0.05334796059245808,0,AUTO-ACCEPT,uncertainty 0.053 <= calibrated threshold 0.173,1
+SteelDefectX/pu_196,SteelDefectX-DET\IMAGES\Punching\pu_196.jpg,0.06367981091092284,0,AUTO-ACCEPT,uncertainty 0.064 <= calibrated threshold 0.173,1
+SteelDefectX/pu_21,SteelDefectX-DET\IMAGES\Punching\pu_21.jpg,0.05390266695446121,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_212,SteelDefectX-DET\IMAGES\Punching\pu_212.jpg,0.07279808324123781,0,AUTO-ACCEPT,uncertainty 0.073 <= calibrated threshold 0.173,1
+SteelDefectX/pu_216,SteelDefectX-DET\IMAGES\Punching\pu_216.jpg,0.05646261339235697,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_23,SteelDefectX-DET\IMAGES\Punching\pu_23.jpg,0.05274722590150964,0,AUTO-ACCEPT,uncertainty 0.053 <= calibrated threshold 0.173,1
+SteelDefectX/pu_230,SteelDefectX-DET\IMAGES\Punching\pu_230.jpg,0.0580349470466979,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/pu_233,SteelDefectX-DET\IMAGES\Punching\pu_233.jpg,0.05222190062148856,0,AUTO-ACCEPT,uncertainty 0.052 <= calibrated threshold 0.173,1
+SteelDefectX/pu_237,SteelDefectX-DET\IMAGES\Punching\pu_237.jpg,0.05386225341489839,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_248,SteelDefectX-DET\IMAGES\Punching\pu_248.jpg,0.24671455066675077,0,MANUAL-REVIEW,uncertainty 0.247 > threshold 0.173,1
+SteelDefectX/pu_254,SteelDefectX-DET\IMAGES\Punching\pu_254.jpg,0.05896103774335397,0,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,1
+SteelDefectX/pu_262,SteelDefectX-DET\IMAGES\Punching\pu_262.jpg,0.18507996003135077,0,MANUAL-REVIEW,uncertainty 0.185 > threshold 0.173,1
+SteelDefectX/pu_266,SteelDefectX-DET\IMAGES\Punching\pu_266.jpg,0.052744977604856,0,AUTO-ACCEPT,uncertainty 0.053 <= calibrated threshold 0.173,1
+SteelDefectX/pu_27,SteelDefectX-DET\IMAGES\Punching\pu_27.jpg,0.05531218718787512,0,AUTO-ACCEPT,uncertainty 0.055 <= calibrated threshold 0.173,1
+SteelDefectX/pu_271,SteelDefectX-DET\IMAGES\Punching\pu_271.jpg,0.0515870050161443,0,AUTO-ACCEPT,uncertainty 0.052 <= calibrated threshold 0.173,1
+SteelDefectX/pu_281,SteelDefectX-DET\IMAGES\Punching\pu_281.jpg,0.06005552216332227,0,AUTO-ACCEPT,uncertainty 0.060 <= calibrated threshold 0.173,1
+SteelDefectX/pu_295,SteelDefectX-DET\IMAGES\Punching\pu_295.jpg,0.0544566894870234,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_301,SteelDefectX-DET\IMAGES\Punching\pu_301.jpg,0.09894480858015609,0,AUTO-ACCEPT,uncertainty 0.099 <= calibrated threshold 0.173,1
+SteelDefectX/pu_31,SteelDefectX-DET\IMAGES\Punching\pu_31.jpg,0.05870518027925523,0,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,1
+SteelDefectX/pu_326,SteelDefectX-DET\IMAGES\Punching\pu_326.jpg,0.05627188675688442,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_33,SteelDefectX-DET\IMAGES\Punching\pu_33.jpg,0.055298898231427425,0,AUTO-ACCEPT,uncertainty 0.055 <= calibrated threshold 0.173,1
+SteelDefectX/pu_335,SteelDefectX-DET\IMAGES\Punching\pu_335.jpg,0.058154524608795666,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/pu_349,SteelDefectX-DET\IMAGES\Punching\pu_349.jpg,0.06802288670534966,0,AUTO-ACCEPT,uncertainty 0.068 <= calibrated threshold 0.173,1
+SteelDefectX/pu_352,SteelDefectX-DET\IMAGES\Punching\pu_352.jpg,0.0555396348092387,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_365,SteelDefectX-DET\IMAGES\Punching\pu_365.jpg,0.06226336578463267,0,AUTO-ACCEPT,uncertainty 0.062 <= calibrated threshold 0.173,1
+SteelDefectX/pu_38,SteelDefectX-DET\IMAGES\Punching\pu_38.jpg,0.08731466776533173,0,AUTO-ACCEPT,uncertainty 0.087 <= calibrated threshold 0.173,1
+SteelDefectX/pu_39,SteelDefectX-DET\IMAGES\Punching\pu_39.jpg,0.052449044591726016,0,AUTO-ACCEPT,uncertainty 0.052 <= calibrated threshold 0.173,1
+SteelDefectX/pu_390,SteelDefectX-DET\IMAGES\Punching\pu_390.jpg,0.06001817503846788,0,AUTO-ACCEPT,uncertainty 0.060 <= calibrated threshold 0.173,1
+SteelDefectX/pu_391,SteelDefectX-DET\IMAGES\Punching\pu_391.jpg,0.055871266702517686,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_392,SteelDefectX-DET\IMAGES\Punching\pu_392.jpg,0.05768760441577943,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/pu_396,SteelDefectX-DET\IMAGES\Punching\pu_396.jpg,0.056005963816728545,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_397,SteelDefectX-DET\IMAGES\Punching\pu_397.jpg,0.07857794638103323,0,AUTO-ACCEPT,uncertainty 0.079 <= calibrated threshold 0.173,1
+SteelDefectX/pu_44,SteelDefectX-DET\IMAGES\Punching\pu_44.jpg,0.05113613504353811,0,AUTO-ACCEPT,uncertainty 0.051 <= calibrated threshold 0.173,1
+SteelDefectX/pu_48,SteelDefectX-DET\IMAGES\Punching\pu_48.jpg,0.053673442281808204,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_60,SteelDefectX-DET\IMAGES\Punching\pu_60.jpg,0.05408839949143402,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.173,1
+SteelDefectX/pu_61,SteelDefectX-DET\IMAGES\Punching\pu_61.jpg,0.057779576780235764,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/pu_62,SteelDefectX-DET\IMAGES\Punching\pu_62.jpg,0.058699459845364045,0,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,1
+SteelDefectX/pu_66,SteelDefectX-DET\IMAGES\Punching\pu_66.jpg,0.05606463232652781,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/pu_73,SteelDefectX-DET\IMAGES\Punching\pu_73.jpg,0.05515523059590311,0,AUTO-ACCEPT,uncertainty 0.055 <= calibrated threshold 0.173,1
+SteelDefectX/pu_76,SteelDefectX-DET\IMAGES\Punching\pu_76.jpg,0.051117617936748724,0,AUTO-ACCEPT,uncertainty 0.051 <= calibrated threshold 0.173,1
+SteelDefectX/pu_78,SteelDefectX-DET\IMAGES\Punching\pu_78.jpg,0.05158019570629026,0,AUTO-ACCEPT,uncertainty 0.052 <= calibrated threshold 0.173,1
+SteelDefectX/pu_79,SteelDefectX-DET\IMAGES\Punching\pu_79.jpg,0.05512492357720678,0,AUTO-ACCEPT,uncertainty 0.055 <= calibrated threshold 0.173,1
+SteelDefectX/pu_84,SteelDefectX-DET\IMAGES\Punching\pu_84.jpg,0.064902601479863,0,AUTO-ACCEPT,uncertainty 0.065 <= calibrated threshold 0.173,1
+SteelDefectX/pu_85,SteelDefectX-DET\IMAGES\Punching\pu_85.jpg,0.05250051358526422,0,AUTO-ACCEPT,uncertainty 0.053 <= calibrated threshold 0.173,1
+SteelDefectX/pu_96,SteelDefectX-DET\IMAGES\Punching\pu_96.jpg,0.05925098128406617,0,AUTO-ACCEPT,uncertainty 0.059 <= calibrated threshold 0.173,1
+SteelDefectX/ris_06,SteelDefectX-DET\IMAGES\Red iron sheet\ris_06.jpg,0.9374669089648319,1,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.173; near-threshold box at conf 0.21,8
+SteelDefectX/ris_07,SteelDefectX-DET\IMAGES\Red iron sheet\ris_07.jpg,0.9732897611025808,1,MANUAL-REVIEW,uncertainty 0.973 > threshold 0.173; near-threshold box at conf 0.23,10
+SteelDefectX/ris_105,SteelDefectX-DET\IMAGES\Red iron sheet\ris_105.jpg,0.7851801175306707,1,MANUAL-REVIEW,uncertainty 0.785 > threshold 0.173,6
+SteelDefectX/ris_107,SteelDefectX-DET\IMAGES\Red iron sheet\ris_107.jpg,0.9533498600775084,1,MANUAL-REVIEW,uncertainty 0.953 > threshold 0.173; near-threshold box at conf 0.22,6
+SteelDefectX/ris_112,SteelDefectX-DET\IMAGES\Red iron sheet\ris_112.jpg,0.9655346549219567,1,MANUAL-REVIEW,uncertainty 0.966 > threshold 0.173; near-threshold box at conf 0.23,3
+SteelDefectX/ris_115,SteelDefectX-DET\IMAGES\Red iron sheet\ris_115.jpg,0.98257687438632,1,MANUAL-REVIEW,uncertainty 0.983 > threshold 0.173,9
+SteelDefectX/ris_116,SteelDefectX-DET\IMAGES\Red iron sheet\ris_116.jpg,0.9836367995799362,1,MANUAL-REVIEW,uncertainty 0.984 > threshold 0.173,8
+SteelDefectX/ris_12,SteelDefectX-DET\IMAGES\Red iron sheet\ris_12.jpg,0.9268250295759931,1,MANUAL-REVIEW,uncertainty 0.927 > threshold 0.173; near-threshold box at conf 0.23,10
+SteelDefectX/ris_121,SteelDefectX-DET\IMAGES\Red iron sheet\ris_121.jpg,0.9797506577177224,1,MANUAL-REVIEW,uncertainty 0.980 > threshold 0.173; near-threshold box at conf 0.22,7
+SteelDefectX/ris_131,SteelDefectX-DET\IMAGES\Red iron sheet\ris_131.jpg,0.348876252811985,1,MANUAL-REVIEW,uncertainty 0.349 > threshold 0.173,2
+SteelDefectX/ris_134,SteelDefectX-DET\IMAGES\Red iron sheet\ris_134.jpg,0.33177394244542935,1,MANUAL-REVIEW,uncertainty 0.332 > threshold 0.173,6
+SteelDefectX/ris_138,SteelDefectX-DET\IMAGES\Red iron sheet\ris_138.jpg,0.9840696311414683,1,MANUAL-REVIEW,uncertainty 0.984 > threshold 0.173; near-threshold box at conf 0.22,6
+SteelDefectX/ris_14,SteelDefectX-DET\IMAGES\Red iron sheet\ris_14.jpg,0.8770685128609774,1,MANUAL-REVIEW,uncertainty 0.877 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/ris_150,SteelDefectX-DET\IMAGES\Red iron sheet\ris_150.jpg,0.8058938888878335,1,MANUAL-REVIEW,uncertainty 0.806 > threshold 0.173,9
+SteelDefectX/ris_182,SteelDefectX-DET\IMAGES\Red iron sheet\ris_182.jpg,0.3310793221182303,1,MANUAL-REVIEW,uncertainty 0.331 > threshold 0.173,3
+SteelDefectX/ris_191,SteelDefectX-DET\IMAGES\Red iron sheet\ris_191.jpg,0.9944285881217643,1,MANUAL-REVIEW,uncertainty 0.994 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/ris_192,SteelDefectX-DET\IMAGES\Red iron sheet\ris_192.jpg,0.8395239772802199,0,MANUAL-REVIEW,uncertainty 0.840 > threshold 0.173,8
+SteelDefectX/ris_229,SteelDefectX-DET\IMAGES\Red iron sheet\ris_229.jpg,0.9761744856122347,1,MANUAL-REVIEW,uncertainty 0.976 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/ris_24,SteelDefectX-DET\IMAGES\Red iron sheet\ris_24.jpg,0.903282003292349,1,MANUAL-REVIEW,uncertainty 0.903 > threshold 0.173,9
+SteelDefectX/ris_240,SteelDefectX-DET\IMAGES\Red iron sheet\ris_240.jpg,0.9699329922604853,1,MANUAL-REVIEW,uncertainty 0.970 > threshold 0.173,9
+SteelDefectX/ris_257,SteelDefectX-DET\IMAGES\Red iron sheet\ris_257.jpg,0.9679359713815594,1,MANUAL-REVIEW,uncertainty 0.968 > threshold 0.173; near-threshold box at conf 0.24,10
+SteelDefectX/ris_258,SteelDefectX-DET\IMAGES\Red iron sheet\ris_258.jpg,0.988952968147376,1,MANUAL-REVIEW,uncertainty 0.989 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/ris_260,SteelDefectX-DET\IMAGES\Red iron sheet\ris_260.jpg,0.9109129766702788,1,MANUAL-REVIEW,uncertainty 0.911 > threshold 0.173,6
+SteelDefectX/ris_263,SteelDefectX-DET\IMAGES\Red iron sheet\ris_263.jpg,0.9956919211462267,1,MANUAL-REVIEW,uncertainty 0.996 > threshold 0.173; near-threshold box at conf 0.24,5
+SteelDefectX/ris_265,SteelDefectX-DET\IMAGES\Red iron sheet\ris_265.jpg,0.983006385967344,1,MANUAL-REVIEW,uncertainty 0.983 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/ris_274,SteelDefectX-DET\IMAGES\Red iron sheet\ris_274.jpg,0.9501270523672762,1,MANUAL-REVIEW,uncertainty 0.950 > threshold 0.173,10
+SteelDefectX/ris_277,SteelDefectX-DET\IMAGES\Red iron sheet\ris_277.jpg,0.681924068891049,0,MANUAL-REVIEW,uncertainty 0.682 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/ris_278,SteelDefectX-DET\IMAGES\Red iron sheet\ris_278.jpg,0.6730708078821881,1,MANUAL-REVIEW,uncertainty 0.673 > threshold 0.173,2
+SteelDefectX/ris_28,SteelDefectX-DET\IMAGES\Red iron sheet\ris_28.jpg,0.955367440530957,1,MANUAL-REVIEW,uncertainty 0.955 > threshold 0.173,9
+SteelDefectX/ris_288,SteelDefectX-DET\IMAGES\Red iron sheet\ris_288.jpg,0.9513768507190627,1,MANUAL-REVIEW,uncertainty 0.951 > threshold 0.173; near-threshold box at conf 0.24,3
+SteelDefectX/ris_289,SteelDefectX-DET\IMAGES\Red iron sheet\ris_289.jpg,0.9198647716607362,1,MANUAL-REVIEW,uncertainty 0.920 > threshold 0.173,9
+SteelDefectX/ris_296,SteelDefectX-DET\IMAGES\Red iron sheet\ris_296.jpg,0.9140303182347718,1,MANUAL-REVIEW,uncertainty 0.914 > threshold 0.173; near-threshold box at conf 0.24,6
+SteelDefectX/ris_298,SteelDefectX-DET\IMAGES\Red iron sheet\ris_298.jpg,0.8962526845051576,1,MANUAL-REVIEW,uncertainty 0.896 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/ris_30,SteelDefectX-DET\IMAGES\Red iron sheet\ris_30.jpg,0.967698351570302,1,MANUAL-REVIEW,uncertainty 0.968 > threshold 0.173; near-threshold box at conf 0.20,10
+SteelDefectX/ris_300,SteelDefectX-DET\IMAGES\Red iron sheet\ris_300.jpg,0.9400490413590065,1,MANUAL-REVIEW,uncertainty 0.940 > threshold 0.173; near-threshold box at conf 0.24,7
+SteelDefectX/ris_301,SteelDefectX-DET\IMAGES\Red iron sheet\ris_301.jpg,0.9763030963728765,1,MANUAL-REVIEW,uncertainty 0.976 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/ris_319,SteelDefectX-DET\IMAGES\Red iron sheet\ris_319.jpg,0.8365586209385257,1,MANUAL-REVIEW,uncertainty 0.837 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/ris_324,SteelDefectX-DET\IMAGES\Red iron sheet\ris_324.jpg,0.9870365531527804,1,MANUAL-REVIEW,uncertainty 0.987 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/ris_326,SteelDefectX-DET\IMAGES\Red iron sheet\ris_326.jpg,0.9452591114735269,1,MANUAL-REVIEW,uncertainty 0.945 > threshold 0.173; near-threshold box at conf 0.21,10
+SteelDefectX/ris_340,SteelDefectX-DET\IMAGES\Red iron sheet\ris_340.jpg,0.9230359673609723,1,MANUAL-REVIEW,uncertainty 0.923 > threshold 0.173; near-threshold box at conf 0.21,5
+SteelDefectX/ris_341,SteelDefectX-DET\IMAGES\Red iron sheet\ris_341.jpg,0.8687299499845366,0,MANUAL-REVIEW,uncertainty 0.869 > threshold 0.173; near-threshold box at conf 0.22,7
+SteelDefectX/ris_346,SteelDefectX-DET\IMAGES\Red iron sheet\ris_346.jpg,0.9706491361171141,1,MANUAL-REVIEW,uncertainty 0.971 > threshold 0.173,8
+SteelDefectX/ris_351,SteelDefectX-DET\IMAGES\Red iron sheet\ris_351.jpg,0.9671851861260129,1,MANUAL-REVIEW,uncertainty 0.967 > threshold 0.173; near-threshold box at conf 0.23,10
+SteelDefectX/ris_355,SteelDefectX-DET\IMAGES\Red iron sheet\ris_355.jpg,0.9606345542859278,1,MANUAL-REVIEW,uncertainty 0.961 > threshold 0.173; near-threshold box at conf 0.20,7
+SteelDefectX/ris_363,SteelDefectX-DET\IMAGES\Red iron sheet\ris_363.jpg,0.9657257613293461,1,MANUAL-REVIEW,uncertainty 0.966 > threshold 0.173; near-threshold box at conf 0.22,8
+SteelDefectX/ris_368,SteelDefectX-DET\IMAGES\Red iron sheet\ris_368.jpg,0.8773447776215609,1,MANUAL-REVIEW,uncertainty 0.877 > threshold 0.173; near-threshold box at conf 0.23,4
+SteelDefectX/ris_369,SteelDefectX-DET\IMAGES\Red iron sheet\ris_369.jpg,0.987913629955048,1,MANUAL-REVIEW,uncertainty 0.988 > threshold 0.173,7
+SteelDefectX/ris_378,SteelDefectX-DET\IMAGES\Red iron sheet\ris_378.jpg,0.9934773021424087,1,MANUAL-REVIEW,uncertainty 0.993 > threshold 0.173; near-threshold box at conf 0.24,9
+SteelDefectX/ris_386,SteelDefectX-DET\IMAGES\Red iron sheet\ris_386.jpg,0.9735559968841185,1,MANUAL-REVIEW,uncertainty 0.974 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/ris_393,SteelDefectX-DET\IMAGES\Red iron sheet\ris_393.jpg,0.542096164510178,1,MANUAL-REVIEW,uncertainty 0.542 > threshold 0.173,3
+SteelDefectX/ris_396,SteelDefectX-DET\IMAGES\Red iron sheet\ris_396.jpg,0.8465582864344079,1,MANUAL-REVIEW,uncertainty 0.847 > threshold 0.173; near-threshold box at conf 0.21,5
+SteelDefectX/ris_397,SteelDefectX-DET\IMAGES\Red iron sheet\ris_397.jpg,0.7571732192753017,1,MANUAL-REVIEW,uncertainty 0.757 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/ris_41,SteelDefectX-DET\IMAGES\Red iron sheet\ris_41.jpg,0.9585521426213076,1,MANUAL-REVIEW,uncertainty 0.959 > threshold 0.173; near-threshold box at conf 0.22,10
+SteelDefectX/ris_50,SteelDefectX-DET\IMAGES\Red iron sheet\ris_50.jpg,0.9611703325056381,1,MANUAL-REVIEW,uncertainty 0.961 > threshold 0.173; near-threshold box at conf 0.22,7
+SteelDefectX/ris_54,SteelDefectX-DET\IMAGES\Red iron sheet\ris_54.jpg,0.9224486686886839,1,MANUAL-REVIEW,uncertainty 0.922 > threshold 0.173,10
+SteelDefectX/ris_57,SteelDefectX-DET\IMAGES\Red iron sheet\ris_57.jpg,0.6410717309085349,0,MANUAL-REVIEW,uncertainty 0.641 > threshold 0.173,8
+SteelDefectX/ris_64,SteelDefectX-DET\IMAGES\Red iron sheet\ris_64.jpg,0.9751657578761512,1,MANUAL-REVIEW,uncertainty 0.975 > threshold 0.173; near-threshold box at conf 0.24,7
+SteelDefectX/ris_80,SteelDefectX-DET\IMAGES\Red iron sheet\ris_80.jpg,0.9661880700870593,1,MANUAL-REVIEW,uncertainty 0.966 > threshold 0.173; near-threshold box at conf 0.21,8
+SteelDefectX/ris_84,SteelDefectX-DET\IMAGES\Red iron sheet\ris_84.jpg,0.9661880700870593,1,MANUAL-REVIEW,uncertainty 0.966 > threshold 0.173; near-threshold box at conf 0.21,9
+SteelDefectX/ris_99,SteelDefectX-DET\IMAGES\Red iron sheet\ris_99.jpg,0.9466287741439041,1,MANUAL-REVIEW,uncertainty 0.947 > threshold 0.173; near-threshold box at conf 0.22,7
+SteelDefectX/rs_03,SteelDefectX-DET\IMAGES\Rolled in scale\rs_03.jpg,0.9918460262819117,1,MANUAL-REVIEW,uncertainty 0.992 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/rs_07,SteelDefectX-DET\IMAGES\Rolled in scale\rs_07.jpg,0.9658686996350565,1,MANUAL-REVIEW,uncertainty 0.966 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/rs_08,SteelDefectX-DET\IMAGES\Rolled in scale\rs_08.jpg,0.9749062874048615,1,MANUAL-REVIEW,uncertainty 0.975 > threshold 0.173; near-threshold box at conf 0.20,9
+SteelDefectX/rs_10,SteelDefectX-DET\IMAGES\Rolled in scale\rs_10.jpg,0.9859813613289399,1,MANUAL-REVIEW,uncertainty 0.986 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/rs_111,SteelDefectX-DET\IMAGES\Rolled in scale\rs_111.jpg,0.9835226004359148,1,MANUAL-REVIEW,uncertainty 0.984 > threshold 0.173; near-threshold box at conf 0.23,5
+SteelDefectX/rs_117,SteelDefectX-DET\IMAGES\Rolled in scale\rs_117.jpg,0.9958278733772343,1,MANUAL-REVIEW,uncertainty 0.996 > threshold 0.173; near-threshold box at conf 0.21,10
+SteelDefectX/rs_119,SteelDefectX-DET\IMAGES\Rolled in scale\rs_119.jpg,0.9671183899877485,1,MANUAL-REVIEW,uncertainty 0.967 > threshold 0.173; near-threshold box at conf 0.25,6
+SteelDefectX/rs_120,SteelDefectX-DET\IMAGES\Rolled in scale\rs_120.jpg,0.8928896569964614,1,MANUAL-REVIEW,uncertainty 0.893 > threshold 0.173,10
+SteelDefectX/rs_140,SteelDefectX-DET\IMAGES\Rolled in scale\rs_140.jpg,0.6539837753389925,1,MANUAL-REVIEW,uncertainty 0.654 > threshold 0.173; near-threshold box at conf 0.22,5
+SteelDefectX/rs_143,SteelDefectX-DET\IMAGES\Rolled in scale\rs_143.jpg,0.8545493890617366,1,MANUAL-REVIEW,uncertainty 0.855 > threshold 0.173; near-threshold box at conf 0.21,7
+SteelDefectX/rs_153,SteelDefectX-DET\IMAGES\Rolled in scale\rs_153.jpg,0.2894122339553319,1,MANUAL-REVIEW,uncertainty 0.289 > threshold 0.173,2
+SteelDefectX/rs_176,SteelDefectX-DET\IMAGES\Rolled in scale\rs_176.jpg,0.9566913421579235,1,MANUAL-REVIEW,uncertainty 0.957 > threshold 0.173; near-threshold box at conf 0.23,9
+SteelDefectX/rs_192,SteelDefectX-DET\IMAGES\Rolled in scale\rs_192.jpg,0.9713910172398887,1,MANUAL-REVIEW,uncertainty 0.971 > threshold 0.173; near-threshold box at conf 0.22,5
+SteelDefectX/rs_198,SteelDefectX-DET\IMAGES\Rolled in scale\rs_198.jpg,0.9907163309110492,0,MANUAL-REVIEW,uncertainty 0.991 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/rs_199,SteelDefectX-DET\IMAGES\Rolled in scale\rs_199.jpg,0.9354814756635703,1,MANUAL-REVIEW,uncertainty 0.935 > threshold 0.173; near-threshold box at conf 0.21,10
+SteelDefectX/rs_200,SteelDefectX-DET\IMAGES\Rolled in scale\rs_200.jpg,0.7228589249931929,1,MANUAL-REVIEW,uncertainty 0.723 > threshold 0.173; near-threshold box at conf 0.25,8
+SteelDefectX/rs_206,SteelDefectX-DET\IMAGES\Rolled in scale\rs_206.jpg,0.9362360779890249,1,MANUAL-REVIEW,uncertainty 0.936 > threshold 0.173; near-threshold box at conf 0.24,10
+SteelDefectX/rs_209,SteelDefectX-DET\IMAGES\Rolled in scale\rs_209.jpg,0.925406820838913,1,MANUAL-REVIEW,uncertainty 0.925 > threshold 0.173; near-threshold box at conf 0.23,5
+SteelDefectX/rs_210,SteelDefectX-DET\IMAGES\Rolled in scale\rs_210.jpg,0.6807054045768932,1,MANUAL-REVIEW,uncertainty 0.681 > threshold 0.173,3
+SteelDefectX/rs_211,SteelDefectX-DET\IMAGES\Rolled in scale\rs_211.jpg,0.7263500844269537,1,MANUAL-REVIEW,uncertainty 0.726 > threshold 0.173; near-threshold box at conf 0.24,7
+SteelDefectX/rs_222,SteelDefectX-DET\IMAGES\Rolled in scale\rs_222.jpg,0.8496136447168796,1,MANUAL-REVIEW,uncertainty 0.850 > threshold 0.173,3
+SteelDefectX/rs_228,SteelDefectX-DET\IMAGES\Rolled in scale\rs_228.jpg,0.8618523258310449,1,MANUAL-REVIEW,uncertainty 0.862 > threshold 0.173; near-threshold box at conf 0.25,4
+SteelDefectX/rs_233,SteelDefectX-DET\IMAGES\Rolled in scale\rs_233.jpg,0.9691599026175631,1,MANUAL-REVIEW,uncertainty 0.969 > threshold 0.173; near-threshold box at conf 0.24,6
+SteelDefectX/rs_234,SteelDefectX-DET\IMAGES\Rolled in scale\rs_234.jpg,0.9620114260824948,1,MANUAL-REVIEW,uncertainty 0.962 > threshold 0.173; near-threshold box at conf 0.20,8
+SteelDefectX/rs_239,SteelDefectX-DET\IMAGES\Rolled in scale\rs_239.jpg,0.8588160773357046,1,MANUAL-REVIEW,uncertainty 0.859 > threshold 0.173,7
+SteelDefectX/rs_247,SteelDefectX-DET\IMAGES\Rolled in scale\rs_247.jpg,0.9489120351782006,1,MANUAL-REVIEW,uncertainty 0.949 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/rs_258,SteelDefectX-DET\IMAGES\Rolled in scale\rs_258.jpg,0.964027871683375,1,MANUAL-REVIEW,uncertainty 0.964 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/rs_263,SteelDefectX-DET\IMAGES\Rolled in scale\rs_263.jpg,0.981031654029208,1,MANUAL-REVIEW,uncertainty 0.981 > threshold 0.173; near-threshold box at conf 0.25,10
+SteelDefectX/rs_269,SteelDefectX-DET\IMAGES\Rolled in scale\rs_269.jpg,0.9730564127115032,1,MANUAL-REVIEW,uncertainty 0.973 > threshold 0.173; near-threshold box at conf 0.23,10
+SteelDefectX/rs_273,SteelDefectX-DET\IMAGES\Rolled in scale\rs_273.jpg,0.906272921767318,1,MANUAL-REVIEW,uncertainty 0.906 > threshold 0.173,8
+SteelDefectX/rs_278,SteelDefectX-DET\IMAGES\Rolled in scale\rs_278.jpg,0.9748802420393069,1,MANUAL-REVIEW,uncertainty 0.975 > threshold 0.173; near-threshold box at conf 0.25,8
+SteelDefectX/rs_280,SteelDefectX-DET\IMAGES\Rolled in scale\rs_280.jpg,0.9208828275901497,1,MANUAL-REVIEW,uncertainty 0.921 > threshold 0.173; near-threshold box at conf 0.21,7
+SteelDefectX/rs_286,SteelDefectX-DET\IMAGES\Rolled in scale\rs_286.jpg,0.9929241104604564,1,MANUAL-REVIEW,uncertainty 0.993 > threshold 0.173; near-threshold box at conf 0.25,8
+SteelDefectX/rs_293,SteelDefectX-DET\IMAGES\Rolled in scale\rs_293.jpg,0.8875651022066694,1,MANUAL-REVIEW,uncertainty 0.888 > threshold 0.173,6
+SteelDefectX/rs_294,SteelDefectX-DET\IMAGES\Rolled in scale\rs_294.jpg,0.9585021615461462,1,MANUAL-REVIEW,uncertainty 0.959 > threshold 0.173,4
+SteelDefectX/rs_33,SteelDefectX-DET\IMAGES\Rolled in scale\rs_33.jpg,0.9435652248180734,1,MANUAL-REVIEW,uncertainty 0.944 > threshold 0.173,8
+SteelDefectX/rs_34,SteelDefectX-DET\IMAGES\Rolled in scale\rs_34.jpg,0.9580979644341483,1,MANUAL-REVIEW,uncertainty 0.958 > threshold 0.173; near-threshold box at conf 0.24,9
+SteelDefectX/rs_45,SteelDefectX-DET\IMAGES\Rolled in scale\rs_45.jpg,0.9625652866429599,1,MANUAL-REVIEW,uncertainty 0.963 > threshold 0.173; near-threshold box at conf 0.24,10
+SteelDefectX/rs_53,SteelDefectX-DET\IMAGES\Rolled in scale\rs_53.jpg,0.9792190334917091,1,MANUAL-REVIEW,uncertainty 0.979 > threshold 0.173; near-threshold box at conf 0.24,7
+SteelDefectX/rs_61,SteelDefectX-DET\IMAGES\Rolled in scale\rs_61.jpg,0.9111403726930736,1,MANUAL-REVIEW,uncertainty 0.911 > threshold 0.173; near-threshold box at conf 0.20,6
+SteelDefectX/rs_65,SteelDefectX-DET\IMAGES\Rolled in scale\rs_65.jpg,0.944781040222143,1,MANUAL-REVIEW,uncertainty 0.945 > threshold 0.173,10
+SteelDefectX/rs_71,SteelDefectX-DET\IMAGES\Rolled in scale\rs_71.jpg,0.9912557265501324,1,MANUAL-REVIEW,uncertainty 0.991 > threshold 0.173; near-threshold box at conf 0.25,9
+SteelDefectX/rs_86,SteelDefectX-DET\IMAGES\Rolled in scale\rs_86.jpg,0.9743071470917,1,MANUAL-REVIEW,uncertainty 0.974 > threshold 0.173; near-threshold box at conf 0.22,8
+SteelDefectX/rs_90,SteelDefectX-DET\IMAGES\Rolled in scale\rs_90.jpg,0.9161313882813872,1,MANUAL-REVIEW,uncertainty 0.916 > threshold 0.173; near-threshold box at conf 0.20,3
+SteelDefectX/rs_95,SteelDefectX-DET\IMAGES\Rolled in scale\rs_95.jpg,0.9800835365667386,1,MANUAL-REVIEW,uncertainty 0.980 > threshold 0.173; near-threshold box at conf 0.20,4
+SteelDefectX/rp_03,SteelDefectX-DET\IMAGES\Rolled pit\rp_03.jpg,0.23901837181614952,1,MANUAL-REVIEW,uncertainty 0.239 > threshold 0.173,3
+SteelDefectX/rp_25,SteelDefectX-DET\IMAGES\Rolled pit\rp_25.jpg,0.5517376402986761,1,MANUAL-REVIEW,uncertainty 0.552 > threshold 0.173,1
+SteelDefectX/rp_36,SteelDefectX-DET\IMAGES\Rolled pit\rp_36.jpg,0.8231990318810122,1,MANUAL-REVIEW,uncertainty 0.823 > threshold 0.173,2
+SteelDefectX/rp_39,SteelDefectX-DET\IMAGES\Rolled pit\rp_39.jpg,0.8439722280666271,1,MANUAL-REVIEW,uncertainty 0.844 > threshold 0.173; near-threshold box at conf 0.20,2
+SteelDefectX/ds_07,SteelDefectX-DET\IMAGES\Scratches\ds_07.jpg,0.09092243216024395,0,AUTO-ACCEPT,uncertainty 0.091 <= calibrated threshold 0.173,1
+SteelDefectX/ds_08,SteelDefectX-DET\IMAGES\Scratches\ds_08.jpg,0.07682986216901268,0,AUTO-ACCEPT,uncertainty 0.077 <= calibrated threshold 0.173,1
+SteelDefectX/ds_09,SteelDefectX-DET\IMAGES\Scratches\ds_09.jpg,0.07426056425130194,0,AUTO-ACCEPT,uncertainty 0.074 <= calibrated threshold 0.173,1
+SteelDefectX/ds_108,SteelDefectX-DET\IMAGES\Scratches\ds_108.jpg,0.09554921406605192,0,AUTO-ACCEPT,uncertainty 0.096 <= calibrated threshold 0.173,1
+SteelDefectX/ds_116,SteelDefectX-DET\IMAGES\Scratches\ds_116.jpg,0.1280879899006439,0,AUTO-ACCEPT,uncertainty 0.128 <= calibrated threshold 0.173,1
+SteelDefectX/ds_117,SteelDefectX-DET\IMAGES\Scratches\ds_117.jpg,0.6703656976999588,1,MANUAL-REVIEW,uncertainty 0.670 > threshold 0.173; near-threshold box at conf 0.22,1
+SteelDefectX/ds_119,SteelDefectX-DET\IMAGES\Scratches\ds_119.jpg,0.09689588855169999,0,AUTO-ACCEPT,uncertainty 0.097 <= calibrated threshold 0.173,1
+SteelDefectX/ds_12,SteelDefectX-DET\IMAGES\Scratches\ds_12.jpg,0.10935400009338861,0,AUTO-ACCEPT,uncertainty 0.109 <= calibrated threshold 0.173,1
+SteelDefectX/ds_127,SteelDefectX-DET\IMAGES\Scratches\ds_127.jpg,0.14715385196103278,0,AUTO-ACCEPT,uncertainty 0.147 <= calibrated threshold 0.173,1
+SteelDefectX/ds_129,SteelDefectX-DET\IMAGES\Scratches\ds_129.jpg,0.47877675705493306,0,MANUAL-REVIEW,uncertainty 0.479 > threshold 0.173,1
+SteelDefectX/ds_133,SteelDefectX-DET\IMAGES\Scratches\ds_133.jpg,0.41837401570810306,0,MANUAL-REVIEW,uncertainty 0.418 > threshold 0.173,1
+SteelDefectX/ds_135,SteelDefectX-DET\IMAGES\Scratches\ds_135.jpg,0.896192261421804,0,MANUAL-REVIEW,uncertainty 0.896 > threshold 0.173,1
+SteelDefectX/ds_146,SteelDefectX-DET\IMAGES\Scratches\ds_146.jpg,0.24696199630951174,0,MANUAL-REVIEW,uncertainty 0.247 > threshold 0.173,2
+SteelDefectX/ds_153,SteelDefectX-DET\IMAGES\Scratches\ds_153.jpg,0.9558934279391837,1,MANUAL-REVIEW,uncertainty 0.956 > threshold 0.173; near-threshold box at conf 0.22,1
+SteelDefectX/ds_158,SteelDefectX-DET\IMAGES\Scratches\ds_158.jpg,0.37520643542437304,0,MANUAL-REVIEW,uncertainty 0.375 > threshold 0.173,1
+SteelDefectX/ds_16,SteelDefectX-DET\IMAGES\Scratches\ds_16.jpg,0.1526767906080125,0,AUTO-ACCEPT,uncertainty 0.153 <= calibrated threshold 0.173,1
+SteelDefectX/ds_166,SteelDefectX-DET\IMAGES\Scratches\ds_166.jpg,0.1522291624473585,1,AUTO-ACCEPT,uncertainty 0.152 <= calibrated threshold 0.173,3
+SteelDefectX/ds_170,SteelDefectX-DET\IMAGES\Scratches\ds_170.jpg,0.4311083582637054,0,MANUAL-REVIEW,uncertainty 0.431 > threshold 0.173,1
+SteelDefectX/ds_171,SteelDefectX-DET\IMAGES\Scratches\ds_171.jpg,0.3689020825150915,0,MANUAL-REVIEW,uncertainty 0.369 > threshold 0.173,3
+SteelDefectX/ds_188,SteelDefectX-DET\IMAGES\Scratches\ds_188.jpg,0.9207500171417076,0,MANUAL-REVIEW,uncertainty 0.921 > threshold 0.173,2
+SteelDefectX/ds_192,SteelDefectX-DET\IMAGES\Scratches\ds_192.jpg,0.17258772097180292,0,AUTO-ACCEPT,uncertainty 0.173 <= calibrated threshold 0.173,1
+SteelDefectX/ds_194,SteelDefectX-DET\IMAGES\Scratches\ds_194.jpg,0.08456908975941169,0,AUTO-ACCEPT,uncertainty 0.085 <= calibrated threshold 0.173,1
+SteelDefectX/ds_196,SteelDefectX-DET\IMAGES\Scratches\ds_196.jpg,0.1693165871168566,0,AUTO-ACCEPT,uncertainty 0.169 <= calibrated threshold 0.173,1
+SteelDefectX/ds_204,SteelDefectX-DET\IMAGES\Scratches\ds_204.jpg,0.3667832837972937,1,MANUAL-REVIEW,uncertainty 0.367 > threshold 0.173,2
+SteelDefectX/ds_212,SteelDefectX-DET\IMAGES\Scratches\ds_212.jpg,0.14985690110704764,0,AUTO-ACCEPT,uncertainty 0.150 <= calibrated threshold 0.173,1
+SteelDefectX/ds_219,SteelDefectX-DET\IMAGES\Scratches\ds_219.jpg,0.14535865654542846,0,AUTO-ACCEPT,uncertainty 0.145 <= calibrated threshold 0.173,1
+SteelDefectX/ds_222,SteelDefectX-DET\IMAGES\Scratches\ds_222.jpg,0.7283386665437305,0,MANUAL-REVIEW,uncertainty 0.728 > threshold 0.173,2
+SteelDefectX/ds_224,SteelDefectX-DET\IMAGES\Scratches\ds_224.jpg,0.31378584126059605,0,MANUAL-REVIEW,uncertainty 0.314 > threshold 0.173,2
+SteelDefectX/ds_24,SteelDefectX-DET\IMAGES\Scratches\ds_24.jpg,0.12903801662900485,0,AUTO-ACCEPT,uncertainty 0.129 <= calibrated threshold 0.173,1
+SteelDefectX/ds_249,SteelDefectX-DET\IMAGES\Scratches\ds_249.jpg,0.7174545004427986,0,MANUAL-REVIEW,uncertainty 0.717 > threshold 0.173,2
+SteelDefectX/ds_252,SteelDefectX-DET\IMAGES\Scratches\ds_252.jpg,0.6761890762208778,1,MANUAL-REVIEW,uncertainty 0.676 > threshold 0.173,3
+SteelDefectX/ds_254,SteelDefectX-DET\IMAGES\Scratches\ds_254.jpg,0.7507582997652937,1,MANUAL-REVIEW,uncertainty 0.751 > threshold 0.173,3
+SteelDefectX/ds_266,SteelDefectX-DET\IMAGES\Scratches\ds_266.jpg,0.6020582323096189,1,MANUAL-REVIEW,uncertainty 0.602 > threshold 0.173; near-threshold box at conf 0.25,3
+SteelDefectX/ds_27,SteelDefectX-DET\IMAGES\Scratches\ds_27.jpg,0.12183264753687109,0,AUTO-ACCEPT,uncertainty 0.122 <= calibrated threshold 0.173,1
+SteelDefectX/ds_271,SteelDefectX-DET\IMAGES\Scratches\ds_271.jpg,0.13021637410944428,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,1
+SteelDefectX/ds_308,SteelDefectX-DET\IMAGES\Scratches\ds_308.jpg,0.16336852202499536,0,AUTO-ACCEPT,uncertainty 0.163 <= calibrated threshold 0.173,1
+SteelDefectX/ds_315,SteelDefectX-DET\IMAGES\Scratches\ds_315.jpg,0.09868762298298255,0,AUTO-ACCEPT,uncertainty 0.099 <= calibrated threshold 0.173,1
+SteelDefectX/ds_33,SteelDefectX-DET\IMAGES\Scratches\ds_33.jpg,0.10885403220856969,0,AUTO-ACCEPT,uncertainty 0.109 <= calibrated threshold 0.173,1
+SteelDefectX/ds_331,SteelDefectX-DET\IMAGES\Scratches\ds_331.jpg,0.11605488791677063,0,AUTO-ACCEPT,uncertainty 0.116 <= calibrated threshold 0.173,1
+SteelDefectX/ds_34,SteelDefectX-DET\IMAGES\Scratches\ds_34.jpg,0.10394318177299706,0,AUTO-ACCEPT,uncertainty 0.104 <= calibrated threshold 0.173,1
+SteelDefectX/ds_36,SteelDefectX-DET\IMAGES\Scratches\ds_36.jpg,0.28852849221268995,0,MANUAL-REVIEW,uncertainty 0.289 > threshold 0.173,1
+SteelDefectX/ds_50,SteelDefectX-DET\IMAGES\Scratches\ds_50.jpg,0.14133765877007398,0,AUTO-ACCEPT,uncertainty 0.141 <= calibrated threshold 0.173,1
+SteelDefectX/ds_59,SteelDefectX-DET\IMAGES\Scratches\ds_59.jpg,0.09527058846808552,0,AUTO-ACCEPT,uncertainty 0.095 <= calibrated threshold 0.173,1
+SteelDefectX/ds_65,SteelDefectX-DET\IMAGES\Scratches\ds_65.jpg,0.10557129122324899,0,AUTO-ACCEPT,uncertainty 0.106 <= calibrated threshold 0.173,1
+SteelDefectX/ds_68,SteelDefectX-DET\IMAGES\Scratches\ds_68.jpg,0.12685240536369688,0,AUTO-ACCEPT,uncertainty 0.127 <= calibrated threshold 0.173,1
+SteelDefectX/ds_75,SteelDefectX-DET\IMAGES\Scratches\ds_75.jpg,0.1326738289045409,0,AUTO-ACCEPT,uncertainty 0.133 <= calibrated threshold 0.173,1
+SteelDefectX/ds_83,SteelDefectX-DET\IMAGES\Scratches\ds_83.jpg,0.12059752492636817,0,AUTO-ACCEPT,uncertainty 0.121 <= calibrated threshold 0.173,1
+SteelDefectX/ds_95,SteelDefectX-DET\IMAGES\Scratches\ds_95.jpg,0.15005506743715796,0,AUTO-ACCEPT,uncertainty 0.150 <= calibrated threshold 0.173,1
+SteelDefectX/ds_96,SteelDefectX-DET\IMAGES\Scratches\ds_96.jpg,0.1348335406672321,0,AUTO-ACCEPT,uncertainty 0.135 <= calibrated threshold 0.173,1
+SteelDefectX/ds_98,SteelDefectX-DET\IMAGES\Scratches\ds_98.jpg,0.11407213268885506,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_05,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_05.jpg,0.107972310393845,0,AUTO-ACCEPT,uncertainty 0.108 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_107,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_107.jpg,0.12329635444852781,0,AUTO-ACCEPT,uncertainty 0.123 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_108,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_108.jpg,0.5834276876696973,1,MANUAL-REVIEW,uncertainty 0.583 > threshold 0.173; near-threshold box at conf 0.24,3
+SteelDefectX/Srs_119,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_119.jpg,0.11726114921487657,0,AUTO-ACCEPT,uncertainty 0.117 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_121,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_121.jpg,0.05691753909636612,0,AUTO-ACCEPT,uncertainty 0.057 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_155,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_155.jpg,0.2928973502283676,0,MANUAL-REVIEW,uncertainty 0.293 > threshold 0.173,3
+SteelDefectX/Srs_159,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_159.jpg,0.7616315311448374,0,MANUAL-REVIEW,uncertainty 0.762 > threshold 0.173; near-threshold box at conf 0.22,5
+SteelDefectX/Srs_16,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_16.jpg,0.1167142368987334,1,AUTO-ACCEPT,uncertainty 0.117 <= calibrated threshold 0.173,2
+SteelDefectX/Srs_161,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_161.jpg,0.8886822730733052,1,MANUAL-REVIEW,uncertainty 0.889 > threshold 0.173; near-threshold box at conf 0.21,7
+SteelDefectX/Srs_164,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_164.jpg,0.7464826690883685,0,MANUAL-REVIEW,uncertainty 0.746 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/Srs_168,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_168.jpg,0.6997007917332899,1,MANUAL-REVIEW,uncertainty 0.700 > threshold 0.173; near-threshold box at conf 0.23,3
+SteelDefectX/Srs_178,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_178.jpg,0.06562107089636159,0,AUTO-ACCEPT,uncertainty 0.066 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_18,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_18.jpg,0.05580167452847952,0,AUTO-ACCEPT,uncertainty 0.056 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_192,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_192.jpg,0.5215972552497133,1,MANUAL-REVIEW,uncertainty 0.522 > threshold 0.173,3
+SteelDefectX/Srs_193,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_193.jpg,0.1383743585099193,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,2
+SteelDefectX/Srs_194,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_194.jpg,0.061403395243912536,0,AUTO-ACCEPT,uncertainty 0.061 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_196,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_196.jpg,0.2344347728694185,0,MANUAL-REVIEW,uncertainty 0.234 > threshold 0.173,1
+SteelDefectX/Srs_198,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_198.jpg,0.1722900247256172,0,AUTO-ACCEPT,uncertainty 0.172 <= calibrated threshold 0.173,2
+SteelDefectX/Srs_22,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_22.jpg,0.11378045588574015,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.173,2
+SteelDefectX/Srs_26,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_26.jpg,0.13998461982730895,1,AUTO-ACCEPT,uncertainty 0.140 <= calibrated threshold 0.173,2
+SteelDefectX/Srs_31,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_31.jpg,0.0658028419607877,0,AUTO-ACCEPT,uncertainty 0.066 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_41,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_41.jpg,0.7124290341603725,0,MANUAL-REVIEW,uncertainty 0.712 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/Srs_42,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_42.jpg,0.2262559821595203,0,MANUAL-REVIEW,uncertainty 0.226 > threshold 0.173,2
+SteelDefectX/Srs_52,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_52.jpg,0.9112160484687104,1,MANUAL-REVIEW,uncertainty 0.911 > threshold 0.173; near-threshold box at conf 0.25,2
+SteelDefectX/Srs_57,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_57.jpg,0.12418173333514047,0,AUTO-ACCEPT,uncertainty 0.124 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_58,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_58.jpg,0.05800274924494784,0,AUTO-ACCEPT,uncertainty 0.058 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_89,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_89.jpg,0.7360820364102898,1,MANUAL-REVIEW,uncertainty 0.736 > threshold 0.173,1
+SteelDefectX/Srs_90,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_90.jpg,0.06770561544122934,0,AUTO-ACCEPT,uncertainty 0.068 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_91,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_91.jpg,0.1513973193828064,1,AUTO-ACCEPT,uncertainty 0.151 <= calibrated threshold 0.173,1
+SteelDefectX/Srs_98,SteelDefectX-DET\IMAGES\Secondary rust skin\Srs_98.jpg,0.9401355243824057,1,MANUAL-REVIEW,uncertainty 0.940 > threshold 0.173; near-threshold box at conf 0.22,8
+SteelDefectX/ss_16,SteelDefectX-DET\IMAGES\Silk spot\ss_16.jpg,0.870624527524998,1,MANUAL-REVIEW,uncertainty 0.871 > threshold 0.173; near-threshold box at conf 0.21,2
+SteelDefectX/ss_17,SteelDefectX-DET\IMAGES\Silk spot\ss_17.jpg,0.25321002449099494,0,MANUAL-REVIEW,uncertainty 0.253 > threshold 0.173,1
+SteelDefectX/ss_222,SteelDefectX-DET\IMAGES\Silk spot\ss_222.jpg,0.9182491254166534,1,MANUAL-REVIEW,uncertainty 0.918 > threshold 0.173; near-threshold box at conf 0.23,8
+SteelDefectX/ss_223,SteelDefectX-DET\IMAGES\Silk spot\ss_223.jpg,0.9502402290714318,1,MANUAL-REVIEW,uncertainty 0.950 > threshold 0.173; near-threshold box at conf 0.23,3
+SteelDefectX/ss_227,SteelDefectX-DET\IMAGES\Silk spot\ss_227.jpg,0.6698435559382787,0,MANUAL-REVIEW,uncertainty 0.670 > threshold 0.173,1
+SteelDefectX/ss_228,SteelDefectX-DET\IMAGES\Silk spot\ss_228.jpg,0.9819130930932307,1,MANUAL-REVIEW,uncertainty 0.982 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/ss_243,SteelDefectX-DET\IMAGES\Silk spot\ss_243.jpg,0.8930739663200892,1,MANUAL-REVIEW,uncertainty 0.893 > threshold 0.173; near-threshold box at conf 0.21,4
+SteelDefectX/ss_246,SteelDefectX-DET\IMAGES\Silk spot\ss_246.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/ss_26,SteelDefectX-DET\IMAGES\Silk spot\ss_26.jpg,0.9313211012134988,0,MANUAL-REVIEW,uncertainty 0.931 > threshold 0.173,1
+SteelDefectX/ss_297,SteelDefectX-DET\IMAGES\Silk spot\ss_297.jpg,0.8224318119188964,1,MANUAL-REVIEW,uncertainty 0.822 > threshold 0.173,2
+SteelDefectX/ss_298,SteelDefectX-DET\IMAGES\Silk spot\ss_298.jpg,0.8846822778611653,1,MANUAL-REVIEW,uncertainty 0.885 > threshold 0.173; near-threshold box at conf 0.21,4
+SteelDefectX/ss_299,SteelDefectX-DET\IMAGES\Silk spot\ss_299.jpg,0.8293852114950048,1,MANUAL-REVIEW,uncertainty 0.829 > threshold 0.173,6
+SteelDefectX/ss_30,SteelDefectX-DET\IMAGES\Silk spot\ss_30.jpg,0.25321002449099494,0,MANUAL-REVIEW,uncertainty 0.253 > threshold 0.173,1
+SteelDefectX/ss_304,SteelDefectX-DET\IMAGES\Silk spot\ss_304.jpg,0.9742606163826262,1,MANUAL-REVIEW,uncertainty 0.974 > threshold 0.173; near-threshold box at conf 0.21,3
+SteelDefectX/ss_312,SteelDefectX-DET\IMAGES\Silk spot\ss_312.jpg,0.9365552755304826,0,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.173; near-threshold box at conf 0.22,1
+SteelDefectX/ss_313,SteelDefectX-DET\IMAGES\Silk spot\ss_313.jpg,0.8653065203527304,1,MANUAL-REVIEW,uncertainty 0.865 > threshold 0.173; near-threshold box at conf 0.21,9
+SteelDefectX/ss_324,SteelDefectX-DET\IMAGES\Silk spot\ss_324.jpg,0.5982265271145235,0,MANUAL-REVIEW,uncertainty 0.598 > threshold 0.173,3
+SteelDefectX/ss_325,SteelDefectX-DET\IMAGES\Silk spot\ss_325.jpg,0.9903673506741165,1,MANUAL-REVIEW,uncertainty 0.990 > threshold 0.173; near-threshold box at conf 0.24,8
+SteelDefectX/ss_33,SteelDefectX-DET\IMAGES\Silk spot\ss_33.jpg,0.8555356852108107,1,MANUAL-REVIEW,uncertainty 0.856 > threshold 0.173,7
+SteelDefectX/ss_330,SteelDefectX-DET\IMAGES\Silk spot\ss_330.jpg,0.8028852327288118,0,MANUAL-REVIEW,uncertainty 0.803 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/ss_367,SteelDefectX-DET\IMAGES\Silk spot\ss_367.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,9
+SteelDefectX/ss_368,SteelDefectX-DET\IMAGES\Silk spot\ss_368.jpg,0.3591840745166633,0,MANUAL-REVIEW,uncertainty 0.359 > threshold 0.173,1
+SteelDefectX/ss_503,SteelDefectX-DET\IMAGES\Silk spot\ss_503.jpg,0.9689669517726681,1,MANUAL-REVIEW,uncertainty 0.969 > threshold 0.173; near-threshold box at conf 0.25,5
+SteelDefectX/ss_504,SteelDefectX-DET\IMAGES\Silk spot\ss_504.jpg,0.8749925525193342,1,MANUAL-REVIEW,uncertainty 0.875 > threshold 0.173,6
+SteelDefectX/ss_514,SteelDefectX-DET\IMAGES\Silk spot\ss_514.jpg,0.723185058006507,1,MANUAL-REVIEW,uncertainty 0.723 > threshold 0.173,5
+SteelDefectX/ss_517,SteelDefectX-DET\IMAGES\Silk spot\ss_517.jpg,0.31101433121281724,1,MANUAL-REVIEW,uncertainty 0.311 > threshold 0.173,6
+SteelDefectX/ss_518,SteelDefectX-DET\IMAGES\Silk spot\ss_518.jpg,0.49327733645586447,1,MANUAL-REVIEW,uncertainty 0.493 > threshold 0.173,5
+SteelDefectX/ss_519,SteelDefectX-DET\IMAGES\Silk spot\ss_519.jpg,0.9188190179041194,1,MANUAL-REVIEW,uncertainty 0.919 > threshold 0.173,7
+SteelDefectX/ss_520,SteelDefectX-DET\IMAGES\Silk spot\ss_520.jpg,0.16806872437689277,1,AUTO-ACCEPT,uncertainty 0.168 <= calibrated threshold 0.173,3
+SteelDefectX/ss_521,SteelDefectX-DET\IMAGES\Silk spot\ss_521.jpg,0.15679845259008213,1,AUTO-ACCEPT,uncertainty 0.157 <= calibrated threshold 0.173,2
+SteelDefectX/ss_522,SteelDefectX-DET\IMAGES\Silk spot\ss_522.jpg,0.2269356938919923,1,MANUAL-REVIEW,uncertainty 0.227 > threshold 0.173,2
+SteelDefectX/ss_53,SteelDefectX-DET\IMAGES\Silk spot\ss_53.jpg,0.5293045654763299,1,MANUAL-REVIEW,uncertainty 0.529 > threshold 0.173; near-threshold box at conf 0.20,4
+SteelDefectX/ss_577,SteelDefectX-DET\IMAGES\Silk spot\ss_577.jpg,0.6798100783527995,1,MANUAL-REVIEW,uncertainty 0.680 > threshold 0.173,2
+SteelDefectX/ss_578,SteelDefectX-DET\IMAGES\Silk spot\ss_578.jpg,0.6085743382251132,0,MANUAL-REVIEW,uncertainty 0.609 > threshold 0.173,1
+SteelDefectX/ss_89,SteelDefectX-DET\IMAGES\Silk spot\ss_89.jpg,0.8454901708722682,1,MANUAL-REVIEW,uncertainty 0.845 > threshold 0.173,3
+SteelDefectX/si_01,SteelDefectX-DET\IMAGES\Slag inclusion\si_01.jpg,0.8910488156650186,1,MANUAL-REVIEW,uncertainty 0.891 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/si_06,SteelDefectX-DET\IMAGES\Slag inclusion\si_06.jpg,0.09663303524138352,0,AUTO-ACCEPT,uncertainty 0.097 <= calibrated threshold 0.173,1
+SteelDefectX/si_10,SteelDefectX-DET\IMAGES\Slag inclusion\si_10.jpg,0.9277077223165189,1,MANUAL-REVIEW,uncertainty 0.928 > threshold 0.173; near-threshold box at conf 0.23,7
+SteelDefectX/si_100,SteelDefectX-DET\IMAGES\Slag inclusion\si_100.jpg,0.6060344773098993,0,MANUAL-REVIEW,uncertainty 0.606 > threshold 0.173,1
+SteelDefectX/si_107,SteelDefectX-DET\IMAGES\Slag inclusion\si_107.jpg,0.07674851932832422,0,AUTO-ACCEPT,uncertainty 0.077 <= calibrated threshold 0.173,1
+SteelDefectX/si_111,SteelDefectX-DET\IMAGES\Slag inclusion\si_111.jpg,0.32477602572674086,0,MANUAL-REVIEW,uncertainty 0.325 > threshold 0.173,1
+SteelDefectX/si_129,SteelDefectX-DET\IMAGES\Slag inclusion\si_129.jpg,0.8644660189630761,1,MANUAL-REVIEW,uncertainty 0.864 > threshold 0.173; near-threshold box at conf 0.25,5
+SteelDefectX/si_145,SteelDefectX-DET\IMAGES\Slag inclusion\si_145.jpg,0.8297405699450612,1,MANUAL-REVIEW,uncertainty 0.830 > threshold 0.173; near-threshold box at conf 0.25,2
+SteelDefectX/si_150,SteelDefectX-DET\IMAGES\Slag inclusion\si_150.jpg,0.22719217063555672,0,MANUAL-REVIEW,uncertainty 0.227 > threshold 0.173,1
+SteelDefectX/si_160,SteelDefectX-DET\IMAGES\Slag inclusion\si_160.jpg,0.5079026475364845,1,MANUAL-REVIEW,uncertainty 0.508 > threshold 0.173,3
+SteelDefectX/si_163,SteelDefectX-DET\IMAGES\Slag inclusion\si_163.jpg,0.06384152197981105,0,AUTO-ACCEPT,uncertainty 0.064 <= calibrated threshold 0.173,1
+SteelDefectX/si_168,SteelDefectX-DET\IMAGES\Slag inclusion\si_168.jpg,0.26052710853406363,0,MANUAL-REVIEW,uncertainty 0.261 > threshold 0.173,1
+SteelDefectX/si_170,SteelDefectX-DET\IMAGES\Slag inclusion\si_170.jpg,0.3343378939566183,0,MANUAL-REVIEW,uncertainty 0.334 > threshold 0.173,1
+SteelDefectX/si_175,SteelDefectX-DET\IMAGES\Slag inclusion\si_175.jpg,0.18732463708886005,0,MANUAL-REVIEW,uncertainty 0.187 > threshold 0.173,1
+SteelDefectX/si_18,SteelDefectX-DET\IMAGES\Slag inclusion\si_18.jpg,0.2061232397509305,0,MANUAL-REVIEW,uncertainty 0.206 > threshold 0.173,2
+SteelDefectX/si_195,SteelDefectX-DET\IMAGES\Slag inclusion\si_195.jpg,0.6070278391836998,1,MANUAL-REVIEW,uncertainty 0.607 > threshold 0.173,4
+SteelDefectX/si_196,SteelDefectX-DET\IMAGES\Slag inclusion\si_196.jpg,0.504282974051672,1,MANUAL-REVIEW,uncertainty 0.504 > threshold 0.173,2
+SteelDefectX/si_199,SteelDefectX-DET\IMAGES\Slag inclusion\si_199.jpg,0.8003468841215602,0,MANUAL-REVIEW,uncertainty 0.800 > threshold 0.173,2
+SteelDefectX/si_207,SteelDefectX-DET\IMAGES\Slag inclusion\si_207.jpg,0.6594191922915182,1,MANUAL-REVIEW,uncertainty 0.659 > threshold 0.173,4
+SteelDefectX/si_231,SteelDefectX-DET\IMAGES\Slag inclusion\si_231.jpg,0.10343604880926552,1,AUTO-ACCEPT,uncertainty 0.103 <= calibrated threshold 0.173,4
+SteelDefectX/si_235,SteelDefectX-DET\IMAGES\Slag inclusion\si_235.jpg,0.32177788292063525,0,MANUAL-REVIEW,uncertainty 0.322 > threshold 0.173,2
+SteelDefectX/si_31,SteelDefectX-DET\IMAGES\Slag inclusion\si_31.jpg,0.35693500126824396,0,MANUAL-REVIEW,uncertainty 0.357 > threshold 0.173,3
+SteelDefectX/si_43,SteelDefectX-DET\IMAGES\Slag inclusion\si_43.jpg,0.7284321972437191,1,MANUAL-REVIEW,uncertainty 0.728 > threshold 0.173; near-threshold box at conf 0.25,2
+SteelDefectX/si_47,SteelDefectX-DET\IMAGES\Slag inclusion\si_47.jpg,0.1177369670430428,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,1
+SteelDefectX/si_48,SteelDefectX-DET\IMAGES\Slag inclusion\si_48.jpg,0.9247515460460771,1,MANUAL-REVIEW,uncertainty 0.925 > threshold 0.173; near-threshold box at conf 0.20,7
+SteelDefectX/si_49,SteelDefectX-DET\IMAGES\Slag inclusion\si_49.jpg,0.6215053848876019,0,MANUAL-REVIEW,uncertainty 0.622 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/si_53,SteelDefectX-DET\IMAGES\Slag inclusion\si_53.jpg,0.0899472048517883,0,AUTO-ACCEPT,uncertainty 0.090 <= calibrated threshold 0.173,1
+SteelDefectX/si_59,SteelDefectX-DET\IMAGES\Slag inclusion\si_59.jpg,0.5028542139507725,0,MANUAL-REVIEW,uncertainty 0.503 > threshold 0.173,1
+SteelDefectX/si_64,SteelDefectX-DET\IMAGES\Slag inclusion\si_64.jpg,0.5272446861597875,1,MANUAL-REVIEW,uncertainty 0.527 > threshold 0.173,3
+SteelDefectX/si_78,SteelDefectX-DET\IMAGES\Slag inclusion\si_78.jpg,0.07478440946908335,0,AUTO-ACCEPT,uncertainty 0.075 <= calibrated threshold 0.173,1
+SteelDefectX/si_84,SteelDefectX-DET\IMAGES\Slag inclusion\si_84.jpg,0.2505322697118217,1,MANUAL-REVIEW,uncertainty 0.251 > threshold 0.173,2
+SteelDefectX/si_86,SteelDefectX-DET\IMAGES\Slag inclusion\si_86.jpg,0.44711066140879346,1,MANUAL-REVIEW,uncertainty 0.447 > threshold 0.173,3
+SteelDefectX/si_87,SteelDefectX-DET\IMAGES\Slag inclusion\si_87.jpg,0.2432491895647138,1,MANUAL-REVIEW,uncertainty 0.243 > threshold 0.173,3
+SteelDefectX/si_88,SteelDefectX-DET\IMAGES\Slag inclusion\si_88.jpg,0.2190378999392032,0,MANUAL-REVIEW,uncertainty 0.219 > threshold 0.173,2
+SteelDefectX/si_90,SteelDefectX-DET\IMAGES\Slag inclusion\si_90.jpg,0.10089143064178512,0,AUTO-ACCEPT,uncertainty 0.101 <= calibrated threshold 0.173,1
+SteelDefectX/si_95,SteelDefectX-DET\IMAGES\Slag inclusion\si_95.jpg,0.4818377453899878,1,MANUAL-REVIEW,uncertainty 0.482 > threshold 0.173,3
+SteelDefectX/wf_19,SteelDefectX-DET\IMAGES\Waist folding\wf_19.jpg,0.9365064073762437,1,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.173; near-threshold box at conf 0.20,6
+SteelDefectX/wf_52,SteelDefectX-DET\IMAGES\Waist folding\wf_52.jpg,0.19265403194820213,0,MANUAL-REVIEW,uncertainty 0.193 > threshold 0.173,1
+SteelDefectX/ws_06,SteelDefectX-DET\IMAGES\Water spot\ws_06.jpg,0.4101303466359218,0,MANUAL-REVIEW,uncertainty 0.410 > threshold 0.173,1
+SteelDefectX/ws_102,SteelDefectX-DET\IMAGES\Water spot\ws_102.jpg,0.1703916787144863,0,AUTO-ACCEPT,uncertainty 0.170 <= calibrated threshold 0.173,1
+SteelDefectX/ws_112,SteelDefectX-DET\IMAGES\Water spot\ws_112.jpg,0.2066339788979186,0,MANUAL-REVIEW,uncertainty 0.207 > threshold 0.173,2
+SteelDefectX/ws_125,SteelDefectX-DET\IMAGES\Water spot\ws_125.jpg,0.2597745354032948,0,MANUAL-REVIEW,uncertainty 0.260 > threshold 0.173,2
+SteelDefectX/ws_134,SteelDefectX-DET\IMAGES\Water spot\ws_134.jpg,0.32955325846072653,0,MANUAL-REVIEW,uncertainty 0.330 > threshold 0.173,3
+SteelDefectX/ws_15,SteelDefectX-DET\IMAGES\Water spot\ws_15.jpg,0.2640957394852718,1,MANUAL-REVIEW,uncertainty 0.264 > threshold 0.173,2
+SteelDefectX/ws_151,SteelDefectX-DET\IMAGES\Water spot\ws_151.jpg,0.15313426247935072,0,AUTO-ACCEPT,uncertainty 0.153 <= calibrated threshold 0.173,1
+SteelDefectX/ws_153,SteelDefectX-DET\IMAGES\Water spot\ws_153.jpg,0.21190606447501398,1,MANUAL-REVIEW,uncertainty 0.212 > threshold 0.173,2
+SteelDefectX/ws_160,SteelDefectX-DET\IMAGES\Water spot\ws_160.jpg,0.2820892588060026,1,MANUAL-REVIEW,uncertainty 0.282 > threshold 0.173,2
+SteelDefectX/ws_161,SteelDefectX-DET\IMAGES\Water spot\ws_161.jpg,0.1312583245563961,0,AUTO-ACCEPT,uncertainty 0.131 <= calibrated threshold 0.173,1
+SteelDefectX/ws_168,SteelDefectX-DET\IMAGES\Water spot\ws_168.jpg,0.40650473420724115,0,MANUAL-REVIEW,uncertainty 0.407 > threshold 0.173,2
+SteelDefectX/ws_17,SteelDefectX-DET\IMAGES\Water spot\ws_17.jpg,0.17046308803970592,0,AUTO-ACCEPT,uncertainty 0.170 <= calibrated threshold 0.173,1
+SteelDefectX/ws_177,SteelDefectX-DET\IMAGES\Water spot\ws_177.jpg,0.410648516173194,0,MANUAL-REVIEW,uncertainty 0.411 > threshold 0.173,1
+SteelDefectX/ws_185,SteelDefectX-DET\IMAGES\Water spot\ws_185.jpg,0.13440714937809572,0,AUTO-ACCEPT,uncertainty 0.134 <= calibrated threshold 0.173,1
+SteelDefectX/ws_186,SteelDefectX-DET\IMAGES\Water spot\ws_186.jpg,0.19899593698516188,0,MANUAL-REVIEW,uncertainty 0.199 > threshold 0.173,1
+SteelDefectX/ws_194,SteelDefectX-DET\IMAGES\Water spot\ws_194.jpg,0.2921001884918502,0,MANUAL-REVIEW,uncertainty 0.292 > threshold 0.173,2
+SteelDefectX/ws_195,SteelDefectX-DET\IMAGES\Water spot\ws_195.jpg,0.12425656620760513,0,AUTO-ACCEPT,uncertainty 0.124 <= calibrated threshold 0.173,1
+SteelDefectX/ws_199,SteelDefectX-DET\IMAGES\Water spot\ws_199.jpg,0.14020400203219893,0,AUTO-ACCEPT,uncertainty 0.140 <= calibrated threshold 0.173,1
+SteelDefectX/ws_20,SteelDefectX-DET\IMAGES\Water spot\ws_20.jpg,0.1375651941919981,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,1
+SteelDefectX/ws_205,SteelDefectX-DET\IMAGES\Water spot\ws_205.jpg,0.12455586750577079,0,AUTO-ACCEPT,uncertainty 0.125 <= calibrated threshold 0.173,1
+SteelDefectX/ws_206,SteelDefectX-DET\IMAGES\Water spot\ws_206.jpg,0.18809656985098602,0,MANUAL-REVIEW,uncertainty 0.188 > threshold 0.173,1
+SteelDefectX/ws_216,SteelDefectX-DET\IMAGES\Water spot\ws_216.jpg,0.27762968907246355,0,MANUAL-REVIEW,uncertainty 0.278 > threshold 0.173,1
+SteelDefectX/ws_219,SteelDefectX-DET\IMAGES\Water spot\ws_219.jpg,0.17259381725968367,0,AUTO-ACCEPT,uncertainty 0.173 <= calibrated threshold 0.173,1
+SteelDefectX/ws_229,SteelDefectX-DET\IMAGES\Water spot\ws_229.jpg,0.10719086098793137,0,AUTO-ACCEPT,uncertainty 0.107 <= calibrated threshold 0.173,1
+SteelDefectX/ws_233,SteelDefectX-DET\IMAGES\Water spot\ws_233.jpg,0.2398854392861127,0,MANUAL-REVIEW,uncertainty 0.240 > threshold 0.173,1
+SteelDefectX/ws_24,SteelDefectX-DET\IMAGES\Water spot\ws_24.jpg,0.16082097893710107,1,AUTO-ACCEPT,uncertainty 0.161 <= calibrated threshold 0.173,2
+SteelDefectX/ws_251,SteelDefectX-DET\IMAGES\Water spot\ws_251.jpg,0.11475294352193662,0,AUTO-ACCEPT,uncertainty 0.115 <= calibrated threshold 0.173,1
+SteelDefectX/ws_257,SteelDefectX-DET\IMAGES\Water spot\ws_257.jpg,0.5237526555133406,0,MANUAL-REVIEW,uncertainty 0.524 > threshold 0.173,1
+SteelDefectX/ws_259,SteelDefectX-DET\IMAGES\Water spot\ws_259.jpg,0.11846248383251028,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,1
+SteelDefectX/ws_277,SteelDefectX-DET\IMAGES\Water spot\ws_277.jpg,0.1539003456376771,0,AUTO-ACCEPT,uncertainty 0.154 <= calibrated threshold 0.173,1
+SteelDefectX/ws_285,SteelDefectX-DET\IMAGES\Water spot\ws_285.jpg,0.11959378942462093,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,1
+SteelDefectX/ws_289,SteelDefectX-DET\IMAGES\Water spot\ws_289.jpg,0.6764612026611816,1,MANUAL-REVIEW,uncertainty 0.676 > threshold 0.173,3
+SteelDefectX/ws_291,SteelDefectX-DET\IMAGES\Water spot\ws_291.jpg,0.9952286856971883,1,MANUAL-REVIEW,uncertainty 0.995 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/ws_292,SteelDefectX-DET\IMAGES\Water spot\ws_292.jpg,0.9787786507936307,1,MANUAL-REVIEW,uncertainty 0.979 > threshold 0.173,1
+SteelDefectX/ws_293,SteelDefectX-DET\IMAGES\Water spot\ws_293.jpg,0.5410072775361209,1,MANUAL-REVIEW,uncertainty 0.541 > threshold 0.173,3
+SteelDefectX/ws_299,SteelDefectX-DET\IMAGES\Water spot\ws_299.jpg,0.613528699411569,1,MANUAL-REVIEW,uncertainty 0.614 > threshold 0.173,3
+SteelDefectX/ws_310,SteelDefectX-DET\IMAGES\Water spot\ws_310.jpg,0.7905116669495419,0,MANUAL-REVIEW,uncertainty 0.791 > threshold 0.173,4
+SteelDefectX/ws_311,SteelDefectX-DET\IMAGES\Water spot\ws_311.jpg,0.3542791709812015,0,MANUAL-REVIEW,uncertainty 0.354 > threshold 0.173,1
+SteelDefectX/ws_34,SteelDefectX-DET\IMAGES\Water spot\ws_34.jpg,0.7785007577218808,1,MANUAL-REVIEW,uncertainty 0.779 > threshold 0.173; near-threshold box at conf 0.20,4
+SteelDefectX/ws_342,SteelDefectX-DET\IMAGES\Water spot\ws_342.jpg,0.3276168854376354,0,MANUAL-REVIEW,uncertainty 0.328 > threshold 0.173,1
+SteelDefectX/ws_35,SteelDefectX-DET\IMAGES\Water spot\ws_35.jpg,0.7469906039949525,1,MANUAL-REVIEW,uncertainty 0.747 > threshold 0.173; near-threshold box at conf 0.22,3
+SteelDefectX/ws_369,SteelDefectX-DET\IMAGES\Water spot\ws_369.jpg,0.12993836040024073,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,2
+SteelDefectX/ws_373,SteelDefectX-DET\IMAGES\Water spot\ws_373.jpg,0.7126767948492563,1,MANUAL-REVIEW,uncertainty 0.713 > threshold 0.173,4
+SteelDefectX/ws_374,SteelDefectX-DET\IMAGES\Water spot\ws_374.jpg,0.24986178724913263,1,MANUAL-REVIEW,uncertainty 0.250 > threshold 0.173,2
+SteelDefectX/ws_390,SteelDefectX-DET\IMAGES\Water spot\ws_390.jpg,0.3782638220958516,0,MANUAL-REVIEW,uncertainty 0.378 > threshold 0.173,2
+SteelDefectX/ws_422,SteelDefectX-DET\IMAGES\Water spot\ws_422.jpg,0.6642224656468061,0,MANUAL-REVIEW,uncertainty 0.664 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/ws_425,SteelDefectX-DET\IMAGES\Water spot\ws_425.jpg,0.4700810299023749,0,MANUAL-REVIEW,uncertainty 0.470 > threshold 0.173,2
+SteelDefectX/ws_426,SteelDefectX-DET\IMAGES\Water spot\ws_426.jpg,0.9541984924010292,1,MANUAL-REVIEW,uncertainty 0.954 > threshold 0.173; near-threshold box at conf 0.23,2
+SteelDefectX/ws_432,SteelDefectX-DET\IMAGES\Water spot\ws_432.jpg,0.6798500181986031,1,MANUAL-REVIEW,uncertainty 0.680 > threshold 0.173; near-threshold box at conf 0.21,3
+SteelDefectX/ws_437,SteelDefectX-DET\IMAGES\Water spot\ws_437.jpg,0.5708438760912893,1,MANUAL-REVIEW,uncertainty 0.571 > threshold 0.173,2
+SteelDefectX/ws_440,SteelDefectX-DET\IMAGES\Water spot\ws_440.jpg,0.17842312952120265,0,MANUAL-REVIEW,uncertainty 0.178 > threshold 0.173,1
+SteelDefectX/ws_442,SteelDefectX-DET\IMAGES\Water spot\ws_442.jpg,0.43856060983350525,1,MANUAL-REVIEW,uncertainty 0.439 > threshold 0.173,2
+SteelDefectX/ws_444,SteelDefectX-DET\IMAGES\Water spot\ws_444.jpg,0.13526723022131873,0,AUTO-ACCEPT,uncertainty 0.135 <= calibrated threshold 0.173,1
+SteelDefectX/ws_450,SteelDefectX-DET\IMAGES\Water spot\ws_450.jpg,0.18460558902461,0,MANUAL-REVIEW,uncertainty 0.185 > threshold 0.173,1
+SteelDefectX/ws_451,SteelDefectX-DET\IMAGES\Water spot\ws_451.jpg,0.20713297538501418,0,MANUAL-REVIEW,uncertainty 0.207 > threshold 0.173,1
+SteelDefectX/ws_452,SteelDefectX-DET\IMAGES\Water spot\ws_452.jpg,0.4575773201178284,1,MANUAL-REVIEW,uncertainty 0.458 > threshold 0.173,1
+SteelDefectX/ws_456,SteelDefectX-DET\IMAGES\Water spot\ws_456.jpg,0.7595401859844763,0,MANUAL-REVIEW,uncertainty 0.760 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/ws_46,SteelDefectX-DET\IMAGES\Water spot\ws_46.jpg,0.07340411402319225,0,AUTO-ACCEPT,uncertainty 0.073 <= calibrated threshold 0.173,2
+SteelDefectX/ws_461,SteelDefectX-DET\IMAGES\Water spot\ws_461.jpg,0.08675689304163746,0,AUTO-ACCEPT,uncertainty 0.087 <= calibrated threshold 0.173,1
+SteelDefectX/ws_468,SteelDefectX-DET\IMAGES\Water spot\ws_468.jpg,0.7361173726293797,0,MANUAL-REVIEW,uncertainty 0.736 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/ws_470,SteelDefectX-DET\IMAGES\Water spot\ws_470.jpg,0.7666211185069982,0,MANUAL-REVIEW,uncertainty 0.767 > threshold 0.173,1
+SteelDefectX/ws_475,SteelDefectX-DET\IMAGES\Water spot\ws_475.jpg,0.18049149356878,0,MANUAL-REVIEW,uncertainty 0.180 > threshold 0.173,1
+SteelDefectX/ws_484,SteelDefectX-DET\IMAGES\Water spot\ws_484.jpg,0.24201337394075953,0,MANUAL-REVIEW,uncertainty 0.242 > threshold 0.173,2
+SteelDefectX/ws_49,SteelDefectX-DET\IMAGES\Water spot\ws_49.jpg,0.3758333602050979,1,MANUAL-REVIEW,uncertainty 0.376 > threshold 0.173,2
+SteelDefectX/ws_497,SteelDefectX-DET\IMAGES\Water spot\ws_497.jpg,0.8636393752924213,1,MANUAL-REVIEW,uncertainty 0.864 > threshold 0.173; near-threshold box at conf 0.21,4
+SteelDefectX/ws_508,SteelDefectX-DET\IMAGES\Water spot\ws_508.jpg,0.4307760775779338,0,MANUAL-REVIEW,uncertainty 0.431 > threshold 0.173,1
+SteelDefectX/ws_513,SteelDefectX-DET\IMAGES\Water spot\ws_513.jpg,0.15826868220462045,0,AUTO-ACCEPT,uncertainty 0.158 <= calibrated threshold 0.173,1
+SteelDefectX/ws_515,SteelDefectX-DET\IMAGES\Water spot\ws_515.jpg,0.45021611647745313,0,MANUAL-REVIEW,uncertainty 0.450 > threshold 0.173,1
+SteelDefectX/ws_520,SteelDefectX-DET\IMAGES\Water spot\ws_520.jpg,0.20517268262067462,0,MANUAL-REVIEW,uncertainty 0.205 > threshold 0.173,2
+SteelDefectX/ws_528,SteelDefectX-DET\IMAGES\Water spot\ws_528.jpg,0.1289984634793577,1,AUTO-ACCEPT,uncertainty 0.129 <= calibrated threshold 0.173,2
+SteelDefectX/ws_529,SteelDefectX-DET\IMAGES\Water spot\ws_529.jpg,0.1742410033551626,0,MANUAL-REVIEW,uncertainty 0.174 > threshold 0.173,1
+SteelDefectX/ws_530,SteelDefectX-DET\IMAGES\Water spot\ws_530.jpg,0.10318911360434888,0,AUTO-ACCEPT,uncertainty 0.103 <= calibrated threshold 0.173,1
+SteelDefectX/ws_539,SteelDefectX-DET\IMAGES\Water spot\ws_539.jpg,0.09625889435910044,1,AUTO-ACCEPT,uncertainty 0.096 <= calibrated threshold 0.173,2
+SteelDefectX/ws_543,SteelDefectX-DET\IMAGES\Water spot\ws_543.jpg,0.48133637559602893,1,MANUAL-REVIEW,uncertainty 0.481 > threshold 0.173,4
+SteelDefectX/ws_544,SteelDefectX-DET\IMAGES\Water spot\ws_544.jpg,0.16307809412259386,0,AUTO-ACCEPT,uncertainty 0.163 <= calibrated threshold 0.173,1
+SteelDefectX/ws_55,SteelDefectX-DET\IMAGES\Water spot\ws_55.jpg,0.14912517820351293,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.173,1
+SteelDefectX/ws_558,SteelDefectX-DET\IMAGES\Water spot\ws_558.jpg,0.765548245607561,0,MANUAL-REVIEW,uncertainty 0.766 > threshold 0.173; near-threshold box at conf 0.24,1
+SteelDefectX/ws_559,SteelDefectX-DET\IMAGES\Water spot\ws_559.jpg,0.777595694292415,1,MANUAL-REVIEW,uncertainty 0.778 > threshold 0.173,5
+SteelDefectX/ws_568,SteelDefectX-DET\IMAGES\Water spot\ws_568.jpg,0.723426363922048,1,MANUAL-REVIEW,uncertainty 0.723 > threshold 0.173,4
+SteelDefectX/ws_573,SteelDefectX-DET\IMAGES\Water spot\ws_573.jpg,0.11099835315611638,0,AUTO-ACCEPT,uncertainty 0.111 <= calibrated threshold 0.173,1
+SteelDefectX/ws_592,SteelDefectX-DET\IMAGES\Water spot\ws_592.jpg,0.4839865333739761,0,MANUAL-REVIEW,uncertainty 0.484 > threshold 0.173,1
+SteelDefectX/ws_599,SteelDefectX-DET\IMAGES\Water spot\ws_599.jpg,0.9316471587002575,1,MANUAL-REVIEW,uncertainty 0.932 > threshold 0.173,9
+SteelDefectX/ws_60,SteelDefectX-DET\IMAGES\Water spot\ws_60.jpg,0.7690663443885546,0,MANUAL-REVIEW,uncertainty 0.769 > threshold 0.173; near-threshold box at conf 0.25,2
+SteelDefectX/ws_601,SteelDefectX-DET\IMAGES\Water spot\ws_601.jpg,0.9174084523056237,1,MANUAL-REVIEW,uncertainty 0.917 > threshold 0.173; near-threshold box at conf 0.24,9
+SteelDefectX/ws_603,SteelDefectX-DET\IMAGES\Water spot\ws_603.jpg,0.10878110795478096,0,AUTO-ACCEPT,uncertainty 0.109 <= calibrated threshold 0.173,1
+SteelDefectX/ws_61,SteelDefectX-DET\IMAGES\Water spot\ws_61.jpg,0.9876091673046342,0,MANUAL-REVIEW,uncertainty 0.988 > threshold 0.173,4
+SteelDefectX/ws_610,SteelDefectX-DET\IMAGES\Water spot\ws_610.jpg,0.467191117810883,0,MANUAL-REVIEW,uncertainty 0.467 > threshold 0.173,1
+SteelDefectX/ws_618,SteelDefectX-DET\IMAGES\Water spot\ws_618.jpg,0.8075788998681792,1,MANUAL-REVIEW,uncertainty 0.808 > threshold 0.173,5
+SteelDefectX/ws_635,SteelDefectX-DET\IMAGES\Water spot\ws_635.jpg,0.8834206454044439,1,MANUAL-REVIEW,uncertainty 0.883 > threshold 0.173; near-threshold box at conf 0.25,5
+SteelDefectX/ws_636,SteelDefectX-DET\IMAGES\Water spot\ws_636.jpg,0.5273408690926278,0,MANUAL-REVIEW,uncertainty 0.527 > threshold 0.173,1
+SteelDefectX/ws_639,SteelDefectX-DET\IMAGES\Water spot\ws_639.jpg,0.9563923562080697,1,MANUAL-REVIEW,uncertainty 0.956 > threshold 0.173,2
+SteelDefectX/ws_642,SteelDefectX-DET\IMAGES\Water spot\ws_642.jpg,0.23027887276125095,1,MANUAL-REVIEW,uncertainty 0.230 > threshold 0.173,2
+SteelDefectX/ws_647,SteelDefectX-DET\IMAGES\Water spot\ws_647.jpg,0.3526000324205473,0,MANUAL-REVIEW,uncertainty 0.353 > threshold 0.173,1
+SteelDefectX/ws_675,SteelDefectX-DET\IMAGES\Water spot\ws_675.jpg,0.4797570187273233,0,MANUAL-REVIEW,uncertainty 0.480 > threshold 0.173,2
+SteelDefectX/ws_676,SteelDefectX-DET\IMAGES\Water spot\ws_676.jpg,0.6570165585926374,1,MANUAL-REVIEW,uncertainty 0.657 > threshold 0.173,2
+SteelDefectX/ws_690,SteelDefectX-DET\IMAGES\Water spot\ws_690.jpg,0.09261474943840081,0,AUTO-ACCEPT,uncertainty 0.093 <= calibrated threshold 0.173,1
+SteelDefectX/ws_696,SteelDefectX-DET\IMAGES\Water spot\ws_696.jpg,0.13583790224420045,0,AUTO-ACCEPT,uncertainty 0.136 <= calibrated threshold 0.173,2
+SteelDefectX/ws_697,SteelDefectX-DET\IMAGES\Water spot\ws_697.jpg,0.08755615633667643,0,AUTO-ACCEPT,uncertainty 0.088 <= calibrated threshold 0.173,1
+SteelDefectX/ws_700,SteelDefectX-DET\IMAGES\Water spot\ws_700.jpg,0.06814949831991668,0,AUTO-ACCEPT,uncertainty 0.068 <= calibrated threshold 0.173,1
+SteelDefectX/ws_72,SteelDefectX-DET\IMAGES\Water spot\ws_72.jpg,0.12190960239545698,0,AUTO-ACCEPT,uncertainty 0.122 <= calibrated threshold 0.173,1
+SteelDefectX/ws_78,SteelDefectX-DET\IMAGES\Water spot\ws_78.jpg,0.8206807656501894,0,MANUAL-REVIEW,uncertainty 0.821 > threshold 0.173; near-threshold box at conf 0.21,1
+SteelDefectX/ws_80,SteelDefectX-DET\IMAGES\Water spot\ws_80.jpg,0.9141508174261328,1,MANUAL-REVIEW,uncertainty 0.914 > threshold 0.173; near-threshold box at conf 0.21,3
+SteelDefectX/ws_83,SteelDefectX-DET\IMAGES\Water spot\ws_83.jpg,0.1719449118184076,0,AUTO-ACCEPT,uncertainty 0.172 <= calibrated threshold 0.173,1
+SteelDefectX/ws_87,SteelDefectX-DET\IMAGES\Water spot\ws_87.jpg,0.732878824269687,0,MANUAL-REVIEW,uncertainty 0.733 > threshold 0.173,2
+SteelDefectX/ws_92,SteelDefectX-DET\IMAGES\Water spot\ws_92.jpg,0.21442497494307936,0,MANUAL-REVIEW,uncertainty 0.214 > threshold 0.173,1
+SteelDefectX/wl_02,SteelDefectX-DET\IMAGES\Welding line\wl_02.jpg,0.17135007572685435,0,AUTO-ACCEPT,uncertainty 0.171 <= calibrated threshold 0.173,1
+SteelDefectX/wl_04,SteelDefectX-DET\IMAGES\Welding line\wl_04.jpg,0.14477604722319723,0,AUTO-ACCEPT,uncertainty 0.145 <= calibrated threshold 0.173,1
+SteelDefectX/wl_06,SteelDefectX-DET\IMAGES\Welding line\wl_06.jpg,0.32976364390602403,0,MANUAL-REVIEW,uncertainty 0.330 > threshold 0.173,1
+SteelDefectX/wl_07,SteelDefectX-DET\IMAGES\Welding line\wl_07.jpg,0.14341369716130298,0,AUTO-ACCEPT,uncertainty 0.143 <= calibrated threshold 0.173,1
+SteelDefectX/wl_101,SteelDefectX-DET\IMAGES\Welding line\wl_101.jpg,0.1377655739814768,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,1
+SteelDefectX/wl_107,SteelDefectX-DET\IMAGES\Welding line\wl_107.jpg,0.1420317418468005,0,AUTO-ACCEPT,uncertainty 0.142 <= calibrated threshold 0.173,1
+SteelDefectX/wl_108,SteelDefectX-DET\IMAGES\Welding line\wl_108.jpg,0.49948130748237773,0,MANUAL-REVIEW,uncertainty 0.499 > threshold 0.173,1
+SteelDefectX/wl_109,SteelDefectX-DET\IMAGES\Welding line\wl_109.jpg,0.46114872095246734,0,MANUAL-REVIEW,uncertainty 0.461 > threshold 0.173,1
+SteelDefectX/wl_11,SteelDefectX-DET\IMAGES\Welding line\wl_11.jpg,0.11381309130173757,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.173,1
+SteelDefectX/wl_110,SteelDefectX-DET\IMAGES\Welding line\wl_110.jpg,0.1588843044743167,0,AUTO-ACCEPT,uncertainty 0.159 <= calibrated threshold 0.173,1
+SteelDefectX/wl_111,SteelDefectX-DET\IMAGES\Welding line\wl_111.jpg,0.13816687047411197,1,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,2
+SteelDefectX/wl_114,SteelDefectX-DET\IMAGES\Welding line\wl_114.jpg,0.2777654763198064,0,MANUAL-REVIEW,uncertainty 0.278 > threshold 0.173,1
+SteelDefectX/wl_115,SteelDefectX-DET\IMAGES\Welding line\wl_115.jpg,0.24136761139184124,0,MANUAL-REVIEW,uncertainty 0.241 > threshold 0.173,1
+SteelDefectX/wl_116,SteelDefectX-DET\IMAGES\Welding line\wl_116.jpg,0.21819659458849375,0,MANUAL-REVIEW,uncertainty 0.218 > threshold 0.173,1
+SteelDefectX/wl_117,SteelDefectX-DET\IMAGES\Welding line\wl_117.jpg,0.24562353717078986,0,MANUAL-REVIEW,uncertainty 0.246 > threshold 0.173,1
+SteelDefectX/wl_118,SteelDefectX-DET\IMAGES\Welding line\wl_118.jpg,0.6270539612401291,0,MANUAL-REVIEW,uncertainty 0.627 > threshold 0.173,1
+SteelDefectX/wl_119,SteelDefectX-DET\IMAGES\Welding line\wl_119.jpg,0.22804667145848123,0,MANUAL-REVIEW,uncertainty 0.228 > threshold 0.173,1
+SteelDefectX/wl_12,SteelDefectX-DET\IMAGES\Welding line\wl_12.jpg,0.24281970299110003,0,MANUAL-REVIEW,uncertainty 0.243 > threshold 0.173,1
+SteelDefectX/wl_120,SteelDefectX-DET\IMAGES\Welding line\wl_120.jpg,0.3475216550433618,0,MANUAL-REVIEW,uncertainty 0.348 > threshold 0.173,1
+SteelDefectX/wl_122,SteelDefectX-DET\IMAGES\Welding line\wl_122.jpg,0.3628617835545086,0,MANUAL-REVIEW,uncertainty 0.363 > threshold 0.173,1
+SteelDefectX/wl_123,SteelDefectX-DET\IMAGES\Welding line\wl_123.jpg,0.3309077989926326,0,MANUAL-REVIEW,uncertainty 0.331 > threshold 0.173,1
+SteelDefectX/wl_124,SteelDefectX-DET\IMAGES\Welding line\wl_124.jpg,0.1330927792142343,0,AUTO-ACCEPT,uncertainty 0.133 <= calibrated threshold 0.173,1
+SteelDefectX/wl_126,SteelDefectX-DET\IMAGES\Welding line\wl_126.jpg,0.7206238781898676,0,MANUAL-REVIEW,uncertainty 0.721 > threshold 0.173,1
+SteelDefectX/wl_127,SteelDefectX-DET\IMAGES\Welding line\wl_127.jpg,0.14643515646761712,1,AUTO-ACCEPT,uncertainty 0.146 <= calibrated threshold 0.173,2
+SteelDefectX/wl_129,SteelDefectX-DET\IMAGES\Welding line\wl_129.jpg,0.1666958630438396,0,AUTO-ACCEPT,uncertainty 0.167 <= calibrated threshold 0.173,1
+SteelDefectX/wl_132,SteelDefectX-DET\IMAGES\Welding line\wl_132.jpg,0.2269106491796221,0,MANUAL-REVIEW,uncertainty 0.227 > threshold 0.173,1
+SteelDefectX/wl_134,SteelDefectX-DET\IMAGES\Welding line\wl_134.jpg,0.21947971275146144,0,MANUAL-REVIEW,uncertainty 0.219 > threshold 0.173,1
+SteelDefectX/wl_138,SteelDefectX-DET\IMAGES\Welding line\wl_138.jpg,0.2272741120754389,0,MANUAL-REVIEW,uncertainty 0.227 > threshold 0.173,1
+SteelDefectX/wl_139,SteelDefectX-DET\IMAGES\Welding line\wl_139.jpg,0.3634275700607858,0,MANUAL-REVIEW,uncertainty 0.363 > threshold 0.173,1
+SteelDefectX/wl_140,SteelDefectX-DET\IMAGES\Welding line\wl_140.jpg,0.15582527724803596,0,AUTO-ACCEPT,uncertainty 0.156 <= calibrated threshold 0.173,1
+SteelDefectX/wl_141,SteelDefectX-DET\IMAGES\Welding line\wl_141.jpg,0.5050417434496597,0,MANUAL-REVIEW,uncertainty 0.505 > threshold 0.173,1
+SteelDefectX/wl_142,SteelDefectX-DET\IMAGES\Welding line\wl_142.jpg,0.14213125154607237,0,AUTO-ACCEPT,uncertainty 0.142 <= calibrated threshold 0.173,1
+SteelDefectX/wl_144,SteelDefectX-DET\IMAGES\Welding line\wl_144.jpg,0.18186060502014592,0,MANUAL-REVIEW,uncertainty 0.182 > threshold 0.173,1
+SteelDefectX/wl_146,SteelDefectX-DET\IMAGES\Welding line\wl_146.jpg,0.15065347800375414,0,AUTO-ACCEPT,uncertainty 0.151 <= calibrated threshold 0.173,1
+SteelDefectX/wl_147,SteelDefectX-DET\IMAGES\Welding line\wl_147.jpg,0.16180227672359337,0,AUTO-ACCEPT,uncertainty 0.162 <= calibrated threshold 0.173,1
+SteelDefectX/wl_150,SteelDefectX-DET\IMAGES\Welding line\wl_150.jpg,0.2328229234619251,0,MANUAL-REVIEW,uncertainty 0.233 > threshold 0.173,1
+SteelDefectX/wl_151,SteelDefectX-DET\IMAGES\Welding line\wl_151.jpg,0.21521472899156005,0,MANUAL-REVIEW,uncertainty 0.215 > threshold 0.173,1
+SteelDefectX/wl_152,SteelDefectX-DET\IMAGES\Welding line\wl_152.jpg,0.1545899072773625,0,AUTO-ACCEPT,uncertainty 0.155 <= calibrated threshold 0.173,1
+SteelDefectX/wl_154,SteelDefectX-DET\IMAGES\Welding line\wl_154.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_155,SteelDefectX-DET\IMAGES\Welding line\wl_155.jpg,0.1491273528479584,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.173,1
+SteelDefectX/wl_156,SteelDefectX-DET\IMAGES\Welding line\wl_156.jpg,0.39927288108472164,0,MANUAL-REVIEW,uncertainty 0.399 > threshold 0.173,1
+SteelDefectX/wl_16,SteelDefectX-DET\IMAGES\Welding line\wl_16.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_160,SteelDefectX-DET\IMAGES\Welding line\wl_160.jpg,0.3021584319703121,0,MANUAL-REVIEW,uncertainty 0.302 > threshold 0.173,1
+SteelDefectX/wl_161,SteelDefectX-DET\IMAGES\Welding line\wl_161.jpg,0.14752744980788174,0,AUTO-ACCEPT,uncertainty 0.148 <= calibrated threshold 0.173,1
+SteelDefectX/wl_162,SteelDefectX-DET\IMAGES\Welding line\wl_162.jpg,0.3740876758742262,0,MANUAL-REVIEW,uncertainty 0.374 > threshold 0.173,1
+SteelDefectX/wl_163,SteelDefectX-DET\IMAGES\Welding line\wl_163.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_165,SteelDefectX-DET\IMAGES\Welding line\wl_165.jpg,0.40554239695194977,0,MANUAL-REVIEW,uncertainty 0.406 > threshold 0.173,1
+SteelDefectX/wl_166,SteelDefectX-DET\IMAGES\Welding line\wl_166.jpg,0.11786347529827525,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,1
+SteelDefectX/wl_171,SteelDefectX-DET\IMAGES\Welding line\wl_171.jpg,0.20524052932100967,0,MANUAL-REVIEW,uncertainty 0.205 > threshold 0.173,1
+SteelDefectX/wl_174,SteelDefectX-DET\IMAGES\Welding line\wl_174.jpg,0.31638229102323595,0,MANUAL-REVIEW,uncertainty 0.316 > threshold 0.173,1
+SteelDefectX/wl_175,SteelDefectX-DET\IMAGES\Welding line\wl_175.jpg,0.1142258740656626,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.173,1
+SteelDefectX/wl_176,SteelDefectX-DET\IMAGES\Welding line\wl_176.jpg,0.11382097356264352,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.173,1
+SteelDefectX/wl_177,SteelDefectX-DET\IMAGES\Welding line\wl_177.jpg,0.19121395728462123,0,MANUAL-REVIEW,uncertainty 0.191 > threshold 0.173,1
+SteelDefectX/wl_18,SteelDefectX-DET\IMAGES\Welding line\wl_18.jpg,0.3624061439938722,0,MANUAL-REVIEW,uncertainty 0.362 > threshold 0.173,1
+SteelDefectX/wl_182,SteelDefectX-DET\IMAGES\Welding line\wl_182.jpg,0.6485165997196148,0,MANUAL-REVIEW,uncertainty 0.649 > threshold 0.173,1
+SteelDefectX/wl_183,SteelDefectX-DET\IMAGES\Welding line\wl_183.jpg,0.2491156387241753,0,MANUAL-REVIEW,uncertainty 0.249 > threshold 0.173,1
+SteelDefectX/wl_184,SteelDefectX-DET\IMAGES\Welding line\wl_184.jpg,0.17330741643807063,0,MANUAL-REVIEW,uncertainty 0.173 > threshold 0.173,1
+SteelDefectX/wl_186,SteelDefectX-DET\IMAGES\Welding line\wl_186.jpg,0.1421430790357432,0,AUTO-ACCEPT,uncertainty 0.142 <= calibrated threshold 0.173,1
+SteelDefectX/wl_187,SteelDefectX-DET\IMAGES\Welding line\wl_187.jpg,0.13650791132144366,0,AUTO-ACCEPT,uncertainty 0.137 <= calibrated threshold 0.173,1
+SteelDefectX/wl_188,SteelDefectX-DET\IMAGES\Welding line\wl_188.jpg,0.12061874987780115,0,AUTO-ACCEPT,uncertainty 0.121 <= calibrated threshold 0.173,1
+SteelDefectX/wl_189,SteelDefectX-DET\IMAGES\Welding line\wl_189.jpg,0.4698217814488337,0,MANUAL-REVIEW,uncertainty 0.470 > threshold 0.173,1
+SteelDefectX/wl_190,SteelDefectX-DET\IMAGES\Welding line\wl_190.jpg,0.2544437476788445,0,MANUAL-REVIEW,uncertainty 0.254 > threshold 0.173,1
+SteelDefectX/wl_193,SteelDefectX-DET\IMAGES\Welding line\wl_193.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_196,SteelDefectX-DET\IMAGES\Welding line\wl_196.jpg,0.23507291009738465,0,MANUAL-REVIEW,uncertainty 0.235 > threshold 0.173,1
+SteelDefectX/wl_200,SteelDefectX-DET\IMAGES\Welding line\wl_200.jpg,0.16112779228982246,0,AUTO-ACCEPT,uncertainty 0.161 <= calibrated threshold 0.173,1
+SteelDefectX/wl_201,SteelDefectX-DET\IMAGES\Welding line\wl_201.jpg,0.1603467276163307,0,AUTO-ACCEPT,uncertainty 0.160 <= calibrated threshold 0.173,1
+SteelDefectX/wl_202,SteelDefectX-DET\IMAGES\Welding line\wl_202.jpg,0.13609403145775362,0,AUTO-ACCEPT,uncertainty 0.136 <= calibrated threshold 0.173,1
+SteelDefectX/wl_205,SteelDefectX-DET\IMAGES\Welding line\wl_205.jpg,0.3048013177572732,0,MANUAL-REVIEW,uncertainty 0.305 > threshold 0.173,1
+SteelDefectX/wl_206,SteelDefectX-DET\IMAGES\Welding line\wl_206.jpg,0.3225680072691395,0,MANUAL-REVIEW,uncertainty 0.323 > threshold 0.173,1
+SteelDefectX/wl_208,SteelDefectX-DET\IMAGES\Welding line\wl_208.jpg,0.37711095547725876,0,MANUAL-REVIEW,uncertainty 0.377 > threshold 0.173,1
+SteelDefectX/wl_21,SteelDefectX-DET\IMAGES\Welding line\wl_21.jpg,0.12062466075551372,0,AUTO-ACCEPT,uncertainty 0.121 <= calibrated threshold 0.173,1
+SteelDefectX/wl_212,SteelDefectX-DET\IMAGES\Welding line\wl_212.jpg,0.6304185074673786,0,MANUAL-REVIEW,uncertainty 0.630 > threshold 0.173,1
+SteelDefectX/wl_213,SteelDefectX-DET\IMAGES\Welding line\wl_213.jpg,0.12434546452891163,0,AUTO-ACCEPT,uncertainty 0.124 <= calibrated threshold 0.173,1
+SteelDefectX/wl_214,SteelDefectX-DET\IMAGES\Welding line\wl_214.jpg,0.11663275217972759,0,AUTO-ACCEPT,uncertainty 0.117 <= calibrated threshold 0.173,1
+SteelDefectX/wl_215,SteelDefectX-DET\IMAGES\Welding line\wl_215.jpg,0.14534851720840772,0,AUTO-ACCEPT,uncertainty 0.145 <= calibrated threshold 0.173,1
+SteelDefectX/wl_217,SteelDefectX-DET\IMAGES\Welding line\wl_217.jpg,0.14187917062003697,0,AUTO-ACCEPT,uncertainty 0.142 <= calibrated threshold 0.173,1
+SteelDefectX/wl_218,SteelDefectX-DET\IMAGES\Welding line\wl_218.jpg,0.15168020406318294,0,AUTO-ACCEPT,uncertainty 0.152 <= calibrated threshold 0.173,1
+SteelDefectX/wl_219,SteelDefectX-DET\IMAGES\Welding line\wl_219.jpg,0.13355327104132425,0,AUTO-ACCEPT,uncertainty 0.134 <= calibrated threshold 0.173,1
+SteelDefectX/wl_220,SteelDefectX-DET\IMAGES\Welding line\wl_220.jpg,0.14940455312360096,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.173,1
+SteelDefectX/wl_221,SteelDefectX-DET\IMAGES\Welding line\wl_221.jpg,0.13732151664099515,0,AUTO-ACCEPT,uncertainty 0.137 <= calibrated threshold 0.173,1
+SteelDefectX/wl_223,SteelDefectX-DET\IMAGES\Welding line\wl_223.jpg,0.1972630152472377,0,MANUAL-REVIEW,uncertainty 0.197 > threshold 0.173,1
+SteelDefectX/wl_224,SteelDefectX-DET\IMAGES\Welding line\wl_224.jpg,0.6327555857387759,0,MANUAL-REVIEW,uncertainty 0.633 > threshold 0.173,1
+SteelDefectX/wl_228,SteelDefectX-DET\IMAGES\Welding line\wl_228.jpg,0.5887263962507162,0,MANUAL-REVIEW,uncertainty 0.589 > threshold 0.173,1
+SteelDefectX/wl_229,SteelDefectX-DET\IMAGES\Welding line\wl_229.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_230,SteelDefectX-DET\IMAGES\Welding line\wl_230.jpg,0.22734731390064794,0,MANUAL-REVIEW,uncertainty 0.227 > threshold 0.173,1
+SteelDefectX/wl_236,SteelDefectX-DET\IMAGES\Welding line\wl_236.jpg,0.1256820049521478,0,AUTO-ACCEPT,uncertainty 0.126 <= calibrated threshold 0.173,1
+SteelDefectX/wl_24,SteelDefectX-DET\IMAGES\Welding line\wl_24.jpg,0.1176649272036747,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.173,1
+SteelDefectX/wl_240,SteelDefectX-DET\IMAGES\Welding line\wl_240.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_241,SteelDefectX-DET\IMAGES\Welding line\wl_241.jpg,0.7274428775145301,0,MANUAL-REVIEW,uncertainty 0.727 > threshold 0.173,1
+SteelDefectX/wl_243,SteelDefectX-DET\IMAGES\Welding line\wl_243.jpg,0.20166713292394609,0,MANUAL-REVIEW,uncertainty 0.202 > threshold 0.173,1
+SteelDefectX/wl_245,SteelDefectX-DET\IMAGES\Welding line\wl_245.jpg,0.7066987017798383,0,MANUAL-REVIEW,uncertainty 0.707 > threshold 0.173; near-threshold box at conf 0.23,1
+SteelDefectX/wl_258,SteelDefectX-DET\IMAGES\Welding line\wl_258.jpg,0.12690122318910238,0,AUTO-ACCEPT,uncertainty 0.127 <= calibrated threshold 0.173,1
+SteelDefectX/wl_260,SteelDefectX-DET\IMAGES\Welding line\wl_260.jpg,0.5733824835081031,0,MANUAL-REVIEW,uncertainty 0.573 > threshold 0.173,1
+SteelDefectX/wl_275,SteelDefectX-DET\IMAGES\Welding line\wl_275.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_279,SteelDefectX-DET\IMAGES\Welding line\wl_279.jpg,0.16582795380193008,0,AUTO-ACCEPT,uncertainty 0.166 <= calibrated threshold 0.173,1
+SteelDefectX/wl_280,SteelDefectX-DET\IMAGES\Welding line\wl_280.jpg,0.11215250366079173,0,AUTO-ACCEPT,uncertainty 0.112 <= calibrated threshold 0.173,1
+SteelDefectX/wl_282,SteelDefectX-DET\IMAGES\Welding line\wl_282.jpg,0.1902592169781824,0,MANUAL-REVIEW,uncertainty 0.190 > threshold 0.173,1
+SteelDefectX/wl_288,SteelDefectX-DET\IMAGES\Welding line\wl_288.jpg,0.1632464751737199,1,AUTO-ACCEPT,uncertainty 0.163 <= calibrated threshold 0.173,1
+SteelDefectX/wl_289,SteelDefectX-DET\IMAGES\Welding line\wl_289.jpg,0.3236235555932653,0,MANUAL-REVIEW,uncertainty 0.324 > threshold 0.173,1
+SteelDefectX/wl_29,SteelDefectX-DET\IMAGES\Welding line\wl_29.jpg,0.751151718214989,1,MANUAL-REVIEW,uncertainty 0.751 > threshold 0.173,1
+SteelDefectX/wl_299,SteelDefectX-DET\IMAGES\Welding line\wl_299.jpg,0.6809543264051561,0,MANUAL-REVIEW,uncertainty 0.681 > threshold 0.173,1
+SteelDefectX/wl_30,SteelDefectX-DET\IMAGES\Welding line\wl_30.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_300,SteelDefectX-DET\IMAGES\Welding line\wl_300.jpg,0.7767554023874358,0,MANUAL-REVIEW,uncertainty 0.777 > threshold 0.173,1
+SteelDefectX/wl_302,SteelDefectX-DET\IMAGES\Welding line\wl_302.jpg,0.3572158379721388,0,MANUAL-REVIEW,uncertainty 0.357 > threshold 0.173,1
+SteelDefectX/wl_303,SteelDefectX-DET\IMAGES\Welding line\wl_303.jpg,0.13472475305999437,1,AUTO-ACCEPT,uncertainty 0.135 <= calibrated threshold 0.173,1
+SteelDefectX/wl_304,SteelDefectX-DET\IMAGES\Welding line\wl_304.jpg,0.20576487780447042,0,MANUAL-REVIEW,uncertainty 0.206 > threshold 0.173,1
+SteelDefectX/wl_305,SteelDefectX-DET\IMAGES\Welding line\wl_305.jpg,0.13819178156151912,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,1
+SteelDefectX/wl_308,SteelDefectX-DET\IMAGES\Welding line\wl_308.jpg,0.21290575068610526,0,MANUAL-REVIEW,uncertainty 0.213 > threshold 0.173,1
+SteelDefectX/wl_309,SteelDefectX-DET\IMAGES\Welding line\wl_309.jpg,0.190405026081424,0,MANUAL-REVIEW,uncertainty 0.190 > threshold 0.173,1
+SteelDefectX/wl_313,SteelDefectX-DET\IMAGES\Welding line\wl_313.jpg,0.2102660497715087,0,MANUAL-REVIEW,uncertainty 0.210 > threshold 0.173,1
+SteelDefectX/wl_314,SteelDefectX-DET\IMAGES\Welding line\wl_314.jpg,0.2367729237095732,0,MANUAL-REVIEW,uncertainty 0.237 > threshold 0.173,1
+SteelDefectX/wl_316,SteelDefectX-DET\IMAGES\Welding line\wl_316.jpg,0.17311533394503262,0,MANUAL-REVIEW,uncertainty 0.173 > threshold 0.173,1
+SteelDefectX/wl_317,SteelDefectX-DET\IMAGES\Welding line\wl_317.jpg,0.17078781449572814,0,AUTO-ACCEPT,uncertainty 0.171 <= calibrated threshold 0.173,1
+SteelDefectX/wl_318,SteelDefectX-DET\IMAGES\Welding line\wl_318.jpg,0.1319527568336972,0,AUTO-ACCEPT,uncertainty 0.132 <= calibrated threshold 0.173,1
+SteelDefectX/wl_32,SteelDefectX-DET\IMAGES\Welding line\wl_32.jpg,0.4276068631138938,0,MANUAL-REVIEW,uncertainty 0.428 > threshold 0.173,1
+SteelDefectX/wl_321,SteelDefectX-DET\IMAGES\Welding line\wl_321.jpg,0.10316123890493206,0,AUTO-ACCEPT,uncertainty 0.103 <= calibrated threshold 0.173,1
+SteelDefectX/wl_322,SteelDefectX-DET\IMAGES\Welding line\wl_322.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_323,SteelDefectX-DET\IMAGES\Welding line\wl_323.jpg,0.24348424371465094,0,MANUAL-REVIEW,uncertainty 0.243 > threshold 0.173,1
+SteelDefectX/wl_325,SteelDefectX-DET\IMAGES\Welding line\wl_325.jpg,0.30231478939497647,0,MANUAL-REVIEW,uncertainty 0.302 > threshold 0.173,1
+SteelDefectX/wl_327,SteelDefectX-DET\IMAGES\Welding line\wl_327.jpg,0.25516377097905085,0,MANUAL-REVIEW,uncertainty 0.255 > threshold 0.173,1
+SteelDefectX/wl_330,SteelDefectX-DET\IMAGES\Welding line\wl_330.jpg,0.14342627317365747,0,AUTO-ACCEPT,uncertainty 0.143 <= calibrated threshold 0.173,1
+SteelDefectX/wl_331,SteelDefectX-DET\IMAGES\Welding line\wl_331.jpg,0.1408117848950529,0,AUTO-ACCEPT,uncertainty 0.141 <= calibrated threshold 0.173,1
+SteelDefectX/wl_333,SteelDefectX-DET\IMAGES\Welding line\wl_333.jpg,0.1427627530102239,0,AUTO-ACCEPT,uncertainty 0.143 <= calibrated threshold 0.173,1
+SteelDefectX/wl_336,SteelDefectX-DET\IMAGES\Welding line\wl_336.jpg,0.13024120354192353,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,1
+SteelDefectX/wl_340,SteelDefectX-DET\IMAGES\Welding line\wl_340.jpg,0.5862187160758817,0,MANUAL-REVIEW,uncertainty 0.586 > threshold 0.173,1
+SteelDefectX/wl_341,SteelDefectX-DET\IMAGES\Welding line\wl_341.jpg,0.32454022908671476,0,MANUAL-REVIEW,uncertainty 0.325 > threshold 0.173,1
+SteelDefectX/wl_343,SteelDefectX-DET\IMAGES\Welding line\wl_343.jpg,0.1429824842644897,0,AUTO-ACCEPT,uncertainty 0.143 <= calibrated threshold 0.173,1
+SteelDefectX/wl_344,SteelDefectX-DET\IMAGES\Welding line\wl_344.jpg,0.47466255043718947,0,MANUAL-REVIEW,uncertainty 0.475 > threshold 0.173,1
+SteelDefectX/wl_345,SteelDefectX-DET\IMAGES\Welding line\wl_345.jpg,0.15482841548285664,0,AUTO-ACCEPT,uncertainty 0.155 <= calibrated threshold 0.173,1
+SteelDefectX/wl_347,SteelDefectX-DET\IMAGES\Welding line\wl_347.jpg,0.17535701526903358,0,MANUAL-REVIEW,uncertainty 0.175 > threshold 0.173,1
+SteelDefectX/wl_349,SteelDefectX-DET\IMAGES\Welding line\wl_349.jpg,0.13594587742084333,0,AUTO-ACCEPT,uncertainty 0.136 <= calibrated threshold 0.173,1
+SteelDefectX/wl_35,SteelDefectX-DET\IMAGES\Welding line\wl_35.jpg,0.25309036978970695,0,MANUAL-REVIEW,uncertainty 0.253 > threshold 0.173,1
+SteelDefectX/wl_352,SteelDefectX-DET\IMAGES\Welding line\wl_352.jpg,0.48277134634035074,0,MANUAL-REVIEW,uncertainty 0.483 > threshold 0.173,1
+SteelDefectX/wl_358,SteelDefectX-DET\IMAGES\Welding line\wl_358.jpg,0.22963585625925606,1,MANUAL-REVIEW,uncertainty 0.230 > threshold 0.173,1
+SteelDefectX/wl_359,SteelDefectX-DET\IMAGES\Welding line\wl_359.jpg,0.1391296521535775,0,AUTO-ACCEPT,uncertainty 0.139 <= calibrated threshold 0.173,1
+SteelDefectX/wl_36,SteelDefectX-DET\IMAGES\Welding line\wl_36.jpg,0.22093492679491117,0,MANUAL-REVIEW,uncertainty 0.221 > threshold 0.173,1
+SteelDefectX/wl_360,SteelDefectX-DET\IMAGES\Welding line\wl_360.jpg,0.1431515936629812,0,AUTO-ACCEPT,uncertainty 0.143 <= calibrated threshold 0.173,1
+SteelDefectX/wl_361,SteelDefectX-DET\IMAGES\Welding line\wl_361.jpg,0.14581622941092023,0,AUTO-ACCEPT,uncertainty 0.146 <= calibrated threshold 0.173,1
+SteelDefectX/wl_362,SteelDefectX-DET\IMAGES\Welding line\wl_362.jpg,0.1463860727812544,0,AUTO-ACCEPT,uncertainty 0.146 <= calibrated threshold 0.173,1
+SteelDefectX/wl_363,SteelDefectX-DET\IMAGES\Welding line\wl_363.jpg,0.14674237547525837,0,AUTO-ACCEPT,uncertainty 0.147 <= calibrated threshold 0.173,1
+SteelDefectX/wl_368,SteelDefectX-DET\IMAGES\Welding line\wl_368.jpg,0.14781714529016252,0,AUTO-ACCEPT,uncertainty 0.148 <= calibrated threshold 0.173,1
+SteelDefectX/wl_37,SteelDefectX-DET\IMAGES\Welding line\wl_37.jpg,0.25226197793306393,0,MANUAL-REVIEW,uncertainty 0.252 > threshold 0.173,1
+SteelDefectX/wl_372,SteelDefectX-DET\IMAGES\Welding line\wl_372.jpg,0.10250323294596005,0,AUTO-ACCEPT,uncertainty 0.103 <= calibrated threshold 0.173,1
+SteelDefectX/wl_376,SteelDefectX-DET\IMAGES\Welding line\wl_376.jpg,0.5192713128155074,0,MANUAL-REVIEW,uncertainty 0.519 > threshold 0.173,1
+SteelDefectX/wl_378,SteelDefectX-DET\IMAGES\Welding line\wl_378.jpg,0.1758306914250426,0,MANUAL-REVIEW,uncertainty 0.176 > threshold 0.173,1
+SteelDefectX/wl_381,SteelDefectX-DET\IMAGES\Welding line\wl_381.jpg,0.16690808605635107,0,AUTO-ACCEPT,uncertainty 0.167 <= calibrated threshold 0.173,1
+SteelDefectX/wl_383,SteelDefectX-DET\IMAGES\Welding line\wl_383.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_388,SteelDefectX-DET\IMAGES\Welding line\wl_388.jpg,0.14148773818410565,0,AUTO-ACCEPT,uncertainty 0.141 <= calibrated threshold 0.173,1
+SteelDefectX/wl_393,SteelDefectX-DET\IMAGES\Welding line\wl_393.jpg,0.13214322223958364,0,AUTO-ACCEPT,uncertainty 0.132 <= calibrated threshold 0.173,1
+SteelDefectX/wl_394,SteelDefectX-DET\IMAGES\Welding line\wl_394.jpg,0.3969104151441811,0,MANUAL-REVIEW,uncertainty 0.397 > threshold 0.173,1
+SteelDefectX/wl_395,SteelDefectX-DET\IMAGES\Welding line\wl_395.jpg,0.40938388968343953,0,MANUAL-REVIEW,uncertainty 0.409 > threshold 0.173,1
+SteelDefectX/wl_396,SteelDefectX-DET\IMAGES\Welding line\wl_396.jpg,0.1472173504293478,0,AUTO-ACCEPT,uncertainty 0.147 <= calibrated threshold 0.173,1
+SteelDefectX/wl_398,SteelDefectX-DET\IMAGES\Welding line\wl_398.jpg,0.891054249072372,0,MANUAL-REVIEW,uncertainty 0.891 > threshold 0.173,1
+SteelDefectX/wl_400,SteelDefectX-DET\IMAGES\Welding line\wl_400.jpg,0.19952728533091338,0,MANUAL-REVIEW,uncertainty 0.200 > threshold 0.173,1
+SteelDefectX/wl_407,SteelDefectX-DET\IMAGES\Welding line\wl_407.jpg,0.40010903935058717,0,MANUAL-REVIEW,uncertainty 0.400 > threshold 0.173,1
+SteelDefectX/wl_409,SteelDefectX-DET\IMAGES\Welding line\wl_409.jpg,0.7290737943092589,0,MANUAL-REVIEW,uncertainty 0.729 > threshold 0.173,1
+SteelDefectX/wl_41,SteelDefectX-DET\IMAGES\Welding line\wl_41.jpg,0.11169373017188004,0,AUTO-ACCEPT,uncertainty 0.112 <= calibrated threshold 0.173,1
+SteelDefectX/wl_411,SteelDefectX-DET\IMAGES\Welding line\wl_411.jpg,0.18688608303379334,0,MANUAL-REVIEW,uncertainty 0.187 > threshold 0.173,1
+SteelDefectX/wl_412,SteelDefectX-DET\IMAGES\Welding line\wl_412.jpg,0.23375232051436362,0,MANUAL-REVIEW,uncertainty 0.234 > threshold 0.173,1
+SteelDefectX/wl_413,SteelDefectX-DET\IMAGES\Welding line\wl_413.jpg,0.22205326411614534,0,MANUAL-REVIEW,uncertainty 0.222 > threshold 0.173,1
+SteelDefectX/wl_416,SteelDefectX-DET\IMAGES\Welding line\wl_416.jpg,0.2710862633379702,0,MANUAL-REVIEW,uncertainty 0.271 > threshold 0.173,1
+SteelDefectX/wl_42,SteelDefectX-DET\IMAGES\Welding line\wl_42.jpg,0.1419981644069915,0,AUTO-ACCEPT,uncertainty 0.142 <= calibrated threshold 0.173,1
+SteelDefectX/wl_424,SteelDefectX-DET\IMAGES\Welding line\wl_424.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_425,SteelDefectX-DET\IMAGES\Welding line\wl_425.jpg,0.1639532835700556,0,AUTO-ACCEPT,uncertainty 0.164 <= calibrated threshold 0.173,1
+SteelDefectX/wl_428,SteelDefectX-DET\IMAGES\Welding line\wl_428.jpg,0.12027007261335249,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,1
+SteelDefectX/wl_432,SteelDefectX-DET\IMAGES\Welding line\wl_432.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_433,SteelDefectX-DET\IMAGES\Welding line\wl_433.jpg,0.3025595997042562,0,MANUAL-REVIEW,uncertainty 0.303 > threshold 0.173,1
+SteelDefectX/wl_434,SteelDefectX-DET\IMAGES\Welding line\wl_434.jpg,0.13373370831313627,0,AUTO-ACCEPT,uncertainty 0.134 <= calibrated threshold 0.173,1
+SteelDefectX/wl_436,SteelDefectX-DET\IMAGES\Welding line\wl_436.jpg,0.34154965974657564,0,MANUAL-REVIEW,uncertainty 0.342 > threshold 0.173,1
+SteelDefectX/wl_441,SteelDefectX-DET\IMAGES\Welding line\wl_441.jpg,0.24230628419360897,0,MANUAL-REVIEW,uncertainty 0.242 > threshold 0.173,1
+SteelDefectX/wl_442,SteelDefectX-DET\IMAGES\Welding line\wl_442.jpg,0.15544754473321357,0,AUTO-ACCEPT,uncertainty 0.155 <= calibrated threshold 0.173,1
+SteelDefectX/wl_443,SteelDefectX-DET\IMAGES\Welding line\wl_443.jpg,0.1494313715736735,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.173,1
+SteelDefectX/wl_449,SteelDefectX-DET\IMAGES\Welding line\wl_449.jpg,0.24413882923867933,0,MANUAL-REVIEW,uncertainty 0.244 > threshold 0.173,1
+SteelDefectX/wl_450,SteelDefectX-DET\IMAGES\Welding line\wl_450.jpg,0.13897706236114948,0,AUTO-ACCEPT,uncertainty 0.139 <= calibrated threshold 0.173,1
+SteelDefectX/wl_452,SteelDefectX-DET\IMAGES\Welding line\wl_452.jpg,0.21496738521759698,0,MANUAL-REVIEW,uncertainty 0.215 > threshold 0.173,1
+SteelDefectX/wl_455,SteelDefectX-DET\IMAGES\Welding line\wl_455.jpg,0.2699983823001684,0,MANUAL-REVIEW,uncertainty 0.270 > threshold 0.173,1
+SteelDefectX/wl_46,SteelDefectX-DET\IMAGES\Welding line\wl_46.jpg,0.14415501512840093,0,AUTO-ACCEPT,uncertainty 0.144 <= calibrated threshold 0.173,1
+SteelDefectX/wl_462,SteelDefectX-DET\IMAGES\Welding line\wl_462.jpg,0.14861587537581344,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.173,1
+SteelDefectX/wl_463,SteelDefectX-DET\IMAGES\Welding line\wl_463.jpg,0.20736395322263462,0,MANUAL-REVIEW,uncertainty 0.207 > threshold 0.173,1
+SteelDefectX/wl_464,SteelDefectX-DET\IMAGES\Welding line\wl_464.jpg,0.32968530313026534,0,MANUAL-REVIEW,uncertainty 0.330 > threshold 0.173,1
+SteelDefectX/wl_465,SteelDefectX-DET\IMAGES\Welding line\wl_465.jpg,0.11972678731190309,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,1
+SteelDefectX/wl_467,SteelDefectX-DET\IMAGES\Welding line\wl_467.jpg,0.16282171826581965,0,AUTO-ACCEPT,uncertainty 0.163 <= calibrated threshold 0.173,1
+SteelDefectX/wl_470,SteelDefectX-DET\IMAGES\Welding line\wl_470.jpg,0.13990283392086456,0,AUTO-ACCEPT,uncertainty 0.140 <= calibrated threshold 0.173,1
+SteelDefectX/wl_472,SteelDefectX-DET\IMAGES\Welding line\wl_472.jpg,0.5277593492356165,0,MANUAL-REVIEW,uncertainty 0.528 > threshold 0.173,1
+SteelDefectX/wl_473,SteelDefectX-DET\IMAGES\Welding line\wl_473.jpg,0.15795490322924055,0,AUTO-ACCEPT,uncertainty 0.158 <= calibrated threshold 0.173,1
+SteelDefectX/wl_474,SteelDefectX-DET\IMAGES\Welding line\wl_474.jpg,0.13770009476058262,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,1
+SteelDefectX/wl_477,SteelDefectX-DET\IMAGES\Welding line\wl_477.jpg,0.12701522368157264,0,AUTO-ACCEPT,uncertainty 0.127 <= calibrated threshold 0.173,1
+SteelDefectX/wl_478,SteelDefectX-DET\IMAGES\Welding line\wl_478.jpg,0.14989764472734737,0,AUTO-ACCEPT,uncertainty 0.150 <= calibrated threshold 0.173,1
+SteelDefectX/wl_482,SteelDefectX-DET\IMAGES\Welding line\wl_482.jpg,0.22016976056979168,0,MANUAL-REVIEW,uncertainty 0.220 > threshold 0.173,1
+SteelDefectX/wl_483,SteelDefectX-DET\IMAGES\Welding line\wl_483.jpg,0.27172965439249597,0,MANUAL-REVIEW,uncertainty 0.272 > threshold 0.173,1
+SteelDefectX/wl_484,SteelDefectX-DET\IMAGES\Welding line\wl_484.jpg,0.22492686900311137,0,MANUAL-REVIEW,uncertainty 0.225 > threshold 0.173,1
+SteelDefectX/wl_485,SteelDefectX-DET\IMAGES\Welding line\wl_485.jpg,0.33773717964997474,0,MANUAL-REVIEW,uncertainty 0.338 > threshold 0.173,1
+SteelDefectX/wl_486,SteelDefectX-DET\IMAGES\Welding line\wl_486.jpg,0.2959351523337979,0,MANUAL-REVIEW,uncertainty 0.296 > threshold 0.173,1
+SteelDefectX/wl_487,SteelDefectX-DET\IMAGES\Welding line\wl_487.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_488,SteelDefectX-DET\IMAGES\Welding line\wl_488.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_49,SteelDefectX-DET\IMAGES\Welding line\wl_49.jpg,0.1295115596956013,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.173,1
+SteelDefectX/wl_493,SteelDefectX-DET\IMAGES\Welding line\wl_493.jpg,0.5037224414125597,0,MANUAL-REVIEW,uncertainty 0.504 > threshold 0.173,1
+SteelDefectX/wl_494,SteelDefectX-DET\IMAGES\Welding line\wl_494.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_495,SteelDefectX-DET\IMAGES\Welding line\wl_495.jpg,0.34929171093819933,0,MANUAL-REVIEW,uncertainty 0.349 > threshold 0.173,1
+SteelDefectX/wl_496,SteelDefectX-DET\IMAGES\Welding line\wl_496.jpg,0.16599082051151445,0,AUTO-ACCEPT,uncertainty 0.166 <= calibrated threshold 0.173,1
+SteelDefectX/wl_497,SteelDefectX-DET\IMAGES\Welding line\wl_497.jpg,0.48180714837452987,0,MANUAL-REVIEW,uncertainty 0.482 > threshold 0.173,1
+SteelDefectX/wl_500,SteelDefectX-DET\IMAGES\Welding line\wl_500.jpg,0.28815651712754015,0,MANUAL-REVIEW,uncertainty 0.288 > threshold 0.173,1
+SteelDefectX/wl_52,SteelDefectX-DET\IMAGES\Welding line\wl_52.jpg,0.13323763863023483,0,AUTO-ACCEPT,uncertainty 0.133 <= calibrated threshold 0.173,1
+SteelDefectX/wl_54,SteelDefectX-DET\IMAGES\Welding line\wl_54.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+SteelDefectX/wl_55,SteelDefectX-DET\IMAGES\Welding line\wl_55.jpg,0.19394427430266822,0,MANUAL-REVIEW,uncertainty 0.194 > threshold 0.173,1
+SteelDefectX/wl_57,SteelDefectX-DET\IMAGES\Welding line\wl_57.jpg,0.11967718293865269,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.173,1
+SteelDefectX/wl_59,SteelDefectX-DET\IMAGES\Welding line\wl_59.jpg,0.27518230771419405,0,MANUAL-REVIEW,uncertainty 0.275 > threshold 0.173,1
+SteelDefectX/wl_62,SteelDefectX-DET\IMAGES\Welding line\wl_62.jpg,0.24262909000499208,0,MANUAL-REVIEW,uncertainty 0.243 > threshold 0.173,1
+SteelDefectX/wl_63,SteelDefectX-DET\IMAGES\Welding line\wl_63.jpg,0.16064320736400287,0,AUTO-ACCEPT,uncertainty 0.161 <= calibrated threshold 0.173,1
+SteelDefectX/wl_67,SteelDefectX-DET\IMAGES\Welding line\wl_67.jpg,0.17198488901193795,0,AUTO-ACCEPT,uncertainty 0.172 <= calibrated threshold 0.173,1
+SteelDefectX/wl_68,SteelDefectX-DET\IMAGES\Welding line\wl_68.jpg,0.11314459986998077,0,AUTO-ACCEPT,uncertainty 0.113 <= calibrated threshold 0.173,1
+SteelDefectX/wl_69,SteelDefectX-DET\IMAGES\Welding line\wl_69.jpg,0.22200445232470017,0,MANUAL-REVIEW,uncertainty 0.222 > threshold 0.173,1
+SteelDefectX/wl_70,SteelDefectX-DET\IMAGES\Welding line\wl_70.jpg,0.12116549414977354,0,AUTO-ACCEPT,uncertainty 0.121 <= calibrated threshold 0.173,1
+SteelDefectX/wl_71,SteelDefectX-DET\IMAGES\Welding line\wl_71.jpg,0.5335800391218455,0,MANUAL-REVIEW,uncertainty 0.534 > threshold 0.173,1
+SteelDefectX/wl_77,SteelDefectX-DET\IMAGES\Welding line\wl_77.jpg,0.27475174973523314,0,MANUAL-REVIEW,uncertainty 0.275 > threshold 0.173,1
+SteelDefectX/wl_79,SteelDefectX-DET\IMAGES\Welding line\wl_79.jpg,0.11383286090635202,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.173,1
+SteelDefectX/wl_80,SteelDefectX-DET\IMAGES\Welding line\wl_80.jpg,0.23435627534991377,0,MANUAL-REVIEW,uncertainty 0.234 > threshold 0.173,1
+SteelDefectX/wl_83,SteelDefectX-DET\IMAGES\Welding line\wl_83.jpg,0.14059684451838803,0,AUTO-ACCEPT,uncertainty 0.141 <= calibrated threshold 0.173,1
+SteelDefectX/wl_84,SteelDefectX-DET\IMAGES\Welding line\wl_84.jpg,0.25170442659095343,0,MANUAL-REVIEW,uncertainty 0.252 > threshold 0.173,1
+SteelDefectX/wl_85,SteelDefectX-DET\IMAGES\Welding line\wl_85.jpg,0.2035486081166975,0,MANUAL-REVIEW,uncertainty 0.204 > threshold 0.173,1
+SteelDefectX/wl_88,SteelDefectX-DET\IMAGES\Welding line\wl_88.jpg,0.17462409584542418,0,MANUAL-REVIEW,uncertainty 0.175 > threshold 0.173,1
+SteelDefectX/wl_89,SteelDefectX-DET\IMAGES\Welding line\wl_89.jpg,0.13767064810350244,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.173,1
+SteelDefectX/wl_90,SteelDefectX-DET\IMAGES\Welding line\wl_90.jpg,0.34056955541637135,0,MANUAL-REVIEW,uncertainty 0.341 > threshold 0.173,1
+SteelDefectX/wl_95,SteelDefectX-DET\IMAGES\Welding line\wl_95.jpg,0.21419659427457075,0,MANUAL-REVIEW,uncertainty 0.214 > threshold 0.173,1
+SteelDefectX/wl_97,SteelDefectX-DET\IMAGES\Welding line\wl_97.jpg,0.39991893324095723,0,MANUAL-REVIEW,uncertainty 0.400 > threshold 0.173,1
+SteelDefectX/wr_121,SteelDefectX-DET\IMAGES\White rust\wr_121.jpg,0.8145629775061876,1,MANUAL-REVIEW,uncertainty 0.815 > threshold 0.173; near-threshold box at conf 0.20,6
+SteelDefectX/wr_123,SteelDefectX-DET\IMAGES\White rust\wr_123.jpg,0.7741950553156984,1,MANUAL-REVIEW,uncertainty 0.774 > threshold 0.173,9
+SteelDefectX/wr_130,SteelDefectX-DET\IMAGES\White rust\wr_130.jpg,0.9257478759873452,1,MANUAL-REVIEW,uncertainty 0.926 > threshold 0.173,9
+SteelDefectX/wr_134,SteelDefectX-DET\IMAGES\White rust\wr_134.jpg,0.7832901161264374,1,MANUAL-REVIEW,uncertainty 0.783 > threshold 0.173; near-threshold box at conf 0.24,5
+SteelDefectX/wr_135,SteelDefectX-DET\IMAGES\White rust\wr_135.jpg,0.9566148166061159,1,MANUAL-REVIEW,uncertainty 0.957 > threshold 0.173; near-threshold box at conf 0.23,6
+SteelDefectX/wr_139,SteelDefectX-DET\IMAGES\White rust\wr_139.jpg,0.7462443042065057,1,MANUAL-REVIEW,uncertainty 0.746 > threshold 0.173; near-threshold box at conf 0.20,6
+SteelDefectX/wr_140,SteelDefectX-DET\IMAGES\White rust\wr_140.jpg,0.7718881212131267,1,MANUAL-REVIEW,uncertainty 0.772 > threshold 0.173,5
+SteelDefectX/wr_141,SteelDefectX-DET\IMAGES\White rust\wr_141.jpg,0.795391783958962,1,MANUAL-REVIEW,uncertainty 0.795 > threshold 0.173,5
+SteelDefectX/wr_142,SteelDefectX-DET\IMAGES\White rust\wr_142.jpg,0.9013785980519291,1,MANUAL-REVIEW,uncertainty 0.901 > threshold 0.173,8
+SteelDefectX/wr_15,SteelDefectX-DET\IMAGES\White rust\wr_15.jpg,0.6145848874478841,0,MANUAL-REVIEW,uncertainty 0.615 > threshold 0.173,1
+SteelDefectX/wr_150,SteelDefectX-DET\IMAGES\White rust\wr_150.jpg,0.6721161914044878,0,MANUAL-REVIEW,uncertainty 0.672 > threshold 0.173,2
+SteelDefectX/wr_151,SteelDefectX-DET\IMAGES\White rust\wr_151.jpg,0.10732249902158293,0,AUTO-ACCEPT,uncertainty 0.107 <= calibrated threshold 0.173,1
+SteelDefectX/wr_20,SteelDefectX-DET\IMAGES\White rust\wr_20.jpg,0.7542898193455293,1,MANUAL-REVIEW,uncertainty 0.754 > threshold 0.173; near-threshold box at conf 0.20,5
+SteelDefectX/wr_26,SteelDefectX-DET\IMAGES\White rust\wr_26.jpg,0.9185312806644301,1,MANUAL-REVIEW,uncertainty 0.919 > threshold 0.173; near-threshold box at conf 0.22,2
+SteelDefectX/wr_32,SteelDefectX-DET\IMAGES\White rust\wr_32.jpg,0.3634712655595913,1,MANUAL-REVIEW,uncertainty 0.363 > threshold 0.173,4
+SteelDefectX/wr_40,SteelDefectX-DET\IMAGES\White rust\wr_40.jpg,0.931136030577145,1,MANUAL-REVIEW,uncertainty 0.931 > threshold 0.173; near-threshold box at conf 0.21,7
+SteelDefectX/wr_45,SteelDefectX-DET\IMAGES\White rust\wr_45.jpg,0.6942914096603312,0,MANUAL-REVIEW,uncertainty 0.694 > threshold 0.173; near-threshold box at conf 0.22,3
+SteelDefectX/wr_55,SteelDefectX-DET\IMAGES\White rust\wr_55.jpg,0.9313887539217904,1,MANUAL-REVIEW,uncertainty 0.931 > threshold 0.173; near-threshold box at conf 0.20,10
+SteelDefectX/wr_70,SteelDefectX-DET\IMAGES\White rust\wr_70.jpg,0.5126348051198264,1,MANUAL-REVIEW,uncertainty 0.513 > threshold 0.173,6
+SteelDefectX/wr_71,SteelDefectX-DET\IMAGES\White rust\wr_71.jpg,0.8607507381879432,1,MANUAL-REVIEW,uncertainty 0.861 > threshold 0.173; near-threshold box at conf 0.21,10
+SteelDefectX/wr_72,SteelDefectX-DET\IMAGES\White rust\wr_72.jpg,0.8478782225140844,0,MANUAL-REVIEW,uncertainty 0.848 > threshold 0.173; near-threshold box at conf 0.22,4
+SteelDefectX/wr_77,SteelDefectX-DET\IMAGES\White rust\wr_77.jpg,0.7825330006697666,1,MANUAL-REVIEW,uncertainty 0.783 > threshold 0.173,7
+SteelDefectX/wr_91,SteelDefectX-DET\IMAGES\White rust\wr_91.jpg,0.40495784068023866,0,MANUAL-REVIEW,uncertainty 0.405 > threshold 0.173,2

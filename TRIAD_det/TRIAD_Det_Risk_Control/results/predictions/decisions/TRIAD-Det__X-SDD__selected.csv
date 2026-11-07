@@ -1,0 +1,204 @@
+id,path,u,loss_any,decision,reason,n_gt
+X-SDD/finishing_roll_printing_6022,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6022.jpg,0.5850165741687917,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/finishing_roll_printing_6028,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6028.jpg,0.7361093342837446,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/finishing_roll_printing_6035,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6035.jpg,0.14126277069059595,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6048,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6048.jpg,0.3866663781043954,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6055,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6055.jpg,0.5498146007620609,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6062,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6062.jpg,0.6475531546800242,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6063,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6063.jpg,0.23348264577150948,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6072,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6072.jpg,0.30171168584448627,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6073,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6073.jpg,0.13787650183708625,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6075,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6075.jpg,0.07903176169819495,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6081,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6081.jpg,0.24012493472219415,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6089,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6089.jpg,0.1710060579154212,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6093,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6093.jpg,0.5220906193289021,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6096,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6096.jpg,0.44796643668788894,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6101,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6101.jpg,0.37804267444118794,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6110,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6110.jpg,0.13443491786992073,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6111,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6111.jpg,0.668571337198923,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6112,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6112.jpg,0.2749356550241011,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6130,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6130.jpg,0.5728046016546279,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/finishing_roll_printing_6134,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6134.jpg,0.12312130436765908,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6136,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6136.jpg,0.06738291622619312,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6146,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6146.jpg,0.32116699152308,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6165,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6165.jpg,0.16589803660113892,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6167,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6167.jpg,0.31745669782217173,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/finishing_roll_printing_6173,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6173.jpg,0.7328346067998697,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/finishing_roll_printing_6183,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6183.jpg,0.1264889258368261,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6185,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6185.jpg,0.6079039584863015,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6193,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6193.jpg,0.07408310851190729,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/finishing_roll_printing_6199,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6199.jpg,0.24558584836219507,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/finishing_roll_printing_6203,X-SDD-DET\IMAGES\finishing roll printing\finishing_roll_printing_6203.jpg,0.10343911307707981,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/iron_sheet_ash_3002,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3002.jpg,0.6435439629938505,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/iron_sheet_ash_3005,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3005.jpg,0.3637683576682105,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/iron_sheet_ash_3011,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3011.jpg,0.051211608050716825,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/iron_sheet_ash_3022,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3022.jpg,0.5422538516856937,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/iron_sheet_ash_3038,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3038.jpg,0.045432822517623185,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3043,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3043.jpg,0.12210263781751686,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3048,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3048.jpg,0.026663620632128585,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3050,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3050.jpg,0.25293600420613765,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3054,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3054.jpg,0.3533531934697952,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/iron_sheet_ash_3062,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3062.jpg,0.06489553882270256,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3066,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3066.jpg,0.016877398442191088,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3071,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3071.jpg,0.10402316690277,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/iron_sheet_ash_3075,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3075.jpg,0.2359751199396233,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/iron_sheet_ash_3077,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3077.jpg,0.035747300377370055,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3080,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3080.jpg,0.5097677563557472,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+X-SDD/iron_sheet_ash_3093,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3093.jpg,0.40890227720032485,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/iron_sheet_ash_3109,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3109.jpg,0.3859998756898568,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/iron_sheet_ash_3116,X-SDD-DET\IMAGES\iron sheet ash\iron_sheet_ash_3116.jpg,0.14120385046882597,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5004,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5004.jpg,0.33345770542366254,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5011,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5011.jpg,0.07986186707857337,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5025,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5025.jpg,0.14310154460424662,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5032,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5032.jpg,0.06723068229525442,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5033,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5033.jpg,0.13799562778436097,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5034,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5034.jpg,0.14750898682560173,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5048,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5048.jpg,0.17366989524274817,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/oxide_scale_of_plate_system_5049,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5049.jpg,0.9999365002640124,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/oxide_scale_of_plate_system_5059,X-SDD-DET\IMAGES\oxide scale of plate system\oxide_scale_of_plate_system_5059.jpg,0.06306791396354679,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/oxide_scale_of_temperature_system_7007,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7007.jpg,0.840668377440601,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/oxide_scale_of_temperature_system_7028,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7028.jpg,0.8659506684425549,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/oxide_scale_of_temperature_system_7040,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7040.jpg,0.7176056857823231,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/oxide_scale_of_temperature_system_7047,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7047.jpg,0.3969335581958812,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7048,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7048.jpg,0.449374107258316,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/oxide_scale_of_temperature_system_7066,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7066.jpg,0.8697461536923061,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/oxide_scale_of_temperature_system_7067,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7067.jpg,0.7549788041735747,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/oxide_scale_of_temperature_system_7068,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7068.jpg,0.6951269752141545,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/oxide_scale_of_temperature_system_7070,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7070.jpg,0.903356223155951,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/oxide_scale_of_temperature_system_7077,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7077.jpg,0.8927887404824509,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/oxide_scale_of_temperature_system_7080,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7080.jpg,0.9514572902460227,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/oxide_scale_of_temperature_system_7089,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7089.jpg,0.9055522327794989,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7114,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7114.jpg,0.9122139292153514,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,13
+X-SDD/oxide_scale_of_temperature_system_7119,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7119.jpg,0.9556983433686878,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7125,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7125.jpg,0.923655552968264,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7128,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7128.jpg,0.9165352595725078,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/oxide_scale_of_temperature_system_7137,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7137.jpg,0.8368164041764394,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7140,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7140.jpg,0.9094335738521019,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/oxide_scale_of_temperature_system_7157,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7157.jpg,0.8539553052987409,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/oxide_scale_of_temperature_system_7163,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7163.jpg,0.7231407646037998,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7164,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7164.jpg,0.9376917563690399,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/oxide_scale_of_temperature_system_7170,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7170.jpg,0.9290949204379298,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/oxide_scale_of_temperature_system_7172,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7172.jpg,0.8844362106412105,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/oxide_scale_of_temperature_system_7175,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7175.jpg,0.8204224479723199,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+X-SDD/oxide_scale_of_temperature_system_7177,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7177.jpg,0.9541662762324321,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/oxide_scale_of_temperature_system_7179,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7179.jpg,0.9116913116297922,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/oxide_scale_of_temperature_system_7180,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7180.jpg,0.850243007851077,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/oxide_scale_of_temperature_system_7187,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7187.jpg,0.7101937686661672,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/oxide_scale_of_temperature_system_7192,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7192.jpg,0.8149205348340816,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/oxide_scale_of_temperature_system_7199,X-SDD-DET\IMAGES\oxide scale of temperature system\oxide_scale_of_temperature_system_7199.jpg,0.8123732742337759,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2006,X-SDD-DET\IMAGES\red iron\red_iron_2006.jpg,0.8749683372395447,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2007,X-SDD-DET\IMAGES\red iron\red_iron_2007.jpg,0.6142884412126064,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2012,X-SDD-DET\IMAGES\red iron\red_iron_2012.jpg,0.7950697573659831,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2014,X-SDD-DET\IMAGES\red iron\red_iron_2014.jpg,0.718111799517341,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2024,X-SDD-DET\IMAGES\red iron\red_iron_2024.jpg,0.9109600035184386,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2028,X-SDD-DET\IMAGES\red iron\red_iron_2028.jpg,0.6986521506753405,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2030,X-SDD-DET\IMAGES\red iron\red_iron_2030.jpg,0.8478417733891283,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2041,X-SDD-DET\IMAGES\red iron\red_iron_2041.jpg,0.8779936232507534,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2050,X-SDD-DET\IMAGES\red iron\red_iron_2050.jpg,0.9500400438105172,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2054,X-SDD-DET\IMAGES\red iron\red_iron_2054.jpg,0.897379771963437,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2057,X-SDD-DET\IMAGES\red iron\red_iron_2057.jpg,0.8924564026712202,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2064,X-SDD-DET\IMAGES\red iron\red_iron_2064.jpg,0.9314177277040997,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2080,X-SDD-DET\IMAGES\red iron\red_iron_2080.jpg,0.7847943298041564,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2084,X-SDD-DET\IMAGES\red iron\red_iron_2084.jpg,0.7847943298041564,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2099,X-SDD-DET\IMAGES\red iron\red_iron_2099.jpg,0.9066853282772207,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2105,X-SDD-DET\IMAGES\red iron\red_iron_2105.jpg,0.7930671971238624,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2107,X-SDD-DET\IMAGES\red iron\red_iron_2107.jpg,0.868487798107987,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2112,X-SDD-DET\IMAGES\red iron\red_iron_2112.jpg,0.8839303697101489,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/red_iron_2115,X-SDD-DET\IMAGES\red iron\red_iron_2115.jpg,0.7999203515703918,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2116,X-SDD-DET\IMAGES\red iron\red_iron_2116.jpg,0.9495594845040947,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2121,X-SDD-DET\IMAGES\red iron\red_iron_2121.jpg,0.9580473950363487,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2131,X-SDD-DET\IMAGES\red iron\red_iron_2131.jpg,0.18340386704255843,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/red_iron_2134,X-SDD-DET\IMAGES\red iron\red_iron_2134.jpg,0.5406177220534666,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2138,X-SDD-DET\IMAGES\red iron\red_iron_2138.jpg,0.8700630399066744,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2150,X-SDD-DET\IMAGES\red iron\red_iron_2150.jpg,0.8836076304562626,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2182,X-SDD-DET\IMAGES\red iron\red_iron_2182.jpg,0.20771320295895682,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/red_iron_2191,X-SDD-DET\IMAGES\red iron\red_iron_2191.jpg,0.9547509032814436,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2192,X-SDD-DET\IMAGES\red iron\red_iron_2192.jpg,0.9274297454837566,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2229,X-SDD-DET\IMAGES\red iron\red_iron_2229.jpg,0.8985535690045747,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2240,X-SDD-DET\IMAGES\red iron\red_iron_2240.jpg,0.9518387463022434,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2257,X-SDD-DET\IMAGES\red iron\red_iron_2257.jpg,0.8921028719426497,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2258,X-SDD-DET\IMAGES\red iron\red_iron_2258.jpg,0.9668258606494166,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2260,X-SDD-DET\IMAGES\red iron\red_iron_2260.jpg,0.9408019254853384,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2263,X-SDD-DET\IMAGES\red iron\red_iron_2263.jpg,0.967702468295654,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+X-SDD/red_iron_2265,X-SDD-DET\IMAGES\red iron\red_iron_2265.jpg,0.9298149927274313,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2274,X-SDD-DET\IMAGES\red iron\red_iron_2274.jpg,0.706114149814028,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2277,X-SDD-DET\IMAGES\red iron\red_iron_2277.jpg,0.48714756578346674,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/red_iron_2278,X-SDD-DET\IMAGES\red iron\red_iron_2278.jpg,0.1436175312630138,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/red_iron_2288,X-SDD-DET\IMAGES\red iron\red_iron_2288.jpg,0.8716826210005272,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/red_iron_2289,X-SDD-DET\IMAGES\red iron\red_iron_2289.jpg,0.9185379926285921,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2296,X-SDD-DET\IMAGES\red iron\red_iron_2296.jpg,0.8937235844379235,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/red_iron_2298,X-SDD-DET\IMAGES\red iron\red_iron_2298.jpg,0.8994752979231864,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2300,X-SDD-DET\IMAGES\red iron\red_iron_2300.jpg,0.9361510787141741,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2301,X-SDD-DET\IMAGES\red iron\red_iron_2301.jpg,0.9506346413425054,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2319,X-SDD-DET\IMAGES\red iron\red_iron_2319.jpg,0.6309901472772358,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2324,X-SDD-DET\IMAGES\red iron\red_iron_2324.jpg,0.9503706244949259,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2326,X-SDD-DET\IMAGES\red iron\red_iron_2326.jpg,0.7368236343551282,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2340,X-SDD-DET\IMAGES\red iron\red_iron_2340.jpg,0.8896997017475866,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+X-SDD/red_iron_2341,X-SDD-DET\IMAGES\red iron\red_iron_2341.jpg,0.6662911607389528,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2346,X-SDD-DET\IMAGES\red iron\red_iron_2346.jpg,0.8558710432953778,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2351,X-SDD-DET\IMAGES\red iron\red_iron_2351.jpg,0.6679365727945518,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2355,X-SDD-DET\IMAGES\red iron\red_iron_2355.jpg,0.9414675256157248,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2363,X-SDD-DET\IMAGES\red iron\red_iron_2363.jpg,0.8793016319039727,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,8
+X-SDD/red_iron_2368,X-SDD-DET\IMAGES\red iron\red_iron_2368.jpg,0.9240981161111139,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/red_iron_2369,X-SDD-DET\IMAGES\red iron\red_iron_2369.jpg,0.8634238320583675,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/red_iron_2378,X-SDD-DET\IMAGES\red iron\red_iron_2378.jpg,0.9093039303289507,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,9
+X-SDD/red_iron_2386,X-SDD-DET\IMAGES\red iron\red_iron_2386.jpg,0.9454564611620854,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,10
+X-SDD/red_iron_2393,X-SDD-DET\IMAGES\red iron\red_iron_2393.jpg,0.6350688158671849,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/red_iron_2396,X-SDD-DET\IMAGES\red iron\red_iron_2396.jpg,0.551604370424953,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+X-SDD/red_iron_2397,X-SDD-DET\IMAGES\red iron\red_iron_2397.jpg,0.39047600140557986,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/slag_inclusion_1001,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1001.jpg,0.6254419899769607,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,6
+X-SDD/slag_inclusion_1006,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1006.jpg,0.0627963316217222,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1010,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1010.jpg,0.6700699803207621,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/slag_inclusion_1018,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1018.jpg,0.3127560679468917,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1031,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1031.jpg,0.5510825110901636,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/slag_inclusion_1043,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1043.jpg,0.36371420954657696,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1047,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1047.jpg,0.04550269196607493,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1048,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1048.jpg,0.8070254538488548,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,7
+X-SDD/slag_inclusion_1049,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1049.jpg,0.22905884505974738,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1053,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1053.jpg,0.1638808719726041,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1059,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1059.jpg,0.14141561515132897,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1064,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1064.jpg,0.43222708321082304,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/slag_inclusion_1078,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1078.jpg,0.05964159167703374,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1084,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1084.jpg,0.3305945154272411,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1086,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1086.jpg,0.384278545979491,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/slag_inclusion_1087,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1087.jpg,0.3235044567557492,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/slag_inclusion_1088,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1088.jpg,0.36623096512406006,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1090,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1090.jpg,0.09839446317987938,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1095,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1095.jpg,0.4464998870309461,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/slag_inclusion_1100,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1100.jpg,0.11396647309452893,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1107,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1107.jpg,0.038562855768691125,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1111,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1111.jpg,0.07812712637490689,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1129,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1129.jpg,0.776487263500235,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+X-SDD/slag_inclusion_1145,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1145.jpg,0.49672383615821947,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1150,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1150.jpg,0.04401060689976296,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1160,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1160.jpg,0.2879865902686155,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/slag_inclusion_1163,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1163.jpg,0.06829281843900806,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1168,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1168.jpg,0.11696902104940143,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1170,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1170.jpg,0.3691592203599012,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1175,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1175.jpg,0.17019024921566728,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/slag_inclusion_1195,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1195.jpg,0.22977011210577342,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/slag_inclusion_1196,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1196.jpg,0.07564425708445013,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1199,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1199.jpg,0.1201569811939744,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/slag_inclusion_1207,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1207.jpg,0.769410424100401,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/slag_inclusion_1231,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1231.jpg,0.3530015514350637,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+X-SDD/slag_inclusion_1235,X-SDD-DET\IMAGES\slag inclusion\slag_inclusion_1235.jpg,0.3367844134557838,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4001,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4001.jpg,0.22943062617141172,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4012,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4012.jpg,0.5395580914111984,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4019,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4019.jpg,0.4761966393919205,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4024,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4024.jpg,0.18001153170695705,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4032,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4032.jpg,0.3396214283050129,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/surface_scratch_4036,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4036.jpg,0.4755518715081831,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4037,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4037.jpg,0.2523548173189333,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/surface_scratch_4054,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4054.jpg,0.9354085728018064,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4058,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4058.jpg,0.09775128008512335,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4060,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4060.jpg,0.4164568097568442,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4062,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4062.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4070,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4070.jpg,0.22493429637236448,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4078,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4078.jpg,0.08607973701164837,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4085,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4085.jpg,0.1277467510663556,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+X-SDD/surface_scratch_4088,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4088.jpg,0.17315536090294023,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4090,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4090.jpg,0.3725043886233736,0,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4114,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4114.jpg,0.22213019156270353,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+X-SDD/surface_scratch_4117,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4117.jpg,0.6826195890674219,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/surface_scratch_4119,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4119.jpg,0.6046202059107,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+X-SDD/surface_scratch_4131,X-SDD-DET\IMAGES\surface scratch\surface_scratch_4131.jpg,0.7348223301742115,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3

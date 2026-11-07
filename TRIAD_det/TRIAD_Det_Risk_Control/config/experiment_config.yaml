@@ -1,0 +1,60 @@
+# TRIAD-Det risk-control study. All paths are relative to this config's parent folder
+# (TRIAD_Det_Risk_Control/) unless absolute.
+seed: 42
+pipeline_run: ../runs/triad_full     # output of the base pipeline (splits, YOLO/classifier predictions)
+data_root: ../..                     # folder holding SteelDefectX/, NEU-DET/, GC10-DET/
+results: results
+
+# ---------------------------------------------------------------- TRIAD-Det detector
+triad_det:
+  backbone: convnext_tiny.fb_in22k_ft_in1k   # any timm model with features_only support
+  pretrained_backbone: true                 # ImageNet init; set false for a fully random-init ablation
+  neck_channels: 192
+  head_convs: 3
+  strides: [8, 16, 32, 64]
+  size_ranges: [[0, 64], [64, 128], [128, 256], [256, 100000]]
+  center_radius: 1.5
+  # v2 (2026-11-05): same image sizes as the YOLO-family runs, YOLO-like training budget and augmentation,
+  # EMA weights, ATSS assignment, quality focal loss. v1 settings (kept in results/v1_archive): imgsz NEU-DET 512,
+  # epochs 60/80/60/80, patience 16, FCOS assignment, focal loss, flips + brightness only, no EMA.
+  version: v2
+  assigner: atss            # fcos (v1) | atss
+  cls_loss: qfl             # focal (v1) | qfl
+  ema: true
+  aug: {mosaic: 0.5, close_mosaic: 10, scale: [0.6, 1.4], translate: 0.1}
+  imgsz: {SteelDefectX: 640, NEU-DET: 640, GC10-DET: 1024, X-SDD: 320}
+  epochs: {SteelDefectX: 80, NEU-DET: 150, GC10-DET: 100, X-SDD: 150}
+  batch: {SteelDefectX: 12, NEU-DET: 12, GC10-DET: 6, X-SDD: 32}
+  max_hours: {X-SDD: 0.75, NEU-DET: 2.5, GC10-DET: 3.75, SteelDefectX: 3.75}   # wall-clock cap per run (deadline)
+  lr: 0.0002
+  backbone_lr_mult: 0.5
+  weight_decay: 0.05
+  warmup_epochs: 2
+  eval_every: 2
+  patience: 30              # in epochs, on validation AP50 (v1: 16)
+  workers: 6
+  amp: true
+  predict_conf: 0.01
+  predict_iou: 0.6
+  max_det: 100
+  pre_nms_topk: 1000
+  count_loss_weight: 0.2
+  presence_loss_weight: 0.2
+
+# ---------------------------------------------------------------- risk control
+risk:
+  match_iou: 0.5
+  iou_ablation: [0.3, 0.5, 0.7]
+  alphas: [0.05, 0.10, 0.15, 0.20, 0.30]
+  headline_alpha: 0.10
+  delta: 0.10
+  grid_size: 200
+  resplits: 500             # random calib/test re-splits of the held-out pool, for validity checks
+  recal_sizes: [25, 50, 100, 200, 400]
+  recal_repeats: 200
+  bootstrap: 2000
+  tau_grid: [0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90]
+
+figures:
+  dpi: 300
+  colours: {SteelDefectX: "#DC2626", NEU-DET: "#2563EB", GC10-DET: "#16A34A", X-SDD: "#9333EA"}

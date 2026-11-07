@@ -1,0 +1,19 @@
+id,path,u,loss_any,decision,reason,n_gt
+GC10-DET/crease_12,GC10-DET\IMAGES\crease\crease_12.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/crease_16,GC10-DET\IMAGES\crease\crease_16.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,3
+GC10-DET/crescent_gap_10,GC10-DET\IMAGES\crescent_gap\crescent_gap_10.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/crescent_gap_100,GC10-DET\IMAGES\crescent_gap\crescent_gap_100.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/inclusion_10,GC10-DET\IMAGES\inclusion\inclusion_10.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+GC10-DET/oil_spot_1,GC10-DET\IMAGES\oil_spot\oil_spot_1.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+GC10-DET/oil_spot_107,GC10-DET\IMAGES\oil_spot\oil_spot_107.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,5
+GC10-DET/punching_hole_10,GC10-DET\IMAGES\punching_hole\punching_hole_10.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+GC10-DET/punching_hole_103,GC10-DET\IMAGES\punching_hole\punching_hole_103.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2
+GC10-DET/rolled_pit_12,GC10-DET\IMAGES\rolled_pit\rolled_pit_12.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/rolled_pit_15,GC10-DET\IMAGES\rolled_pit\rolled_pit_15.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,4
+GC10-DET/silk_spot_10,GC10-DET\IMAGES\silk_spot\silk_spot_10.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/waist_folding_1,GC10-DET\IMAGES\waist_folding\waist_folding_1.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/waist_folding_10,GC10-DET\IMAGES\waist_folding\waist_folding_10.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/water_spot_100,GC10-DET\IMAGES\water_spot\water_spot_100.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/water_spot_101,GC10-DET\IMAGES\water_spot\water_spot_101.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/welding_line_10,GC10-DET\IMAGES\welding_line\welding_line_10.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,1
+GC10-DET/welding_line_107,GC10-DET\IMAGES\welding_line\welding_line_107.jpg,1.0,1,MANUAL-REVIEW,no certified threshold: calibration could not meet the risk target,2

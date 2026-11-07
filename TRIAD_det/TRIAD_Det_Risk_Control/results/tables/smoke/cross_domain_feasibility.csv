@@ -1,0 +1,15 @@
+model,source,target,shares_source_images,tau,score,target_calib_n,target_any_miss_risk,source_any_miss_risk,target_test_aurc,source_calib_aurc,target_risk_at_cov_0.1,target_risk_at_cov_0.25,target_risk_at_cov_0.5,min_n_for_zero_miss_cert_alpha_0.05,min_n_for_zero_miss_cert_alpha_0.1,min_n_for_zero_miss_cert_alpha_0.15,min_n_for_zero_miss_cert_alpha_0.2,min_n_for_zero_miss_cert_alpha_0.3
+TRIAD-Det,NEU-DET,SteelDefectX,True,0.05,conf,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+TRIAD-Det,NEU-DET,GC10-DET,False,0.05,conf,16,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+TRIAD-YOLO,NEU-DET,SteelDefectX,True,0.05,conf,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+TRIAD-YOLO,NEU-DET,GC10-DET,False,0.05,conf,19,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+TRIAD-YOLO,GC10-DET,SteelDefectX,True,0.05,conf,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+TRIAD-YOLO,GC10-DET,NEU-DET,False,0.05,conf,12,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+YOLOv8s,NEU-DET,SteelDefectX,True,0.9,conf,4,1.0,0.75,0.8433333333333333,0.7666576479076479,1.0,1.0,1.0,45,22,15,11,7
+YOLOv8s,NEU-DET,GC10-DET,False,0.9,conf,19,0.9473684210526315,0.75,0.9315400195302157,0.7666576479076479,1.0,1.0,0.9,45,22,15,11,7
+YOLOv8s,GC10-DET,SteelDefectX,True,0.05,stats,4,0.75,0.9473684210526315,0.9099999999999999,0.909768088220508,1.0,1.0,1.0,45,22,15,11,7
+YOLOv8s,GC10-DET,NEU-DET,False,0.05,stats,12,0.6666666666666666,0.9473684210526315,0.9310455747955748,0.909768088220508,1.0,0.6666666666666666,0.8333333333333334,45,22,15,11,7
+YOLO11s,NEU-DET,SteelDefectX,True,0.9,conf,4,1.0,0.8333333333333334,0.58,0.639616402116402,1.0,1.0,1.0,45,22,15,11,7
+YOLO11s,NEU-DET,GC10-DET,False,0.9,conf,19,1.0,0.8333333333333334,0.8924142215808881,0.639616402116402,1.0,1.0,1.0,45,22,15,11,7
+YOLO11s,GC10-DET,SteelDefectX,True,0.05,conf,4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7
+YOLO11s,GC10-DET,NEU-DET,False,0.05,conf,12,1.0,1.0,1.0,1.0,1.0,1.0,1.0,45,22,15,11,7

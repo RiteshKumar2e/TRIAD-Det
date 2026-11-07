@@ -1,0 +1,347 @@
+id,path,u,loss_any,decision,reason,n_gt
+GC10-DET/crease_2,GC10-DET\IMAGES\crease\crease_2.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/crease_28,GC10-DET\IMAGES\crease\crease_28.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/crease_36,GC10-DET\IMAGES\crease\crease_36.jpg,0.10821869256242857,1,AUTO-ACCEPT,uncertainty 0.108 <= calibrated threshold 0.264,1
+GC10-DET/crease_4,GC10-DET\IMAGES\crease\crease_4.jpg,0.7290301028270494,1,MANUAL-REVIEW,uncertainty 0.729 > threshold 0.264,2
+GC10-DET/crease_43,GC10-DET\IMAGES\crease\crease_43.jpg,0.5987029570260138,1,MANUAL-REVIEW,uncertainty 0.599 > threshold 0.264; near-threshold box at conf 0.25,1
+GC10-DET/crease_44,GC10-DET\IMAGES\crease\crease_44.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/crease_5,GC10-DET\IMAGES\crease\crease_5.jpg,0.29440032127582805,1,MANUAL-REVIEW,uncertainty 0.294 > threshold 0.264,1
+GC10-DET/crease_8,GC10-DET\IMAGES\crease\crease_8.jpg,0.44727853469709694,1,MANUAL-REVIEW,uncertainty 0.447 > threshold 0.264; near-threshold box at conf 0.23,6
+GC10-DET/crescent_gap_105,GC10-DET\IMAGES\crescent_gap\crescent_gap_105.jpg,0.13926618162278367,0,AUTO-ACCEPT,uncertainty 0.139 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_106,GC10-DET\IMAGES\crescent_gap\crescent_gap_106.jpg,0.11541166690369724,1,AUTO-ACCEPT,uncertainty 0.115 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_111,GC10-DET\IMAGES\crescent_gap\crescent_gap_111.jpg,0.046006797711010565,0,AUTO-ACCEPT,uncertainty 0.046 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_115,GC10-DET\IMAGES\crescent_gap\crescent_gap_115.jpg,0.15961759919743077,0,AUTO-ACCEPT,uncertainty 0.160 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_116,GC10-DET\IMAGES\crescent_gap\crescent_gap_116.jpg,0.0608303175038579,0,AUTO-ACCEPT,uncertainty 0.061 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_143,GC10-DET\IMAGES\crescent_gap\crescent_gap_143.jpg,0.04739007547561244,0,AUTO-ACCEPT,uncertainty 0.047 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_144,GC10-DET\IMAGES\crescent_gap\crescent_gap_144.jpg,0.024041008199013118,0,AUTO-ACCEPT,uncertainty 0.024 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_149,GC10-DET\IMAGES\crescent_gap\crescent_gap_149.jpg,0.15708177627729206,0,AUTO-ACCEPT,uncertainty 0.157 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_163,GC10-DET\IMAGES\crescent_gap\crescent_gap_163.jpg,0.07275905328851066,0,AUTO-ACCEPT,uncertainty 0.073 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_164,GC10-DET\IMAGES\crescent_gap\crescent_gap_164.jpg,0.1880924580832243,0,AUTO-ACCEPT,uncertainty 0.188 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_169,GC10-DET\IMAGES\crescent_gap\crescent_gap_169.jpg,0.09329083964460591,0,AUTO-ACCEPT,uncertainty 0.093 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_170,GC10-DET\IMAGES\crescent_gap\crescent_gap_170.jpg,0.08351440273968201,0,AUTO-ACCEPT,uncertainty 0.084 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_172,GC10-DET\IMAGES\crescent_gap\crescent_gap_172.jpg,0.11359696941119325,0,AUTO-ACCEPT,uncertainty 0.114 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_178,GC10-DET\IMAGES\crescent_gap\crescent_gap_178.jpg,0.13050174944880283,0,AUTO-ACCEPT,uncertainty 0.131 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_190,GC10-DET\IMAGES\crescent_gap\crescent_gap_190.jpg,0.08217507899212086,0,AUTO-ACCEPT,uncertainty 0.082 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_191,GC10-DET\IMAGES\crescent_gap\crescent_gap_191.jpg,0.06703920480522108,0,AUTO-ACCEPT,uncertainty 0.067 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_2,GC10-DET\IMAGES\crescent_gap\crescent_gap_2.jpg,0.2504422156382365,0,AUTO-ACCEPT,uncertainty 0.250 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_20,GC10-DET\IMAGES\crescent_gap\crescent_gap_20.jpg,0.21237752177129426,0,AUTO-ACCEPT,uncertainty 0.212 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_201,GC10-DET\IMAGES\crescent_gap\crescent_gap_201.jpg,0.15241083264652855,0,AUTO-ACCEPT,uncertainty 0.152 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_206,GC10-DET\IMAGES\crescent_gap\crescent_gap_206.jpg,0.13760845799104818,0,AUTO-ACCEPT,uncertainty 0.138 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_220,GC10-DET\IMAGES\crescent_gap\crescent_gap_220.jpg,0.15130710532046737,0,AUTO-ACCEPT,uncertainty 0.151 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_221,GC10-DET\IMAGES\crescent_gap\crescent_gap_221.jpg,0.0415727045884258,0,AUTO-ACCEPT,uncertainty 0.042 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_26,GC10-DET\IMAGES\crescent_gap\crescent_gap_26.jpg,0.06217222130267037,0,AUTO-ACCEPT,uncertainty 0.062 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_30,GC10-DET\IMAGES\crescent_gap\crescent_gap_30.jpg,0.0761778941247761,0,AUTO-ACCEPT,uncertainty 0.076 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_34,GC10-DET\IMAGES\crescent_gap\crescent_gap_34.jpg,0.1096899044615685,0,AUTO-ACCEPT,uncertainty 0.110 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_37,GC10-DET\IMAGES\crescent_gap\crescent_gap_37.jpg,0.06766963804005871,0,AUTO-ACCEPT,uncertainty 0.068 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_38,GC10-DET\IMAGES\crescent_gap\crescent_gap_38.jpg,0.08973360802361326,0,AUTO-ACCEPT,uncertainty 0.090 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_45,GC10-DET\IMAGES\crescent_gap\crescent_gap_45.jpg,0.09198692018437835,0,AUTO-ACCEPT,uncertainty 0.092 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_74,GC10-DET\IMAGES\crescent_gap\crescent_gap_74.jpg,0.11138771536988709,0,AUTO-ACCEPT,uncertainty 0.111 <= calibrated threshold 0.264,1
+GC10-DET/crescent_gap_76,GC10-DET\IMAGES\crescent_gap\crescent_gap_76.jpg,0.2941072384102341,0,MANUAL-REVIEW,uncertainty 0.294 > threshold 0.264,1
+GC10-DET/crescent_gap_78,GC10-DET\IMAGES\crescent_gap\crescent_gap_78.jpg,0.41129298362993183,0,MANUAL-REVIEW,uncertainty 0.411 > threshold 0.264,1
+GC10-DET/crescent_gap_79,GC10-DET\IMAGES\crescent_gap\crescent_gap_79.jpg,0.23004803902603196,0,AUTO-ACCEPT,uncertainty 0.230 <= calibrated threshold 0.264,2
+GC10-DET/crescent_gap_83,GC10-DET\IMAGES\crescent_gap\crescent_gap_83.jpg,0.2751981858492863,0,MANUAL-REVIEW,uncertainty 0.275 > threshold 0.264,2
+GC10-DET/crescent_gap_90,GC10-DET\IMAGES\crescent_gap\crescent_gap_90.jpg,0.08809595914939937,0,AUTO-ACCEPT,uncertainty 0.088 <= calibrated threshold 0.264,2
+GC10-DET/inclusion_100,GC10-DET\IMAGES\inclusion\inclusion_100.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_101,GC10-DET\IMAGES\inclusion\inclusion_101.jpg,0.8164907941629684,1,MANUAL-REVIEW,uncertainty 0.816 > threshold 0.264,2
+GC10-DET/inclusion_102,GC10-DET\IMAGES\inclusion\inclusion_102.jpg,0.7977257590324475,1,MANUAL-REVIEW,uncertainty 0.798 > threshold 0.264; near-threshold box at conf 0.21,2
+GC10-DET/inclusion_103,GC10-DET\IMAGES\inclusion\inclusion_103.jpg,0.3928230728332661,1,MANUAL-REVIEW,uncertainty 0.393 > threshold 0.264,3
+GC10-DET/inclusion_104,GC10-DET\IMAGES\inclusion\inclusion_104.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_105,GC10-DET\IMAGES\inclusion\inclusion_105.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_106,GC10-DET\IMAGES\inclusion\inclusion_106.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_120,GC10-DET\IMAGES\inclusion\inclusion_120.jpg,0.8997314104047159,0,MANUAL-REVIEW,uncertainty 0.900 > threshold 0.264; near-threshold box at conf 0.22,1
+GC10-DET/inclusion_15,GC10-DET\IMAGES\inclusion\inclusion_15.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_16,GC10-DET\IMAGES\inclusion\inclusion_16.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_166,GC10-DET\IMAGES\inclusion\inclusion_166.jpg,0.41215003484502283,0,MANUAL-REVIEW,uncertainty 0.412 > threshold 0.264; near-threshold box at conf 0.20,1
+GC10-DET/inclusion_172,GC10-DET\IMAGES\inclusion\inclusion_172.jpg,0.6515883132551271,1,MANUAL-REVIEW,uncertainty 0.652 > threshold 0.264,2
+GC10-DET/inclusion_18,GC10-DET\IMAGES\inclusion\inclusion_18.jpg,0.2729543496796511,1,MANUAL-REVIEW,uncertainty 0.273 > threshold 0.264,2
+GC10-DET/inclusion_183,GC10-DET\IMAGES\inclusion\inclusion_183.jpg,0.7700979736553291,1,MANUAL-REVIEW,uncertainty 0.770 > threshold 0.264,4
+GC10-DET/inclusion_188,GC10-DET\IMAGES\inclusion\inclusion_188.jpg,0.7512961620306836,1,MANUAL-REVIEW,uncertainty 0.751 > threshold 0.264; near-threshold box at conf 0.23,2
+GC10-DET/inclusion_27,GC10-DET\IMAGES\inclusion\inclusion_27.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_36,GC10-DET\IMAGES\inclusion\inclusion_36.jpg,0.7816670381659583,0,MANUAL-REVIEW,uncertainty 0.782 > threshold 0.264; near-threshold box at conf 0.22,1
+GC10-DET/inclusion_42,GC10-DET\IMAGES\inclusion\inclusion_42.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_49,GC10-DET\IMAGES\inclusion\inclusion_49.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_5,GC10-DET\IMAGES\inclusion\inclusion_5.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,3
+GC10-DET/inclusion_53,GC10-DET\IMAGES\inclusion\inclusion_53.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_56,GC10-DET\IMAGES\inclusion\inclusion_56.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_6,GC10-DET\IMAGES\inclusion\inclusion_6.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_61,GC10-DET\IMAGES\inclusion\inclusion_61.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_7,GC10-DET\IMAGES\inclusion\inclusion_7.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_72,GC10-DET\IMAGES\inclusion\inclusion_72.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_73,GC10-DET\IMAGES\inclusion\inclusion_73.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_94,GC10-DET\IMAGES\inclusion\inclusion_94.jpg,0.6221113978170241,0,MANUAL-REVIEW,uncertainty 0.622 > threshold 0.264,1
+GC10-DET/inclusion_96,GC10-DET\IMAGES\inclusion\inclusion_96.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_97,GC10-DET\IMAGES\inclusion\inclusion_97.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/inclusion_98,GC10-DET\IMAGES\inclusion\inclusion_98.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/inclusion_99,GC10-DET\IMAGES\inclusion\inclusion_99.jpg,0.9058381142309041,1,MANUAL-REVIEW,uncertainty 0.906 > threshold 0.264; near-threshold box at conf 0.25,3
+GC10-DET/oil_spot_127,GC10-DET\IMAGES\oil_spot\oil_spot_127.jpg,0.9205550275728644,1,MANUAL-REVIEW,uncertainty 0.921 > threshold 0.264; near-threshold box at conf 0.24,1
+GC10-DET/oil_spot_128,GC10-DET\IMAGES\oil_spot\oil_spot_128.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,3
+GC10-DET/oil_spot_130,GC10-DET\IMAGES\oil_spot\oil_spot_130.jpg,0.9243101447102477,1,MANUAL-REVIEW,uncertainty 0.924 > threshold 0.264; near-threshold box at conf 0.23,11
+GC10-DET/oil_spot_131,GC10-DET\IMAGES\oil_spot\oil_spot_131.jpg,0.9578880986674602,1,MANUAL-REVIEW,uncertainty 0.958 > threshold 0.264; near-threshold box at conf 0.25,7
+GC10-DET/oil_spot_133,GC10-DET\IMAGES\oil_spot\oil_spot_133.jpg,0.9354426565804076,1,MANUAL-REVIEW,uncertainty 0.935 > threshold 0.264; near-threshold box at conf 0.22,5
+GC10-DET/oil_spot_134,GC10-DET\IMAGES\oil_spot\oil_spot_134.jpg,0.9556722605966372,1,MANUAL-REVIEW,uncertainty 0.956 > threshold 0.264; near-threshold box at conf 0.24,6
+GC10-DET/oil_spot_135,GC10-DET\IMAGES\oil_spot\oil_spot_135.jpg,0.9367679229509839,1,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.264; near-threshold box at conf 0.25,3
+GC10-DET/oil_spot_136,GC10-DET\IMAGES\oil_spot\oil_spot_136.jpg,0.955410213216059,1,MANUAL-REVIEW,uncertainty 0.955 > threshold 0.264; near-threshold box at conf 0.23,8
+GC10-DET/oil_spot_137,GC10-DET\IMAGES\oil_spot\oil_spot_137.jpg,0.8885480409281343,1,MANUAL-REVIEW,uncertainty 0.889 > threshold 0.264; near-threshold box at conf 0.22,4
+GC10-DET/oil_spot_138,GC10-DET\IMAGES\oil_spot\oil_spot_138.jpg,0.9740938448151805,0,MANUAL-REVIEW,uncertainty 0.974 > threshold 0.264; near-threshold box at conf 0.24,5
+GC10-DET/oil_spot_139,GC10-DET\IMAGES\oil_spot\oil_spot_139.jpg,0.7474352406961835,1,MANUAL-REVIEW,uncertainty 0.747 > threshold 0.264; near-threshold box at conf 0.24,3
+GC10-DET/oil_spot_140,GC10-DET\IMAGES\oil_spot\oil_spot_140.jpg,0.8550633859342043,1,MANUAL-REVIEW,uncertainty 0.855 > threshold 0.264; near-threshold box at conf 0.22,5
+GC10-DET/oil_spot_141,GC10-DET\IMAGES\oil_spot\oil_spot_141.jpg,0.9161732429614523,1,MANUAL-REVIEW,uncertainty 0.916 > threshold 0.264; near-threshold box at conf 0.24,4
+GC10-DET/oil_spot_142,GC10-DET\IMAGES\oil_spot\oil_spot_142.jpg,0.9485695791936367,1,MANUAL-REVIEW,uncertainty 0.949 > threshold 0.264; near-threshold box at conf 0.24,6
+GC10-DET/oil_spot_143,GC10-DET\IMAGES\oil_spot\oil_spot_143.jpg,0.9733899674607571,1,MANUAL-REVIEW,uncertainty 0.973 > threshold 0.264; near-threshold box at conf 0.23,7
+GC10-DET/oil_spot_144,GC10-DET\IMAGES\oil_spot\oil_spot_144.jpg,0.8198138601868604,1,MANUAL-REVIEW,uncertainty 0.820 > threshold 0.264; near-threshold box at conf 0.23,4
+GC10-DET/oil_spot_145,GC10-DET\IMAGES\oil_spot\oil_spot_145.jpg,0.9578815982225155,1,MANUAL-REVIEW,uncertainty 0.958 > threshold 0.264; near-threshold box at conf 0.22,5
+GC10-DET/oil_spot_146,GC10-DET\IMAGES\oil_spot\oil_spot_146.jpg,0.9814233653730526,1,MANUAL-REVIEW,uncertainty 0.981 > threshold 0.264; near-threshold box at conf 0.24,8
+GC10-DET/oil_spot_147,GC10-DET\IMAGES\oil_spot\oil_spot_147.jpg,0.847196605885971,1,MANUAL-REVIEW,uncertainty 0.847 > threshold 0.264; near-threshold box at conf 0.23,6
+GC10-DET/oil_spot_148,GC10-DET\IMAGES\oil_spot\oil_spot_148.jpg,0.910930409997083,1,MANUAL-REVIEW,uncertainty 0.911 > threshold 0.264; near-threshold box at conf 0.25,5
+GC10-DET/oil_spot_149,GC10-DET\IMAGES\oil_spot\oil_spot_149.jpg,0.9224288274507093,1,MANUAL-REVIEW,uncertainty 0.922 > threshold 0.264; near-threshold box at conf 0.25,6
+GC10-DET/oil_spot_150,GC10-DET\IMAGES\oil_spot\oil_spot_150.jpg,0.9259018683821196,1,MANUAL-REVIEW,uncertainty 0.926 > threshold 0.264; near-threshold box at conf 0.25,6
+GC10-DET/oil_spot_151,GC10-DET\IMAGES\oil_spot\oil_spot_151.jpg,0.9368760525502449,1,MANUAL-REVIEW,uncertainty 0.937 > threshold 0.264; near-threshold box at conf 0.25,3
+GC10-DET/oil_spot_152,GC10-DET\IMAGES\oil_spot\oil_spot_152.jpg,0.9171636251901778,1,MANUAL-REVIEW,uncertainty 0.917 > threshold 0.264; near-threshold box at conf 0.21,4
+GC10-DET/oil_spot_153,GC10-DET\IMAGES\oil_spot\oil_spot_153.jpg,0.8876771496790032,1,MANUAL-REVIEW,uncertainty 0.888 > threshold 0.264,3
+GC10-DET/oil_spot_158,GC10-DET\IMAGES\oil_spot\oil_spot_158.jpg,0.05249221748787318,0,AUTO-ACCEPT,uncertainty 0.052 <= calibrated threshold 0.264,1
+GC10-DET/oil_spot_161,GC10-DET\IMAGES\oil_spot\oil_spot_161.jpg,0.05015737161008144,0,AUTO-ACCEPT,uncertainty 0.050 <= calibrated threshold 0.264,1
+GC10-DET/oil_spot_32,GC10-DET\IMAGES\oil_spot\oil_spot_32.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,3
+GC10-DET/oil_spot_50,GC10-DET\IMAGES\oil_spot\oil_spot_50.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/oil_spot_71,GC10-DET\IMAGES\oil_spot\oil_spot_71.jpg,0.9261286467884601,1,MANUAL-REVIEW,uncertainty 0.926 > threshold 0.264; near-threshold box at conf 0.24,6
+GC10-DET/oil_spot_72,GC10-DET\IMAGES\oil_spot\oil_spot_72.jpg,0.08784984760986647,0,AUTO-ACCEPT,uncertainty 0.088 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_1,GC10-DET\IMAGES\punching_hole\punching_hole_1.jpg,0.2804434371157552,1,MANUAL-REVIEW,uncertainty 0.280 > threshold 0.264,2
+GC10-DET/punching_hole_126,GC10-DET\IMAGES\punching_hole\punching_hole_126.jpg,0.07570256418422541,0,AUTO-ACCEPT,uncertainty 0.076 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_127,GC10-DET\IMAGES\punching_hole\punching_hole_127.jpg,0.1941787903734915,0,AUTO-ACCEPT,uncertainty 0.194 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_131,GC10-DET\IMAGES\punching_hole\punching_hole_131.jpg,0.08367209870797919,0,AUTO-ACCEPT,uncertainty 0.084 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_134,GC10-DET\IMAGES\punching_hole\punching_hole_134.jpg,0.16490576342646557,0,AUTO-ACCEPT,uncertainty 0.165 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_135,GC10-DET\IMAGES\punching_hole\punching_hole_135.jpg,0.0773421591046428,0,AUTO-ACCEPT,uncertainty 0.077 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_137,GC10-DET\IMAGES\punching_hole\punching_hole_137.jpg,0.06675019922263833,0,AUTO-ACCEPT,uncertainty 0.067 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_144,GC10-DET\IMAGES\punching_hole\punching_hole_144.jpg,0.14339967000907514,0,AUTO-ACCEPT,uncertainty 0.143 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_147,GC10-DET\IMAGES\punching_hole\punching_hole_147.jpg,0.09078982733182082,0,AUTO-ACCEPT,uncertainty 0.091 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_158,GC10-DET\IMAGES\punching_hole\punching_hole_158.jpg,0.09985278261756012,0,AUTO-ACCEPT,uncertainty 0.100 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_168,GC10-DET\IMAGES\punching_hole\punching_hole_168.jpg,0.12576942612038486,0,AUTO-ACCEPT,uncertainty 0.126 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_18,GC10-DET\IMAGES\punching_hole\punching_hole_18.jpg,0.27462546108381797,1,MANUAL-REVIEW,uncertainty 0.275 > threshold 0.264; near-threshold box at conf 0.20,3
+GC10-DET/punching_hole_182,GC10-DET\IMAGES\punching_hole\punching_hole_182.jpg,0.2764760711940253,0,MANUAL-REVIEW,uncertainty 0.276 > threshold 0.264,1
+GC10-DET/punching_hole_185,GC10-DET\IMAGES\punching_hole\punching_hole_185.jpg,0.07463758850052299,0,AUTO-ACCEPT,uncertainty 0.075 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_191,GC10-DET\IMAGES\punching_hole\punching_hole_191.jpg,0.07443598762213668,0,AUTO-ACCEPT,uncertainty 0.074 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_192,GC10-DET\IMAGES\punching_hole\punching_hole_192.jpg,0.21851805848142777,0,AUTO-ACCEPT,uncertainty 0.219 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_2,GC10-DET\IMAGES\punching_hole\punching_hole_2.jpg,0.3059667220734123,0,MANUAL-REVIEW,uncertainty 0.306 > threshold 0.264,1
+GC10-DET/punching_hole_20,GC10-DET\IMAGES\punching_hole\punching_hole_20.jpg,0.1597707563811654,1,AUTO-ACCEPT,uncertainty 0.160 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_200,GC10-DET\IMAGES\punching_hole\punching_hole_200.jpg,0.07136444792152298,0,AUTO-ACCEPT,uncertainty 0.071 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_217,GC10-DET\IMAGES\punching_hole\punching_hole_217.jpg,0.5121386961523382,0,MANUAL-REVIEW,uncertainty 0.512 > threshold 0.264,2
+GC10-DET/punching_hole_22,GC10-DET\IMAGES\punching_hole\punching_hole_22.jpg,0.11602616710587078,0,AUTO-ACCEPT,uncertainty 0.116 <= calibrated threshold 0.264,4
+GC10-DET/punching_hole_38,GC10-DET\IMAGES\punching_hole\punching_hole_38.jpg,0.20144690814003008,0,AUTO-ACCEPT,uncertainty 0.201 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_45,GC10-DET\IMAGES\punching_hole\punching_hole_45.jpg,0.14611974731161964,0,AUTO-ACCEPT,uncertainty 0.146 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_51,GC10-DET\IMAGES\punching_hole\punching_hole_51.jpg,0.07356357679964934,0,AUTO-ACCEPT,uncertainty 0.074 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_59,GC10-DET\IMAGES\punching_hole\punching_hole_59.jpg,0.06991744135304617,0,AUTO-ACCEPT,uncertainty 0.070 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_65,GC10-DET\IMAGES\punching_hole\punching_hole_65.jpg,0.0813644784940843,0,AUTO-ACCEPT,uncertainty 0.081 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_7,GC10-DET\IMAGES\punching_hole\punching_hole_7.jpg,0.2719069899581278,1,MANUAL-REVIEW,uncertainty 0.272 > threshold 0.264,1
+GC10-DET/punching_hole_73,GC10-DET\IMAGES\punching_hole\punching_hole_73.jpg,0.06877599593675382,0,AUTO-ACCEPT,uncertainty 0.069 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_79,GC10-DET\IMAGES\punching_hole\punching_hole_79.jpg,0.06708552485872572,0,AUTO-ACCEPT,uncertainty 0.067 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_80,GC10-DET\IMAGES\punching_hole\punching_hole_80.jpg,0.07466016340134358,0,AUTO-ACCEPT,uncertainty 0.075 <= calibrated threshold 0.264,2
+GC10-DET/punching_hole_83,GC10-DET\IMAGES\punching_hole\punching_hole_83.jpg,0.14080210022048534,1,AUTO-ACCEPT,uncertainty 0.141 <= calibrated threshold 0.264,3
+GC10-DET/punching_hole_97,GC10-DET\IMAGES\punching_hole\punching_hole_97.jpg,0.12724786947340266,0,AUTO-ACCEPT,uncertainty 0.127 <= calibrated threshold 0.264,1
+GC10-DET/punching_hole_99,GC10-DET\IMAGES\punching_hole\punching_hole_99.jpg,0.19632361760464265,1,AUTO-ACCEPT,uncertainty 0.196 <= calibrated threshold 0.264,2
+GC10-DET/rolled_pit_1,GC10-DET\IMAGES\rolled_pit\rolled_pit_1.jpg,0.7607549247198984,1,MANUAL-REVIEW,uncertainty 0.761 > threshold 0.264; near-threshold box at conf 0.21,4
+GC10-DET/rolled_pit_10,GC10-DET\IMAGES\rolled_pit\rolled_pit_10.jpg,0.8424456726505928,0,MANUAL-REVIEW,uncertainty 0.842 > threshold 0.264; near-threshold box at conf 0.25,1
+GC10-DET/rolled_pit_13,GC10-DET\IMAGES\rolled_pit\rolled_pit_13.jpg,0.7917907545618508,1,MANUAL-REVIEW,uncertainty 0.792 > threshold 0.264; near-threshold box at conf 0.23,1
+GC10-DET/rolled_pit_16,GC10-DET\IMAGES\rolled_pit\rolled_pit_16.jpg,0.9457478002880374,1,MANUAL-REVIEW,uncertainty 0.946 > threshold 0.264; near-threshold box at conf 0.24,1
+GC10-DET/silk_spot_100,GC10-DET\IMAGES\silk_spot\silk_spot_100.jpg,0.17288183105588092,0,AUTO-ACCEPT,uncertainty 0.173 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_11,GC10-DET\IMAGES\silk_spot\silk_spot_11.jpg,0.16941282959457774,0,AUTO-ACCEPT,uncertainty 0.169 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_15,GC10-DET\IMAGES\silk_spot\silk_spot_15.jpg,0.15181538196805056,1,AUTO-ACCEPT,uncertainty 0.152 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_182,GC10-DET\IMAGES\silk_spot\silk_spot_182.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_191,GC10-DET\IMAGES\silk_spot\silk_spot_191.jpg,0.8080355155568744,1,MANUAL-REVIEW,uncertainty 0.808 > threshold 0.264,1
+GC10-DET/silk_spot_204,GC10-DET\IMAGES\silk_spot\silk_spot_204.jpg,0.7211535636143536,1,MANUAL-REVIEW,uncertainty 0.721 > threshold 0.264,1
+GC10-DET/silk_spot_211,GC10-DET\IMAGES\silk_spot\silk_spot_211.jpg,0.7961196864882711,0,MANUAL-REVIEW,uncertainty 0.796 > threshold 0.264,1
+GC10-DET/silk_spot_243,GC10-DET\IMAGES\silk_spot\silk_spot_243.jpg,0.521246869916333,1,MANUAL-REVIEW,uncertainty 0.521 > threshold 0.264,1
+GC10-DET/silk_spot_244,GC10-DET\IMAGES\silk_spot\silk_spot_244.jpg,0.6540899826785729,0,MANUAL-REVIEW,uncertainty 0.654 > threshold 0.264,1
+GC10-DET/silk_spot_245,GC10-DET\IMAGES\silk_spot\silk_spot_245.jpg,0.6166026478808454,0,MANUAL-REVIEW,uncertainty 0.617 > threshold 0.264,1
+GC10-DET/silk_spot_246,GC10-DET\IMAGES\silk_spot\silk_spot_246.jpg,0.8556053274749326,0,MANUAL-REVIEW,uncertainty 0.856 > threshold 0.264,1
+GC10-DET/silk_spot_247,GC10-DET\IMAGES\silk_spot\silk_spot_247.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/silk_spot_253,GC10-DET\IMAGES\silk_spot\silk_spot_253.jpg,0.7874190158977904,0,MANUAL-REVIEW,uncertainty 0.787 > threshold 0.264,1
+GC10-DET/silk_spot_254,GC10-DET\IMAGES\silk_spot\silk_spot_254.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_255,GC10-DET\IMAGES\silk_spot\silk_spot_255.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_259,GC10-DET\IMAGES\silk_spot\silk_spot_259.jpg,0.8990067750439037,0,MANUAL-REVIEW,uncertainty 0.899 > threshold 0.264; near-threshold box at conf 0.21,1
+GC10-DET/silk_spot_268,GC10-DET\IMAGES\silk_spot\silk_spot_268.jpg,0.7544803244264131,1,MANUAL-REVIEW,uncertainty 0.754 > threshold 0.264,2
+GC10-DET/silk_spot_269,GC10-DET\IMAGES\silk_spot\silk_spot_269.jpg,0.2719792213393113,0,MANUAL-REVIEW,uncertainty 0.272 > threshold 0.264,1
+GC10-DET/silk_spot_270,GC10-DET\IMAGES\silk_spot\silk_spot_270.jpg,0.8160883786576739,1,MANUAL-REVIEW,uncertainty 0.816 > threshold 0.264,1
+GC10-DET/silk_spot_271,GC10-DET\IMAGES\silk_spot\silk_spot_271.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_277,GC10-DET\IMAGES\silk_spot\silk_spot_277.jpg,0.29152378261445383,1,MANUAL-REVIEW,uncertainty 0.292 > threshold 0.264,2
+GC10-DET/silk_spot_292,GC10-DET\IMAGES\silk_spot\silk_spot_292.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_294,GC10-DET\IMAGES\silk_spot\silk_spot_294.jpg,0.8003786187964608,1,MANUAL-REVIEW,uncertainty 0.800 > threshold 0.264,1
+GC10-DET/silk_spot_313,GC10-DET\IMAGES\silk_spot\silk_spot_313.jpg,0.44368006394990117,0,MANUAL-REVIEW,uncertainty 0.444 > threshold 0.264; near-threshold box at conf 0.23,1
+GC10-DET/silk_spot_315,GC10-DET\IMAGES\silk_spot\silk_spot_315.jpg,0.7263405650419188,1,MANUAL-REVIEW,uncertainty 0.726 > threshold 0.264,3
+GC10-DET/silk_spot_319,GC10-DET\IMAGES\silk_spot\silk_spot_319.jpg,0.738094356233419,1,MANUAL-REVIEW,uncertainty 0.738 > threshold 0.264,2
+GC10-DET/silk_spot_320,GC10-DET\IMAGES\silk_spot\silk_spot_320.jpg,0.8162238300082058,1,MANUAL-REVIEW,uncertainty 0.816 > threshold 0.264; near-threshold box at conf 0.24,2
+GC10-DET/silk_spot_322,GC10-DET\IMAGES\silk_spot\silk_spot_322.jpg,0.8496717508367284,1,MANUAL-REVIEW,uncertainty 0.850 > threshold 0.264,2
+GC10-DET/silk_spot_323,GC10-DET\IMAGES\silk_spot\silk_spot_323.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_326,GC10-DET\IMAGES\silk_spot\silk_spot_326.jpg,0.5809893807703163,1,MANUAL-REVIEW,uncertainty 0.581 > threshold 0.264; near-threshold box at conf 0.21,2
+GC10-DET/silk_spot_332,GC10-DET\IMAGES\silk_spot\silk_spot_332.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_334,GC10-DET\IMAGES\silk_spot\silk_spot_334.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_335,GC10-DET\IMAGES\silk_spot\silk_spot_335.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_336,GC10-DET\IMAGES\silk_spot\silk_spot_336.jpg,0.763623677437381,0,MANUAL-REVIEW,uncertainty 0.764 > threshold 0.264,1
+GC10-DET/silk_spot_340,GC10-DET\IMAGES\silk_spot\silk_spot_340.jpg,0.5233553811341984,0,MANUAL-REVIEW,uncertainty 0.523 > threshold 0.264,1
+GC10-DET/silk_spot_341,GC10-DET\IMAGES\silk_spot\silk_spot_341.jpg,0.45655929707455367,0,MANUAL-REVIEW,uncertainty 0.457 > threshold 0.264; near-threshold box at conf 0.22,1
+GC10-DET/silk_spot_343,GC10-DET\IMAGES\silk_spot\silk_spot_343.jpg,0.8631633353671607,0,MANUAL-REVIEW,uncertainty 0.863 > threshold 0.264,1
+GC10-DET/silk_spot_344,GC10-DET\IMAGES\silk_spot\silk_spot_344.jpg,0.5531035263172842,0,MANUAL-REVIEW,uncertainty 0.553 > threshold 0.264,1
+GC10-DET/silk_spot_376,GC10-DET\IMAGES\silk_spot\silk_spot_376.jpg,0.2770703305109793,1,MANUAL-REVIEW,uncertainty 0.277 > threshold 0.264,4
+GC10-DET/silk_spot_444,GC10-DET\IMAGES\silk_spot\silk_spot_444.jpg,0.8618904218058387,1,MANUAL-REVIEW,uncertainty 0.862 > threshold 0.264,3
+GC10-DET/silk_spot_445,GC10-DET\IMAGES\silk_spot\silk_spot_445.jpg,0.20280773812861763,1,AUTO-ACCEPT,uncertainty 0.203 <= calibrated threshold 0.264,2
+GC10-DET/silk_spot_450,GC10-DET\IMAGES\silk_spot\silk_spot_450.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/silk_spot_451,GC10-DET\IMAGES\silk_spot\silk_spot_451.jpg,0.630236718052894,0,MANUAL-REVIEW,uncertainty 0.630 > threshold 0.264,1
+GC10-DET/silk_spot_472,GC10-DET\IMAGES\silk_spot\silk_spot_472.jpg,0.8434754831255841,0,MANUAL-REVIEW,uncertainty 0.843 > threshold 0.264,1
+GC10-DET/silk_spot_492,GC10-DET\IMAGES\silk_spot\silk_spot_492.jpg,0.6945417721674051,0,MANUAL-REVIEW,uncertainty 0.695 > threshold 0.264; near-threshold box at conf 0.25,1
+GC10-DET/silk_spot_517,GC10-DET\IMAGES\silk_spot\silk_spot_517.jpg,0.17011751398572772,0,AUTO-ACCEPT,uncertainty 0.170 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_518,GC10-DET\IMAGES\silk_spot\silk_spot_518.jpg,0.3382908630315195,1,MANUAL-REVIEW,uncertainty 0.338 > threshold 0.264,1
+GC10-DET/silk_spot_519,GC10-DET\IMAGES\silk_spot\silk_spot_519.jpg,0.3471106334757136,1,MANUAL-REVIEW,uncertainty 0.347 > threshold 0.264,1
+GC10-DET/silk_spot_52,GC10-DET\IMAGES\silk_spot\silk_spot_52.jpg,0.17832912776665635,0,AUTO-ACCEPT,uncertainty 0.178 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_520,GC10-DET\IMAGES\silk_spot\silk_spot_520.jpg,0.5017561870261598,1,MANUAL-REVIEW,uncertainty 0.502 > threshold 0.264,1
+GC10-DET/silk_spot_521,GC10-DET\IMAGES\silk_spot\silk_spot_521.jpg,0.68186356971382,0,MANUAL-REVIEW,uncertainty 0.682 > threshold 0.264,1
+GC10-DET/silk_spot_522,GC10-DET\IMAGES\silk_spot\silk_spot_522.jpg,0.3310553473123731,1,MANUAL-REVIEW,uncertainty 0.331 > threshold 0.264,1
+GC10-DET/silk_spot_523,GC10-DET\IMAGES\silk_spot\silk_spot_523.jpg,0.627352119780693,0,MANUAL-REVIEW,uncertainty 0.627 > threshold 0.264,1
+GC10-DET/silk_spot_524,GC10-DET\IMAGES\silk_spot\silk_spot_524.jpg,0.07245552424758625,1,AUTO-ACCEPT,uncertainty 0.072 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_525,GC10-DET\IMAGES\silk_spot\silk_spot_525.jpg,0.4694585140742982,1,MANUAL-REVIEW,uncertainty 0.469 > threshold 0.264; near-threshold box at conf 0.24,1
+GC10-DET/silk_spot_526,GC10-DET\IMAGES\silk_spot\silk_spot_526.jpg,0.6286589509704448,0,MANUAL-REVIEW,uncertainty 0.629 > threshold 0.264,1
+GC10-DET/silk_spot_527,GC10-DET\IMAGES\silk_spot\silk_spot_527.jpg,0.7398419289426905,1,MANUAL-REVIEW,uncertainty 0.740 > threshold 0.264,1
+GC10-DET/silk_spot_528,GC10-DET\IMAGES\silk_spot\silk_spot_528.jpg,0.7765683759931626,1,MANUAL-REVIEW,uncertainty 0.777 > threshold 0.264; near-threshold box at conf 0.24,1
+GC10-DET/silk_spot_529,GC10-DET\IMAGES\silk_spot\silk_spot_529.jpg,0.8956976763161444,1,MANUAL-REVIEW,uncertainty 0.896 > threshold 0.264; near-threshold box at conf 0.25,1
+GC10-DET/silk_spot_530,GC10-DET\IMAGES\silk_spot\silk_spot_530.jpg,0.3448247435318545,0,MANUAL-REVIEW,uncertainty 0.345 > threshold 0.264,1
+GC10-DET/silk_spot_531,GC10-DET\IMAGES\silk_spot\silk_spot_531.jpg,0.2785202545542554,0,MANUAL-REVIEW,uncertainty 0.279 > threshold 0.264,1
+GC10-DET/silk_spot_532,GC10-DET\IMAGES\silk_spot\silk_spot_532.jpg,0.4007163558959939,0,MANUAL-REVIEW,uncertainty 0.401 > threshold 0.264,1
+GC10-DET/silk_spot_533,GC10-DET\IMAGES\silk_spot\silk_spot_533.jpg,0.4187484353740246,1,MANUAL-REVIEW,uncertainty 0.419 > threshold 0.264,1
+GC10-DET/silk_spot_534,GC10-DET\IMAGES\silk_spot\silk_spot_534.jpg,0.574559151535885,0,MANUAL-REVIEW,uncertainty 0.575 > threshold 0.264,1
+GC10-DET/silk_spot_535,GC10-DET\IMAGES\silk_spot\silk_spot_535.jpg,0.5403316098966555,0,MANUAL-REVIEW,uncertainty 0.540 > threshold 0.264,1
+GC10-DET/silk_spot_536,GC10-DET\IMAGES\silk_spot\silk_spot_536.jpg,0.09981064300221627,0,AUTO-ACCEPT,uncertainty 0.100 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_537,GC10-DET\IMAGES\silk_spot\silk_spot_537.jpg,0.39010119631777795,1,MANUAL-REVIEW,uncertainty 0.390 > threshold 0.264,1
+GC10-DET/silk_spot_538,GC10-DET\IMAGES\silk_spot\silk_spot_538.jpg,0.6540098552806568,0,MANUAL-REVIEW,uncertainty 0.654 > threshold 0.264,1
+GC10-DET/silk_spot_539,GC10-DET\IMAGES\silk_spot\silk_spot_539.jpg,0.7982275474171191,0,MANUAL-REVIEW,uncertainty 0.798 > threshold 0.264; near-threshold box at conf 0.21,2
+GC10-DET/silk_spot_540,GC10-DET\IMAGES\silk_spot\silk_spot_540.jpg,0.23851590397298852,0,AUTO-ACCEPT,uncertainty 0.239 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_541,GC10-DET\IMAGES\silk_spot\silk_spot_541.jpg,0.1870343524316265,0,AUTO-ACCEPT,uncertainty 0.187 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_542,GC10-DET\IMAGES\silk_spot\silk_spot_542.jpg,0.19897234533180438,1,AUTO-ACCEPT,uncertainty 0.199 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_543,GC10-DET\IMAGES\silk_spot\silk_spot_543.jpg,0.23053647947338488,0,AUTO-ACCEPT,uncertainty 0.231 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_544,GC10-DET\IMAGES\silk_spot\silk_spot_544.jpg,0.5716451211734547,1,MANUAL-REVIEW,uncertainty 0.572 > threshold 0.264,2
+GC10-DET/silk_spot_545,GC10-DET\IMAGES\silk_spot\silk_spot_545.jpg,0.4479085269195754,0,MANUAL-REVIEW,uncertainty 0.448 > threshold 0.264,1
+GC10-DET/silk_spot_546,GC10-DET\IMAGES\silk_spot\silk_spot_546.jpg,0.19199918479351005,0,AUTO-ACCEPT,uncertainty 0.192 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_547,GC10-DET\IMAGES\silk_spot\silk_spot_547.jpg,0.19884346515660833,1,AUTO-ACCEPT,uncertainty 0.199 <= calibrated threshold 0.264,2
+GC10-DET/silk_spot_548,GC10-DET\IMAGES\silk_spot\silk_spot_548.jpg,0.4240264167064322,1,MANUAL-REVIEW,uncertainty 0.424 > threshold 0.264,2
+GC10-DET/silk_spot_549,GC10-DET\IMAGES\silk_spot\silk_spot_549.jpg,0.5735427188466481,0,MANUAL-REVIEW,uncertainty 0.574 > threshold 0.264,1
+GC10-DET/silk_spot_550,GC10-DET\IMAGES\silk_spot\silk_spot_550.jpg,0.29279413900040163,0,MANUAL-REVIEW,uncertainty 0.293 > threshold 0.264,1
+GC10-DET/silk_spot_551,GC10-DET\IMAGES\silk_spot\silk_spot_551.jpg,0.3408501319748927,0,MANUAL-REVIEW,uncertainty 0.341 > threshold 0.264,1
+GC10-DET/silk_spot_552,GC10-DET\IMAGES\silk_spot\silk_spot_552.jpg,0.2566149468960258,0,AUTO-ACCEPT,uncertainty 0.257 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_553,GC10-DET\IMAGES\silk_spot\silk_spot_553.jpg,0.22238065249921593,0,AUTO-ACCEPT,uncertainty 0.222 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_554,GC10-DET\IMAGES\silk_spot\silk_spot_554.jpg,0.18187951655857032,0,AUTO-ACCEPT,uncertainty 0.182 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_555,GC10-DET\IMAGES\silk_spot\silk_spot_555.jpg,0.4431199286244749,0,MANUAL-REVIEW,uncertainty 0.443 > threshold 0.264,1
+GC10-DET/silk_spot_556,GC10-DET\IMAGES\silk_spot\silk_spot_556.jpg,0.09367633422135431,0,AUTO-ACCEPT,uncertainty 0.094 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_557,GC10-DET\IMAGES\silk_spot\silk_spot_557.jpg,0.6035345262766949,0,MANUAL-REVIEW,uncertainty 0.604 > threshold 0.264,1
+GC10-DET/silk_spot_558,GC10-DET\IMAGES\silk_spot\silk_spot_558.jpg,0.25948187973107517,1,AUTO-ACCEPT,uncertainty 0.259 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_559,GC10-DET\IMAGES\silk_spot\silk_spot_559.jpg,0.17097696230489814,0,AUTO-ACCEPT,uncertainty 0.171 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_560,GC10-DET\IMAGES\silk_spot\silk_spot_560.jpg,0.39629190186546087,1,MANUAL-REVIEW,uncertainty 0.396 > threshold 0.264,1
+GC10-DET/silk_spot_561,GC10-DET\IMAGES\silk_spot\silk_spot_561.jpg,0.7590457908305406,0,MANUAL-REVIEW,uncertainty 0.759 > threshold 0.264,1
+GC10-DET/silk_spot_562,GC10-DET\IMAGES\silk_spot\silk_spot_562.jpg,0.14418796537884765,0,AUTO-ACCEPT,uncertainty 0.144 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_563,GC10-DET\IMAGES\silk_spot\silk_spot_563.jpg,0.20050663747172506,0,AUTO-ACCEPT,uncertainty 0.201 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_565,GC10-DET\IMAGES\silk_spot\silk_spot_565.jpg,0.86079621504135,1,MANUAL-REVIEW,uncertainty 0.861 > threshold 0.264,2
+GC10-DET/silk_spot_574,GC10-DET\IMAGES\silk_spot\silk_spot_574.jpg,0.5480734400296949,0,MANUAL-REVIEW,uncertainty 0.548 > threshold 0.264,1
+GC10-DET/silk_spot_65,GC10-DET\IMAGES\silk_spot\silk_spot_65.jpg,0.14051687795572332,0,AUTO-ACCEPT,uncertainty 0.141 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_77,GC10-DET\IMAGES\silk_spot\silk_spot_77.jpg,0.11293543338260198,0,AUTO-ACCEPT,uncertainty 0.113 <= calibrated threshold 0.264,1
+GC10-DET/silk_spot_86,GC10-DET\IMAGES\silk_spot\silk_spot_86.jpg,0.12523315860085243,0,AUTO-ACCEPT,uncertainty 0.125 <= calibrated threshold 0.264,1
+GC10-DET/waist_folding_113,GC10-DET\IMAGES\waist_folding\waist_folding_113.jpg,0.722403990070348,0,MANUAL-REVIEW,uncertainty 0.722 > threshold 0.264,1
+GC10-DET/waist_folding_139,GC10-DET\IMAGES\waist_folding\waist_folding_139.jpg,0.8004205896394146,1,MANUAL-REVIEW,uncertainty 0.800 > threshold 0.264,1
+GC10-DET/waist_folding_144,GC10-DET\IMAGES\waist_folding\waist_folding_144.jpg,0.3578107223956857,0,MANUAL-REVIEW,uncertainty 0.358 > threshold 0.264,1
+GC10-DET/waist_folding_15,GC10-DET\IMAGES\waist_folding\waist_folding_15.jpg,0.7497841085668039,1,MANUAL-REVIEW,uncertainty 0.750 > threshold 0.264,1
+GC10-DET/waist_folding_21,GC10-DET\IMAGES\waist_folding\waist_folding_21.jpg,0.09912935652473,0,AUTO-ACCEPT,uncertainty 0.099 <= calibrated threshold 0.264,1
+GC10-DET/waist_folding_28,GC10-DET\IMAGES\waist_folding\waist_folding_28.jpg,0.8433235827191923,1,MANUAL-REVIEW,uncertainty 0.843 > threshold 0.264,2
+GC10-DET/waist_folding_36,GC10-DET\IMAGES\waist_folding\waist_folding_36.jpg,0.27364300925448815,0,MANUAL-REVIEW,uncertainty 0.274 > threshold 0.264,1
+GC10-DET/waist_folding_37,GC10-DET\IMAGES\waist_folding\waist_folding_37.jpg,0.3492472456166361,1,MANUAL-REVIEW,uncertainty 0.349 > threshold 0.264,1
+GC10-DET/waist_folding_38,GC10-DET\IMAGES\waist_folding\waist_folding_38.jpg,0.5396203168220793,0,MANUAL-REVIEW,uncertainty 0.540 > threshold 0.264,1
+GC10-DET/waist_folding_39,GC10-DET\IMAGES\waist_folding\waist_folding_39.jpg,0.5061564964890372,1,MANUAL-REVIEW,uncertainty 0.506 > threshold 0.264,1
+GC10-DET/waist_folding_40,GC10-DET\IMAGES\waist_folding\waist_folding_40.jpg,0.6215589933636815,1,MANUAL-REVIEW,uncertainty 0.622 > threshold 0.264,1
+GC10-DET/waist_folding_41,GC10-DET\IMAGES\waist_folding\waist_folding_41.jpg,0.41408349269183803,1,MANUAL-REVIEW,uncertainty 0.414 > threshold 0.264,1
+GC10-DET/waist_folding_42,GC10-DET\IMAGES\waist_folding\waist_folding_42.jpg,0.2607768610959597,1,AUTO-ACCEPT,uncertainty 0.261 <= calibrated threshold 0.264,1
+GC10-DET/waist_folding_43,GC10-DET\IMAGES\waist_folding\waist_folding_43.jpg,0.4288359411905417,1,MANUAL-REVIEW,uncertainty 0.429 > threshold 0.264,1
+GC10-DET/waist_folding_44,GC10-DET\IMAGES\waist_folding\waist_folding_44.jpg,0.24422764936791883,0,AUTO-ACCEPT,uncertainty 0.244 <= calibrated threshold 0.264,1
+GC10-DET/waist_folding_45,GC10-DET\IMAGES\waist_folding\waist_folding_45.jpg,0.40940138685807387,1,MANUAL-REVIEW,uncertainty 0.409 > threshold 0.264,1
+GC10-DET/waist_folding_46,GC10-DET\IMAGES\waist_folding\waist_folding_46.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/waist_folding_68,GC10-DET\IMAGES\waist_folding\waist_folding_68.jpg,0.5981246356990093,0,MANUAL-REVIEW,uncertainty 0.598 > threshold 0.264,1
+GC10-DET/waist_folding_70,GC10-DET\IMAGES\waist_folding\waist_folding_70.jpg,0.22267407768851852,0,AUTO-ACCEPT,uncertainty 0.223 <= calibrated threshold 0.264,1
+GC10-DET/waist_folding_80,GC10-DET\IMAGES\waist_folding\waist_folding_80.jpg,0.7215633960715628,0,MANUAL-REVIEW,uncertainty 0.722 > threshold 0.264,1
+GC10-DET/waist_folding_90,GC10-DET\IMAGES\waist_folding\waist_folding_90.jpg,0.28561529472404573,0,MANUAL-REVIEW,uncertainty 0.286 > threshold 0.264,1
+GC10-DET/waist_folding_98,GC10-DET\IMAGES\waist_folding\waist_folding_98.jpg,0.3029363270094178,0,MANUAL-REVIEW,uncertainty 0.303 > threshold 0.264,1
+GC10-DET/water_spot_11,GC10-DET\IMAGES\water_spot\water_spot_11.jpg,0.04855178522178681,0,AUTO-ACCEPT,uncertainty 0.049 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_116,GC10-DET\IMAGES\water_spot\water_spot_116.jpg,0.4461199936224525,0,MANUAL-REVIEW,uncertainty 0.446 > threshold 0.264,1
+GC10-DET/water_spot_120,GC10-DET\IMAGES\water_spot\water_spot_120.jpg,0.7341362181201927,0,MANUAL-REVIEW,uncertainty 0.734 > threshold 0.264,1
+GC10-DET/water_spot_124,GC10-DET\IMAGES\water_spot\water_spot_124.jpg,0.21551322236283774,0,AUTO-ACCEPT,uncertainty 0.216 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_132,GC10-DET\IMAGES\water_spot\water_spot_132.jpg,0.1757365421043026,0,AUTO-ACCEPT,uncertainty 0.176 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_136,GC10-DET\IMAGES\water_spot\water_spot_136.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/water_spot_138,GC10-DET\IMAGES\water_spot\water_spot_138.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/water_spot_139,GC10-DET\IMAGES\water_spot\water_spot_139.jpg,0.7000192475730365,0,MANUAL-REVIEW,uncertainty 0.700 > threshold 0.264,1
+GC10-DET/water_spot_151,GC10-DET\IMAGES\water_spot\water_spot_151.jpg,0.2088367266981759,0,AUTO-ACCEPT,uncertainty 0.209 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_155,GC10-DET\IMAGES\water_spot\water_spot_155.jpg,0.5505719939096305,1,MANUAL-REVIEW,uncertainty 0.551 > threshold 0.264,2
+GC10-DET/water_spot_160,GC10-DET\IMAGES\water_spot\water_spot_160.jpg,0.601949689916162,0,MANUAL-REVIEW,uncertainty 0.602 > threshold 0.264,1
+GC10-DET/water_spot_162,GC10-DET\IMAGES\water_spot\water_spot_162.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/water_spot_166,GC10-DET\IMAGES\water_spot\water_spot_166.jpg,0.619015295282308,0,MANUAL-REVIEW,uncertainty 0.619 > threshold 0.264,1
+GC10-DET/water_spot_170,GC10-DET\IMAGES\water_spot\water_spot_170.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/water_spot_174,GC10-DET\IMAGES\water_spot\water_spot_174.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/water_spot_175,GC10-DET\IMAGES\water_spot\water_spot_175.jpg,0.20446086620752732,0,AUTO-ACCEPT,uncertainty 0.204 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_177,GC10-DET\IMAGES\water_spot\water_spot_177.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,2
+GC10-DET/water_spot_178,GC10-DET\IMAGES\water_spot\water_spot_178.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,3
+GC10-DET/water_spot_180,GC10-DET\IMAGES\water_spot\water_spot_180.jpg,1.0,1,MANUAL-REVIEW,no detection with confidence >= 0.25,1
+GC10-DET/water_spot_181,GC10-DET\IMAGES\water_spot\water_spot_181.jpg,0.118809717677227,0,AUTO-ACCEPT,uncertainty 0.119 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_182,GC10-DET\IMAGES\water_spot\water_spot_182.jpg,0.22952849765395697,0,AUTO-ACCEPT,uncertainty 0.230 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_187,GC10-DET\IMAGES\water_spot\water_spot_187.jpg,0.7945463995616916,1,MANUAL-REVIEW,uncertainty 0.795 > threshold 0.264,4
+GC10-DET/water_spot_197,GC10-DET\IMAGES\water_spot\water_spot_197.jpg,0.03981666324643228,0,AUTO-ACCEPT,uncertainty 0.040 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_199,GC10-DET\IMAGES\water_spot\water_spot_199.jpg,0.03232327702294842,0,AUTO-ACCEPT,uncertainty 0.032 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_204,GC10-DET\IMAGES\water_spot\water_spot_204.jpg,0.053725440939859946,0,AUTO-ACCEPT,uncertainty 0.054 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_215,GC10-DET\IMAGES\water_spot\water_spot_215.jpg,0.1422789621065579,1,AUTO-ACCEPT,uncertainty 0.142 <= calibrated threshold 0.264,2
+GC10-DET/water_spot_216,GC10-DET\IMAGES\water_spot\water_spot_216.jpg,0.11998212227289229,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.264,2
+GC10-DET/water_spot_226,GC10-DET\IMAGES\water_spot\water_spot_226.jpg,0.7084907709781444,0,MANUAL-REVIEW,uncertainty 0.708 > threshold 0.264,1
+GC10-DET/water_spot_227,GC10-DET\IMAGES\water_spot\water_spot_227.jpg,0.12642419884731174,0,AUTO-ACCEPT,uncertainty 0.126 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_231,GC10-DET\IMAGES\water_spot\water_spot_231.jpg,0.06720446792448713,0,AUTO-ACCEPT,uncertainty 0.067 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_233,GC10-DET\IMAGES\water_spot\water_spot_233.jpg,0.19207530082899363,0,AUTO-ACCEPT,uncertainty 0.192 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_245,GC10-DET\IMAGES\water_spot\water_spot_245.jpg,0.09932582793153309,0,AUTO-ACCEPT,uncertainty 0.099 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_257,GC10-DET\IMAGES\water_spot\water_spot_257.jpg,0.0854321275012099,0,AUTO-ACCEPT,uncertainty 0.085 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_259,GC10-DET\IMAGES\water_spot\water_spot_259.jpg,0.20815797524431287,0,AUTO-ACCEPT,uncertainty 0.208 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_260,GC10-DET\IMAGES\water_spot\water_spot_260.jpg,0.11085330406409667,0,AUTO-ACCEPT,uncertainty 0.111 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_268,GC10-DET\IMAGES\water_spot\water_spot_268.jpg,0.1298686768459441,0,AUTO-ACCEPT,uncertainty 0.130 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_31,GC10-DET\IMAGES\water_spot\water_spot_31.jpg,0.21515708369486258,0,AUTO-ACCEPT,uncertainty 0.215 <= calibrated threshold 0.264,2
+GC10-DET/water_spot_36,GC10-DET\IMAGES\water_spot\water_spot_36.jpg,0.05722954522319057,0,AUTO-ACCEPT,uncertainty 0.057 <= calibrated threshold 0.264,1
+GC10-DET/water_spot_42,GC10-DET\IMAGES\water_spot\water_spot_42.jpg,0.7603069404669958,0,MANUAL-REVIEW,uncertainty 0.760 > threshold 0.264; near-threshold box at conf 0.23,2
+GC10-DET/water_spot_58,GC10-DET\IMAGES\water_spot\water_spot_58.jpg,0.1878422702902112,0,AUTO-ACCEPT,uncertainty 0.188 <= calibrated threshold 0.264,2
+GC10-DET/water_spot_69,GC10-DET\IMAGES\water_spot\water_spot_69.jpg,0.17210168729642186,1,AUTO-ACCEPT,uncertainty 0.172 <= calibrated threshold 0.264,2
+GC10-DET/water_spot_81,GC10-DET\IMAGES\water_spot\water_spot_81.jpg,0.2724236200642113,0,MANUAL-REVIEW,uncertainty 0.272 > threshold 0.264,1
+GC10-DET/water_spot_94,GC10-DET\IMAGES\water_spot\water_spot_94.jpg,0.1543503831519373,0,AUTO-ACCEPT,uncertainty 0.154 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_100,GC10-DET\IMAGES\welding_line\welding_line_100.jpg,0.15217729191514479,0,AUTO-ACCEPT,uncertainty 0.152 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_108,GC10-DET\IMAGES\welding_line\welding_line_108.jpg,0.1205429593035761,0,AUTO-ACCEPT,uncertainty 0.121 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_120,GC10-DET\IMAGES\welding_line\welding_line_120.jpg,0.3544822540706797,0,MANUAL-REVIEW,uncertainty 0.354 > threshold 0.264,1
+GC10-DET/welding_line_142,GC10-DET\IMAGES\welding_line\welding_line_142.jpg,0.11762984891121495,0,AUTO-ACCEPT,uncertainty 0.118 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_149,GC10-DET\IMAGES\welding_line\welding_line_149.jpg,0.17326415598685205,0,AUTO-ACCEPT,uncertainty 0.173 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_151,GC10-DET\IMAGES\welding_line\welding_line_151.jpg,0.28041103730295636,0,MANUAL-REVIEW,uncertainty 0.280 > threshold 0.264,1
+GC10-DET/welding_line_153,GC10-DET\IMAGES\welding_line\welding_line_153.jpg,0.25896231745570514,0,AUTO-ACCEPT,uncertainty 0.259 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_161,GC10-DET\IMAGES\welding_line\welding_line_161.jpg,0.23577247266010387,0,AUTO-ACCEPT,uncertainty 0.236 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_174,GC10-DET\IMAGES\welding_line\welding_line_174.jpg,0.1794080324199285,0,AUTO-ACCEPT,uncertainty 0.179 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_181,GC10-DET\IMAGES\welding_line\welding_line_181.jpg,0.14881205003411577,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_185,GC10-DET\IMAGES\welding_line\welding_line_185.jpg,0.1837179374507208,0,AUTO-ACCEPT,uncertainty 0.184 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_188,GC10-DET\IMAGES\welding_line\welding_line_188.jpg,0.10374120934063863,0,AUTO-ACCEPT,uncertainty 0.104 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_190,GC10-DET\IMAGES\welding_line\welding_line_190.jpg,0.3321666349901235,0,MANUAL-REVIEW,uncertainty 0.332 > threshold 0.264,2
+GC10-DET/welding_line_191,GC10-DET\IMAGES\welding_line\welding_line_191.jpg,0.24274494564243224,0,AUTO-ACCEPT,uncertainty 0.243 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_195,GC10-DET\IMAGES\welding_line\welding_line_195.jpg,0.4162131168195122,0,MANUAL-REVIEW,uncertainty 0.416 > threshold 0.264; near-threshold box at conf 0.21,1
+GC10-DET/welding_line_196,GC10-DET\IMAGES\welding_line\welding_line_196.jpg,0.21225714110835728,0,AUTO-ACCEPT,uncertainty 0.212 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_2,GC10-DET\IMAGES\welding_line\welding_line_2.jpg,0.3561724857629183,0,MANUAL-REVIEW,uncertainty 0.356 > threshold 0.264; near-threshold box at conf 0.21,2
+GC10-DET/welding_line_200,GC10-DET\IMAGES\welding_line\welding_line_200.jpg,0.5759625178558293,0,MANUAL-REVIEW,uncertainty 0.576 > threshold 0.264; near-threshold box at conf 0.24,1
+GC10-DET/welding_line_203,GC10-DET\IMAGES\welding_line\welding_line_203.jpg,0.1490521232954632,0,AUTO-ACCEPT,uncertainty 0.149 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_210,GC10-DET\IMAGES\welding_line\welding_line_210.jpg,0.4794180447033021,0,MANUAL-REVIEW,uncertainty 0.479 > threshold 0.264,1
+GC10-DET/welding_line_219,GC10-DET\IMAGES\welding_line\welding_line_219.jpg,0.7685212319450772,1,MANUAL-REVIEW,uncertainty 0.769 > threshold 0.264,2
+GC10-DET/welding_line_23,GC10-DET\IMAGES\welding_line\welding_line_23.jpg,0.18341353696927445,0,AUTO-ACCEPT,uncertainty 0.183 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_230,GC10-DET\IMAGES\welding_line\welding_line_230.jpg,0.5538331376874573,0,MANUAL-REVIEW,uncertainty 0.554 > threshold 0.264; near-threshold box at conf 0.22,1
+GC10-DET/welding_line_237,GC10-DET\IMAGES\welding_line\welding_line_237.jpg,0.49427336619730844,0,MANUAL-REVIEW,uncertainty 0.494 > threshold 0.264; near-threshold box at conf 0.23,2
+GC10-DET/welding_line_241,GC10-DET\IMAGES\welding_line\welding_line_241.jpg,0.42731986642447645,0,MANUAL-REVIEW,uncertainty 0.427 > threshold 0.264,1
+GC10-DET/welding_line_243,GC10-DET\IMAGES\welding_line\welding_line_243.jpg,0.1568641961674593,0,AUTO-ACCEPT,uncertainty 0.157 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_258,GC10-DET\IMAGES\welding_line\welding_line_258.jpg,0.5244953995868604,0,MANUAL-REVIEW,uncertainty 0.524 > threshold 0.264,1
+GC10-DET/welding_line_259,GC10-DET\IMAGES\welding_line\welding_line_259.jpg,0.2451946130808207,0,AUTO-ACCEPT,uncertainty 0.245 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_262,GC10-DET\IMAGES\welding_line\welding_line_262.jpg,0.15740788606419204,0,AUTO-ACCEPT,uncertainty 0.157 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_264,GC10-DET\IMAGES\welding_line\welding_line_264.jpg,0.1967600744811353,0,AUTO-ACCEPT,uncertainty 0.197 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_265,GC10-DET\IMAGES\welding_line\welding_line_265.jpg,0.18385099200957025,0,AUTO-ACCEPT,uncertainty 0.184 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_29,GC10-DET\IMAGES\welding_line\welding_line_29.jpg,0.5695859597205034,1,MANUAL-REVIEW,uncertainty 0.570 > threshold 0.264; near-threshold box at conf 0.24,2
+GC10-DET/welding_line_32,GC10-DET\IMAGES\welding_line\welding_line_32.jpg,0.2815503326622317,0,MANUAL-REVIEW,uncertainty 0.282 > threshold 0.264,2
+GC10-DET/welding_line_44,GC10-DET\IMAGES\welding_line\welding_line_44.jpg,0.22072926812948385,1,AUTO-ACCEPT,uncertainty 0.221 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_52,GC10-DET\IMAGES\welding_line\welding_line_52.jpg,0.11112819008684899,0,AUTO-ACCEPT,uncertainty 0.111 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_67,GC10-DET\IMAGES\welding_line\welding_line_67.jpg,0.20531430807713208,0,AUTO-ACCEPT,uncertainty 0.205 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_7,GC10-DET\IMAGES\welding_line\welding_line_7.jpg,0.11973516337125246,0,AUTO-ACCEPT,uncertainty 0.120 <= calibrated threshold 0.264,1
+GC10-DET/welding_line_75,GC10-DET\IMAGES\welding_line\welding_line_75.jpg,0.28014307730731175,1,MANUAL-REVIEW,uncertainty 0.280 > threshold 0.264,3
+GC10-DET/welding_line_92,GC10-DET\IMAGES\welding_line\welding_line_92.jpg,0.1085684736120651,0,AUTO-ACCEPT,uncertainty 0.109 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_94,GC10-DET\IMAGES\welding_line\welding_line_94.jpg,0.07999864839472931,0,AUTO-ACCEPT,uncertainty 0.080 <= calibrated threshold 0.264,2
+GC10-DET/welding_line_96,GC10-DET\IMAGES\welding_line\welding_line_96.jpg,0.07176480655617033,0,AUTO-ACCEPT,uncertainty 0.072 <= calibrated threshold 0.264,2
