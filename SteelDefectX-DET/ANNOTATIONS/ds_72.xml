@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Scratches</folder>
+  <filename>ds_72.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Scratches</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>153</xmin>
+      <ymin>67</ymin>
+      <xmax>160</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

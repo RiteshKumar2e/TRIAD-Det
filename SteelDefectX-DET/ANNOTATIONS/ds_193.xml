@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Scratches</folder>
+  <filename>ds_193.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Scratches</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>0</ymin>
+      <xmax>84</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scratches</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>79</ymin>
+      <xmax>218</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>

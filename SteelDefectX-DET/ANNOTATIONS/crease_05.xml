@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Crease</folder>
+  <filename>crease_05.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Crease</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>179</xmin>
+      <ymin>38</ymin>
+      <xmax>256</xmax>
+      <ymax>66</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Crease</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>102</ymin>
+      <xmax>256</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

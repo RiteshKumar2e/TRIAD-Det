@@ -1,0 +1,99 @@
+<annotation>
+  <folder>Silk spot</folder>
+  <filename>ss_399.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>52</xmin>
+      <ymin>0</ymin>
+      <xmax>73</xmax>
+      <ymax>35</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>2</ymin>
+      <xmax>39</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>9</ymin>
+      <xmax>54</xmax>
+      <ymax>27</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>38</ymin>
+      <xmax>79</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56</xmin>
+      <ymin>46</ymin>
+      <xmax>66</xmax>
+      <ymax>67</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>180</ymin>
+      <xmax>66</xmax>
+      <ymax>213</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>205</ymin>
+      <xmax>71</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>229</ymin>
+      <xmax>51</xmax>
+      <ymax>237</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>237</ymin>
+      <xmax>43</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

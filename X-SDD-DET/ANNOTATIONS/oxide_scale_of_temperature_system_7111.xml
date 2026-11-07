@@ -1,0 +1,89 @@
+<annotation>
+  <folder>oxide scale of temperature system</folder>
+  <filename>oxide_scale_of_temperature_system_7111.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>110</xmin>
+      <ymin>2</ymin>
+      <xmax>123</xmax>
+      <ymax>16</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>13</ymin>
+      <xmax>12</xmax>
+      <ymax>36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>29</xmin>
+      <ymin>14</ymin>
+      <xmax>52</xmax>
+      <ymax>54</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70</xmin>
+      <ymin>26</ymin>
+      <xmax>78</xmax>
+      <ymax>36</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>120</xmin>
+      <ymin>39</ymin>
+      <xmax>124</xmax>
+      <ymax>43</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>50</ymin>
+      <xmax>120</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>60</ymin>
+      <xmax>32</xmax>
+      <ymax>64</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>61</ymin>
+      <xmax>13</xmax>
+      <ymax>64</ymax>
+    </bndbox>
+  </object>
+</annotation>

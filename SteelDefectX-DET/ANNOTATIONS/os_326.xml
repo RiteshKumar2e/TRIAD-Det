@@ -1,0 +1,49 @@
+<annotation>
+  <folder>Oil spot</folder>
+  <filename>os_326.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Oil spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>17</ymin>
+      <xmax>125</xmax>
+      <ymax>32</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oil spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>113</ymin>
+      <xmax>118</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oil spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>140</ymin>
+      <xmax>119</xmax>
+      <ymax>151</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oil spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70</xmin>
+      <ymin>155</ymin>
+      <xmax>163</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+</annotation>

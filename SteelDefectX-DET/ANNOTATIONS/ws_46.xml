@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Water spot</folder>
+  <filename>ws_46.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Water spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>108</xmin>
+      <ymin>0</ymin>
+      <xmax>150</xmax>
+      <ymax>96</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Water spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>101</xmin>
+      <ymin>114</ymin>
+      <xmax>161</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

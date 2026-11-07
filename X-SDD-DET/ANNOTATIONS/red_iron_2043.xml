@@ -1,0 +1,109 @@
+<annotation>
+  <folder>red iron</folder>
+  <filename>red_iron_2043.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>0</ymin>
+      <xmax>36</xmax>
+      <ymax>52</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>3</ymin>
+      <xmax>92</xmax>
+      <ymax>18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>20</ymin>
+      <xmax>100</xmax>
+      <ymax>43</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>26</ymin>
+      <xmax>116</xmax>
+      <ymax>32</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>94</xmin>
+      <ymin>50</ymin>
+      <xmax>98</xmax>
+      <ymax>60</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>52</ymin>
+      <xmax>56</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>62</ymin>
+      <xmax>32</xmax>
+      <ymax>67</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>62</ymin>
+      <xmax>128</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>52</xmin>
+      <ymin>74</ymin>
+      <xmax>55</xmax>
+      <ymax>78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>117</ymin>
+      <xmax>128</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+</annotation>

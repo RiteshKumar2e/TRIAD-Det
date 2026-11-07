@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Finishing roll printing</folder>
+  <filename>frp_189.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Finishing roll printing</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>91</ymin>
+      <xmax>256</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+</annotation>

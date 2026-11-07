@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Iron sheet ash</folder>
+  <filename>Isa_92.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Iron sheet ash</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>49</xmin>
+      <ymin>88</ymin>
+      <xmax>86</xmax>
+      <ymax>110</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iron sheet ash</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>74</xmin>
+      <ymin>110</ymin>
+      <xmax>83</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+</annotation>

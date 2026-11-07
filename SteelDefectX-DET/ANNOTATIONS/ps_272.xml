@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Pitted surface</folder>
+  <filename>ps_272.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>255</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>197</xmin>
+      <ymin>51</ymin>
+      <xmax>254</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+</annotation>

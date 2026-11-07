@@ -1,0 +1,79 @@
+<annotation>
+  <folder>oxide scale of temperature system</folder>
+  <filename>oxide_scale_of_temperature_system_7042.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>10</ymin>
+      <xmax>12</xmax>
+      <ymax>18</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>10</ymin>
+      <xmax>118</xmax>
+      <ymax>14</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>21</ymin>
+      <xmax>67</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>120</xmin>
+      <ymin>34</ymin>
+      <xmax>126</xmax>
+      <ymax>42</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>48</ymin>
+      <xmax>128</xmax>
+      <ymax>114</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>60</xmin>
+      <ymin>104</ymin>
+      <xmax>64</xmax>
+      <ymax>108</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>96</xmin>
+      <ymin>124</ymin>
+      <xmax>102</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+</annotation>

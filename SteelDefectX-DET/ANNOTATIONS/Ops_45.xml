@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Oxide scale of plate system</folder>
+  <filename>Ops_45.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Oxide scale of plate system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>138</xmin>
+      <ymin>32</ymin>
+      <xmax>188</xmax>
+      <ymax>242</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of plate system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>131</xmin>
+      <ymin>206</ymin>
+      <xmax>166</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

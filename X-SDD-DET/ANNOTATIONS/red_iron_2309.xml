@@ -1,0 +1,39 @@
+<annotation>
+  <folder>red iron</folder>
+  <filename>red_iron_2309.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>0</ymin>
+      <xmax>100</xmax>
+      <ymax>44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>42</ymin>
+      <xmax>104</xmax>
+      <ymax>106</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red iron</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>96</xmin>
+      <ymin>118</ymin>
+      <xmax>100</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+</annotation>

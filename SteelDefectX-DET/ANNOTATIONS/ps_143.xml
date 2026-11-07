@@ -1,0 +1,89 @@
+<annotation>
+  <folder>Pitted surface</folder>
+  <filename>ps_143.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>0</ymin>
+      <xmax>68</xmax>
+      <ymax>8</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>227</xmin>
+      <ymin>0</ymin>
+      <xmax>253</xmax>
+      <ymax>17</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>230</xmin>
+      <ymin>22</ymin>
+      <xmax>256</xmax>
+      <ymax>48</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>32</ymin>
+      <xmax>256</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>106</ymin>
+      <xmax>96</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>110</xmin>
+      <ymin>109</ymin>
+      <xmax>128</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>130</ymin>
+      <xmax>33</xmax>
+      <ymax>227</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pitted surface</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>236</ymin>
+      <xmax>17</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+</annotation>

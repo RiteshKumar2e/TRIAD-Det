@@ -1,0 +1,59 @@
+<annotation>
+  <folder>Oxide scale of temperature system</folder>
+  <filename>Ots_09.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>24</ymin>
+      <xmax>18</xmax>
+      <ymax>35</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>56</ymin>
+      <xmax>122</xmax>
+      <ymax>129</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>111</ymin>
+      <xmax>159</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>61</xmin>
+      <ymin>157</ymin>
+      <xmax>244</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>183</ymin>
+      <xmax>29</xmax>
+      <ymax>230</ymax>
+    </bndbox>
+  </object>
+</annotation>

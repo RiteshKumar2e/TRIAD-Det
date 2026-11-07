@@ -1,0 +1,99 @@
+<annotation>
+  <folder>Rolled in scale</folder>
+  <filename>rs_242.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>8</ymin>
+      <xmax>102</xmax>
+      <ymax>15</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>57</xmin>
+      <ymin>22</ymin>
+      <xmax>65</xmax>
+      <ymax>32</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>37</ymin>
+      <xmax>108</xmax>
+      <ymax>46</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>58</xmin>
+      <ymin>67</ymin>
+      <xmax>72</xmax>
+      <ymax>78</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>128</ymin>
+      <xmax>32</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>150</ymin>
+      <xmax>59</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>176</ymin>
+      <xmax>47</xmax>
+      <ymax>185</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>190</ymin>
+      <xmax>86</xmax>
+      <ymax>230</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>237</ymin>
+      <xmax>79</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

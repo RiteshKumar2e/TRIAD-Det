@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Water spot</folder>
+  <filename>ws_446.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Water spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>81</xmin>
+      <ymin>90</ymin>
+      <xmax>98</xmax>
+      <ymax>117</ymax>
+    </bndbox>
+  </object>
+</annotation>

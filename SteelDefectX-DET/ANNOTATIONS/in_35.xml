@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Inclusion</folder>
+  <filename>in_35.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>99</xmin>
+      <ymin>22</ymin>
+      <xmax>124</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>191</ymin>
+      <xmax>123</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

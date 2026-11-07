@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Iron scale compression</folder>
+  <filename>Isc_59.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Iron scale compression</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>73</ymin>
+      <xmax>171</xmax>
+      <ymax>181</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iron scale compression</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>65</xmin>
+      <ymin>113</ymin>
+      <xmax>120</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

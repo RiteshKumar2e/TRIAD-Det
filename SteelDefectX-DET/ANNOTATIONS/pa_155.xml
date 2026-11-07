@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Patches</folder>
+  <filename>pa_155.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Patches</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>0</ymin>
+      <xmax>155</xmax>
+      <ymax>69</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Patches</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>74</xmin>
+      <ymin>82</ymin>
+      <xmax>173</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+</annotation>

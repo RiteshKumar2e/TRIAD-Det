@@ -1,0 +1,19 @@
+<annotation>
+  <folder>iron sheet ash</folder>
+  <filename>iron_sheet_ash_3030.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>iron sheet ash</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>4</ymin>
+      <xmax>88</xmax>
+      <ymax>26</ymax>
+    </bndbox>
+  </object>
+</annotation>

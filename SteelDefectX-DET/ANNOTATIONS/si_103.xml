@@ -1,0 +1,69 @@
+<annotation>
+  <folder>Slag inclusion</folder>
+  <filename>si_103.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>22</ymin>
+      <xmax>236</xmax>
+      <ymax>76</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>74</xmin>
+      <ymin>50</ymin>
+      <xmax>82</xmax>
+      <ymax>58</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56</xmin>
+      <ymin>86</ymin>
+      <xmax>180</xmax>
+      <ymax>182</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>164</ymin>
+      <xmax>56</xmax>
+      <ymax>186</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>236</ymin>
+      <xmax>54</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>58</xmin>
+      <ymin>242</ymin>
+      <xmax>67</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

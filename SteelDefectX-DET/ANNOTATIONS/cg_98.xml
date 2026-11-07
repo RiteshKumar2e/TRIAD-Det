@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Crescent gap</folder>
+  <filename>cg_98.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Crescent gap</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>47</ymin>
+      <xmax>133</xmax>
+      <ymax>229</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Crescent gap</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>135</xmin>
+      <ymin>255</ymin>
+      <xmax>195</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

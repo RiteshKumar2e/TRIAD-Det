@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Slag inclusion</folder>
+  <filename>si_210.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>137</ymin>
+      <xmax>126</xmax>
+      <ymax>203</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>207</ymin>
+      <xmax>126</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>227</ymin>
+      <xmax>126</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

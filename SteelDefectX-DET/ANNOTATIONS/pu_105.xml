@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Punching</folder>
+  <filename>pu_105.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Punching</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>229</xmin>
+      <ymin>180</ymin>
+      <xmax>256</xmax>
+      <ymax>223</ymax>
+    </bndbox>
+  </object>
+</annotation>

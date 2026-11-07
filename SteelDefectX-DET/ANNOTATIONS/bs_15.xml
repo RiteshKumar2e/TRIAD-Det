@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Bright scratch</folder>
+  <filename>bs_15.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Bright scratch</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>0</ymin>
+      <xmax>101</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Bright scratch</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>101</xmin>
+      <ymin>0</ymin>
+      <xmax>121</xmax>
+      <ymax>208</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Bright scratch</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>0</ymin>
+      <xmax>140</xmax>
+      <ymax>193</ymax>
+    </bndbox>
+  </object>
+</annotation>

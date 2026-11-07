@@ -1,0 +1,8162 @@
+[
+ {
+  "xsdd": "finishing roll printing/6001.png",
+  "sdx": "frp_01",
+  "corr": 0.9952179193496704,
+  "mae": 0.8802490234375
+ },
+ {
+  "xsdd": "finishing roll printing/6002.png",
+  "sdx": "frp_02",
+  "corr": 0.9988120198249817,
+  "mae": 1.00225830078125
+ },
+ {
+  "xsdd": "finishing roll printing/6003.png",
+  "sdx": "frp_03",
+  "corr": 0.9984764456748962,
+  "mae": 0.89788818359375
+ },
+ {
+  "xsdd": "finishing roll printing/6004.png",
+  "sdx": "frp_04",
+  "corr": 0.9974899291992188,
+  "mae": 0.9801025390625
+ },
+ {
+  "xsdd": "finishing roll printing/6005.png",
+  "sdx": "frp_05",
+  "corr": 0.9980939626693726,
+  "mae": 0.9593505859375
+ },
+ {
+  "xsdd": "finishing roll printing/6006.png",
+  "sdx": "frp_06",
+  "corr": 0.9983115196228027,
+  "mae": 0.9508056640625
+ },
+ {
+  "xsdd": "finishing roll printing/6007.png",
+  "sdx": "frp_07",
+  "corr": 0.9994862675666809,
+  "mae": 0.94134521484375
+ },
+ {
+  "xsdd": "finishing roll printing/6008.png",
+  "sdx": "frp_08",
+  "corr": 0.999392032623291,
+  "mae": 0.95379638671875
+ },
+ {
+  "xsdd": "finishing roll printing/6009.png",
+  "sdx": "frp_09",
+  "corr": 0.997527003288269,
+  "mae": 0.94036865234375
+ },
+ {
+  "xsdd": "finishing roll printing/6010.png",
+  "sdx": "frp_10",
+  "corr": 0.9976397752761841,
+  "mae": 0.85430908203125
+ },
+ {
+  "xsdd": "finishing roll printing/6011.png",
+  "sdx": "frp_11",
+  "corr": 0.9955195188522339,
+  "mae": 0.9298095703125
+ },
+ {
+  "xsdd": "finishing roll printing/6012.png",
+  "sdx": "frp_12",
+  "corr": 0.9955065250396729,
+  "mae": 0.96044921875
+ },
+ {
+  "xsdd": "finishing roll printing/6013.png",
+  "sdx": "frp_13",
+  "corr": 0.9982214570045471,
+  "mae": 0.99725341796875
+ },
+ {
+  "xsdd": "finishing roll printing/6014.png",
+  "sdx": "frp_14",
+  "corr": 0.9985548257827759,
+  "mae": 1.02117919921875
+ },
+ {
+  "xsdd": "finishing roll printing/6015.png",
+  "sdx": "frp_15",
+  "corr": 0.997349739074707,
+  "mae": 0.91815185546875
+ },
+ {
+  "xsdd": "finishing roll printing/6016.png",
+  "sdx": "frp_16",
+  "corr": 0.9960320591926575,
+  "mae": 0.9451904296875
+ },
+ {
+  "xsdd": "finishing roll printing/6017.png",
+  "sdx": "frp_17",
+  "corr": 0.9971718788146973,
+  "mae": 0.88690185546875
+ },
+ {
+  "xsdd": "finishing roll printing/6018.png",
+  "sdx": "frp_18",
+  "corr": 0.9988027811050415,
+  "mae": 0.97418212890625
+ },
+ {
+  "xsdd": "finishing roll printing/6019.png",
+  "sdx": "frp_19",
+  "corr": 0.9990060329437256,
+  "mae": 1.013916015625
+ },
+ {
+  "xsdd": "finishing roll printing/6020.png",
+  "sdx": "frp_20",
+  "corr": 0.999087393283844,
+  "mae": 0.89276123046875
+ },
+ {
+  "xsdd": "finishing roll printing/6021.png",
+  "sdx": "frp_21",
+  "corr": 0.9975680112838745,
+  "mae": 0.92535400390625
+ },
+ {
+  "xsdd": "finishing roll printing/6022.png",
+  "sdx": "frp_22",
+  "corr": 0.9944353103637695,
+  "mae": 0.94769287109375
+ },
+ {
+  "xsdd": "finishing roll printing/6023.png",
+  "sdx": "frp_23",
+  "corr": 0.9979490637779236,
+  "mae": 0.99176025390625
+ },
+ {
+  "xsdd": "finishing roll printing/6024.png",
+  "sdx": "frp_24",
+  "corr": 0.995563805103302,
+  "mae": 0.8770751953125
+ },
+ {
+  "xsdd": "finishing roll printing/6025.png",
+  "sdx": "frp_25",
+  "corr": 0.9915519952774048,
+  "mae": 0.9764404296875
+ },
+ {
+  "xsdd": "finishing roll printing/6026.png",
+  "sdx": "frp_26",
+  "corr": 0.9949236512184143,
+  "mae": 0.9884033203125
+ },
+ {
+  "xsdd": "finishing roll printing/6027.png",
+  "sdx": "frp_27",
+  "corr": 0.9937869906425476,
+  "mae": 0.98992919921875
+ },
+ {
+  "xsdd": "finishing roll printing/6028.png",
+  "sdx": "frp_28",
+  "corr": 0.992834210395813,
+  "mae": 0.9866943359375
+ },
+ {
+  "xsdd": "finishing roll printing/6029.png",
+  "sdx": "frp_29",
+  "corr": 0.9951993823051453,
+  "mae": 0.99090576171875
+ },
+ {
+  "xsdd": "finishing roll printing/6030.png",
+  "sdx": "frp_30",
+  "corr": 0.99846351146698,
+  "mae": 0.96875
+ },
+ {
+  "xsdd": "finishing roll printing/6031.png",
+  "sdx": "frp_31",
+  "corr": 0.9982830286026001,
+  "mae": 1.03118896484375
+ },
+ {
+  "xsdd": "finishing roll printing/6032.png",
+  "sdx": "frp_32",
+  "corr": 0.9972952604293823,
+  "mae": 0.83489990234375
+ },
+ {
+  "xsdd": "finishing roll printing/6033.png",
+  "sdx": "frp_33",
+  "corr": 0.9980934858322144,
+  "mae": 0.86907958984375
+ },
+ {
+  "xsdd": "finishing roll printing/6034.png",
+  "sdx": "frp_34",
+  "corr": 0.997961699962616,
+  "mae": 0.8475341796875
+ },
+ {
+  "xsdd": "finishing roll printing/6035.png",
+  "sdx": "frp_35",
+  "corr": 0.997832179069519,
+  "mae": 0.843505859375
+ },
+ {
+  "xsdd": "finishing roll printing/6036.png",
+  "sdx": "frp_36",
+  "corr": 0.9978578686714172,
+  "mae": 0.91900634765625
+ },
+ {
+  "xsdd": "finishing roll printing/6037.png",
+  "sdx": "frp_37",
+  "corr": 0.996816873550415,
+  "mae": 0.80377197265625
+ },
+ {
+  "xsdd": "finishing roll printing/6038.png",
+  "sdx": "frp_38",
+  "corr": 0.9989653825759888,
+  "mae": 0.947998046875
+ },
+ {
+  "xsdd": "finishing roll printing/6039.png",
+  "sdx": "frp_39",
+  "corr": 0.996667742729187,
+  "mae": 0.84820556640625
+ },
+ {
+  "xsdd": "finishing roll printing/6040.png",
+  "sdx": "frp_40",
+  "corr": 0.9977351427078247,
+  "mae": 0.8836669921875
+ },
+ {
+  "xsdd": "finishing roll printing/6041.png",
+  "sdx": "frp_41",
+  "corr": 0.995844841003418,
+  "mae": 0.9368896484375
+ },
+ {
+  "xsdd": "finishing roll printing/6042.png",
+  "sdx": "frp_42",
+  "corr": 0.996600329875946,
+  "mae": 0.93701171875
+ },
+ {
+  "xsdd": "finishing roll printing/6043.png",
+  "sdx": "frp_43",
+  "corr": 0.9958581924438477,
+  "mae": 0.8179931640625
+ },
+ {
+  "xsdd": "finishing roll printing/6044.png",
+  "sdx": "frp_44",
+  "corr": 0.9993428587913513,
+  "mae": 1.0118408203125
+ },
+ {
+  "xsdd": "finishing roll printing/6045.png",
+  "sdx": "frp_45",
+  "corr": 0.9977231025695801,
+  "mae": 1.00030517578125
+ },
+ {
+  "xsdd": "finishing roll printing/6046.png",
+  "sdx": "frp_46",
+  "corr": 0.9967595934867859,
+  "mae": 0.808837890625
+ },
+ {
+  "xsdd": "finishing roll printing/6047.png",
+  "sdx": "frp_47",
+  "corr": 0.9981140494346619,
+  "mae": 0.8582763671875
+ },
+ {
+  "xsdd": "finishing roll printing/6048.png",
+  "sdx": "frp_48",
+  "corr": 0.9964088201522827,
+  "mae": 0.84588623046875
+ },
+ {
+  "xsdd": "finishing roll printing/6049.png",
+  "sdx": "frp_49",
+  "corr": 0.9980481266975403,
+  "mae": 0.865234375
+ },
+ {
+  "xsdd": "finishing roll printing/6050.png",
+  "sdx": "frp_50",
+  "corr": 0.997445821762085,
+  "mae": 0.92352294921875
+ },
+ {
+  "xsdd": "finishing roll printing/6051.png",
+  "sdx": "frp_51",
+  "corr": 0.9980683922767639,
+  "mae": 0.87042236328125
+ },
+ {
+  "xsdd": "finishing roll printing/6052.png",
+  "sdx": "frp_52",
+  "corr": 0.9992998242378235,
+  "mae": 1.0347900390625
+ },
+ {
+  "xsdd": "finishing roll printing/6053.png",
+  "sdx": "frp_53",
+  "corr": 0.9987159967422485,
+  "mae": 0.9901123046875
+ },
+ {
+  "xsdd": "finishing roll printing/6054.png",
+  "sdx": "frp_54",
+  "corr": 0.9950610399246216,
+  "mae": 0.8656005859375
+ },
+ {
+  "xsdd": "finishing roll printing/6055.png",
+  "sdx": "frp_55",
+  "corr": 0.9975429773330688,
+  "mae": 0.9093017578125
+ },
+ {
+  "xsdd": "finishing roll printing/6056.png",
+  "sdx": "frp_56",
+  "corr": 0.9972848892211914,
+  "mae": 0.9481201171875
+ },
+ {
+  "xsdd": "finishing roll printing/6057.png",
+  "sdx": "frp_57",
+  "corr": 0.9971362352371216,
+  "mae": 0.9610595703125
+ },
+ {
+  "xsdd": "finishing roll printing/6058.png",
+  "sdx": "frp_58",
+  "corr": 0.9957852363586426,
+  "mae": 0.94482421875
+ },
+ {
+  "xsdd": "finishing roll printing/6059.png",
+  "sdx": "frp_59",
+  "corr": 0.9961600303649902,
+  "mae": 0.95648193359375
+ },
+ {
+  "xsdd": "finishing roll printing/6060.png",
+  "sdx": "frp_60",
+  "corr": 0.996854841709137,
+  "mae": 0.93145751953125
+ },
+ {
+  "xsdd": "finishing roll printing/6061.png",
+  "sdx": "frp_61",
+  "corr": 0.9955393671989441,
+  "mae": 0.93182373046875
+ },
+ {
+  "xsdd": "finishing roll printing/6062.png",
+  "sdx": "frp_62",
+  "corr": 0.9990679025650024,
+  "mae": 0.98626708984375
+ },
+ {
+  "xsdd": "finishing roll printing/6063.png",
+  "sdx": "frp_63",
+  "corr": 0.9980088472366333,
+  "mae": 1.00250244140625
+ },
+ {
+  "xsdd": "finishing roll printing/6064.png",
+  "sdx": "frp_64",
+  "corr": 0.996004581451416,
+  "mae": 0.927490234375
+ },
+ {
+  "xsdd": "finishing roll printing/6065.png",
+  "sdx": "frp_65",
+  "corr": 0.9972288608551025,
+  "mae": 0.86810302734375
+ },
+ {
+  "xsdd": "finishing roll printing/6066.png",
+  "sdx": "frp_66",
+  "corr": 0.9956735968589783,
+  "mae": 0.90606689453125
+ },
+ {
+  "xsdd": "finishing roll printing/6067.png",
+  "sdx": "frp_67",
+  "corr": 0.9962260127067566,
+  "mae": 0.842041015625
+ },
+ {
+  "xsdd": "finishing roll printing/6068.png",
+  "sdx": "frp_68",
+  "corr": 0.9971445798873901,
+  "mae": 0.86163330078125
+ },
+ {
+  "xsdd": "finishing roll printing/6069.png",
+  "sdx": "frp_69",
+  "corr": 0.9965677261352539,
+  "mae": 0.894775390625
+ },
+ {
+  "xsdd": "finishing roll printing/6070.png",
+  "sdx": "frp_70",
+  "corr": 0.9990254044532776,
+  "mae": 0.996337890625
+ },
+ {
+  "xsdd": "finishing roll printing/6071.png",
+  "sdx": "frp_71",
+  "corr": 0.9981821179389954,
+  "mae": 1.02459716796875
+ },
+ {
+  "xsdd": "finishing roll printing/6072.png",
+  "sdx": "frp_72",
+  "corr": 0.9966435432434082,
+  "mae": 1.02484130859375
+ },
+ {
+  "xsdd": "finishing roll printing/6073.png",
+  "sdx": "frp_73",
+  "corr": 0.998944878578186,
+  "mae": 1.0274658203125
+ },
+ {
+  "xsdd": "finishing roll printing/6074.png",
+  "sdx": "frp_74",
+  "corr": 0.9983256459236145,
+  "mae": 1.0592041015625
+ },
+ {
+  "xsdd": "finishing roll printing/6075.png",
+  "sdx": "frp_75",
+  "corr": 0.9995332360267639,
+  "mae": 0.9957275390625
+ },
+ {
+  "xsdd": "finishing roll printing/6076.png",
+  "sdx": "frp_76",
+  "corr": 0.9968492984771729,
+  "mae": 0.9627685546875
+ },
+ {
+  "xsdd": "finishing roll printing/6077.png",
+  "sdx": "frp_77",
+  "corr": 0.9967319965362549,
+  "mae": 0.853759765625
+ },
+ {
+  "xsdd": "finishing roll printing/6078.png",
+  "sdx": "frp_78",
+  "corr": 0.9995918273925781,
+  "mae": 0.97784423828125
+ },
+ {
+  "xsdd": "finishing roll printing/6079.png",
+  "sdx": "frp_79",
+  "corr": 0.9964393973350525,
+  "mae": 1.03759765625
+ },
+ {
+  "xsdd": "finishing roll printing/6080.png",
+  "sdx": "frp_80",
+  "corr": 0.9978376626968384,
+  "mae": 0.8363037109375
+ },
+ {
+  "xsdd": "finishing roll printing/6081.png",
+  "sdx": "frp_81",
+  "corr": 0.9978717565536499,
+  "mae": 0.83599853515625
+ },
+ {
+  "xsdd": "finishing roll printing/6082.png",
+  "sdx": "frp_82",
+  "corr": 0.9978493452072144,
+  "mae": 0.85235595703125
+ },
+ {
+  "xsdd": "finishing roll printing/6083.png",
+  "sdx": "frp_83",
+  "corr": 0.9978272914886475,
+  "mae": 0.93707275390625
+ },
+ {
+  "xsdd": "finishing roll printing/6084.png",
+  "sdx": "frp_84",
+  "corr": 0.9963024854660034,
+  "mae": 1.04071044921875
+ },
+ {
+  "xsdd": "finishing roll printing/6085.png",
+  "sdx": "frp_85",
+  "corr": 0.9970836043357849,
+  "mae": 1.02899169921875
+ },
+ {
+  "xsdd": "finishing roll printing/6086.png",
+  "sdx": "frp_86",
+  "corr": 0.996597170829773,
+  "mae": 0.80328369140625
+ },
+ {
+  "xsdd": "finishing roll printing/6087.png",
+  "sdx": "frp_87",
+  "corr": 0.9959216117858887,
+  "mae": 0.9427490234375
+ },
+ {
+  "xsdd": "finishing roll printing/6088.png",
+  "sdx": "frp_88",
+  "corr": 0.9953995943069458,
+  "mae": 0.9476318359375
+ },
+ {
+  "xsdd": "finishing roll printing/6089.png",
+  "sdx": "frp_89",
+  "corr": 0.99788898229599,
+  "mae": 0.995361328125
+ },
+ {
+  "xsdd": "finishing roll printing/6090.png",
+  "sdx": "frp_90",
+  "corr": 0.9985859394073486,
+  "mae": 1.03875732421875
+ },
+ {
+  "xsdd": "finishing roll printing/6091.png",
+  "sdx": "frp_91",
+  "corr": 0.9966353178024292,
+  "mae": 0.96710205078125
+ },
+ {
+  "xsdd": "finishing roll printing/6092.png",
+  "sdx": "frp_92",
+  "corr": 0.9947434663772583,
+  "mae": 0.896484375
+ },
+ {
+  "xsdd": "finishing roll printing/6093.png",
+  "sdx": "frp_93",
+  "corr": 0.9985167384147644,
+  "mae": 0.85125732421875
+ },
+ {
+  "xsdd": "finishing roll printing/6094.png",
+  "sdx": "frp_94",
+  "corr": 0.9977532625198364,
+  "mae": 0.80548095703125
+ },
+ {
+  "xsdd": "finishing roll printing/6095.png",
+  "sdx": "frp_95",
+  "corr": 0.9939817190170288,
+  "mae": 0.82891845703125
+ },
+ {
+  "xsdd": "finishing roll printing/6096.png",
+  "sdx": "frp_96",
+  "corr": 0.9957985877990723,
+  "mae": 0.8660888671875
+ },
+ {
+  "xsdd": "finishing roll printing/6097.png",
+  "sdx": "frp_97",
+  "corr": 0.9954292178153992,
+  "mae": 0.9329833984375
+ },
+ {
+  "xsdd": "finishing roll printing/6098.png",
+  "sdx": "frp_98",
+  "corr": 0.9960603713989258,
+  "mae": 0.9410400390625
+ },
+ {
+  "xsdd": "finishing roll printing/6099.png",
+  "sdx": "frp_99",
+  "corr": 0.9958090782165527,
+  "mae": 0.92462158203125
+ },
+ {
+  "xsdd": "finishing roll printing/6100.png",
+  "sdx": "frp_100",
+  "corr": 0.9969102740287781,
+  "mae": 0.80987548828125
+ },
+ {
+  "xsdd": "finishing roll printing/6101.png",
+  "sdx": "frp_101",
+  "corr": 0.996776819229126,
+  "mae": 0.82232666015625
+ },
+ {
+  "xsdd": "finishing roll printing/6102.png",
+  "sdx": "frp_102",
+  "corr": 0.998311460018158,
+  "mae": 0.8203125
+ },
+ {
+  "xsdd": "finishing roll printing/6103.png",
+  "sdx": "frp_103",
+  "corr": 0.9982481002807617,
+  "mae": 1.0552978515625
+ },
+ {
+  "xsdd": "finishing roll printing/6104.png",
+  "sdx": "frp_104",
+  "corr": 0.9962478876113892,
+  "mae": 0.82781982421875
+ },
+ {
+  "xsdd": "finishing roll printing/6105.png",
+  "sdx": "frp_105",
+  "corr": 0.9977584481239319,
+  "mae": 0.84869384765625
+ },
+ {
+  "xsdd": "finishing roll printing/6106.png",
+  "sdx": "frp_106",
+  "corr": 0.9959052801132202,
+  "mae": 0.86090087890625
+ },
+ {
+  "xsdd": "finishing roll printing/6107.png",
+  "sdx": "frp_107",
+  "corr": 0.9976247549057007,
+  "mae": 0.94189453125
+ },
+ {
+  "xsdd": "finishing roll printing/6108.png",
+  "sdx": "frp_108",
+  "corr": 0.9964268207550049,
+  "mae": 0.83526611328125
+ },
+ {
+  "xsdd": "finishing roll printing/6109.png",
+  "sdx": "frp_109",
+  "corr": 0.9985134601593018,
+  "mae": 0.80279541015625
+ },
+ {
+  "xsdd": "finishing roll printing/6110.png",
+  "sdx": "frp_110",
+  "corr": 0.9977701902389526,
+  "mae": 0.82623291015625
+ },
+ {
+  "xsdd": "finishing roll printing/6111.png",
+  "sdx": "frp_111",
+  "corr": 0.9976149797439575,
+  "mae": 0.80731201171875
+ },
+ {
+  "xsdd": "finishing roll printing/6112.png",
+  "sdx": "frp_112",
+  "corr": 0.9983388781547546,
+  "mae": 0.82177734375
+ },
+ {
+  "xsdd": "finishing roll printing/6113.png",
+  "sdx": "frp_113",
+  "corr": 0.9981023073196411,
+  "mae": 0.81201171875
+ },
+ {
+  "xsdd": "finishing roll printing/6114.png",
+  "sdx": "frp_114",
+  "corr": 0.9985793232917786,
+  "mae": 0.822021484375
+ },
+ {
+  "xsdd": "finishing roll printing/6115.png",
+  "sdx": "frp_115",
+  "corr": 0.9985448122024536,
+  "mae": 0.84234619140625
+ },
+ {
+  "xsdd": "finishing roll printing/6116.png",
+  "sdx": "frp_116",
+  "corr": 0.9990468621253967,
+  "mae": 0.80908203125
+ },
+ {
+  "xsdd": "finishing roll printing/6117.png",
+  "sdx": "frp_117",
+  "corr": 0.9964415431022644,
+  "mae": 0.83636474609375
+ },
+ {
+  "xsdd": "finishing roll printing/6118.png",
+  "sdx": "frp_118",
+  "corr": 0.9985561370849609,
+  "mae": 0.79022216796875
+ },
+ {
+  "xsdd": "finishing roll printing/6119.png",
+  "sdx": "frp_119",
+  "corr": 0.9987419843673706,
+  "mae": 0.80029296875
+ },
+ {
+  "xsdd": "finishing roll printing/6120.png",
+  "sdx": "frp_120",
+  "corr": 0.9991219639778137,
+  "mae": 0.97149658203125
+ },
+ {
+  "xsdd": "finishing roll printing/6121.png",
+  "sdx": "frp_121",
+  "corr": 0.9985302686691284,
+  "mae": 0.80865478515625
+ },
+ {
+  "xsdd": "finishing roll printing/6122.png",
+  "sdx": "frp_122",
+  "corr": 0.9968723654747009,
+  "mae": 0.96392822265625
+ },
+ {
+  "xsdd": "finishing roll printing/6123.png",
+  "sdx": "frp_123",
+  "corr": 0.9990258812904358,
+  "mae": 0.78497314453125
+ },
+ {
+  "xsdd": "finishing roll printing/6124.png",
+  "sdx": "frp_124",
+  "corr": 0.9985761642456055,
+  "mae": 0.78436279296875
+ },
+ {
+  "xsdd": "finishing roll printing/6125.png",
+  "sdx": "frp_125",
+  "corr": 0.994837760925293,
+  "mae": 0.94732666015625
+ },
+ {
+  "xsdd": "finishing roll printing/6126.png",
+  "sdx": "frp_126",
+  "corr": 0.9957641363143921,
+  "mae": 0.93682861328125
+ },
+ {
+  "xsdd": "finishing roll printing/6127.png",
+  "sdx": "frp_127",
+  "corr": 0.9962880611419678,
+  "mae": 0.963623046875
+ },
+ {
+  "xsdd": "finishing roll printing/6128.png",
+  "sdx": "frp_128",
+  "corr": 0.9985442161560059,
+  "mae": 0.8043212890625
+ },
+ {
+  "xsdd": "finishing roll printing/6129.png",
+  "sdx": "frp_129",
+  "corr": 0.9962631464004517,
+  "mae": 0.9918212890625
+ },
+ {
+  "xsdd": "finishing roll printing/6130.png",
+  "sdx": "frp_130",
+  "corr": 0.9948773384094238,
+  "mae": 1.05303955078125
+ },
+ {
+  "xsdd": "finishing roll printing/6131.png",
+  "sdx": "frp_131",
+  "corr": 0.993986964225769,
+  "mae": 0.93280029296875
+ },
+ {
+  "xsdd": "finishing roll printing/6132.png",
+  "sdx": "frp_132",
+  "corr": 0.9921771883964539,
+  "mae": 0.9390869140625
+ },
+ {
+  "xsdd": "finishing roll printing/6133.png",
+  "sdx": "frp_133",
+  "corr": 0.9948431253433228,
+  "mae": 0.95843505859375
+ },
+ {
+  "xsdd": "finishing roll printing/6134.png",
+  "sdx": "frp_134",
+  "corr": 0.9949367046356201,
+  "mae": 0.96002197265625
+ },
+ {
+  "xsdd": "finishing roll printing/6135.png",
+  "sdx": "frp_135",
+  "corr": 0.9935213327407837,
+  "mae": 0.945556640625
+ },
+ {
+  "xsdd": "finishing roll printing/6136.png",
+  "sdx": "frp_136",
+  "corr": 0.9943342804908752,
+  "mae": 0.94586181640625
+ },
+ {
+  "xsdd": "finishing roll printing/6137.png",
+  "sdx": "frp_137",
+  "corr": 0.9976242780685425,
+  "mae": 0.80517578125
+ },
+ {
+  "xsdd": "finishing roll printing/6138.png",
+  "sdx": "frp_138",
+  "corr": 0.9988645315170288,
+  "mae": 0.82061767578125
+ },
+ {
+  "xsdd": "finishing roll printing/6139.png",
+  "sdx": "frp_139",
+  "corr": 0.9985719919204712,
+  "mae": 0.7989501953125
+ },
+ {
+  "xsdd": "finishing roll printing/6140.png",
+  "sdx": "frp_140",
+  "corr": 0.9983808994293213,
+  "mae": 0.7926025390625
+ },
+ {
+  "xsdd": "finishing roll printing/6141.png",
+  "sdx": "frp_141",
+  "corr": 0.9984983205795288,
+  "mae": 0.78497314453125
+ },
+ {
+  "xsdd": "finishing roll printing/6142.png",
+  "sdx": "frp_142",
+  "corr": 0.9990500211715698,
+  "mae": 0.7919921875
+ },
+ {
+  "xsdd": "finishing roll printing/6143.jpg",
+  "sdx": "frp_143",
+  "corr": 0.9958012104034424,
+  "mae": 1.40283203125
+ },
+ {
+  "xsdd": "finishing roll printing/6144.jpg",
+  "sdx": "frp_144",
+  "corr": 0.995611310005188,
+  "mae": 0.94366455078125
+ },
+ {
+  "xsdd": "finishing roll printing/6145.jpg",
+  "sdx": "frp_145",
+  "corr": 0.9961113333702087,
+  "mae": 0.93194580078125
+ },
+ {
+  "xsdd": "finishing roll printing/6146.jpg",
+  "sdx": "frp_146",
+  "corr": 0.993018388748169,
+  "mae": 0.95953369140625
+ },
+ {
+  "xsdd": "finishing roll printing/6147.jpg",
+  "sdx": "frp_147",
+  "corr": 0.9931818246841431,
+  "mae": 1.36480712890625
+ },
+ {
+  "xsdd": "finishing roll printing/6148.jpg",
+  "sdx": "frp_148",
+  "corr": 0.9963347911834717,
+  "mae": 0.96466064453125
+ },
+ {
+  "xsdd": "finishing roll printing/6149.jpg",
+  "sdx": "frp_149",
+  "corr": 0.9964764714241028,
+  "mae": 0.97674560546875
+ },
+ {
+  "xsdd": "finishing roll printing/6150.jpg",
+  "sdx": "frp_150",
+  "corr": 0.9854771494865417,
+  "mae": 1.3887939453125
+ },
+ {
+  "xsdd": "finishing roll printing/6151.jpg",
+  "sdx": "frp_151",
+  "corr": 0.9969512224197388,
+  "mae": 0.93939208984375
+ },
+ {
+  "xsdd": "finishing roll printing/6152.jpg",
+  "sdx": "frp_152",
+  "corr": 0.9970707893371582,
+  "mae": 0.93182373046875
+ },
+ {
+  "xsdd": "finishing roll printing/6153.jpg",
+  "sdx": "frp_153",
+  "corr": 0.9965147376060486,
+  "mae": 0.9732666015625
+ },
+ {
+  "xsdd": "finishing roll printing/6154.jpg",
+  "sdx": "frp_154",
+  "corr": 0.9970822930335999,
+  "mae": 0.95269775390625
+ },
+ {
+  "xsdd": "finishing roll printing/6155.jpg",
+  "sdx": "frp_155",
+  "corr": 0.9833640456199646,
+  "mae": 1.30712890625
+ },
+ {
+  "xsdd": "finishing roll printing/6156.jpg",
+  "sdx": "frp_156",
+  "corr": 0.9934225082397461,
+  "mae": 0.951171875
+ },
+ {
+  "xsdd": "finishing roll printing/6157.jpg",
+  "sdx": "frp_157",
+  "corr": 0.9847632646560669,
+  "mae": 0.97509765625
+ },
+ {
+  "xsdd": "finishing roll printing/6158.jpg",
+  "sdx": "frp_158",
+  "corr": 0.9964932203292847,
+  "mae": 1.59368896484375
+ },
+ {
+  "xsdd": "finishing roll printing/6159.jpg",
+  "sdx": "frp_159",
+  "corr": 0.9964579343795776,
+  "mae": 1.53839111328125
+ },
+ {
+  "xsdd": "finishing roll printing/6160.jpg",
+  "sdx": "frp_160",
+  "corr": 0.9903528690338135,
+  "mae": 1.28741455078125
+ },
+ {
+  "xsdd": "finishing roll printing/6161.jpg",
+  "sdx": "frp_161",
+  "corr": 0.9953103065490723,
+  "mae": 1.24884033203125
+ },
+ {
+  "xsdd": "finishing roll printing/6162.jpg",
+  "sdx": "frp_162",
+  "corr": 0.9940406680107117,
+  "mae": 1.59942626953125
+ },
+ {
+  "xsdd": "finishing roll printing/6163.jpg",
+  "sdx": "frp_163",
+  "corr": 0.9832426309585571,
+  "mae": 1.3157958984375
+ },
+ {
+  "xsdd": "finishing roll printing/6164.jpg",
+  "sdx": "frp_164",
+  "corr": 0.9888044595718384,
+  "mae": 1.347900390625
+ },
+ {
+  "xsdd": "finishing roll printing/6165.jpg",
+  "sdx": "frp_165",
+  "corr": 0.9937088489532471,
+  "mae": 1.5345458984375
+ },
+ {
+  "xsdd": "finishing roll printing/6166.jpg",
+  "sdx": "frp_166",
+  "corr": 0.9951779246330261,
+  "mae": 1.03192138671875
+ },
+ {
+  "xsdd": "finishing roll printing/6167.jpg",
+  "sdx": "frp_167",
+  "corr": 0.9777853488922119,
+  "mae": 1.30865478515625
+ },
+ {
+  "xsdd": "finishing roll printing/6168.jpg",
+  "sdx": "frp_168",
+  "corr": 0.9826371669769287,
+  "mae": 1.35614013671875
+ },
+ {
+  "xsdd": "finishing roll printing/6169.jpg",
+  "sdx": "frp_169",
+  "corr": 0.9965578317642212,
+  "mae": 1.02294921875
+ },
+ {
+  "xsdd": "finishing roll printing/6170.jpg",
+  "sdx": "frp_170",
+  "corr": 0.9935425519943237,
+  "mae": 1.373046875
+ },
+ {
+  "xsdd": "finishing roll printing/6171.jpg",
+  "sdx": "frp_171",
+  "corr": 0.9965201616287231,
+  "mae": 1.005126953125
+ },
+ {
+  "xsdd": "finishing roll printing/6172.jpg",
+  "sdx": "frp_172",
+  "corr": 0.9950634241104126,
+  "mae": 1.41864013671875
+ },
+ {
+  "xsdd": "finishing roll printing/6173.jpg",
+  "sdx": "frp_173",
+  "corr": 0.9971889853477478,
+  "mae": 1.06829833984375
+ },
+ {
+  "xsdd": "finishing roll printing/6174.jpg",
+  "sdx": "frp_174",
+  "corr": 0.9959224462509155,
+  "mae": 1.06146240234375
+ },
+ {
+  "xsdd": "finishing roll printing/6175.jpg",
+  "sdx": "frp_175",
+  "corr": 0.9867355227470398,
+  "mae": 1.36767578125
+ },
+ {
+  "xsdd": "finishing roll printing/6176.jpg",
+  "sdx": "frp_176",
+  "corr": 0.9947261810302734,
+  "mae": 1.48565673828125
+ },
+ {
+  "xsdd": "finishing roll printing/6177.jpg",
+  "sdx": "frp_177",
+  "corr": 0.9995799660682678,
+  "mae": 1.543212890625
+ },
+ {
+  "xsdd": "finishing roll printing/6178.jpg",
+  "sdx": "frp_178",
+  "corr": 0.9966296553611755,
+  "mae": 1.022705078125
+ },
+ {
+  "xsdd": "finishing roll printing/6179.jpg",
+  "sdx": "frp_179",
+  "corr": 0.9974666833877563,
+  "mae": 0.99542236328125
+ },
+ {
+  "xsdd": "finishing roll printing/6180.jpg",
+  "sdx": "frp_180",
+  "corr": 0.9946551322937012,
+  "mae": 1.40887451171875
+ },
+ {
+  "xsdd": "finishing roll printing/6181.jpg",
+  "sdx": "frp_181",
+  "corr": 0.9924144148826599,
+  "mae": 1.343017578125
+ },
+ {
+  "xsdd": "finishing roll printing/6182.jpg",
+  "sdx": "frp_182",
+  "corr": 0.9936705231666565,
+  "mae": 1.49920654296875
+ },
+ {
+  "xsdd": "finishing roll printing/6183.jpg",
+  "sdx": "frp_183",
+  "corr": 0.9919553995132446,
+  "mae": 1.40386962890625
+ },
+ {
+  "xsdd": "finishing roll printing/6184.jpg",
+  "sdx": "frp_184",
+  "corr": 0.9942854642868042,
+  "mae": 1.413818359375
+ },
+ {
+  "xsdd": "finishing roll printing/6185.jpg",
+  "sdx": "frp_185",
+  "corr": 0.9924605488777161,
+  "mae": 1.34991455078125
+ },
+ {
+  "xsdd": "finishing roll printing/6186.jpg",
+  "sdx": "frp_186",
+  "corr": 0.9872459173202515,
+  "mae": 1.37762451171875
+ },
+ {
+  "xsdd": "finishing roll printing/6187.jpg",
+  "sdx": "frp_187",
+  "corr": 0.9947730302810669,
+  "mae": 1.57061767578125
+ },
+ {
+  "xsdd": "finishing roll printing/6188.jpg",
+  "sdx": "frp_188",
+  "corr": 0.994994044303894,
+  "mae": 1.411865234375
+ },
+ {
+  "xsdd": "finishing roll printing/6189.jpg",
+  "sdx": "frp_189",
+  "corr": 0.99503093957901,
+  "mae": 1.38934326171875
+ },
+ {
+  "xsdd": "finishing roll printing/6190.jpg",
+  "sdx": "frp_190",
+  "corr": 0.9921373128890991,
+  "mae": 1.45672607421875
+ },
+ {
+  "xsdd": "finishing roll printing/6191.jpg",
+  "sdx": "frp_191",
+  "corr": 0.9960587024688721,
+  "mae": 1.47467041015625
+ },
+ {
+  "xsdd": "finishing roll printing/6192.jpg",
+  "sdx": "frp_192",
+  "corr": 0.9962818622589111,
+  "mae": 1.51739501953125
+ },
+ {
+  "xsdd": "finishing roll printing/6193.jpg",
+  "sdx": "frp_193",
+  "corr": 0.9940906763076782,
+  "mae": 1.53070068359375
+ },
+ {
+  "xsdd": "finishing roll printing/6194.jpg",
+  "sdx": "frp_194",
+  "corr": 0.9949955344200134,
+  "mae": 1.56683349609375
+ },
+ {
+  "xsdd": "finishing roll printing/6195.jpg",
+  "sdx": "frp_195",
+  "corr": 0.9940603971481323,
+  "mae": 1.50250244140625
+ },
+ {
+  "xsdd": "finishing roll printing/6196.jpg",
+  "sdx": "frp_196",
+  "corr": 0.9937182068824768,
+  "mae": 1.53985595703125
+ },
+ {
+  "xsdd": "finishing roll printing/6197.jpg",
+  "sdx": "frp_197",
+  "corr": 0.9955229163169861,
+  "mae": 1.49713134765625
+ },
+ {
+  "xsdd": "finishing roll printing/6198.jpg",
+  "sdx": "frp_198",
+  "corr": 0.9949406981468201,
+  "mae": 1.52679443359375
+ },
+ {
+  "xsdd": "finishing roll printing/6199.jpg",
+  "sdx": "frp_199",
+  "corr": 0.9940095543861389,
+  "mae": 1.50860595703125
+ },
+ {
+  "xsdd": "finishing roll printing/6200.jpg",
+  "sdx": "frp_200",
+  "corr": 0.9908410906791687,
+  "mae": 1.5712890625
+ },
+ {
+  "xsdd": "finishing roll printing/6201.jpg",
+  "sdx": "frp_201",
+  "corr": 0.9963359832763672,
+  "mae": 1.4833984375
+ },
+ {
+  "xsdd": "finishing roll printing/6202.jpg",
+  "sdx": "frp_202",
+  "corr": 0.9931842088699341,
+  "mae": 1.53277587890625
+ },
+ {
+  "xsdd": "finishing roll printing/6203.jpg",
+  "sdx": "frp_203",
+  "corr": 0.9958934783935547,
+  "mae": 1.507080078125
+ },
+ {
+  "xsdd": "iron sheet ash/3001.jpg",
+  "sdx": "Isa_01",
+  "corr": 0.9998067617416382,
+  "mae": 2.14581298828125
+ },
+ {
+  "xsdd": "iron sheet ash/3002.jpg",
+  "sdx": "Isa_02",
+  "corr": 0.9960314035415649,
+  "mae": 1.3157958984375
+ },
+ {
+  "xsdd": "iron sheet ash/3003.jpg",
+  "sdx": "Isa_03",
+  "corr": 0.9978505969047546,
+  "mae": 1.27764892578125
+ },
+ {
+  "xsdd": "iron sheet ash/3004.jpg",
+  "sdx": "Isa_04",
+  "corr": 0.9987648725509644,
+  "mae": 1.06597900390625
+ },
+ {
+  "xsdd": "iron sheet ash/3005.jpg",
+  "sdx": "Isa_05",
+  "corr": 0.9977337718009949,
+  "mae": 1.36651611328125
+ },
+ {
+  "xsdd": "iron sheet ash/3006.jpg",
+  "sdx": "Isa_06",
+  "corr": 0.999083399772644,
+  "mae": 1.37005615234375
+ },
+ {
+  "xsdd": "iron sheet ash/3007.jpg",
+  "sdx": "Isa_07",
+  "corr": 0.9994525909423828,
+  "mae": 1.45367431640625
+ },
+ {
+  "xsdd": "iron sheet ash/3008.jpg",
+  "sdx": "Isa_08",
+  "corr": 0.9981069564819336,
+  "mae": 1.5137939453125
+ },
+ {
+  "xsdd": "iron sheet ash/3009.jpg",
+  "sdx": "Isa_09",
+  "corr": 0.9992698431015015,
+  "mae": 1.58953857421875
+ },
+ {
+  "xsdd": "iron sheet ash/3010.jpg",
+  "sdx": "Isa_10",
+  "corr": 0.9987063407897949,
+  "mae": 1.66534423828125
+ },
+ {
+  "xsdd": "iron sheet ash/3011.jpg",
+  "sdx": "Isa_11",
+  "corr": 0.999275803565979,
+  "mae": 1.785888671875
+ },
+ {
+  "xsdd": "iron sheet ash/3012.jpg",
+  "sdx": "Isa_12",
+  "corr": 0.9981092214584351,
+  "mae": 1.11627197265625
+ },
+ {
+  "xsdd": "iron sheet ash/3013.jpg",
+  "sdx": "Isa_13",
+  "corr": 0.9996252655982971,
+  "mae": 1.33831787109375
+ },
+ {
+  "xsdd": "iron sheet ash/3014.jpg",
+  "sdx": "Isa_14",
+  "corr": 0.9983202219009399,
+  "mae": 1.39642333984375
+ },
+ {
+  "xsdd": "iron sheet ash/3015.jpg",
+  "sdx": "Isa_15",
+  "corr": 0.9992614388465881,
+  "mae": 1.25909423828125
+ },
+ {
+  "xsdd": "iron sheet ash/3016.jpg",
+  "sdx": "Isa_16",
+  "corr": 0.9995937347412109,
+  "mae": 1.3616943359375
+ },
+ {
+  "xsdd": "iron sheet ash/3017.jpg",
+  "sdx": "Isa_17",
+  "corr": 0.9981879591941833,
+  "mae": 1.66973876953125
+ },
+ {
+  "xsdd": "iron sheet ash/3018.jpg",
+  "sdx": "Isa_18",
+  "corr": 0.9989653825759888,
+  "mae": 1.535888671875
+ },
+ {
+  "xsdd": "iron sheet ash/3019.jpg",
+  "sdx": "Isa_19",
+  "corr": 0.9984402060508728,
+  "mae": 1.73992919921875
+ },
+ {
+  "xsdd": "iron sheet ash/3020.jpg",
+  "sdx": "Isa_20",
+  "corr": 0.9984150528907776,
+  "mae": 1.12347412109375
+ },
+ {
+  "xsdd": "iron sheet ash/3021.jpg",
+  "sdx": "Isa_21",
+  "corr": 0.9995884299278259,
+  "mae": 1.417236328125
+ },
+ {
+  "xsdd": "iron sheet ash/3022.jpg",
+  "sdx": "Isa_22",
+  "corr": 0.9990165829658508,
+  "mae": 1.35504150390625
+ },
+ {
+  "xsdd": "iron sheet ash/3023.jpg",
+  "sdx": "Isa_23",
+  "corr": 0.9956527948379517,
+  "mae": 1.294677734375
+ },
+ {
+  "xsdd": "iron sheet ash/3024.jpg",
+  "sdx": "Isa_24",
+  "corr": 0.9980853796005249,
+  "mae": 1.3441162109375
+ },
+ {
+  "xsdd": "iron sheet ash/3025.jpg",
+  "sdx": "Isa_25",
+  "corr": 0.9996964931488037,
+  "mae": 1.6427001953125
+ },
+ {
+  "xsdd": "iron sheet ash/3026.jpg",
+  "sdx": "Isa_26",
+  "corr": 0.9995090961456299,
+  "mae": 1.22125244140625
+ },
+ {
+  "xsdd": "iron sheet ash/3027.jpg",
+  "sdx": "Isa_27",
+  "corr": 0.9973530769348145,
+  "mae": 1.2958984375
+ },
+ {
+  "xsdd": "iron sheet ash/3028.jpg",
+  "sdx": "Isa_28",
+  "corr": 0.9962630271911621,
+  "mae": 1.50830078125
+ },
+ {
+  "xsdd": "iron sheet ash/3029.jpg",
+  "sdx": "Isa_29",
+  "corr": 0.9982054829597473,
+  "mae": 1.2158203125
+ },
+ {
+  "xsdd": "iron sheet ash/3030.jpg",
+  "sdx": "Isa_30",
+  "corr": 0.9951705932617188,
+  "mae": 1.65899658203125
+ },
+ {
+  "xsdd": "iron sheet ash/3031.jpg",
+  "sdx": "Isa_31",
+  "corr": 0.997344970703125,
+  "mae": 1.4000244140625
+ },
+ {
+  "xsdd": "iron sheet ash/3032.jpg",
+  "sdx": "Isa_32",
+  "corr": 0.9967220425605774,
+  "mae": 1.4337158203125
+ },
+ {
+  "xsdd": "iron sheet ash/3033.jpg",
+  "sdx": "Isa_33",
+  "corr": 0.9974262714385986,
+  "mae": 1.5723876953125
+ },
+ {
+  "xsdd": "iron sheet ash/3034.jpg",
+  "sdx": "Isa_34",
+  "corr": 0.9982422590255737,
+  "mae": 1.41802978515625
+ },
+ {
+  "xsdd": "iron sheet ash/3035.jpg",
+  "sdx": "Isa_35",
+  "corr": 0.999498724937439,
+  "mae": 1.47021484375
+ },
+ {
+  "xsdd": "iron sheet ash/3036.jpg",
+  "sdx": "Isa_36",
+  "corr": 0.9967657923698425,
+  "mae": 1.8414306640625
+ },
+ {
+  "xsdd": "iron sheet ash/3037.jpg",
+  "sdx": "Isa_37",
+  "corr": 0.997858464717865,
+  "mae": 1.302001953125
+ },
+ {
+  "xsdd": "iron sheet ash/3038.jpg",
+  "sdx": "Isa_38",
+  "corr": 0.9995312690734863,
+  "mae": 2.20709228515625
+ },
+ {
+  "xsdd": "iron sheet ash/3039.jpg",
+  "sdx": "Isa_39",
+  "corr": 0.9997060298919678,
+  "mae": 1.71783447265625
+ },
+ {
+  "xsdd": "iron sheet ash/3040.jpg",
+  "sdx": "Isa_40",
+  "corr": 0.9977324604988098,
+  "mae": 1.60968017578125
+ },
+ {
+  "xsdd": "iron sheet ash/3041.jpg",
+  "sdx": "Isa_41",
+  "corr": 0.9983692169189453,
+  "mae": 1.44146728515625
+ },
+ {
+  "xsdd": "iron sheet ash/3042.jpg",
+  "sdx": "Isa_42",
+  "corr": 0.9980337023735046,
+  "mae": 1.36181640625
+ },
+ {
+  "xsdd": "iron sheet ash/3043.jpg",
+  "sdx": "Isa_43",
+  "corr": 0.9914188385009766,
+  "mae": 1.19921875
+ },
+ {
+  "xsdd": "iron sheet ash/3044.jpg",
+  "sdx": "Isa_44",
+  "corr": 0.9986196756362915,
+  "mae": 1.21783447265625
+ },
+ {
+  "xsdd": "iron sheet ash/3045.jpg",
+  "sdx": "Isa_45",
+  "corr": 0.9989933371543884,
+  "mae": 1.6497802734375
+ },
+ {
+  "xsdd": "iron sheet ash/3046.jpg",
+  "sdx": "Isa_46",
+  "corr": 0.9986270666122437,
+  "mae": 1.3494873046875
+ },
+ {
+  "xsdd": "iron sheet ash/3047.jpg",
+  "sdx": "Isa_47",
+  "corr": 0.9988651275634766,
+  "mae": 1.5272216796875
+ },
+ {
+  "xsdd": "iron sheet ash/3048.jpg",
+  "sdx": "Isa_48",
+  "corr": 0.998543381690979,
+  "mae": 1.39434814453125
+ },
+ {
+  "xsdd": "iron sheet ash/3049.jpg",
+  "sdx": "Isa_49",
+  "corr": 0.999761164188385,
+  "mae": 1.9327392578125
+ },
+ {
+  "xsdd": "iron sheet ash/3050.jpg",
+  "sdx": "Isa_50",
+  "corr": 0.9981375932693481,
+  "mae": 1.50872802734375
+ },
+ {
+  "xsdd": "iron sheet ash/3051.jpg",
+  "sdx": "Isa_51",
+  "corr": 0.9947758913040161,
+  "mae": 1.6212158203125
+ },
+ {
+  "xsdd": "iron sheet ash/3052.jpg",
+  "sdx": "Isa_52",
+  "corr": 0.9969978928565979,
+  "mae": 1.70501708984375
+ },
+ {
+  "xsdd": "iron sheet ash/3053.jpg",
+  "sdx": "Isa_53",
+  "corr": 0.9972224235534668,
+  "mae": 1.79486083984375
+ },
+ {
+  "xsdd": "iron sheet ash/3054.jpg",
+  "sdx": "Isa_54",
+  "corr": 0.9950016736984253,
+  "mae": 1.688232421875
+ },
+ {
+  "xsdd": "iron sheet ash/3055.jpg",
+  "sdx": "Isa_55",
+  "corr": 0.9993011951446533,
+  "mae": 1.4730224609375
+ },
+ {
+  "xsdd": "iron sheet ash/3056.jpg",
+  "sdx": "Isa_56",
+  "corr": 0.9987619519233704,
+  "mae": 1.419189453125
+ },
+ {
+  "xsdd": "iron sheet ash/3057.jpg",
+  "sdx": "Isa_57",
+  "corr": 0.9996861219406128,
+  "mae": 1.61676025390625
+ },
+ {
+  "xsdd": "iron sheet ash/3058.jpg",
+  "sdx": "Isa_58",
+  "corr": 0.9992374181747437,
+  "mae": 1.35589599609375
+ },
+ {
+  "xsdd": "iron sheet ash/3059.jpg",
+  "sdx": "Isa_59",
+  "corr": 0.9986941814422607,
+  "mae": 1.42413330078125
+ },
+ {
+  "xsdd": "iron sheet ash/3060.jpg",
+  "sdx": "Isa_60",
+  "corr": 0.9997214078903198,
+  "mae": 1.58984375
+ },
+ {
+  "xsdd": "iron sheet ash/3061.jpg",
+  "sdx": "Isa_61",
+  "corr": 0.9950851202011108,
+  "mae": 1.65655517578125
+ },
+ {
+  "xsdd": "iron sheet ash/3062.jpg",
+  "sdx": "Isa_62",
+  "corr": 0.9946473836898804,
+  "mae": 1.35235595703125
+ },
+ {
+  "xsdd": "iron sheet ash/3063.jpg",
+  "sdx": "Isa_63",
+  "corr": 0.9987661242485046,
+  "mae": 1.35699462890625
+ },
+ {
+  "xsdd": "iron sheet ash/3064.jpg",
+  "sdx": "Isa_64",
+  "corr": 0.9974899291992188,
+  "mae": 1.40325927734375
+ },
+ {
+  "xsdd": "iron sheet ash/3065.jpg",
+  "sdx": "Isa_65",
+  "corr": 0.9994155168533325,
+  "mae": 1.83636474609375
+ },
+ {
+  "xsdd": "iron sheet ash/3066.jpg",
+  "sdx": "Isa_66",
+  "corr": 0.9973484873771667,
+  "mae": 1.42645263671875
+ },
+ {
+  "xsdd": "iron sheet ash/3067.jpg",
+  "sdx": "Isa_67",
+  "corr": 0.9982534646987915,
+  "mae": 1.53363037109375
+ },
+ {
+  "xsdd": "iron sheet ash/3068.jpg",
+  "sdx": "Isa_68",
+  "corr": 0.9971000552177429,
+  "mae": 1.507080078125
+ },
+ {
+  "xsdd": "iron sheet ash/3069.jpg",
+  "sdx": "Isa_69",
+  "corr": 0.9950224757194519,
+  "mae": 1.4010009765625
+ },
+ {
+  "xsdd": "iron sheet ash/3070.jpg",
+  "sdx": "Isa_70",
+  "corr": 0.9999316930770874,
+  "mae": 1.7030029296875
+ },
+ {
+  "xsdd": "iron sheet ash/3071.jpg",
+  "sdx": "Isa_71",
+  "corr": 0.9989520311355591,
+  "mae": 1.42718505859375
+ },
+ {
+  "xsdd": "iron sheet ash/3072.jpg",
+  "sdx": "Isa_72",
+  "corr": 0.9994044303894043,
+  "mae": 1.6900634765625
+ },
+ {
+  "xsdd": "iron sheet ash/3073.jpg",
+  "sdx": "Isa_73",
+  "corr": 0.9975638389587402,
+  "mae": 1.4344482421875
+ },
+ {
+  "xsdd": "iron sheet ash/3074.jpg",
+  "sdx": "Isa_74",
+  "corr": 0.998938798904419,
+  "mae": 1.50726318359375
+ },
+ {
+  "xsdd": "iron sheet ash/3075.jpg",
+  "sdx": "Isa_75",
+  "corr": 0.9996724724769592,
+  "mae": 1.30712890625
+ },
+ {
+  "xsdd": "iron sheet ash/3076.jpg",
+  "sdx": "Isa_76",
+  "corr": 0.9960264563560486,
+  "mae": 1.33905029296875
+ },
+ {
+  "xsdd": "iron sheet ash/3077.jpg",
+  "sdx": "Isa_77",
+  "corr": 0.9955427050590515,
+  "mae": 1.336181640625
+ },
+ {
+  "xsdd": "iron sheet ash/3078.jpg",
+  "sdx": "Isa_78",
+  "corr": 0.997286319732666,
+  "mae": 1.331787109375
+ },
+ {
+  "xsdd": "iron sheet ash/3079.jpg",
+  "sdx": "Isa_79",
+  "corr": 0.995384693145752,
+  "mae": 1.49603271484375
+ },
+ {
+  "xsdd": "iron sheet ash/3080.jpg",
+  "sdx": "Isa_80",
+  "corr": 0.9994723200798035,
+  "mae": 1.218017578125
+ },
+ {
+  "xsdd": "iron sheet ash/3081.jpg",
+  "sdx": "Isa_81",
+  "corr": 0.9981796741485596,
+  "mae": 1.18505859375
+ },
+ {
+  "xsdd": "iron sheet ash/3082.jpg",
+  "sdx": "Isa_82",
+  "corr": 0.9990914463996887,
+  "mae": 1.71014404296875
+ },
+ {
+  "xsdd": "iron sheet ash/3083.jpg",
+  "sdx": "Isa_83",
+  "corr": 0.9996079802513123,
+  "mae": 1.30108642578125
+ },
+ {
+  "xsdd": "iron sheet ash/3084.jpg",
+  "sdx": "Isa_84",
+  "corr": 0.995695948600769,
+  "mae": 1.28021240234375
+ },
+ {
+  "xsdd": "iron sheet ash/3085.jpg",
+  "sdx": "Isa_85",
+  "corr": 0.9976129531860352,
+  "mae": 1.2667236328125
+ },
+ {
+  "xsdd": "iron sheet ash/3086.jpg",
+  "sdx": "Isa_86",
+  "corr": 0.9981819987297058,
+  "mae": 1.38592529296875
+ },
+ {
+  "xsdd": "iron sheet ash/3087.jpg",
+  "sdx": "Isa_87",
+  "corr": 0.9931680560112,
+  "mae": 1.23687744140625
+ },
+ {
+  "xsdd": "iron sheet ash/3088.jpg",
+  "sdx": "Isa_88",
+  "corr": 0.9968360066413879,
+  "mae": 1.24884033203125
+ },
+ {
+  "xsdd": "iron sheet ash/3089.jpg",
+  "sdx": "Isa_89",
+  "corr": 0.9972864389419556,
+  "mae": 1.45068359375
+ },
+ {
+  "xsdd": "iron sheet ash/3090.jpg",
+  "sdx": "Isa_90",
+  "corr": 0.9984340667724609,
+  "mae": 1.27117919921875
+ },
+ {
+  "xsdd": "iron sheet ash/3091.jpg",
+  "sdx": "Isa_91",
+  "corr": 0.9954361915588379,
+  "mae": 1.32025146484375
+ },
+ {
+  "xsdd": "iron sheet ash/3092.jpg",
+  "sdx": "Isa_92",
+  "corr": 0.9963330626487732,
+  "mae": 1.6065673828125
+ },
+ {
+  "xsdd": "iron sheet ash/3093.jpg",
+  "sdx": "Isa_93",
+  "corr": 0.996131956577301,
+  "mae": 1.24951171875
+ },
+ {
+  "xsdd": "iron sheet ash/3094.jpg",
+  "sdx": "Isa_94",
+  "corr": 0.9975937008857727,
+  "mae": 1.24835205078125
+ },
+ {
+  "xsdd": "iron sheet ash/3095.jpg",
+  "sdx": "Isa_95",
+  "corr": 0.9988409280776978,
+  "mae": 1.15570068359375
+ },
+ {
+  "xsdd": "iron sheet ash/3096.jpg",
+  "sdx": "Isa_96",
+  "corr": 0.9987691640853882,
+  "mae": 1.205078125
+ },
+ {
+  "xsdd": "iron sheet ash/3097.jpg",
+  "sdx": "Isa_97",
+  "corr": 0.9988586902618408,
+  "mae": 1.55194091796875
+ },
+ {
+  "xsdd": "iron sheet ash/3098.jpg",
+  "sdx": "Isa_98",
+  "corr": 0.9985126256942749,
+  "mae": 1.68115234375
+ },
+ {
+  "xsdd": "iron sheet ash/3099.jpg",
+  "sdx": "Isa_99",
+  "corr": 0.9987319111824036,
+  "mae": 1.20379638671875
+ },
+ {
+  "xsdd": "iron sheet ash/3100.jpg",
+  "sdx": "Isa_100",
+  "corr": 0.9961135387420654,
+  "mae": 1.32562255859375
+ },
+ {
+  "xsdd": "iron sheet ash/3101.jpg",
+  "sdx": "Isa_101",
+  "corr": 0.9986326694488525,
+  "mae": 1.554443359375
+ },
+ {
+  "xsdd": "iron sheet ash/3102.jpg",
+  "sdx": "Isa_102",
+  "corr": 0.9970442056655884,
+  "mae": 1.23089599609375
+ },
+ {
+  "xsdd": "iron sheet ash/3103.jpg",
+  "sdx": "Isa_103",
+  "corr": 0.997550368309021,
+  "mae": 1.80023193359375
+ },
+ {
+  "xsdd": "iron sheet ash/3104.jpg",
+  "sdx": "Isa_104",
+  "corr": 0.9967616200447083,
+  "mae": 1.76544189453125
+ },
+ {
+  "xsdd": "iron sheet ash/3105.jpg",
+  "sdx": "Isa_105",
+  "corr": 0.9983309507369995,
+  "mae": 1.35302734375
+ },
+ {
+  "xsdd": "iron sheet ash/3106.jpg",
+  "sdx": "Isa_106",
+  "corr": 0.9942479729652405,
+  "mae": 1.17425537109375
+ },
+ {
+  "xsdd": "iron sheet ash/3107.jpg",
+  "sdx": "Isa_107",
+  "corr": 0.9979970455169678,
+  "mae": 1.34039306640625
+ },
+ {
+  "xsdd": "iron sheet ash/3108.jpg",
+  "sdx": "Isa_108",
+  "corr": 0.9993773698806763,
+  "mae": 1.15924072265625
+ },
+ {
+  "xsdd": "iron sheet ash/3109.jpg",
+  "sdx": "Isa_109",
+  "corr": 0.9985368847846985,
+  "mae": 1.39263916015625
+ },
+ {
+  "xsdd": "iron sheet ash/3110.jpg",
+  "sdx": "Isa_110",
+  "corr": 0.9969733357429504,
+  "mae": 1.545654296875
+ },
+ {
+  "xsdd": "iron sheet ash/3111.jpg",
+  "sdx": "Isa_111",
+  "corr": 0.9990935325622559,
+  "mae": 1.27191162109375
+ },
+ {
+  "xsdd": "iron sheet ash/3112.jpg",
+  "sdx": "Isa_112",
+  "corr": 0.9978373050689697,
+  "mae": 1.6256103515625
+ },
+ {
+  "xsdd": "iron sheet ash/3113.jpg",
+  "sdx": "Isa_113",
+  "corr": 0.9996022582054138,
+  "mae": 1.2509765625
+ },
+ {
+  "xsdd": "iron sheet ash/3114.jpg",
+  "sdx": "Isa_114",
+  "corr": 0.9976794719696045,
+  "mae": 1.58935546875
+ },
+ {
+  "xsdd": "iron sheet ash/3115.jpg",
+  "sdx": "Isa_115",
+  "corr": 0.999147891998291,
+  "mae": 1.561767578125
+ },
+ {
+  "xsdd": "iron sheet ash/3116.jpg",
+  "sdx": "Isa_116",
+  "corr": 0.9988884329795837,
+  "mae": 1.89111328125
+ },
+ {
+  "xsdd": "iron sheet ash/3117.jpg",
+  "sdx": "Isa_117",
+  "corr": 0.9997508525848389,
+  "mae": 1.41217041015625
+ },
+ {
+  "xsdd": "iron sheet ash/3118.jpg",
+  "sdx": "Isa_118",
+  "corr": 0.9976345896720886,
+  "mae": 0.99737548828125
+ },
+ {
+  "xsdd": "iron sheet ash/3119.jpg",
+  "sdx": "Isa_119",
+  "corr": 0.999102771282196,
+  "mae": 1.54119873046875
+ },
+ {
+  "xsdd": "iron sheet ash/3120.jpg",
+  "sdx": "Isa_120",
+  "corr": 0.9996310472488403,
+  "mae": 2.0728759765625
+ },
+ {
+  "xsdd": "iron sheet ash/3121.jpg",
+  "sdx": "Isa_121",
+  "corr": 0.9997067451477051,
+  "mae": 1.81134033203125
+ },
+ {
+  "xsdd": "iron sheet ash/3122.jpg",
+  "sdx": "Isa_122",
+  "corr": 0.9994891285896301,
+  "mae": 1.56304931640625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5001.jpg",
+  "sdx": "Ops_01",
+  "corr": 0.9963690042495728,
+  "mae": 1.1407470703125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5002.jpg",
+  "sdx": "Ops_02",
+  "corr": 0.9995253086090088,
+  "mae": 1.8306884765625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5003.jpg",
+  "sdx": "Ops_03",
+  "corr": 0.9954952001571655,
+  "mae": 1.7205810546875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5004.jpg",
+  "sdx": "Ops_04",
+  "corr": 0.9984161853790283,
+  "mae": 1.8812255859375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5005.jpg",
+  "sdx": "Ops_05",
+  "corr": 0.9990370869636536,
+  "mae": 1.90869140625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5006.jpg",
+  "sdx": "Ops_06",
+  "corr": 0.9987711310386658,
+  "mae": 1.9486083984375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5007.jpg",
+  "sdx": "Ops_07",
+  "corr": 0.9986481070518494,
+  "mae": 1.88262939453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5008.jpg",
+  "sdx": "Ops_08",
+  "corr": 0.9993655681610107,
+  "mae": 1.91778564453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5009.jpg",
+  "sdx": "Ops_09",
+  "corr": 0.9990996718406677,
+  "mae": 1.8624267578125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5010.jpg",
+  "sdx": "Ops_10",
+  "corr": 0.9991440176963806,
+  "mae": 1.86627197265625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5011.jpg",
+  "sdx": "Ops_11",
+  "corr": 0.9986599683761597,
+  "mae": 1.81439208984375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5012.jpg",
+  "sdx": "Ops_12",
+  "corr": 0.9988890886306763,
+  "mae": 1.8421630859375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5013.jpg",
+  "sdx": "Ops_13",
+  "corr": 0.9980478882789612,
+  "mae": 1.82666015625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5014.jpg",
+  "sdx": "Ops_14",
+  "corr": 0.9984387159347534,
+  "mae": 1.8551025390625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5015.jpg",
+  "sdx": "Ops_15",
+  "corr": 0.9979257583618164,
+  "mae": 1.73419189453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5016.jpg",
+  "sdx": "Ops_16",
+  "corr": 0.998837411403656,
+  "mae": 1.3424072265625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5017.jpg",
+  "sdx": "Ops_17",
+  "corr": 0.9987156391143799,
+  "mae": 1.806884765625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5018.jpg",
+  "sdx": "Ops_18",
+  "corr": 0.9997649192810059,
+  "mae": 1.88714599609375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5019.jpg",
+  "sdx": "Ops_19",
+  "corr": 0.9997737407684326,
+  "mae": 1.65960693359375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5020.jpg",
+  "sdx": "Ops_20",
+  "corr": 0.9976704716682434,
+  "mae": 1.81378173828125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5021.jpg",
+  "sdx": "Ops_21",
+  "corr": 0.9981411695480347,
+  "mae": 1.8333740234375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5022.jpg",
+  "sdx": "Ops_22",
+  "corr": 0.9989620447158813,
+  "mae": 1.36572265625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5023.jpg",
+  "sdx": "Ops_23",
+  "corr": 0.9989137053489685,
+  "mae": 1.38262939453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5024.jpg",
+  "sdx": "Ops_24",
+  "corr": 0.9984867572784424,
+  "mae": 1.29034423828125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5025.jpg",
+  "sdx": "Ops_25",
+  "corr": 0.9989499449729919,
+  "mae": 1.33978271484375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5026.jpg",
+  "sdx": "Ops_26",
+  "corr": 0.9991564154624939,
+  "mae": 1.50164794921875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5027.jpg",
+  "sdx": "Ops_27",
+  "corr": 0.9985266923904419,
+  "mae": 1.32391357421875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5028.jpg",
+  "sdx": "Ops_28",
+  "corr": 0.9989028573036194,
+  "mae": 1.45953369140625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5029.jpg",
+  "sdx": "Ops_29",
+  "corr": 0.9993035793304443,
+  "mae": 1.60076904296875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5030.jpg",
+  "sdx": "Ops_30",
+  "corr": 0.9989582300186157,
+  "mae": 1.4495849609375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5031.jpg",
+  "sdx": "Ops_31",
+  "corr": 0.9984319806098938,
+  "mae": 1.4405517578125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5032.jpg",
+  "sdx": "Ops_32",
+  "corr": 0.9984996914863586,
+  "mae": 1.41778564453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5033.jpg",
+  "sdx": "Ops_33",
+  "corr": 0.9971566796302795,
+  "mae": 1.34368896484375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5034.jpg",
+  "sdx": "Ops_34",
+  "corr": 0.9987951517105103,
+  "mae": 1.4705810546875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5035.jpg",
+  "sdx": "Ops_35",
+  "corr": 0.9987815618515015,
+  "mae": 1.39129638671875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5036.jpg",
+  "sdx": "Ops_36",
+  "corr": 0.9985292553901672,
+  "mae": 1.53106689453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5037.jpg",
+  "sdx": "Ops_37",
+  "corr": 0.9990258812904358,
+  "mae": 1.7103271484375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5038.jpg",
+  "sdx": "Ops_38",
+  "corr": 0.9980595111846924,
+  "mae": 1.6453857421875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5039.jpg",
+  "sdx": "Ops_39",
+  "corr": 0.9990407228469849,
+  "mae": 1.608154296875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5040.jpg",
+  "sdx": "Ops_40",
+  "corr": 0.9979537725448608,
+  "mae": 1.59515380859375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5041.jpg",
+  "sdx": "Ops_41",
+  "corr": 0.9992913007736206,
+  "mae": 1.62933349609375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5042.jpg",
+  "sdx": "Ops_42",
+  "corr": 0.9995896220207214,
+  "mae": 1.49224853515625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5043.jpg",
+  "sdx": "Ops_43",
+  "corr": 0.997504472732544,
+  "mae": 1.45697021484375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5044.jpg",
+  "sdx": "Ops_44",
+  "corr": 0.9987512826919556,
+  "mae": 1.21832275390625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5045.jpg",
+  "sdx": "Ops_45",
+  "corr": 0.9974187612533569,
+  "mae": 1.42041015625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5046.jpg",
+  "sdx": "Ops_46",
+  "corr": 0.9976255893707275,
+  "mae": 1.092041015625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5047.jpg",
+  "sdx": "Ops_47",
+  "corr": 0.9983310699462891,
+  "mae": 1.17578125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5048.jpg",
+  "sdx": "Ops_48",
+  "corr": 0.9986401796340942,
+  "mae": 1.1680908203125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5049.jpg",
+  "sdx": "Ops_49",
+  "corr": 0.9989164471626282,
+  "mae": 1.18121337890625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5050.jpg",
+  "sdx": "Ops_50",
+  "corr": 0.9993273615837097,
+  "mae": 1.3482666015625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5051.jpg",
+  "sdx": "Ops_51",
+  "corr": 0.9988386034965515,
+  "mae": 1.02587890625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5052.jpg",
+  "sdx": "Ops_52",
+  "corr": 0.998525857925415,
+  "mae": 1.08331298828125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5053.jpg",
+  "sdx": "Ops_53",
+  "corr": 0.9989942908287048,
+  "mae": 1.06512451171875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5054.jpg",
+  "sdx": "Ops_54",
+  "corr": 0.997077226638794,
+  "mae": 1.01666259765625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5055.jpg",
+  "sdx": "Ops_55",
+  "corr": 0.9988415837287903,
+  "mae": 1.40216064453125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5056.jpg",
+  "sdx": "Ops_56",
+  "corr": 0.9996870160102844,
+  "mae": 1.5361328125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5057.jpg",
+  "sdx": "Ops_57",
+  "corr": 0.9996727705001831,
+  "mae": 1.48663330078125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5058.jpg",
+  "sdx": "Ops_58",
+  "corr": 0.9983048439025879,
+  "mae": 1.069580078125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5059.jpg",
+  "sdx": "Ops_59",
+  "corr": 0.9980155229568481,
+  "mae": 1.17608642578125
+ },
+ {
+  "xsdd": "oxide scale of plate system/5060.jpg",
+  "sdx": "Ops_60",
+  "corr": 0.9984054565429688,
+  "mae": 1.217529296875
+ },
+ {
+  "xsdd": "oxide scale of plate system/5061.jpg",
+  "sdx": "Ops_61",
+  "corr": 0.9983655214309692,
+  "mae": 1.84564208984375
+ },
+ {
+  "xsdd": "oxide scale of plate system/5062.jpg",
+  "sdx": "Ops_62",
+  "corr": 0.9997067451477051,
+  "mae": 1.52691650390625
+ },
+ {
+  "xsdd": "oxide scale of plate system/5063.jpg",
+  "sdx": "Ops_63",
+  "corr": 0.9980202317237854,
+  "mae": 1.46234130859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7001.jpg",
+  "sdx": "Ots_01",
+  "corr": 0.9940650463104248,
+  "mae": 1.3819580078125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7002.jpg",
+  "sdx": "Ots_02",
+  "corr": 0.9955286979675293,
+  "mae": 1.36505126953125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7003.jpg",
+  "sdx": "Ots_03",
+  "corr": 0.9958962798118591,
+  "mae": 1.338134765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7004.jpg",
+  "sdx": "Ots_04",
+  "corr": 0.9945666193962097,
+  "mae": 1.2188720703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7005.jpg",
+  "sdx": "Ots_05",
+  "corr": 0.9944154620170593,
+  "mae": 1.1844482421875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7006.jpg",
+  "sdx": "Ots_06",
+  "corr": 0.9945725202560425,
+  "mae": 1.35052490234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7007.jpg",
+  "sdx": "Ots_07",
+  "corr": 0.9945964217185974,
+  "mae": 1.2550048828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7008.jpg",
+  "sdx": "Ots_08",
+  "corr": 0.9965320825576782,
+  "mae": 1.3238525390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7009.jpg",
+  "sdx": "Ots_09",
+  "corr": 0.996013879776001,
+  "mae": 1.28619384765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7010.jpg",
+  "sdx": "Ots_10",
+  "corr": 0.9893245697021484,
+  "mae": 1.11224365234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7011.jpg",
+  "sdx": "Ots_11",
+  "corr": 0.9872393012046814,
+  "mae": 1.1806640625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7012.jpg",
+  "sdx": "Ots_12",
+  "corr": 0.9959317445755005,
+  "mae": 1.22650146484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7013.jpg",
+  "sdx": "Ots_13",
+  "corr": 0.9953680038452148,
+  "mae": 1.15911865234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7014.jpg",
+  "sdx": "Ots_14",
+  "corr": 0.9936668276786804,
+  "mae": 1.29791259765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7015.jpg",
+  "sdx": "Ots_15",
+  "corr": 0.9969375729560852,
+  "mae": 1.3250732421875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7016.jpg",
+  "sdx": "Ots_16",
+  "corr": 0.9957212805747986,
+  "mae": 1.2755126953125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7017.jpg",
+  "sdx": "Ots_17",
+  "corr": 0.9953014254570007,
+  "mae": 1.197509765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7018.jpg",
+  "sdx": "Ots_18",
+  "corr": 0.9929205179214478,
+  "mae": 1.2584228515625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7019.jpg",
+  "sdx": "Ots_19",
+  "corr": 0.994999885559082,
+  "mae": 1.2640380859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7020.jpg",
+  "sdx": "Ots_20",
+  "corr": 0.9962071180343628,
+  "mae": 1.3338623046875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7021.jpg",
+  "sdx": "Ots_21",
+  "corr": 0.9955275654792786,
+  "mae": 1.3341064453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7022.jpg",
+  "sdx": "Ots_22",
+  "corr": 0.9949442148208618,
+  "mae": 1.21771240234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7023.jpg",
+  "sdx": "Ots_23",
+  "corr": 0.9946195483207703,
+  "mae": 1.25433349609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7024.jpg",
+  "sdx": "Ots_24",
+  "corr": 0.9960347414016724,
+  "mae": 1.2264404296875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7025.jpg",
+  "sdx": "Ots_25",
+  "corr": 0.9965113401412964,
+  "mae": 1.30157470703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7026.jpg",
+  "sdx": "Ots_26",
+  "corr": 0.994683563709259,
+  "mae": 1.23114013671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7027.jpg",
+  "sdx": "Ots_27",
+  "corr": 0.9946293830871582,
+  "mae": 1.167236328125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7028.jpg",
+  "sdx": "Ots_28",
+  "corr": 0.9944401979446411,
+  "mae": 1.34906005859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7029.jpg",
+  "sdx": "Ots_29",
+  "corr": 0.9940680265426636,
+  "mae": 1.1966552734375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7030.jpg",
+  "sdx": "Ots_30",
+  "corr": 0.9920884966850281,
+  "mae": 1.1966552734375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7031.jpg",
+  "sdx": "Ots_31",
+  "corr": 0.993108868598938,
+  "mae": 1.22369384765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7032.jpg",
+  "sdx": "Ots_32",
+  "corr": 0.9960670471191406,
+  "mae": 1.260009765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7033.jpg",
+  "sdx": "Ots_33",
+  "corr": 0.9954439401626587,
+  "mae": 1.33538818359375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7034.jpg",
+  "sdx": "Ots_34",
+  "corr": 0.9968156814575195,
+  "mae": 1.3402099609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7035.jpg",
+  "sdx": "Ots_35",
+  "corr": 0.9953294992446899,
+  "mae": 1.1240234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7036.jpg",
+  "sdx": "Ots_36",
+  "corr": 0.9941874742507935,
+  "mae": 1.28875732421875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7037.jpg",
+  "sdx": "Ots_37",
+  "corr": 0.9936724305152893,
+  "mae": 1.28070068359375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7038.jpg",
+  "sdx": "Ots_38",
+  "corr": 0.9956442713737488,
+  "mae": 1.28985595703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7039.jpg",
+  "sdx": "Ots_39",
+  "corr": 0.995769202709198,
+  "mae": 1.33770751953125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7040.jpg",
+  "sdx": "Ots_40",
+  "corr": 0.9951627254486084,
+  "mae": 1.302001953125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7041.jpg",
+  "sdx": "Ots_41",
+  "corr": 0.9947680234909058,
+  "mae": 1.150146484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7042.jpg",
+  "sdx": "Ots_42",
+  "corr": 0.992475688457489,
+  "mae": 1.2452392578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7043.jpg",
+  "sdx": "Ots_43",
+  "corr": 0.993739128112793,
+  "mae": 1.1319580078125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7044.jpg",
+  "sdx": "Ots_44",
+  "corr": 0.9937118291854858,
+  "mae": 1.23095703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7045.jpg",
+  "sdx": "Ots_45",
+  "corr": 0.9945710301399231,
+  "mae": 1.2266845703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7046.jpg",
+  "sdx": "Ots_46",
+  "corr": 0.991854190826416,
+  "mae": 1.22686767578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7047.jpg",
+  "sdx": "Ots_47",
+  "corr": 0.9927884936332703,
+  "mae": 1.0657958984375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7048.jpg",
+  "sdx": "Ots_48",
+  "corr": 0.9933921098709106,
+  "mae": 1.25927734375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7049.jpg",
+  "sdx": "Ots_49",
+  "corr": 0.9960587024688721,
+  "mae": 1.1968994140625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7050.jpg",
+  "sdx": "Ots_50",
+  "corr": 0.9949109554290771,
+  "mae": 1.2545166015625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7051.jpg",
+  "sdx": "Ots_51",
+  "corr": 0.9972239136695862,
+  "mae": 1.31622314453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7052.jpg",
+  "sdx": "Ots_52",
+  "corr": 0.9960124492645264,
+  "mae": 1.24609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7053.jpg",
+  "sdx": "Ots_53",
+  "corr": 0.9909326434135437,
+  "mae": 1.22265625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7054.jpg",
+  "sdx": "Ots_54",
+  "corr": 0.9900199770927429,
+  "mae": 1.1748046875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7055.jpg",
+  "sdx": "Ots_55",
+  "corr": 0.9881538152694702,
+  "mae": 1.2076416015625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7056.jpg",
+  "sdx": "Ots_56",
+  "corr": 0.9905391931533813,
+  "mae": 1.191650390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7057.jpg",
+  "sdx": "Ots_57",
+  "corr": 0.9951252341270447,
+  "mae": 1.2569580078125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7058.jpg",
+  "sdx": "Ots_58",
+  "corr": 0.9961981177330017,
+  "mae": 1.3525390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7059.jpg",
+  "sdx": "Ots_59",
+  "corr": 0.9967465400695801,
+  "mae": 1.28558349609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7060.jpg",
+  "sdx": "Ots_60",
+  "corr": 0.9925733208656311,
+  "mae": 1.20684814453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7061.jpg",
+  "sdx": "Ots_61",
+  "corr": 0.993261456489563,
+  "mae": 1.22857666015625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7062.jpg",
+  "sdx": "Ots_62",
+  "corr": 0.997061014175415,
+  "mae": 1.28570556640625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7063.jpg",
+  "sdx": "Ots_63",
+  "corr": 0.9966467022895813,
+  "mae": 1.329833984375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7064.jpg",
+  "sdx": "Ots_64",
+  "corr": 0.9933518171310425,
+  "mae": 1.1822509765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7065.jpg",
+  "sdx": "Ots_65",
+  "corr": 0.9965044856071472,
+  "mae": 1.26556396484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7066.jpg",
+  "sdx": "Ots_66",
+  "corr": 0.9931825995445251,
+  "mae": 1.1673583984375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7067.jpg",
+  "sdx": "Ots_67",
+  "corr": 0.9913747906684875,
+  "mae": 1.1536865234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7068.jpg",
+  "sdx": "Ots_68",
+  "corr": 0.9913525581359863,
+  "mae": 1.13909912109375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7069.jpg",
+  "sdx": "Ots_69",
+  "corr": 0.9907723069190979,
+  "mae": 1.16693115234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7070.jpg",
+  "sdx": "Ots_70",
+  "corr": 0.9885748624801636,
+  "mae": 1.1669921875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7071.jpg",
+  "sdx": "Ots_71",
+  "corr": 0.9962352514266968,
+  "mae": 1.215087890625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7072.jpg",
+  "sdx": "Ots_72",
+  "corr": 0.9957852959632874,
+  "mae": 1.2716064453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7073.jpg",
+  "sdx": "Ots_73",
+  "corr": 0.9931173324584961,
+  "mae": 1.1298828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7074.jpg",
+  "sdx": "Ots_74",
+  "corr": 0.9930180311203003,
+  "mae": 1.24749755859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7075.jpg",
+  "sdx": "Ots_75",
+  "corr": 0.9878983497619629,
+  "mae": 1.21368408203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7076.jpg",
+  "sdx": "Ots_76",
+  "corr": 0.995647668838501,
+  "mae": 1.2349853515625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7077.jpg",
+  "sdx": "Ots_77",
+  "corr": 0.9958168864250183,
+  "mae": 1.341552734375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7078.jpg",
+  "sdx": "Ots_78",
+  "corr": 0.9923599362373352,
+  "mae": 1.146240234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7079.jpg",
+  "sdx": "Ots_79",
+  "corr": 0.9992334842681885,
+  "mae": 1.5975341796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7080.jpg",
+  "sdx": "Ots_80",
+  "corr": 0.9992963075637817,
+  "mae": 1.85809326171875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7081.jpg",
+  "sdx": "Ots_81",
+  "corr": 0.9993345141410828,
+  "mae": 1.889892578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7082.jpg",
+  "sdx": "Ots_82",
+  "corr": 0.999377965927124,
+  "mae": 1.85589599609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7083.jpg",
+  "sdx": "Ots_83",
+  "corr": 0.9993479251861572,
+  "mae": 1.8162841796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7084.jpg",
+  "sdx": "Ots_84",
+  "corr": 0.9992477893829346,
+  "mae": 1.75341796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7085.jpg",
+  "sdx": "Ots_85",
+  "corr": 0.9946765899658203,
+  "mae": 1.59356689453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7086.jpg",
+  "sdx": "Ots_86",
+  "corr": 0.9975108504295349,
+  "mae": 1.86456298828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7087.jpg",
+  "sdx": "Ots_87",
+  "corr": 0.9980140924453735,
+  "mae": 1.73907470703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7088.jpg",
+  "sdx": "Ots_88",
+  "corr": 0.9965440034866333,
+  "mae": 1.7359619140625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7089.jpg",
+  "sdx": "Ots_89",
+  "corr": 0.9980286955833435,
+  "mae": 1.73529052734375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7090.jpg",
+  "sdx": "Ots_90",
+  "corr": 0.9975948333740234,
+  "mae": 1.70977783203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7091.jpg",
+  "sdx": "Ots_91",
+  "corr": 0.9992386698722839,
+  "mae": 1.56201171875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7092.jpg",
+  "sdx": "Ots_92",
+  "corr": 0.9992392063140869,
+  "mae": 1.85406494140625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7093.jpg",
+  "sdx": "Ots_93",
+  "corr": 0.9993588328361511,
+  "mae": 1.83160400390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7094.jpg",
+  "sdx": "Ots_94",
+  "corr": 0.9992665648460388,
+  "mae": 1.79315185546875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7095.jpg",
+  "sdx": "Ots_95",
+  "corr": 0.9994415640830994,
+  "mae": 1.7486572265625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7096.jpg",
+  "sdx": "Ots_96",
+  "corr": 0.9993914365768433,
+  "mae": 1.68902587890625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7097.jpg",
+  "sdx": "Ots_97",
+  "corr": 0.9893704652786255,
+  "mae": 1.1639404296875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7098.jpg",
+  "sdx": "Ots_98",
+  "corr": 0.9897632598876953,
+  "mae": 1.165283203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7099.jpg",
+  "sdx": "Ots_99",
+  "corr": 0.9934663772583008,
+  "mae": 1.206298828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7100.jpg",
+  "sdx": "Ots_100",
+  "corr": 0.9954138994216919,
+  "mae": 1.1934814453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7101.jpg",
+  "sdx": "Ots_101",
+  "corr": 0.9992399215698242,
+  "mae": 1.55548095703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7102.jpg",
+  "sdx": "Ots_102",
+  "corr": 0.9990978240966797,
+  "mae": 1.7882080078125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7103.jpg",
+  "sdx": "Ots_103",
+  "corr": 0.9993842244148254,
+  "mae": 1.79168701171875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7104.jpg",
+  "sdx": "Ots_104",
+  "corr": 0.9992542266845703,
+  "mae": 1.91949462890625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7105.jpg",
+  "sdx": "Ots_105",
+  "corr": 0.999396562576294,
+  "mae": 1.88287353515625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7106.jpg",
+  "sdx": "Ots_106",
+  "corr": 0.9949151873588562,
+  "mae": 1.27508544921875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7107.jpg",
+  "sdx": "Ots_107",
+  "corr": 0.9954509735107422,
+  "mae": 1.25677490234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7108.jpg",
+  "sdx": "Ots_108",
+  "corr": 0.9952070116996765,
+  "mae": 1.2381591796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7109.jpg",
+  "sdx": "Ots_109",
+  "corr": 0.992983341217041,
+  "mae": 1.20660400390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7110.jpg",
+  "sdx": "Ots_110",
+  "corr": 0.995255708694458,
+  "mae": 1.23260498046875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7111.jpg",
+  "sdx": "Ots_111",
+  "corr": 0.9940385818481445,
+  "mae": 1.1551513671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7112.jpg",
+  "sdx": "Ots_112",
+  "corr": 0.9923270344734192,
+  "mae": 1.2178955078125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7113.jpg",
+  "sdx": "Ots_113",
+  "corr": 0.989412784576416,
+  "mae": 1.1629638671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7114.jpg",
+  "sdx": "Ots_114",
+  "corr": 0.9949864149093628,
+  "mae": 1.259521484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7115.jpg",
+  "sdx": "Ots_115",
+  "corr": 0.9971655607223511,
+  "mae": 1.21551513671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7116.jpg",
+  "sdx": "Ots_116",
+  "corr": 0.9918836355209351,
+  "mae": 1.73931884765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7117.jpg",
+  "sdx": "Ots_117",
+  "corr": 0.9944027066230774,
+  "mae": 1.8516845703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7118.jpg",
+  "sdx": "Ots_118",
+  "corr": 0.9947660565376282,
+  "mae": 1.8968505859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7119.jpg",
+  "sdx": "Ots_119",
+  "corr": 0.9948076009750366,
+  "mae": 1.93389892578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7120.jpg",
+  "sdx": "Ots_120",
+  "corr": 0.9936798810958862,
+  "mae": 1.9200439453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7121.jpg",
+  "sdx": "Ots_121",
+  "corr": 0.9918605089187622,
+  "mae": 1.2081298828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7122.jpg",
+  "sdx": "Ots_122",
+  "corr": 0.9923991560935974,
+  "mae": 1.23779296875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7123.jpg",
+  "sdx": "Ots_123",
+  "corr": 0.9947623014450073,
+  "mae": 1.31280517578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7124.jpg",
+  "sdx": "Ots_124",
+  "corr": 0.9955449104309082,
+  "mae": 1.2152099609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7125.jpg",
+  "sdx": "Ots_125",
+  "corr": 0.9948838949203491,
+  "mae": 1.84881591796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7126.jpg",
+  "sdx": "Ots_126",
+  "corr": 0.9963747262954712,
+  "mae": 1.910888671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7127.jpg",
+  "sdx": "Ots_127",
+  "corr": 0.9952552318572998,
+  "mae": 1.98590087890625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7128.jpg",
+  "sdx": "Ots_128",
+  "corr": 0.9943674802780151,
+  "mae": 2.001220703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7129.jpg",
+  "sdx": "Ots_129",
+  "corr": 0.9931978583335876,
+  "mae": 1.74884033203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7130.jpg",
+  "sdx": "Ots_130",
+  "corr": 0.9950332045555115,
+  "mae": 1.9144287109375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7131.jpg",
+  "sdx": "Ots_131",
+  "corr": 0.9947892427444458,
+  "mae": 1.92181396484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7132.jpg",
+  "sdx": "Ots_132",
+  "corr": 0.9949058294296265,
+  "mae": 1.88311767578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7133.jpg",
+  "sdx": "Ots_133",
+  "corr": 0.9932658672332764,
+  "mae": 1.9019775390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7134.jpg",
+  "sdx": "Ots_134",
+  "corr": 0.9936082363128662,
+  "mae": 1.7705078125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7135.jpg",
+  "sdx": "Ots_135",
+  "corr": 0.9937237501144409,
+  "mae": 1.81903076171875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7136.jpg",
+  "sdx": "Ots_136",
+  "corr": 0.9962077140808105,
+  "mae": 1.97003173828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7137.jpg",
+  "sdx": "Ots_137",
+  "corr": 0.9916977286338806,
+  "mae": 1.19329833984375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7138.jpg",
+  "sdx": "Ots_138",
+  "corr": 0.9901480674743652,
+  "mae": 1.70989990234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7139.jpg",
+  "sdx": "Ots_139",
+  "corr": 0.991152286529541,
+  "mae": 1.18023681640625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7140.jpg",
+  "sdx": "Ots_140",
+  "corr": 0.9965518712997437,
+  "mae": 1.31890869140625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7141.jpg",
+  "sdx": "Ots_141",
+  "corr": 0.997661828994751,
+  "mae": 1.26629638671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7142.jpg",
+  "sdx": "Ots_142",
+  "corr": 0.9928603172302246,
+  "mae": 1.15692138671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7143.jpg",
+  "sdx": "Ots_143",
+  "corr": 0.9877632856369019,
+  "mae": 1.16546630859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7144.jpg",
+  "sdx": "Ots_144",
+  "corr": 0.9934158325195312,
+  "mae": 1.21612548828125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7145.jpg",
+  "sdx": "Ots_145",
+  "corr": 0.9961568117141724,
+  "mae": 1.29583740234375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7146.jpg",
+  "sdx": "Ots_146",
+  "corr": 0.9968717098236084,
+  "mae": 1.2841796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7147.jpg",
+  "sdx": "Ots_147",
+  "corr": 0.9928318858146667,
+  "mae": 1.7603759765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7148.jpg",
+  "sdx": "Ots_148",
+  "corr": 0.9947915077209473,
+  "mae": 1.9007568359375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7149.jpg",
+  "sdx": "Ots_149",
+  "corr": 0.9950369596481323,
+  "mae": 1.95068359375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7150.jpg",
+  "sdx": "Ots_150",
+  "corr": 0.9889510869979858,
+  "mae": 1.1822509765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7151.jpg",
+  "sdx": "Ots_151",
+  "corr": 0.9936285018920898,
+  "mae": 1.2642822265625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7152.jpg",
+  "sdx": "Ots_152",
+  "corr": 0.9956717491149902,
+  "mae": 1.31329345703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7153.jpg",
+  "sdx": "Ots_153",
+  "corr": 0.9961076974868774,
+  "mae": 1.20635986328125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7154.jpg",
+  "sdx": "Ots_154",
+  "corr": 0.992053747177124,
+  "mae": 1.79168701171875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7155.jpg",
+  "sdx": "Ots_155",
+  "corr": 0.9941521286964417,
+  "mae": 1.9166259765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7156.jpg",
+  "sdx": "Ots_156",
+  "corr": 0.9952157139778137,
+  "mae": 1.94830322265625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7157.jpg",
+  "sdx": "Ots_157",
+  "corr": 0.9928086400032043,
+  "mae": 1.6400146484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7158.jpg",
+  "sdx": "Ots_158",
+  "corr": 0.9937097430229187,
+  "mae": 1.73004150390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7159.jpg",
+  "sdx": "Ots_159",
+  "corr": 0.9945465326309204,
+  "mae": 1.81756591796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7160.jpg",
+  "sdx": "Ots_160",
+  "corr": 0.9912799596786499,
+  "mae": 1.6435546875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7161.jpg",
+  "sdx": "Ots_161",
+  "corr": 0.9909399151802063,
+  "mae": 1.11962890625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7162.jpg",
+  "sdx": "Ots_162",
+  "corr": 0.9946491122245789,
+  "mae": 1.11920166015625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7163.jpg",
+  "sdx": "Ots_163",
+  "corr": 0.9924523830413818,
+  "mae": 1.16119384765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7164.jpg",
+  "sdx": "Ots_164",
+  "corr": 0.996088981628418,
+  "mae": 1.094482421875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7165.jpg",
+  "sdx": "Ots_165",
+  "corr": 0.9898558855056763,
+  "mae": 1.1448974609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7166.jpg",
+  "sdx": "Ots_166",
+  "corr": 0.9953329563140869,
+  "mae": 1.09552001953125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7167.jpg",
+  "sdx": "Ots_167",
+  "corr": 0.9900537729263306,
+  "mae": 1.12835693359375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7168.jpg",
+  "sdx": "Ots_168",
+  "corr": 0.9953500628471375,
+  "mae": 1.14727783203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7169.jpg",
+  "sdx": "Ots_169",
+  "corr": 0.9939585328102112,
+  "mae": 1.145263671875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7170.jpg",
+  "sdx": "Ots_170",
+  "corr": 0.9938077926635742,
+  "mae": 1.16156005859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7171.jpg",
+  "sdx": "Ots_171",
+  "corr": 0.9933763742446899,
+  "mae": 1.1697998046875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7172.jpg",
+  "sdx": "Ots_172",
+  "corr": 0.9971916675567627,
+  "mae": 1.15728759765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7173.jpg",
+  "sdx": "Ots_173",
+  "corr": 0.9952126145362854,
+  "mae": 1.2166748046875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7174.jpg",
+  "sdx": "Ots_174",
+  "corr": 0.9961435198783875,
+  "mae": 1.25665283203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7175.jpg",
+  "sdx": "Ots_175",
+  "corr": 0.9871565103530884,
+  "mae": 1.748046875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7176.jpg",
+  "sdx": "Ots_176",
+  "corr": 0.9904308915138245,
+  "mae": 1.8236083984375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7177.jpg",
+  "sdx": "Ots_177",
+  "corr": 0.9902234077453613,
+  "mae": 1.8907470703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7178.jpg",
+  "sdx": "Ots_178",
+  "corr": 0.9930992126464844,
+  "mae": 1.89459228515625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7179.jpg",
+  "sdx": "Ots_179",
+  "corr": 0.991907000541687,
+  "mae": 2.0093994140625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7180.jpg",
+  "sdx": "Ots_180",
+  "corr": 0.9915746450424194,
+  "mae": 1.8914794921875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7181.jpg",
+  "sdx": "Ots_181",
+  "corr": 0.9880968332290649,
+  "mae": 1.872314453125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7182.jpg",
+  "sdx": "Ots_182",
+  "corr": 0.9871917963027954,
+  "mae": 1.84454345703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7183.jpg",
+  "sdx": "Ots_183",
+  "corr": 0.9945506453514099,
+  "mae": 1.3233642578125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7184.jpg",
+  "sdx": "Ots_184",
+  "corr": 0.9888209104537964,
+  "mae": 1.28265380859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7185.jpg",
+  "sdx": "Ots_185",
+  "corr": 0.9902914762496948,
+  "mae": 1.384033203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7186.jpg",
+  "sdx": "Ots_186",
+  "corr": 0.9958465099334717,
+  "mae": 1.6676025390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7187.jpg",
+  "sdx": "Ots_187",
+  "corr": 0.992588996887207,
+  "mae": 1.11676025390625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7188.jpg",
+  "sdx": "Ots_188",
+  "corr": 0.9895602464675903,
+  "mae": 1.09820556640625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7189.jpg",
+  "sdx": "Ots_189",
+  "corr": 0.9874318838119507,
+  "mae": 1.21063232421875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7190.jpg",
+  "sdx": "Ots_190",
+  "corr": 0.9931033849716187,
+  "mae": 1.66937255859375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7191.jpg",
+  "sdx": "Ots_191",
+  "corr": 0.9945526123046875,
+  "mae": 1.5947265625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7192.jpg",
+  "sdx": "Ots_192",
+  "corr": 0.9937608242034912,
+  "mae": 1.09967041015625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7193.jpg",
+  "sdx": "Ots_193",
+  "corr": 0.9920660257339478,
+  "mae": 1.51580810546875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7194.jpg",
+  "sdx": "Ots_194",
+  "corr": 0.9962167739868164,
+  "mae": 1.568603515625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7195.jpg",
+  "sdx": "Ots_195",
+  "corr": 0.9940923452377319,
+  "mae": 1.1444091796875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7196.jpg",
+  "sdx": "Ots_196",
+  "corr": 0.989956259727478,
+  "mae": 1.24969482421875
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7197.jpg",
+  "sdx": "Ots_197",
+  "corr": 0.9927184581756592,
+  "mae": 1.61212158203125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7198.jpg",
+  "sdx": "Ots_198",
+  "corr": 0.9928943514823914,
+  "mae": 1.3560791015625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7199.jpg",
+  "sdx": "Ots_199",
+  "corr": 0.9922105073928833,
+  "mae": 1.05572509765625
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7200.jpg",
+  "sdx": "Ots_200",
+  "corr": 0.9928556084632874,
+  "mae": 1.3360595703125
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7201.jpg",
+  "sdx": "Ots_201",
+  "corr": 0.9935346245765686,
+  "mae": 1.66058349609375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7202.jpg",
+  "sdx": "Ots_202",
+  "corr": 0.9922612905502319,
+  "mae": 1.447021484375
+ },
+ {
+  "xsdd": "oxide scale of temperature system/7203.jpg",
+  "sdx": "Ots_203",
+  "corr": 0.9922029972076416,
+  "mae": 1.01959228515625
+ },
+ {
+  "xsdd": "red iron/2001.jpg",
+  "sdx": "ris_01",
+  "corr": 0.9991149306297302,
+  "mae": 2.05096435546875
+ },
+ {
+  "xsdd": "red iron/2002.jpg",
+  "sdx": "ris_02",
+  "corr": 0.998105525970459,
+  "mae": 2.06072998046875
+ },
+ {
+  "xsdd": "red iron/2003.jpg",
+  "sdx": "ris_03",
+  "corr": 0.9986764192581177,
+  "mae": 2.02362060546875
+ },
+ {
+  "xsdd": "red iron/2004.jpg",
+  "sdx": "ris_04",
+  "corr": 0.9975058436393738,
+  "mae": 2.013916015625
+ },
+ {
+  "xsdd": "red iron/2005.jpg",
+  "sdx": "ris_05",
+  "corr": 0.9974851608276367,
+  "mae": 2.02581787109375
+ },
+ {
+  "xsdd": "red iron/2006.jpg",
+  "sdx": "ris_06",
+  "corr": 0.9982070922851562,
+  "mae": 2.36309814453125
+ },
+ {
+  "xsdd": "red iron/2007.jpg",
+  "sdx": "ris_07",
+  "corr": 0.9965072870254517,
+  "mae": 1.992919921875
+ },
+ {
+  "xsdd": "red iron/2008.jpg",
+  "sdx": "ris_08",
+  "corr": 0.9980422854423523,
+  "mae": 2.2520751953125
+ },
+ {
+  "xsdd": "red iron/2009.jpg",
+  "sdx": "ris_09",
+  "corr": 0.9937938451766968,
+  "mae": 2.35992431640625
+ },
+ {
+  "xsdd": "red iron/2010.jpg",
+  "sdx": "ris_10",
+  "corr": 0.9980811476707458,
+  "mae": 2.29443359375
+ },
+ {
+  "xsdd": "red iron/2011.jpg",
+  "sdx": "ris_11",
+  "corr": 0.9994126558303833,
+  "mae": 1.99835205078125
+ },
+ {
+  "xsdd": "red iron/2012.jpg",
+  "sdx": "ris_12",
+  "corr": 0.9972715973854065,
+  "mae": 1.94207763671875
+ },
+ {
+  "xsdd": "red iron/2013.jpg",
+  "sdx": "ris_13",
+  "corr": 0.9961846470832825,
+  "mae": 1.3282470703125
+ },
+ {
+  "xsdd": "red iron/2014.jpg",
+  "sdx": "ris_14",
+  "corr": 0.998218297958374,
+  "mae": 2.01837158203125
+ },
+ {
+  "xsdd": "red iron/2015.jpg",
+  "sdx": "ris_15",
+  "corr": 0.9974144101142883,
+  "mae": 1.99365234375
+ },
+ {
+  "xsdd": "red iron/2016.jpg",
+  "sdx": "ris_16",
+  "corr": 0.9971072673797607,
+  "mae": 1.92205810546875
+ },
+ {
+  "xsdd": "red iron/2017.jpg",
+  "sdx": "ris_17",
+  "corr": 0.998712420463562,
+  "mae": 1.9910888671875
+ },
+ {
+  "xsdd": "red iron/2018.jpg",
+  "sdx": "ris_18",
+  "corr": 0.9982069730758667,
+  "mae": 2.28143310546875
+ },
+ {
+  "xsdd": "red iron/2019.jpg",
+  "sdx": "ris_19",
+  "corr": 0.998408854007721,
+  "mae": 2.21142578125
+ },
+ {
+  "xsdd": "red iron/2020.jpg",
+  "sdx": "ris_20",
+  "corr": 0.996698260307312,
+  "mae": 1.958251953125
+ },
+ {
+  "xsdd": "red iron/2021.jpg",
+  "sdx": "ris_21",
+  "corr": 0.9991927146911621,
+  "mae": 1.95654296875
+ },
+ {
+  "xsdd": "red iron/2022.jpg",
+  "sdx": "ris_22",
+  "corr": 0.9957183599472046,
+  "mae": 2.128173828125
+ },
+ {
+  "xsdd": "red iron/2023.jpg",
+  "sdx": "ris_23",
+  "corr": 0.9960099458694458,
+  "mae": 1.95556640625
+ },
+ {
+  "xsdd": "red iron/2024.jpg",
+  "sdx": "ris_24",
+  "corr": 0.9995263814926147,
+  "mae": 2.00634765625
+ },
+ {
+  "xsdd": "red iron/2025.jpg",
+  "sdx": "ris_25",
+  "corr": 0.9995526075363159,
+  "mae": 2.2620849609375
+ },
+ {
+  "xsdd": "red iron/2026.jpg",
+  "sdx": "ris_26",
+  "corr": 0.9994071125984192,
+  "mae": 2.3056640625
+ },
+ {
+  "xsdd": "red iron/2027.jpg",
+  "sdx": "ris_27",
+  "corr": 0.9996985793113708,
+  "mae": 2.01800537109375
+ },
+ {
+  "xsdd": "red iron/2028.jpg",
+  "sdx": "ris_28",
+  "corr": 0.9993273019790649,
+  "mae": 2.14300537109375
+ },
+ {
+  "xsdd": "red iron/2029.jpg",
+  "sdx": "ris_29",
+  "corr": 0.9992743730545044,
+  "mae": 1.7830810546875
+ },
+ {
+  "xsdd": "red iron/2030.jpg",
+  "sdx": "ris_30",
+  "corr": 0.9996039867401123,
+  "mae": 2.2503662109375
+ },
+ {
+  "xsdd": "red iron/2031.jpg",
+  "sdx": "ris_31",
+  "corr": 0.9994608163833618,
+  "mae": 2.2999267578125
+ },
+ {
+  "xsdd": "red iron/2032.jpg",
+  "sdx": "ris_32",
+  "corr": 0.9997275471687317,
+  "mae": 2.01904296875
+ },
+ {
+  "xsdd": "red iron/2033.jpg",
+  "sdx": "ris_33",
+  "corr": 0.9994821548461914,
+  "mae": 2.16021728515625
+ },
+ {
+  "xsdd": "red iron/2034.jpg",
+  "sdx": "ris_34",
+  "corr": 0.9993647336959839,
+  "mae": 1.76812744140625
+ },
+ {
+  "xsdd": "red iron/2035.jpg",
+  "sdx": "ris_35",
+  "corr": 0.9995895624160767,
+  "mae": 2.239990234375
+ },
+ {
+  "xsdd": "red iron/2036.jpg",
+  "sdx": "ris_36",
+  "corr": 0.9994587898254395,
+  "mae": 2.1986083984375
+ },
+ {
+  "xsdd": "red iron/2037.jpg",
+  "sdx": "ris_37",
+  "corr": 0.9996903538703918,
+  "mae": 2.15655517578125
+ },
+ {
+  "xsdd": "red iron/2038.jpg",
+  "sdx": "ris_38",
+  "corr": 0.9992961883544922,
+  "mae": 1.83673095703125
+ },
+ {
+  "xsdd": "red iron/2039.jpg",
+  "sdx": "ris_39",
+  "corr": 0.9992495179176331,
+  "mae": 1.7750244140625
+ },
+ {
+  "xsdd": "red iron/2040.jpg",
+  "sdx": "ris_40",
+  "corr": 0.9955425262451172,
+  "mae": 1.19073486328125
+ },
+ {
+  "xsdd": "red iron/2041.jpg",
+  "sdx": "ris_41",
+  "corr": 0.9993102550506592,
+  "mae": 1.98443603515625
+ },
+ {
+  "xsdd": "red iron/2042.jpg",
+  "sdx": "ris_42",
+  "corr": 0.9997105598449707,
+  "mae": 2.156982421875
+ },
+ {
+  "xsdd": "red iron/2043.jpg",
+  "sdx": "ris_43",
+  "corr": 0.9993435144424438,
+  "mae": 2.31134033203125
+ },
+ {
+  "xsdd": "red iron/2044.jpg",
+  "sdx": "ris_44",
+  "corr": 0.9992648363113403,
+  "mae": 1.8980712890625
+ },
+ {
+  "xsdd": "red iron/2045.jpg",
+  "sdx": "ris_45",
+  "corr": 0.9989743232727051,
+  "mae": 1.8509521484375
+ },
+ {
+  "xsdd": "red iron/2046.jpg",
+  "sdx": "ris_46",
+  "corr": 0.9997067451477051,
+  "mae": 2.30010986328125
+ },
+ {
+  "xsdd": "red iron/2047.jpg",
+  "sdx": "ris_47",
+  "corr": 0.9992239475250244,
+  "mae": 2.091064453125
+ },
+ {
+  "xsdd": "red iron/2048.jpg",
+  "sdx": "ris_48",
+  "corr": 0.9984989762306213,
+  "mae": 1.973388671875
+ },
+ {
+  "xsdd": "red iron/2049.jpg",
+  "sdx": "ris_49",
+  "corr": 0.9979605674743652,
+  "mae": 2.065185546875
+ },
+ {
+  "xsdd": "red iron/2050.jpg",
+  "sdx": "ris_50",
+  "corr": 0.9998446702957153,
+  "mae": 2.58984375
+ },
+ {
+  "xsdd": "red iron/2051.jpg",
+  "sdx": "ris_51",
+  "corr": 0.999935507774353,
+  "mae": 2.08721923828125
+ },
+ {
+  "xsdd": "red iron/2052.jpg",
+  "sdx": "ris_52",
+  "corr": 0.9992207288742065,
+  "mae": 1.425537109375
+ },
+ {
+  "xsdd": "red iron/2053.jpg",
+  "sdx": "ris_53",
+  "corr": 0.9991805553436279,
+  "mae": 1.43701171875
+ },
+ {
+  "xsdd": "red iron/2054.jpg",
+  "sdx": "ris_54",
+  "corr": 0.999294638633728,
+  "mae": 1.55523681640625
+ },
+ {
+  "xsdd": "red iron/2055.jpg",
+  "sdx": "ris_55",
+  "corr": 0.9991322159767151,
+  "mae": 1.5665283203125
+ },
+ {
+  "xsdd": "red iron/2056.jpg",
+  "sdx": "ris_56",
+  "corr": 0.9992150068283081,
+  "mae": 1.6356201171875
+ },
+ {
+  "xsdd": "red iron/2057.jpg",
+  "sdx": "ris_57",
+  "corr": 0.9995942115783691,
+  "mae": 1.58001708984375
+ },
+ {
+  "xsdd": "red iron/2058.jpg",
+  "sdx": "ris_58",
+  "corr": 0.999506950378418,
+  "mae": 1.46728515625
+ },
+ {
+  "xsdd": "red iron/2059.jpg",
+  "sdx": "ris_59",
+  "corr": 0.9993370771408081,
+  "mae": 1.47625732421875
+ },
+ {
+  "xsdd": "red iron/2060.jpg",
+  "sdx": "ris_60",
+  "corr": 0.9994029998779297,
+  "mae": 1.55474853515625
+ },
+ {
+  "xsdd": "red iron/2061.jpg",
+  "sdx": "ris_61",
+  "corr": 0.9994975924491882,
+  "mae": 1.616943359375
+ },
+ {
+  "xsdd": "red iron/2062.jpg",
+  "sdx": "ris_62",
+  "corr": 0.9995046257972717,
+  "mae": 1.59716796875
+ },
+ {
+  "xsdd": "red iron/2063.jpg",
+  "sdx": "ris_63",
+  "corr": 0.9993230104446411,
+  "mae": 1.44647216796875
+ },
+ {
+  "xsdd": "red iron/2064.jpg",
+  "sdx": "ris_64",
+  "corr": 0.9996829032897949,
+  "mae": 1.48516845703125
+ },
+ {
+  "xsdd": "red iron/2065.jpg",
+  "sdx": "ris_65",
+  "corr": 0.9993276596069336,
+  "mae": 1.5899658203125
+ },
+ {
+  "xsdd": "red iron/2066.jpg",
+  "sdx": "ris_66",
+  "corr": 0.9997232556343079,
+  "mae": 1.6070556640625
+ },
+ {
+  "xsdd": "red iron/2067.jpg",
+  "sdx": "ris_67",
+  "corr": 0.999700665473938,
+  "mae": 1.5240478515625
+ },
+ {
+  "xsdd": "red iron/2068.jpg",
+  "sdx": "ris_68",
+  "corr": 0.999739408493042,
+  "mae": 1.42181396484375
+ },
+ {
+  "xsdd": "red iron/2069.jpg",
+  "sdx": "ris_69",
+  "corr": 0.999633252620697,
+  "mae": 1.4423828125
+ },
+ {
+  "xsdd": "red iron/2070.jpg",
+  "sdx": "ris_70",
+  "corr": 0.9996246099472046,
+  "mae": 1.54583740234375
+ },
+ {
+  "xsdd": "red iron/2071.jpg",
+  "sdx": "ris_71",
+  "corr": 0.9995039701461792,
+  "mae": 1.63604736328125
+ },
+ {
+  "xsdd": "red iron/2072.jpg",
+  "sdx": "ris_72",
+  "corr": 0.999664306640625,
+  "mae": 1.6077880859375
+ },
+ {
+  "xsdd": "red iron/2073.jpg",
+  "sdx": "ris_73",
+  "corr": 0.9996411204338074,
+  "mae": 1.5537109375
+ },
+ {
+  "xsdd": "red iron/2074.jpg",
+  "sdx": "ris_74",
+  "corr": 0.9997018575668335,
+  "mae": 1.4454345703125
+ },
+ {
+  "xsdd": "red iron/2075.jpg",
+  "sdx": "ris_75",
+  "corr": 0.9996382594108582,
+  "mae": 1.44927978515625
+ },
+ {
+  "xsdd": "red iron/2076.jpg",
+  "sdx": "ris_76",
+  "corr": 0.9995852112770081,
+  "mae": 1.5653076171875
+ },
+ {
+  "xsdd": "red iron/2077.jpg",
+  "sdx": "ris_77",
+  "corr": 0.9995033740997314,
+  "mae": 1.5928955078125
+ },
+ {
+  "xsdd": "red iron/2078.jpg",
+  "sdx": "ris_82",
+  "corr": 0.9994142651557922,
+  "mae": 1.64739990234375
+ },
+ {
+  "xsdd": "red iron/2079.jpg",
+  "sdx": "ris_79",
+  "corr": 0.9994306564331055,
+  "mae": 1.71673583984375
+ },
+ {
+  "xsdd": "red iron/2080.jpg",
+  "sdx": "ris_80",
+  "corr": 0.9998020529747009,
+  "mae": 1.70654296875
+ },
+ {
+  "xsdd": "red iron/2081.jpg",
+  "sdx": "ris_81",
+  "corr": 0.9996885657310486,
+  "mae": 1.920166015625
+ },
+ {
+  "xsdd": "red iron/2082.jpg",
+  "sdx": "ris_82",
+  "corr": 0.9994142651557922,
+  "mae": 1.64739990234375
+ },
+ {
+  "xsdd": "red iron/2083.jpg",
+  "sdx": "ris_79",
+  "corr": 0.9994306564331055,
+  "mae": 1.71673583984375
+ },
+ {
+  "xsdd": "red iron/2084.jpg",
+  "sdx": "ris_80",
+  "corr": 0.9998020529747009,
+  "mae": 1.70654296875
+ },
+ {
+  "xsdd": "red iron/2085.jpg",
+  "sdx": "ris_81",
+  "corr": 0.9996885657310486,
+  "mae": 1.920166015625
+ },
+ {
+  "xsdd": "red iron/2086.jpg",
+  "sdx": "ris_86",
+  "corr": 0.999555230140686,
+  "mae": 1.507568359375
+ },
+ {
+  "xsdd": "red iron/2087.jpg",
+  "sdx": "ris_87",
+  "corr": 0.9996151924133301,
+  "mae": 1.4227294921875
+ },
+ {
+  "xsdd": "red iron/2088.jpg",
+  "sdx": "ris_88",
+  "corr": 0.9997707009315491,
+  "mae": 1.417724609375
+ },
+ {
+  "xsdd": "red iron/2089.jpg",
+  "sdx": "ris_89",
+  "corr": 0.9995958209037781,
+  "mae": 1.566162109375
+ },
+ {
+  "xsdd": "red iron/2090.jpg",
+  "sdx": "ris_90",
+  "corr": 0.9994217157363892,
+  "mae": 1.61376953125
+ },
+ {
+  "xsdd": "red iron/2091.jpg",
+  "sdx": "ris_91",
+  "corr": 0.9995559453964233,
+  "mae": 1.523193359375
+ },
+ {
+  "xsdd": "red iron/2092.jpg",
+  "sdx": "ris_92",
+  "corr": 0.9996170401573181,
+  "mae": 1.39324951171875
+ },
+ {
+  "xsdd": "red iron/2093.jpg",
+  "sdx": "ris_93",
+  "corr": 0.9996256828308105,
+  "mae": 1.47552490234375
+ },
+ {
+  "xsdd": "red iron/2094.jpg",
+  "sdx": "ris_94",
+  "corr": 0.9996953010559082,
+  "mae": 1.4693603515625
+ },
+ {
+  "xsdd": "red iron/2095.jpg",
+  "sdx": "ris_95",
+  "corr": 0.9991592168807983,
+  "mae": 1.58123779296875
+ },
+ {
+  "xsdd": "red iron/2096.jpg",
+  "sdx": "ris_96",
+  "corr": 0.9995347261428833,
+  "mae": 1.5167236328125
+ },
+ {
+  "xsdd": "red iron/2097.jpg",
+  "sdx": "ris_97",
+  "corr": 0.999397873878479,
+  "mae": 1.4205322265625
+ },
+ {
+  "xsdd": "red iron/2098.jpg",
+  "sdx": "ris_98",
+  "corr": 0.9993839859962463,
+  "mae": 1.46905517578125
+ },
+ {
+  "xsdd": "red iron/2099.jpg",
+  "sdx": "ris_99",
+  "corr": 0.9995249509811401,
+  "mae": 1.56072998046875
+ },
+ {
+  "xsdd": "red iron/2100.jpg",
+  "sdx": "ris_100",
+  "corr": 0.9988787174224854,
+  "mae": 1.57183837890625
+ },
+ {
+  "xsdd": "red iron/2101.jpg",
+  "sdx": "ris_101",
+  "corr": 0.9998548626899719,
+  "mae": 2.5322265625
+ },
+ {
+  "xsdd": "red iron/2102.jpg",
+  "sdx": "ris_102",
+  "corr": 0.999897837638855,
+  "mae": 2.64404296875
+ },
+ {
+  "xsdd": "red iron/2103.jpg",
+  "sdx": "ris_103",
+  "corr": 0.9998540878295898,
+  "mae": 2.4298095703125
+ },
+ {
+  "xsdd": "red iron/2104.jpg",
+  "sdx": "ris_104",
+  "corr": 0.9994996786117554,
+  "mae": 1.69195556640625
+ },
+ {
+  "xsdd": "red iron/2105.jpg",
+  "sdx": "ris_105",
+  "corr": 0.9946258664131165,
+  "mae": 1.59783935546875
+ },
+ {
+  "xsdd": "red iron/2106.jpg",
+  "sdx": "ris_106",
+  "corr": 0.9966492652893066,
+  "mae": 1.7420654296875
+ },
+ {
+  "xsdd": "red iron/2107.jpg",
+  "sdx": "ris_107",
+  "corr": 0.9982918500900269,
+  "mae": 1.8115234375
+ },
+ {
+  "xsdd": "red iron/2108.jpg",
+  "sdx": "ris_108",
+  "corr": 0.9995173215866089,
+  "mae": 1.9769287109375
+ },
+ {
+  "xsdd": "red iron/2109.jpg",
+  "sdx": "ris_109",
+  "corr": 0.9965765476226807,
+  "mae": 1.60577392578125
+ },
+ {
+  "xsdd": "red iron/2110.jpg",
+  "sdx": "ris_110",
+  "corr": 0.9897336959838867,
+  "mae": 1.75946044921875
+ },
+ {
+  "xsdd": "red iron/2111.jpg",
+  "sdx": "ris_111",
+  "corr": 0.9992609620094299,
+  "mae": 2.06256103515625
+ },
+ {
+  "xsdd": "red iron/2112.jpg",
+  "sdx": "ris_112",
+  "corr": 0.9992737174034119,
+  "mae": 1.96038818359375
+ },
+ {
+  "xsdd": "red iron/2113.jpg",
+  "sdx": "ris_113",
+  "corr": 0.9989117383956909,
+  "mae": 1.86383056640625
+ },
+ {
+  "xsdd": "red iron/2114.jpg",
+  "sdx": "ris_114",
+  "corr": 0.9993394613265991,
+  "mae": 1.66961669921875
+ },
+ {
+  "xsdd": "red iron/2115.jpg",
+  "sdx": "ris_115",
+  "corr": 0.9994686841964722,
+  "mae": 1.600341796875
+ },
+ {
+  "xsdd": "red iron/2116.jpg",
+  "sdx": "ris_116",
+  "corr": 0.9994335770606995,
+  "mae": 1.9918212890625
+ },
+ {
+  "xsdd": "red iron/2117.jpg",
+  "sdx": "ris_117",
+  "corr": 0.9992610216140747,
+  "mae": 1.83013916015625
+ },
+ {
+  "xsdd": "red iron/2118.jpg",
+  "sdx": "ris_118",
+  "corr": 0.9996986985206604,
+  "mae": 1.60882568359375
+ },
+ {
+  "xsdd": "red iron/2119.jpg",
+  "sdx": "ris_119",
+  "corr": 0.9997953772544861,
+  "mae": 1.5098876953125
+ },
+ {
+  "xsdd": "red iron/2120.jpg",
+  "sdx": "ris_120",
+  "corr": 0.9992419481277466,
+  "mae": 1.75421142578125
+ },
+ {
+  "xsdd": "red iron/2121.jpg",
+  "sdx": "ris_121",
+  "corr": 0.9996064901351929,
+  "mae": 1.649658203125
+ },
+ {
+  "xsdd": "red iron/2122.jpg",
+  "sdx": "ris_122",
+  "corr": 0.9994654655456543,
+  "mae": 1.5672607421875
+ },
+ {
+  "xsdd": "red iron/2123.jpg",
+  "sdx": "ris_123",
+  "corr": 0.9989230632781982,
+  "mae": 1.56170654296875
+ },
+ {
+  "xsdd": "red iron/2124.jpg",
+  "sdx": "ris_124",
+  "corr": 0.999646008014679,
+  "mae": 1.71856689453125
+ },
+ {
+  "xsdd": "red iron/2125.jpg",
+  "sdx": "ris_125",
+  "corr": 0.999765157699585,
+  "mae": 1.76043701171875
+ },
+ {
+  "xsdd": "red iron/2126.jpg",
+  "sdx": "ris_126",
+  "corr": 0.9997042417526245,
+  "mae": 1.91485595703125
+ },
+ {
+  "xsdd": "red iron/2127.jpg",
+  "sdx": "ris_127",
+  "corr": 0.9997488856315613,
+  "mae": 1.97265625
+ },
+ {
+  "xsdd": "red iron/2128.jpg",
+  "sdx": "ris_128",
+  "corr": 0.9925268292427063,
+  "mae": 1.543701171875
+ },
+ {
+  "xsdd": "red iron/2129.jpg",
+  "sdx": "ris_129",
+  "corr": 0.9927835464477539,
+  "mae": 1.675537109375
+ },
+ {
+  "xsdd": "red iron/2130.jpg",
+  "sdx": "ris_130",
+  "corr": 0.9963089227676392,
+  "mae": 1.91668701171875
+ },
+ {
+  "xsdd": "red iron/2131.jpg",
+  "sdx": "ris_131",
+  "corr": 0.9915066957473755,
+  "mae": 1.94415283203125
+ },
+ {
+  "xsdd": "red iron/2132.jpg",
+  "sdx": "ris_132",
+  "corr": 0.9947983026504517,
+  "mae": 1.55462646484375
+ },
+ {
+  "xsdd": "red iron/2133.jpg",
+  "sdx": "ris_133",
+  "corr": 0.9967585802078247,
+  "mae": 1.5667724609375
+ },
+ {
+  "xsdd": "red iron/2134.jpg",
+  "sdx": "ris_134",
+  "corr": 0.9925730228424072,
+  "mae": 1.6343994140625
+ },
+ {
+  "xsdd": "red iron/2135.jpg",
+  "sdx": "ris_135",
+  "corr": 0.9963010549545288,
+  "mae": 1.58050537109375
+ },
+ {
+  "xsdd": "red iron/2136.jpg",
+  "sdx": "ris_136",
+  "corr": 0.999509334564209,
+  "mae": 2.08349609375
+ },
+ {
+  "xsdd": "red iron/2137.jpg",
+  "sdx": "ris_137",
+  "corr": 0.9996574521064758,
+  "mae": 1.989013671875
+ },
+ {
+  "xsdd": "red iron/2138.jpg",
+  "sdx": "ris_138",
+  "corr": 0.999556303024292,
+  "mae": 1.86279296875
+ },
+ {
+  "xsdd": "red iron/2139.jpg",
+  "sdx": "ris_139",
+  "corr": 0.9995696544647217,
+  "mae": 1.760498046875
+ },
+ {
+  "xsdd": "red iron/2140.jpg",
+  "sdx": "ris_140",
+  "corr": 0.9992656111717224,
+  "mae": 1.53375244140625
+ },
+ {
+  "xsdd": "red iron/2141.jpg",
+  "sdx": "ris_141",
+  "corr": 0.9996638298034668,
+  "mae": 1.4410400390625
+ },
+ {
+  "xsdd": "red iron/2142.jpg",
+  "sdx": "ris_142",
+  "corr": 0.99937504529953,
+  "mae": 1.32867431640625
+ },
+ {
+  "xsdd": "red iron/2143.jpg",
+  "sdx": "ris_143",
+  "corr": 0.9994151592254639,
+  "mae": 1.296630859375
+ },
+ {
+  "xsdd": "red iron/2144.jpg",
+  "sdx": "ris_144",
+  "corr": 0.999574601650238,
+  "mae": 1.35089111328125
+ },
+ {
+  "xsdd": "red iron/2145.jpg",
+  "sdx": "ris_145",
+  "corr": 0.9993277192115784,
+  "mae": 1.46636962890625
+ },
+ {
+  "xsdd": "red iron/2146.jpg",
+  "sdx": "ris_146",
+  "corr": 0.9993711709976196,
+  "mae": 1.52587890625
+ },
+ {
+  "xsdd": "red iron/2147.jpg",
+  "sdx": "ris_147",
+  "corr": 0.9993752241134644,
+  "mae": 2.05889892578125
+ },
+ {
+  "xsdd": "red iron/2148.jpg",
+  "sdx": "ris_148",
+  "corr": 0.9994622468948364,
+  "mae": 2.01348876953125
+ },
+ {
+  "xsdd": "red iron/2149.jpg",
+  "sdx": "ris_149",
+  "corr": 0.999200701713562,
+  "mae": 1.8905029296875
+ },
+ {
+  "xsdd": "red iron/2150.jpg",
+  "sdx": "ris_150",
+  "corr": 0.9998652935028076,
+  "mae": 1.46002197265625
+ },
+ {
+  "xsdd": "red iron/2151.jpg",
+  "sdx": "ris_151",
+  "corr": 0.9998568892478943,
+  "mae": 1.43585205078125
+ },
+ {
+  "xsdd": "red iron/2152.jpg",
+  "sdx": "ris_152",
+  "corr": 0.9922187328338623,
+  "mae": 1.72247314453125
+ },
+ {
+  "xsdd": "red iron/2153.jpg",
+  "sdx": "ris_153",
+  "corr": 0.997642457485199,
+  "mae": 1.91253662109375
+ },
+ {
+  "xsdd": "red iron/2154.jpg",
+  "sdx": "ris_154",
+  "corr": 0.9943212270736694,
+  "mae": 1.78948974609375
+ },
+ {
+  "xsdd": "red iron/2155.jpg",
+  "sdx": "ris_155",
+  "corr": 0.9996541142463684,
+  "mae": 2.033935546875
+ },
+ {
+  "xsdd": "red iron/2156.jpg",
+  "sdx": "ris_156",
+  "corr": 0.999482274055481,
+  "mae": 2.057373046875
+ },
+ {
+  "xsdd": "red iron/2157.jpg",
+  "sdx": "ris_157",
+  "corr": 0.9995812177658081,
+  "mae": 1.8546142578125
+ },
+ {
+  "xsdd": "red iron/2158.jpg",
+  "sdx": "ris_158",
+  "corr": 0.9998155832290649,
+  "mae": 1.55548095703125
+ },
+ {
+  "xsdd": "red iron/2159.jpg",
+  "sdx": "ris_159",
+  "corr": 0.9998517036437988,
+  "mae": 1.4609375
+ },
+ {
+  "xsdd": "red iron/2160.jpg",
+  "sdx": "ris_160",
+  "corr": 0.9993104338645935,
+  "mae": 1.94091796875
+ },
+ {
+  "xsdd": "red iron/2161.jpg",
+  "sdx": "ris_161",
+  "corr": 0.9996587038040161,
+  "mae": 1.94171142578125
+ },
+ {
+  "xsdd": "red iron/2162.jpg",
+  "sdx": "ris_162",
+  "corr": 0.999688446521759,
+  "mae": 1.92742919921875
+ },
+ {
+  "xsdd": "red iron/2163.jpg",
+  "sdx": "ris_163",
+  "corr": 0.9994713068008423,
+  "mae": 1.8507080078125
+ },
+ {
+  "xsdd": "red iron/2164.jpg",
+  "sdx": "ris_164",
+  "corr": 0.9997775554656982,
+  "mae": 1.55792236328125
+ },
+ {
+  "xsdd": "red iron/2165.jpg",
+  "sdx": "ris_165",
+  "corr": 0.9998679757118225,
+  "mae": 1.38531494140625
+ },
+ {
+  "xsdd": "red iron/2166.jpg",
+  "sdx": "ris_166",
+  "corr": 0.9995083808898926,
+  "mae": 1.96990966796875
+ },
+ {
+  "xsdd": "red iron/2167.jpg",
+  "sdx": "ris_167",
+  "corr": 0.9996252059936523,
+  "mae": 1.9456787109375
+ },
+ {
+  "xsdd": "red iron/2168.jpg",
+  "sdx": "ris_168",
+  "corr": 0.9997696280479431,
+  "mae": 1.8394775390625
+ },
+ {
+  "xsdd": "red iron/2169.jpg",
+  "sdx": "ris_169",
+  "corr": 0.9996300339698792,
+  "mae": 1.82421875
+ },
+ {
+  "xsdd": "red iron/2170.jpg",
+  "sdx": "ris_170",
+  "corr": 0.9998263120651245,
+  "mae": 1.5748291015625
+ },
+ {
+  "xsdd": "red iron/2171.jpg",
+  "sdx": "ris_171",
+  "corr": 0.9998732209205627,
+  "mae": 1.43011474609375
+ },
+ {
+  "xsdd": "red iron/2172.jpg",
+  "sdx": "ris_172",
+  "corr": 0.9928843975067139,
+  "mae": 1.76824951171875
+ },
+ {
+  "xsdd": "red iron/2173.jpg",
+  "sdx": "ris_173",
+  "corr": 0.994763970375061,
+  "mae": 1.69775390625
+ },
+ {
+  "xsdd": "red iron/2174.jpg",
+  "sdx": "ris_174",
+  "corr": 0.9996001720428467,
+  "mae": 1.99139404296875
+ },
+ {
+  "xsdd": "red iron/2175.jpg",
+  "sdx": "ris_175",
+  "corr": 0.9995161294937134,
+  "mae": 1.9599609375
+ },
+ {
+  "xsdd": "red iron/2176.jpg",
+  "sdx": "ris_176",
+  "corr": 0.9993264675140381,
+  "mae": 1.743896484375
+ },
+ {
+  "xsdd": "red iron/2177.jpg",
+  "sdx": "ris_177",
+  "corr": 0.9994884729385376,
+  "mae": 1.58392333984375
+ },
+ {
+  "xsdd": "red iron/2178.jpg",
+  "sdx": "ris_178",
+  "corr": 0.9994257688522339,
+  "mae": 1.4892578125
+ },
+ {
+  "xsdd": "red iron/2179.jpg",
+  "sdx": "ris_179",
+  "corr": 0.9898117780685425,
+  "mae": 1.776611328125
+ },
+ {
+  "xsdd": "red iron/2180.jpg",
+  "sdx": "ris_180",
+  "corr": 0.9957073926925659,
+  "mae": 1.62322998046875
+ },
+ {
+  "xsdd": "red iron/2181.jpg",
+  "sdx": "ris_181",
+  "corr": 0.9899783730506897,
+  "mae": 1.62847900390625
+ },
+ {
+  "xsdd": "red iron/2182.jpg",
+  "sdx": "ris_182",
+  "corr": 0.9947611689567566,
+  "mae": 1.7120361328125
+ },
+ {
+  "xsdd": "red iron/2183.jpg",
+  "sdx": "ris_183",
+  "corr": 0.9948400259017944,
+  "mae": 1.9356689453125
+ },
+ {
+  "xsdd": "red iron/2184.jpg",
+  "sdx": "ris_184",
+  "corr": 0.9996652007102966,
+  "mae": 1.9456787109375
+ },
+ {
+  "xsdd": "red iron/2185.jpg",
+  "sdx": "ris_185",
+  "corr": 0.9994261264801025,
+  "mae": 1.97967529296875
+ },
+ {
+  "xsdd": "red iron/2186.jpg",
+  "sdx": "ris_186",
+  "corr": 0.9992457032203674,
+  "mae": 1.86895751953125
+ },
+ {
+  "xsdd": "red iron/2187.jpg",
+  "sdx": "ris_187",
+  "corr": 0.999199390411377,
+  "mae": 1.76361083984375
+ },
+ {
+  "xsdd": "red iron/2188.jpg",
+  "sdx": "ris_188",
+  "corr": 0.9996781945228577,
+  "mae": 1.6495361328125
+ },
+ {
+  "xsdd": "red iron/2189.jpg",
+  "sdx": "ris_189",
+  "corr": 0.9997982978820801,
+  "mae": 1.484130859375
+ },
+ {
+  "xsdd": "red iron/2190.jpg",
+  "sdx": "ris_190",
+  "corr": 0.9997646808624268,
+  "mae": 1.6461181640625
+ },
+ {
+  "xsdd": "red iron/2191.jpg",
+  "sdx": "ris_191",
+  "corr": 0.9997873306274414,
+  "mae": 1.53387451171875
+ },
+ {
+  "xsdd": "red iron/2192.jpg",
+  "sdx": "ris_192",
+  "corr": 0.9995207786560059,
+  "mae": 1.89337158203125
+ },
+ {
+  "xsdd": "red iron/2193.jpg",
+  "sdx": "ris_193",
+  "corr": 0.9997315406799316,
+  "mae": 1.61468505859375
+ },
+ {
+  "xsdd": "red iron/2194.jpg",
+  "sdx": "ris_194",
+  "corr": 0.9994388818740845,
+  "mae": 1.7099609375
+ },
+ {
+  "xsdd": "red iron/2195.jpg",
+  "sdx": "ris_195",
+  "corr": 0.9997214078903198,
+  "mae": 1.89654541015625
+ },
+ {
+  "xsdd": "red iron/2196.jpg",
+  "sdx": "ris_196",
+  "corr": 0.9997696876525879,
+  "mae": 2.02618408203125
+ },
+ {
+  "xsdd": "red iron/2197.jpg",
+  "sdx": "ris_197",
+  "corr": 0.9995217323303223,
+  "mae": 2.04669189453125
+ },
+ {
+  "xsdd": "red iron/2198.jpg",
+  "sdx": "ris_198",
+  "corr": 0.9995182752609253,
+  "mae": 2.03533935546875
+ },
+ {
+  "xsdd": "red iron/2199.jpg",
+  "sdx": "ris_199",
+  "corr": 0.9997386336326599,
+  "mae": 1.58935546875
+ },
+ {
+  "xsdd": "red iron/2200.jpg",
+  "sdx": "ris_200",
+  "corr": 0.9997428059577942,
+  "mae": 1.56475830078125
+ },
+ {
+  "xsdd": "red iron/2201.jpg",
+  "sdx": "ris_201",
+  "corr": 0.9998167753219604,
+  "mae": 1.8250732421875
+ },
+ {
+  "xsdd": "red iron/2202.jpg",
+  "sdx": "ris_202",
+  "corr": 0.9934407472610474,
+  "mae": 1.71221923828125
+ },
+ {
+  "xsdd": "red iron/2203.jpg",
+  "sdx": "ris_203",
+  "corr": 0.9950927495956421,
+  "mae": 1.9200439453125
+ },
+ {
+  "xsdd": "red iron/2204.jpg",
+  "sdx": "ris_204",
+  "corr": 0.9972996711730957,
+  "mae": 1.908935546875
+ },
+ {
+  "xsdd": "red iron/2205.jpg",
+  "sdx": "ris_210",
+  "corr": 0.9993497729301453,
+  "mae": 1.714111328125
+ },
+ {
+  "xsdd": "red iron/2206.jpg",
+  "sdx": "ris_211",
+  "corr": 0.9995924830436707,
+  "mae": 1.71197509765625
+ },
+ {
+  "xsdd": "red iron/2207.jpg",
+  "sdx": "ris_207",
+  "corr": 0.9996481537818909,
+  "mae": 1.84796142578125
+ },
+ {
+  "xsdd": "red iron/2208.jpg",
+  "sdx": "ris_208",
+  "corr": 0.9993690252304077,
+  "mae": 1.99951171875
+ },
+ {
+  "xsdd": "red iron/2209.jpg",
+  "sdx": "ris_209",
+  "corr": 0.9991871118545532,
+  "mae": 2.07806396484375
+ },
+ {
+  "xsdd": "red iron/2210.jpg",
+  "sdx": "ris_210",
+  "corr": 0.9993497729301453,
+  "mae": 1.714111328125
+ },
+ {
+  "xsdd": "red iron/2211.jpg",
+  "sdx": "ris_211",
+  "corr": 0.9995924830436707,
+  "mae": 1.71197509765625
+ },
+ {
+  "xsdd": "red iron/2212.jpg",
+  "sdx": "ris_207",
+  "corr": 0.9996481537818909,
+  "mae": 1.84796142578125
+ },
+ {
+  "xsdd": "red iron/2213.jpg",
+  "sdx": "ris_208",
+  "corr": 0.9993690252304077,
+  "mae": 1.99951171875
+ },
+ {
+  "xsdd": "red iron/2214.jpg",
+  "sdx": "ris_209",
+  "corr": 0.9991871118545532,
+  "mae": 2.07806396484375
+ },
+ {
+  "xsdd": "red iron/2215.jpg",
+  "sdx": "ris_215",
+  "corr": 0.9812464118003845,
+  "mae": 1.65643310546875
+ },
+ {
+  "xsdd": "red iron/2216.jpg",
+  "sdx": "ris_216",
+  "corr": 0.9924459457397461,
+  "mae": 1.70770263671875
+ },
+ {
+  "xsdd": "red iron/2217.jpg",
+  "sdx": "ris_217",
+  "corr": 0.9871909618377686,
+  "mae": 1.85345458984375
+ },
+ {
+  "xsdd": "red iron/2218.jpg",
+  "sdx": "ris_218",
+  "corr": 0.9981493353843689,
+  "mae": 1.970458984375
+ },
+ {
+  "xsdd": "red iron/2219.jpg",
+  "sdx": "ris_219",
+  "corr": 0.9980508089065552,
+  "mae": 1.69879150390625
+ },
+ {
+  "xsdd": "red iron/2220.jpg",
+  "sdx": "ris_220",
+  "corr": 0.9857754707336426,
+  "mae": 1.642578125
+ },
+ {
+  "xsdd": "red iron/2221.jpg",
+  "sdx": "ris_221",
+  "corr": 0.9998321533203125,
+  "mae": 1.320556640625
+ },
+ {
+  "xsdd": "red iron/2222.jpg",
+  "sdx": "ris_222",
+  "corr": 0.9998306035995483,
+  "mae": 1.340576171875
+ },
+ {
+  "xsdd": "red iron/2223.jpg",
+  "sdx": "ris_223",
+  "corr": 0.9992858171463013,
+  "mae": 1.528076171875
+ },
+ {
+  "xsdd": "red iron/2224.jpg",
+  "sdx": "ris_224",
+  "corr": 0.999579668045044,
+  "mae": 1.68157958984375
+ },
+ {
+  "xsdd": "red iron/2225.jpg",
+  "sdx": "ris_225",
+  "corr": 0.9992735385894775,
+  "mae": 1.67645263671875
+ },
+ {
+  "xsdd": "red iron/2226.jpg",
+  "sdx": "ris_226",
+  "corr": 0.9994399547576904,
+  "mae": 2.09613037109375
+ },
+ {
+  "xsdd": "red iron/2227.jpg",
+  "sdx": "ris_227",
+  "corr": 0.9996296167373657,
+  "mae": 2.0081787109375
+ },
+ {
+  "xsdd": "red iron/2228.jpg",
+  "sdx": "ris_228",
+  "corr": 0.9995439052581787,
+  "mae": 1.91162109375
+ },
+ {
+  "xsdd": "red iron/2229.jpg",
+  "sdx": "ris_229",
+  "corr": 0.999579906463623,
+  "mae": 1.85760498046875
+ },
+ {
+  "xsdd": "red iron/2230.jpg",
+  "sdx": "ris_230",
+  "corr": 0.9996895790100098,
+  "mae": 1.6578369140625
+ },
+ {
+  "xsdd": "red iron/2231.jpg",
+  "sdx": "ris_231",
+  "corr": 0.9996601939201355,
+  "mae": 1.5599365234375
+ },
+ {
+  "xsdd": "red iron/2232.jpg",
+  "sdx": "ris_232",
+  "corr": 0.9997081160545349,
+  "mae": 1.60797119140625
+ },
+ {
+  "xsdd": "red iron/2233.jpg",
+  "sdx": "ris_233",
+  "corr": 0.9996721744537354,
+  "mae": 1.65594482421875
+ },
+ {
+  "xsdd": "red iron/2234.jpg",
+  "sdx": "ris_234",
+  "corr": 0.9998307824134827,
+  "mae": 1.5296630859375
+ },
+ {
+  "xsdd": "red iron/2235.jpg",
+  "sdx": "ris_235",
+  "corr": 0.999783992767334,
+  "mae": 1.756591796875
+ },
+ {
+  "xsdd": "red iron/2236.jpg",
+  "sdx": "ris_236",
+  "corr": 0.9996925592422485,
+  "mae": 1.84539794921875
+ },
+ {
+  "xsdd": "red iron/2237.jpg",
+  "sdx": "ris_237",
+  "corr": 0.9997396469116211,
+  "mae": 1.56182861328125
+ },
+ {
+  "xsdd": "red iron/2238.jpg",
+  "sdx": "ris_238",
+  "corr": 0.9998090267181396,
+  "mae": 1.49420166015625
+ },
+ {
+  "xsdd": "red iron/2239.jpg",
+  "sdx": "ris_239",
+  "corr": 0.9998353719711304,
+  "mae": 1.49505615234375
+ },
+ {
+  "xsdd": "red iron/2240.jpg",
+  "sdx": "ris_240",
+  "corr": 0.9997827410697937,
+  "mae": 1.75897216796875
+ },
+ {
+  "xsdd": "red iron/2241.jpg",
+  "sdx": "ris_241",
+  "corr": 0.9996439814567566,
+  "mae": 1.7205810546875
+ },
+ {
+  "xsdd": "red iron/2242.jpg",
+  "sdx": "ris_242",
+  "corr": 0.9997529983520508,
+  "mae": 1.5504150390625
+ },
+ {
+  "xsdd": "red iron/2243.jpg",
+  "sdx": "ris_243",
+  "corr": 0.9998166561126709,
+  "mae": 1.48956298828125
+ },
+ {
+  "xsdd": "red iron/2244.jpg",
+  "sdx": "ris_244",
+  "corr": 0.9998133182525635,
+  "mae": 1.48291015625
+ },
+ {
+  "xsdd": "red iron/2245.jpg",
+  "sdx": "ris_245",
+  "corr": 0.999763011932373,
+  "mae": 1.7447509765625
+ },
+ {
+  "xsdd": "red iron/2246.jpg",
+  "sdx": "ris_246",
+  "corr": 0.9997532367706299,
+  "mae": 1.75335693359375
+ },
+ {
+  "xsdd": "red iron/2247.jpg",
+  "sdx": "ris_247",
+  "corr": 0.9997435808181763,
+  "mae": 1.5218505859375
+ },
+ {
+  "xsdd": "red iron/2248.jpg",
+  "sdx": "ris_248",
+  "corr": 0.999787449836731,
+  "mae": 1.60089111328125
+ },
+ {
+  "xsdd": "red iron/2249.jpg",
+  "sdx": "ris_249",
+  "corr": 0.9998669624328613,
+  "mae": 1.42376708984375
+ },
+ {
+  "xsdd": "red iron/2250.jpg",
+  "sdx": "ris_250",
+  "corr": 0.9998617172241211,
+  "mae": 1.69281005859375
+ },
+ {
+  "xsdd": "red iron/2251.jpg",
+  "sdx": "ris_251",
+  "corr": 0.9997239708900452,
+  "mae": 1.79058837890625
+ },
+ {
+  "xsdd": "red iron/2252.jpg",
+  "sdx": "ris_252",
+  "corr": 0.9935422539710999,
+  "mae": 1.78094482421875
+ },
+ {
+  "xsdd": "red iron/2253.jpg",
+  "sdx": "ris_253",
+  "corr": 0.9967997670173645,
+  "mae": 1.60430908203125
+ },
+ {
+  "xsdd": "red iron/2254.jpg",
+  "sdx": "ris_254",
+  "corr": 0.9863706827163696,
+  "mae": 1.47039794921875
+ },
+ {
+  "xsdd": "red iron/2255.jpg",
+  "sdx": "ris_255",
+  "corr": 0.9997653961181641,
+  "mae": 1.4959716796875
+ },
+ {
+  "xsdd": "red iron/2256.jpg",
+  "sdx": "ris_256",
+  "corr": 0.9997666478157043,
+  "mae": 1.471923828125
+ },
+ {
+  "xsdd": "red iron/2257.jpg",
+  "sdx": "ris_257",
+  "corr": 0.9998461008071899,
+  "mae": 1.5274658203125
+ },
+ {
+  "xsdd": "red iron/2258.jpg",
+  "sdx": "ris_258",
+  "corr": 0.9998221397399902,
+  "mae": 1.7708740234375
+ },
+ {
+  "xsdd": "red iron/2259.jpg",
+  "sdx": "ris_259",
+  "corr": 0.9996874332427979,
+  "mae": 1.7525634765625
+ },
+ {
+  "xsdd": "red iron/2260.jpg",
+  "sdx": "ris_260",
+  "corr": 0.9996901750564575,
+  "mae": 1.59173583984375
+ },
+ {
+  "xsdd": "red iron/2261.jpg",
+  "sdx": "ris_261",
+  "corr": 0.9998337030410767,
+  "mae": 1.47747802734375
+ },
+ {
+  "xsdd": "red iron/2262.jpg",
+  "sdx": "ris_262",
+  "corr": 0.9998198747634888,
+  "mae": 1.55926513671875
+ },
+ {
+  "xsdd": "red iron/2263.jpg",
+  "sdx": "ris_263",
+  "corr": 0.9997341632843018,
+  "mae": 1.7806396484375
+ },
+ {
+  "xsdd": "red iron/2264.jpg",
+  "sdx": "ris_264",
+  "corr": 0.9996448755264282,
+  "mae": 1.80572509765625
+ },
+ {
+  "xsdd": "red iron/2265.jpg",
+  "sdx": "ris_265",
+  "corr": 0.9996935129165649,
+  "mae": 1.6363525390625
+ },
+ {
+  "xsdd": "red iron/2266.jpg",
+  "sdx": "ris_266",
+  "corr": 0.9997828602790833,
+  "mae": 1.53973388671875
+ },
+ {
+  "xsdd": "red iron/2267.jpg",
+  "sdx": "ris_267",
+  "corr": 0.9998576641082764,
+  "mae": 1.5108642578125
+ },
+ {
+  "xsdd": "red iron/2268.jpg",
+  "sdx": "ris_268",
+  "corr": 0.9997153282165527,
+  "mae": 1.74554443359375
+ },
+ {
+  "xsdd": "red iron/2269.jpg",
+  "sdx": "ris_269",
+  "corr": 0.9995469450950623,
+  "mae": 1.80047607421875
+ },
+ {
+  "xsdd": "red iron/2270.jpg",
+  "sdx": "ris_270",
+  "corr": 0.9996234178543091,
+  "mae": 1.6082763671875
+ },
+ {
+  "xsdd": "red iron/2271.jpg",
+  "sdx": "ris_271",
+  "corr": 0.9997763633728027,
+  "mae": 1.56201171875
+ },
+ {
+  "xsdd": "red iron/2272.jpg",
+  "sdx": "ris_272",
+  "corr": 0.9998318552970886,
+  "mae": 1.5042724609375
+ },
+ {
+  "xsdd": "red iron/2273.jpg",
+  "sdx": "ris_273",
+  "corr": 0.9997599124908447,
+  "mae": 1.74566650390625
+ },
+ {
+  "xsdd": "red iron/2274.jpg",
+  "sdx": "ris_274",
+  "corr": 0.9993810653686523,
+  "mae": 1.75262451171875
+ },
+ {
+  "xsdd": "red iron/2275.jpg",
+  "sdx": "ris_275",
+  "corr": 0.9941740036010742,
+  "mae": 1.6817626953125
+ },
+ {
+  "xsdd": "red iron/2276.jpg",
+  "sdx": "ris_276",
+  "corr": 0.9929254055023193,
+  "mae": 1.779296875
+ },
+ {
+  "xsdd": "red iron/2277.jpg",
+  "sdx": "ris_277",
+  "corr": 0.9874280691146851,
+  "mae": 1.5069580078125
+ },
+ {
+  "xsdd": "red iron/2278.jpg",
+  "sdx": "ris_278",
+  "corr": 0.9955346584320068,
+  "mae": 1.67742919921875
+ },
+ {
+  "xsdd": "red iron/2279.jpg",
+  "sdx": "ris_279",
+  "corr": 0.9941309690475464,
+  "mae": 1.29150390625
+ },
+ {
+  "xsdd": "red iron/2280.jpg",
+  "sdx": "ris_280",
+  "corr": 0.9870539903640747,
+  "mae": 1.254150390625
+ },
+ {
+  "xsdd": "red iron/2281.jpg",
+  "sdx": "ris_281",
+  "corr": 0.9997499585151672,
+  "mae": 1.504150390625
+ },
+ {
+  "xsdd": "red iron/2282.jpg",
+  "sdx": "ris_282",
+  "corr": 0.999416708946228,
+  "mae": 1.59649658203125
+ },
+ {
+  "xsdd": "red iron/2283.jpg",
+  "sdx": "ris_283",
+  "corr": 0.9994884729385376,
+  "mae": 1.61297607421875
+ },
+ {
+  "xsdd": "red iron/2284.jpg",
+  "sdx": "ris_284",
+  "corr": 0.999431848526001,
+  "mae": 1.706787109375
+ },
+ {
+  "xsdd": "red iron/2285.jpg",
+  "sdx": "ris_285",
+  "corr": 0.9921776056289673,
+  "mae": 1.7440185546875
+ },
+ {
+  "xsdd": "red iron/2286.jpg",
+  "sdx": "ris_286",
+  "corr": 0.9878532886505127,
+  "mae": 1.73663330078125
+ },
+ {
+  "xsdd": "red iron/2287.jpg",
+  "sdx": "ris_287",
+  "corr": 0.9877179861068726,
+  "mae": 1.7318115234375
+ },
+ {
+  "xsdd": "red iron/2288.jpg",
+  "sdx": "ris_288",
+  "corr": 0.9997536540031433,
+  "mae": 1.5352783203125
+ },
+ {
+  "xsdd": "red iron/2289.jpg",
+  "sdx": "ris_289",
+  "corr": 0.9997029304504395,
+  "mae": 1.583251953125
+ },
+ {
+  "xsdd": "red iron/2290.jpg",
+  "sdx": "ris_290",
+  "corr": 0.9998393654823303,
+  "mae": 1.52459716796875
+ },
+ {
+  "xsdd": "red iron/2291.jpg",
+  "sdx": "ris_291",
+  "corr": 0.9994156956672668,
+  "mae": 1.6893310546875
+ },
+ {
+  "xsdd": "red iron/2292.jpg",
+  "sdx": "ris_292",
+  "corr": 0.9997941255569458,
+  "mae": 1.4580078125
+ },
+ {
+  "xsdd": "red iron/2293.jpg",
+  "sdx": "ris_293",
+  "corr": 0.9997104406356812,
+  "mae": 1.56103515625
+ },
+ {
+  "xsdd": "red iron/2294.jpg",
+  "sdx": "ris_294",
+  "corr": 0.9998428821563721,
+  "mae": 1.5338134765625
+ },
+ {
+  "xsdd": "red iron/2295.jpg",
+  "sdx": "ris_295",
+  "corr": 0.9994605779647827,
+  "mae": 1.70452880859375
+ },
+ {
+  "xsdd": "red iron/2296.jpg",
+  "sdx": "ris_296",
+  "corr": 0.9998350739479065,
+  "mae": 1.41729736328125
+ },
+ {
+  "xsdd": "red iron/2297.jpg",
+  "sdx": "ris_297",
+  "corr": 0.9997402429580688,
+  "mae": 1.60052490234375
+ },
+ {
+  "xsdd": "red iron/2298.jpg",
+  "sdx": "ris_298",
+  "corr": 0.9998791813850403,
+  "mae": 1.45843505859375
+ },
+ {
+  "xsdd": "red iron/2299.jpg",
+  "sdx": "ris_299",
+  "corr": 0.9993063807487488,
+  "mae": 1.7249755859375
+ },
+ {
+  "xsdd": "red iron/2300.jpg",
+  "sdx": "ris_300",
+  "corr": 0.9997977614402771,
+  "mae": 1.48236083984375
+ },
+ {
+  "xsdd": "red iron/2301.jpg",
+  "sdx": "ris_301",
+  "corr": 0.9996204972267151,
+  "mae": 1.61444091796875
+ },
+ {
+  "xsdd": "red iron/2302.jpg",
+  "sdx": "ris_302",
+  "corr": 0.99985271692276,
+  "mae": 1.55657958984375
+ },
+ {
+  "xsdd": "red iron/2303.jpg",
+  "sdx": "ris_303",
+  "corr": 0.9884663820266724,
+  "mae": 1.75048828125
+ },
+ {
+  "xsdd": "red iron/2304.jpg",
+  "sdx": "ris_304",
+  "corr": 0.9943882822990417,
+  "mae": 1.79156494140625
+ },
+ {
+  "xsdd": "red iron/2305.jpg",
+  "sdx": "ris_305",
+  "corr": 0.9831568002700806,
+  "mae": 1.79498291015625
+ },
+ {
+  "xsdd": "red iron/2306.jpg",
+  "sdx": "ris_306",
+  "corr": 0.9943819642066956,
+  "mae": 1.638427734375
+ },
+ {
+  "xsdd": "red iron/2307.jpg",
+  "sdx": "ris_307",
+  "corr": 0.9965713024139404,
+  "mae": 1.69073486328125
+ },
+ {
+  "xsdd": "red iron/2308.jpg",
+  "sdx": "ris_308",
+  "corr": 0.9843735098838806,
+  "mae": 1.871337890625
+ },
+ {
+  "xsdd": "red iron/2309.jpg",
+  "sdx": "ris_309",
+  "corr": 0.9967342615127563,
+  "mae": 1.9879150390625
+ },
+ {
+  "xsdd": "red iron/2310.jpg",
+  "sdx": "ris_310",
+  "corr": 0.9950509071350098,
+  "mae": 1.82672119140625
+ },
+ {
+  "xsdd": "red iron/2311.jpg",
+  "sdx": "ris_311",
+  "corr": 0.9937005043029785,
+  "mae": 1.8323974609375
+ },
+ {
+  "xsdd": "red iron/2312.jpg",
+  "sdx": "ris_312",
+  "corr": 0.9897898435592651,
+  "mae": 1.70123291015625
+ },
+ {
+  "xsdd": "red iron/2313.jpg",
+  "sdx": "ris_313",
+  "corr": 0.9968607425689697,
+  "mae": 1.794921875
+ },
+ {
+  "xsdd": "red iron/2314.jpg",
+  "sdx": "ris_314",
+  "corr": 0.9909355044364929,
+  "mae": 1.834228515625
+ },
+ {
+  "xsdd": "red iron/2315.jpg",
+  "sdx": "ris_315",
+  "corr": 0.9996280074119568,
+  "mae": 1.62139892578125
+ },
+ {
+  "xsdd": "red iron/2316.jpg",
+  "sdx": "ris_316",
+  "corr": 0.9996768236160278,
+  "mae": 1.65899658203125
+ },
+ {
+  "xsdd": "red iron/2317.jpg",
+  "sdx": "ris_317",
+  "corr": 0.9996054172515869,
+  "mae": 1.6358642578125
+ },
+ {
+  "xsdd": "red iron/2318.jpg",
+  "sdx": "ris_318",
+  "corr": 0.9995537996292114,
+  "mae": 1.6331787109375
+ },
+ {
+  "xsdd": "red iron/2319.jpg",
+  "sdx": "ris_319",
+  "corr": 0.9931372404098511,
+  "mae": 1.2457275390625
+ },
+ {
+  "xsdd": "red iron/2320.jpg",
+  "sdx": "ris_320",
+  "corr": 0.9894547462463379,
+  "mae": 1.2513427734375
+ },
+ {
+  "xsdd": "red iron/2321.jpg",
+  "sdx": "ris_321",
+  "corr": 0.9922376275062561,
+  "mae": 1.2183837890625
+ },
+ {
+  "xsdd": "red iron/2322.jpg",
+  "sdx": "ris_322",
+  "corr": 0.9996891021728516,
+  "mae": 1.6514892578125
+ },
+ {
+  "xsdd": "red iron/2323.jpg",
+  "sdx": "ris_323",
+  "corr": 0.9997020363807678,
+  "mae": 1.65399169921875
+ },
+ {
+  "xsdd": "red iron/2324.jpg",
+  "sdx": "ris_324",
+  "corr": 0.9998263120651245,
+  "mae": 1.6165771484375
+ },
+ {
+  "xsdd": "red iron/2325.jpg",
+  "sdx": "ris_325",
+  "corr": 0.9997057914733887,
+  "mae": 1.77398681640625
+ },
+ {
+  "xsdd": "red iron/2326.jpg",
+  "sdx": "ris_326",
+  "corr": 0.9995324611663818,
+  "mae": 1.68499755859375
+ },
+ {
+  "xsdd": "red iron/2327.jpg",
+  "sdx": "ris_327",
+  "corr": 0.9993776082992554,
+  "mae": 1.62115478515625
+ },
+ {
+  "xsdd": "red iron/2328.jpg",
+  "sdx": "ris_328",
+  "corr": 0.999431848526001,
+  "mae": 1.6124267578125
+ },
+ {
+  "xsdd": "red iron/2329.jpg",
+  "sdx": "ris_329",
+  "corr": 0.999885082244873,
+  "mae": 1.48345947265625
+ },
+ {
+  "xsdd": "red iron/2330.jpg",
+  "sdx": "ris_330",
+  "corr": 0.9993667006492615,
+  "mae": 1.64044189453125
+ },
+ {
+  "xsdd": "red iron/2331.jpg",
+  "sdx": "ris_331",
+  "corr": 0.9997971057891846,
+  "mae": 1.6175537109375
+ },
+ {
+  "xsdd": "red iron/2332.jpg",
+  "sdx": "ris_332",
+  "corr": 0.9998388886451721,
+  "mae": 1.6170654296875
+ },
+ {
+  "xsdd": "red iron/2333.jpg",
+  "sdx": "ris_333",
+  "corr": 0.9994815587997437,
+  "mae": 1.7711181640625
+ },
+ {
+  "xsdd": "red iron/2334.jpg",
+  "sdx": "ris_334",
+  "corr": 0.9997371435165405,
+  "mae": 1.32843017578125
+ },
+ {
+  "xsdd": "red iron/2335.jpg",
+  "sdx": "ris_335",
+  "corr": 0.9997454881668091,
+  "mae": 1.3875732421875
+ },
+ {
+  "xsdd": "red iron/2336.jpg",
+  "sdx": "ris_336",
+  "corr": 0.9995359182357788,
+  "mae": 1.5196533203125
+ },
+ {
+  "xsdd": "red iron/2337.jpg",
+  "sdx": "ris_337",
+  "corr": 0.9992976784706116,
+  "mae": 1.566650390625
+ },
+ {
+  "xsdd": "red iron/2338.jpg",
+  "sdx": "ris_338",
+  "corr": 0.9995299577713013,
+  "mae": 1.665283203125
+ },
+ {
+  "xsdd": "red iron/2339.jpg",
+  "sdx": "ris_339",
+  "corr": 0.99789959192276,
+  "mae": 1.6455078125
+ },
+ {
+  "xsdd": "red iron/2340.jpg",
+  "sdx": "ris_340",
+  "corr": 0.99695885181427,
+  "mae": 1.75701904296875
+ },
+ {
+  "xsdd": "red iron/2341.jpg",
+  "sdx": "ris_341",
+  "corr": 0.9897691607475281,
+  "mae": 1.69598388671875
+ },
+ {
+  "xsdd": "red iron/2342.jpg",
+  "sdx": "ris_342",
+  "corr": 0.997424304485321,
+  "mae": 1.60357666015625
+ },
+ {
+  "xsdd": "red iron/2343.jpg",
+  "sdx": "ris_343",
+  "corr": 0.9909020662307739,
+  "mae": 1.65167236328125
+ },
+ {
+  "xsdd": "red iron/2344.jpg",
+  "sdx": "ris_344",
+  "corr": 0.9998054504394531,
+  "mae": 1.2252197265625
+ },
+ {
+  "xsdd": "red iron/2345.jpg",
+  "sdx": "ris_345",
+  "corr": 0.9997492432594299,
+  "mae": 1.30767822265625
+ },
+ {
+  "xsdd": "red iron/2346.jpg",
+  "sdx": "ris_346",
+  "corr": 0.9995353817939758,
+  "mae": 1.54730224609375
+ },
+ {
+  "xsdd": "red iron/2347.jpg",
+  "sdx": "ris_347",
+  "corr": 0.9994882941246033,
+  "mae": 1.5555419921875
+ },
+ {
+  "xsdd": "red iron/2348.jpg",
+  "sdx": "ris_348",
+  "corr": 0.9996440410614014,
+  "mae": 1.70684814453125
+ },
+ {
+  "xsdd": "red iron/2349.jpg",
+  "sdx": "ris_349",
+  "corr": 0.9997172951698303,
+  "mae": 1.52362060546875
+ },
+ {
+  "xsdd": "red iron/2350.jpg",
+  "sdx": "ris_350",
+  "corr": 0.9987130165100098,
+  "mae": 1.65093994140625
+ },
+ {
+  "xsdd": "red iron/2351.jpg",
+  "sdx": "ris_351",
+  "corr": 0.9957660436630249,
+  "mae": 1.6947021484375
+ },
+ {
+  "xsdd": "red iron/2352.jpg",
+  "sdx": "ris_352",
+  "corr": 0.9963395595550537,
+  "mae": 1.703369140625
+ },
+ {
+  "xsdd": "red iron/2353.jpg",
+  "sdx": "ris_353",
+  "corr": 0.9997121095657349,
+  "mae": 1.757568359375
+ },
+ {
+  "xsdd": "red iron/2354.jpg",
+  "sdx": "ris_354",
+  "corr": 0.9997789859771729,
+  "mae": 1.7586669921875
+ },
+ {
+  "xsdd": "red iron/2355.jpg",
+  "sdx": "ris_355",
+  "corr": 0.9998095035552979,
+  "mae": 1.544921875
+ },
+ {
+  "xsdd": "red iron/2356.jpg",
+  "sdx": "ris_356",
+  "corr": 0.9997807145118713,
+  "mae": 1.550537109375
+ },
+ {
+  "xsdd": "red iron/2357.jpg",
+  "sdx": "ris_357",
+  "corr": 0.9996480941772461,
+  "mae": 1.78826904296875
+ },
+ {
+  "xsdd": "red iron/2358.jpg",
+  "sdx": "ris_358",
+  "corr": 0.9996497631072998,
+  "mae": 1.88232421875
+ },
+ {
+  "xsdd": "red iron/2359.jpg",
+  "sdx": "ris_359",
+  "corr": 0.9993366003036499,
+  "mae": 1.8382568359375
+ },
+ {
+  "xsdd": "red iron/2360.jpg",
+  "sdx": "ris_360",
+  "corr": 0.999543309211731,
+  "mae": 1.737060546875
+ },
+ {
+  "xsdd": "red iron/2361.jpg",
+  "sdx": "ris_361",
+  "corr": 0.9997624754905701,
+  "mae": 1.52105712890625
+ },
+ {
+  "xsdd": "red iron/2362.jpg",
+  "sdx": "ris_362",
+  "corr": 0.9998068809509277,
+  "mae": 1.30462646484375
+ },
+ {
+  "xsdd": "red iron/2363.jpg",
+  "sdx": "ris_363",
+  "corr": 0.9996525645256042,
+  "mae": 1.80633544921875
+ },
+ {
+  "xsdd": "red iron/2364.jpg",
+  "sdx": "ris_364",
+  "corr": 0.9995879530906677,
+  "mae": 1.823974609375
+ },
+ {
+  "xsdd": "red iron/2365.jpg",
+  "sdx": "ris_365",
+  "corr": 0.9993288516998291,
+  "mae": 1.82763671875
+ },
+ {
+  "xsdd": "red iron/2366.jpg",
+  "sdx": "ris_366",
+  "corr": 0.9995636940002441,
+  "mae": 1.7578125
+ },
+ {
+  "xsdd": "red iron/2367.jpg",
+  "sdx": "ris_367",
+  "corr": 0.9997929334640503,
+  "mae": 1.53973388671875
+ },
+ {
+  "xsdd": "red iron/2368.jpg",
+  "sdx": "ris_368",
+  "corr": 0.9997930526733398,
+  "mae": 1.5003662109375
+ },
+ {
+  "xsdd": "red iron/2369.jpg",
+  "sdx": "ris_369",
+  "corr": 0.999483585357666,
+  "mae": 1.76470947265625
+ },
+ {
+  "xsdd": "red iron/2370.jpg",
+  "sdx": "ris_370",
+  "corr": 0.9996142387390137,
+  "mae": 1.89447021484375
+ },
+ {
+  "xsdd": "red iron/2371.jpg",
+  "sdx": "ris_371",
+  "corr": 0.9996428489685059,
+  "mae": 1.7177734375
+ },
+ {
+  "xsdd": "red iron/2372.jpg",
+  "sdx": "ris_372",
+  "corr": 0.9993964433670044,
+  "mae": 1.75030517578125
+ },
+ {
+  "xsdd": "red iron/2373.jpg",
+  "sdx": "ris_373",
+  "corr": 0.9997817277908325,
+  "mae": 1.54876708984375
+ },
+ {
+  "xsdd": "red iron/2374.jpg",
+  "sdx": "ris_374",
+  "corr": 0.9997659921646118,
+  "mae": 1.412109375
+ },
+ {
+  "xsdd": "red iron/2375.jpg",
+  "sdx": "ris_375",
+  "corr": 0.9995006322860718,
+  "mae": 1.77911376953125
+ },
+ {
+  "xsdd": "red iron/2376.jpg",
+  "sdx": "ris_376",
+  "corr": 0.9995454549789429,
+  "mae": 1.927978515625
+ },
+ {
+  "xsdd": "red iron/2377.jpg",
+  "sdx": "ris_377",
+  "corr": 0.9993775486946106,
+  "mae": 1.716552734375
+ },
+ {
+  "xsdd": "red iron/2378.jpg",
+  "sdx": "ris_378",
+  "corr": 0.9993294477462769,
+  "mae": 1.71343994140625
+ },
+ {
+  "xsdd": "red iron/2379.jpg",
+  "sdx": "ris_379",
+  "corr": 0.9997518062591553,
+  "mae": 1.54010009765625
+ },
+ {
+  "xsdd": "red iron/2380.jpg",
+  "sdx": "ris_380",
+  "corr": 0.9998217225074768,
+  "mae": 1.404541015625
+ },
+ {
+  "xsdd": "red iron/2381.jpg",
+  "sdx": "ris_381",
+  "corr": 0.9994834661483765,
+  "mae": 1.79547119140625
+ },
+ {
+  "xsdd": "red iron/2382.jpg",
+  "sdx": "ris_382",
+  "corr": 0.9995886087417603,
+  "mae": 1.89727783203125
+ },
+ {
+  "xsdd": "red iron/2383.jpg",
+  "sdx": "ris_383",
+  "corr": 0.9994340538978577,
+  "mae": 1.73681640625
+ },
+ {
+  "xsdd": "red iron/2384.jpg",
+  "sdx": "ris_384",
+  "corr": 0.999522864818573,
+  "mae": 1.73797607421875
+ },
+ {
+  "xsdd": "red iron/2385.jpg",
+  "sdx": "ris_385",
+  "corr": 0.9998088479042053,
+  "mae": 1.49884033203125
+ },
+ {
+  "xsdd": "red iron/2386.jpg",
+  "sdx": "ris_386",
+  "corr": 0.9998162984848022,
+  "mae": 1.3797607421875
+ },
+ {
+  "xsdd": "red iron/2387.jpg",
+  "sdx": "ris_387",
+  "corr": 0.9998239278793335,
+  "mae": 1.4808349609375
+ },
+ {
+  "xsdd": "red iron/2388.jpg",
+  "sdx": "ris_388",
+  "corr": 0.9995167851448059,
+  "mae": 1.620849609375
+ },
+ {
+  "xsdd": "red iron/2389.jpg",
+  "sdx": "ris_389",
+  "corr": 0.9997915625572205,
+  "mae": 1.69091796875
+ },
+ {
+  "xsdd": "red iron/2390.jpg",
+  "sdx": "ris_390",
+  "corr": 0.9996356964111328,
+  "mae": 1.84149169921875
+ },
+ {
+  "xsdd": "red iron/2391.jpg",
+  "sdx": "ris_391",
+  "corr": 0.9997203350067139,
+  "mae": 1.92596435546875
+ },
+ {
+  "xsdd": "red iron/2392.jpg",
+  "sdx": "ris_392",
+  "corr": 0.9995818734169006,
+  "mae": 1.95074462890625
+ },
+ {
+  "xsdd": "red iron/2393.jpg",
+  "sdx": "ris_393",
+  "corr": 0.9853693246841431,
+  "mae": 1.17645263671875
+ },
+ {
+  "xsdd": "red iron/2394.jpg",
+  "sdx": "ris_394",
+  "corr": 0.9970407485961914,
+  "mae": 1.23016357421875
+ },
+ {
+  "xsdd": "red iron/2395.jpg",
+  "sdx": "ris_395",
+  "corr": 0.9913474321365356,
+  "mae": 1.22442626953125
+ },
+ {
+  "xsdd": "red iron/2396.jpg",
+  "sdx": "ris_396",
+  "corr": 0.9908121228218079,
+  "mae": 1.2032470703125
+ },
+ {
+  "xsdd": "red iron/2397.jpg",
+  "sdx": "ris_397",
+  "corr": 0.9879449605941772,
+  "mae": 1.23486328125
+ },
+ {
+  "xsdd": "slag inclusion/1001.jpg",
+  "sdx": "si_01",
+  "corr": 0.9996723532676697,
+  "mae": 1.8475341796875
+ },
+ {
+  "xsdd": "slag inclusion/1002.jpg",
+  "sdx": "si_02",
+  "corr": 0.9998407363891602,
+  "mae": 1.57342529296875
+ },
+ {
+  "xsdd": "slag inclusion/1003.jpg",
+  "sdx": "si_03",
+  "corr": 0.9998793601989746,
+  "mae": 2.0513916015625
+ },
+ {
+  "xsdd": "slag inclusion/1004.jpg",
+  "sdx": "si_04",
+  "corr": 0.9989611506462097,
+  "mae": 1.50384521484375
+ },
+ {
+  "xsdd": "slag inclusion/1005.jpg",
+  "sdx": "si_05",
+  "corr": 0.9974155426025391,
+  "mae": 1.47552490234375
+ },
+ {
+  "xsdd": "slag inclusion/1006.jpg",
+  "sdx": "si_06",
+  "corr": 0.9999202489852905,
+  "mae": 2.1055908203125
+ },
+ {
+  "xsdd": "slag inclusion/1007.jpg",
+  "sdx": "si_07",
+  "corr": 0.9988795518875122,
+  "mae": 1.47509765625
+ },
+ {
+  "xsdd": "slag inclusion/1008.jpg",
+  "sdx": "si_08",
+  "corr": 0.9998019337654114,
+  "mae": 1.79803466796875
+ },
+ {
+  "xsdd": "slag inclusion/1009.jpg",
+  "sdx": "si_09",
+  "corr": 0.9979583621025085,
+  "mae": 1.3995361328125
+ },
+ {
+  "xsdd": "slag inclusion/1010.jpg",
+  "sdx": "si_10",
+  "corr": 0.9979692101478577,
+  "mae": 1.23626708984375
+ },
+ {
+  "xsdd": "slag inclusion/1011.jpg",
+  "sdx": "si_11",
+  "corr": 0.9996030926704407,
+  "mae": 1.3692626953125
+ },
+ {
+  "xsdd": "slag inclusion/1012.jpg",
+  "sdx": "si_12",
+  "corr": 0.9997798204421997,
+  "mae": 1.90972900390625
+ },
+ {
+  "xsdd": "slag inclusion/1013.jpg",
+  "sdx": "si_13",
+  "corr": 0.9993551969528198,
+  "mae": 1.20281982421875
+ },
+ {
+  "xsdd": "slag inclusion/1014.jpg",
+  "sdx": "si_14",
+  "corr": 0.9991748332977295,
+  "mae": 1.28509521484375
+ },
+ {
+  "xsdd": "slag inclusion/1015.jpg",
+  "sdx": "si_15",
+  "corr": 0.9998536109924316,
+  "mae": 2.826171875
+ },
+ {
+  "xsdd": "slag inclusion/1016.jpg",
+  "sdx": "si_16",
+  "corr": 0.9996954798698425,
+  "mae": 1.5296630859375
+ },
+ {
+  "xsdd": "slag inclusion/1017.jpg",
+  "sdx": "si_17",
+  "corr": 0.999080240726471,
+  "mae": 1.609375
+ },
+ {
+  "xsdd": "slag inclusion/1018.jpg",
+  "sdx": "si_18",
+  "corr": 0.9988404512405396,
+  "mae": 1.23101806640625
+ },
+ {
+  "xsdd": "slag inclusion/1019.jpg",
+  "sdx": "si_19",
+  "corr": 0.9968247413635254,
+  "mae": 1.0706787109375
+ },
+ {
+  "xsdd": "slag inclusion/1020.jpg",
+  "sdx": "si_20",
+  "corr": 0.9997622966766357,
+  "mae": 1.74774169921875
+ },
+ {
+  "xsdd": "slag inclusion/1021.jpg",
+  "sdx": "si_21",
+  "corr": 0.9988319277763367,
+  "mae": 1.35693359375
+ },
+ {
+  "xsdd": "slag inclusion/1022.jpg",
+  "sdx": "si_22",
+  "corr": 0.9998760223388672,
+  "mae": 1.72064208984375
+ },
+ {
+  "xsdd": "slag inclusion/1023.jpg",
+  "sdx": "si_23",
+  "corr": 0.9998317956924438,
+  "mae": 1.74884033203125
+ },
+ {
+  "xsdd": "slag inclusion/1024.jpg",
+  "sdx": "si_24",
+  "corr": 0.9997554421424866,
+  "mae": 1.79998779296875
+ },
+ {
+  "xsdd": "slag inclusion/1025.jpg",
+  "sdx": "si_25",
+  "corr": 0.9998228549957275,
+  "mae": 1.739013671875
+ },
+ {
+  "xsdd": "slag inclusion/1026.jpg",
+  "sdx": "si_26",
+  "corr": 0.997370719909668,
+  "mae": 1.193603515625
+ },
+ {
+  "xsdd": "slag inclusion/1027.jpg",
+  "sdx": "si_27",
+  "corr": 0.9988823533058167,
+  "mae": 1.2490234375
+ },
+ {
+  "xsdd": "slag inclusion/1028.jpg",
+  "sdx": "si_28",
+  "corr": 0.9972693920135498,
+  "mae": 1.37347412109375
+ },
+ {
+  "xsdd": "slag inclusion/1029.jpg",
+  "sdx": "si_29",
+  "corr": 0.9998215436935425,
+  "mae": 1.24273681640625
+ },
+ {
+  "xsdd": "slag inclusion/1030.jpg",
+  "sdx": "si_30",
+  "corr": 0.9988267421722412,
+  "mae": 1.21087646484375
+ },
+ {
+  "xsdd": "slag inclusion/1031.jpg",
+  "sdx": "si_31",
+  "corr": 0.9974756240844727,
+  "mae": 1.2684326171875
+ },
+ {
+  "xsdd": "slag inclusion/1032.jpg",
+  "sdx": "si_32",
+  "corr": 0.9981040954589844,
+  "mae": 1.28399658203125
+ },
+ {
+  "xsdd": "slag inclusion/1033.jpg",
+  "sdx": "si_33",
+  "corr": 0.9994385242462158,
+  "mae": 1.65435791015625
+ },
+ {
+  "xsdd": "slag inclusion/1034.jpg",
+  "sdx": "si_34",
+  "corr": 0.9976007342338562,
+  "mae": 1.19964599609375
+ },
+ {
+  "xsdd": "slag inclusion/1035.jpg",
+  "sdx": "si_35",
+  "corr": 0.9988105297088623,
+  "mae": 1.2730712890625
+ },
+ {
+  "xsdd": "slag inclusion/1036.jpg",
+  "sdx": "si_36",
+  "corr": 0.999830424785614,
+  "mae": 2.1517333984375
+ },
+ {
+  "xsdd": "slag inclusion/1037.jpg",
+  "sdx": "si_37",
+  "corr": 0.999829888343811,
+  "mae": 1.9114990234375
+ },
+ {
+  "xsdd": "slag inclusion/1038.jpg",
+  "sdx": "si_38",
+  "corr": 0.997491180896759,
+  "mae": 1.29388427734375
+ },
+ {
+  "xsdd": "slag inclusion/1039.jpg",
+  "sdx": "si_39",
+  "corr": 0.999789297580719,
+  "mae": 1.872314453125
+ },
+ {
+  "xsdd": "slag inclusion/1040.jpg",
+  "sdx": "si_40",
+  "corr": 0.9997835159301758,
+  "mae": 1.8162841796875
+ },
+ {
+  "xsdd": "slag inclusion/1041.jpg",
+  "sdx": "si_41",
+  "corr": 0.9972547888755798,
+  "mae": 1.09442138671875
+ },
+ {
+  "xsdd": "slag inclusion/1042.jpg",
+  "sdx": "si_42",
+  "corr": 0.9998172521591187,
+  "mae": 1.25299072265625
+ },
+ {
+  "xsdd": "slag inclusion/1043.jpg",
+  "sdx": "si_43",
+  "corr": 0.9995368719100952,
+  "mae": 1.56793212890625
+ },
+ {
+  "xsdd": "slag inclusion/1044.jpg",
+  "sdx": "si_44",
+  "corr": 0.9995736479759216,
+  "mae": 1.70123291015625
+ },
+ {
+  "xsdd": "slag inclusion/1045.jpg",
+  "sdx": "si_45",
+  "corr": 0.9991088509559631,
+  "mae": 1.3704833984375
+ },
+ {
+  "xsdd": "slag inclusion/1046.jpg",
+  "sdx": "si_46",
+  "corr": 0.9992340803146362,
+  "mae": 1.803955078125
+ },
+ {
+  "xsdd": "slag inclusion/1047.jpg",
+  "sdx": "si_47",
+  "corr": 0.9994293451309204,
+  "mae": 1.12939453125
+ },
+ {
+  "xsdd": "slag inclusion/1048.jpg",
+  "sdx": "si_48",
+  "corr": 0.9992396831512451,
+  "mae": 1.826416015625
+ },
+ {
+  "xsdd": "slag inclusion/1049.jpg",
+  "sdx": "si_49",
+  "corr": 0.9968855381011963,
+  "mae": 1.19488525390625
+ },
+ {
+  "xsdd": "slag inclusion/1050.jpg",
+  "sdx": "si_50",
+  "corr": 0.9996456503868103,
+  "mae": 1.41778564453125
+ },
+ {
+  "xsdd": "slag inclusion/1051.jpg",
+  "sdx": "si_51",
+  "corr": 0.9980717897415161,
+  "mae": 1.20184326171875
+ },
+ {
+  "xsdd": "slag inclusion/1052.jpg",
+  "sdx": "si_52",
+  "corr": 0.999808669090271,
+  "mae": 1.44183349609375
+ },
+ {
+  "xsdd": "slag inclusion/1053.jpg",
+  "sdx": "si_53",
+  "corr": 0.9982732534408569,
+  "mae": 1.29302978515625
+ },
+ {
+  "xsdd": "slag inclusion/1054.jpg",
+  "sdx": "si_54",
+  "corr": 0.9961885213851929,
+  "mae": 1.228759765625
+ },
+ {
+  "xsdd": "slag inclusion/1055.jpg",
+  "sdx": "si_55",
+  "corr": 0.9999197721481323,
+  "mae": 1.86724853515625
+ },
+ {
+  "xsdd": "slag inclusion/1056.jpg",
+  "sdx": "si_56",
+  "corr": 0.9975309371948242,
+  "mae": 1.06585693359375
+ },
+ {
+  "xsdd": "slag inclusion/1057.jpg",
+  "sdx": "si_57",
+  "corr": 0.9996525049209595,
+  "mae": 1.66094970703125
+ },
+ {
+  "xsdd": "slag inclusion/1058.jpg",
+  "sdx": "si_58",
+  "corr": 0.9978616237640381,
+  "mae": 1.1531982421875
+ },
+ {
+  "xsdd": "slag inclusion/1059.jpg",
+  "sdx": "si_59",
+  "corr": 0.9995869994163513,
+  "mae": 1.45355224609375
+ },
+ {
+  "xsdd": "slag inclusion/1060.jpg",
+  "sdx": "si_60",
+  "corr": 0.9977432489395142,
+  "mae": 1.39739990234375
+ },
+ {
+  "xsdd": "slag inclusion/1061.jpg",
+  "sdx": "si_61",
+  "corr": 0.9996904134750366,
+  "mae": 1.2861328125
+ },
+ {
+  "xsdd": "slag inclusion/1062.jpg",
+  "sdx": "si_62",
+  "corr": 0.9993470311164856,
+  "mae": 1.51513671875
+ },
+ {
+  "xsdd": "slag inclusion/1063.jpg",
+  "sdx": "si_63",
+  "corr": 0.9996612071990967,
+  "mae": 1.281494140625
+ },
+ {
+  "xsdd": "slag inclusion/1064.jpg",
+  "sdx": "si_64",
+  "corr": 0.9993865489959717,
+  "mae": 1.49066162109375
+ },
+ {
+  "xsdd": "slag inclusion/1065.jpg",
+  "sdx": "si_65",
+  "corr": 0.9997668862342834,
+  "mae": 1.24224853515625
+ },
+ {
+  "xsdd": "slag inclusion/1066.jpg",
+  "sdx": "si_66",
+  "corr": 0.9993398189544678,
+  "mae": 1.4918212890625
+ },
+ {
+  "xsdd": "slag inclusion/1067.jpg",
+  "sdx": "si_67",
+  "corr": 0.9993585348129272,
+  "mae": 1.73370361328125
+ },
+ {
+  "xsdd": "slag inclusion/1068.jpg",
+  "sdx": "si_68",
+  "corr": 0.9997990727424622,
+  "mae": 1.31915283203125
+ },
+ {
+  "xsdd": "slag inclusion/1069.jpg",
+  "sdx": "si_69",
+  "corr": 0.9985637664794922,
+  "mae": 1.23162841796875
+ },
+ {
+  "xsdd": "slag inclusion/1070.jpg",
+  "sdx": "si_70",
+  "corr": 0.9998427629470825,
+  "mae": 1.31201171875
+ },
+ {
+  "xsdd": "slag inclusion/1071.jpg",
+  "sdx": "si_71",
+  "corr": 0.9981251955032349,
+  "mae": 2.13592529296875
+ },
+ {
+  "xsdd": "slag inclusion/1072.jpg",
+  "sdx": "si_72",
+  "corr": 0.9987500309944153,
+  "mae": 1.09832763671875
+ },
+ {
+  "xsdd": "slag inclusion/1073.jpg",
+  "sdx": "si_73",
+  "corr": 0.9979977607727051,
+  "mae": 2.17205810546875
+ },
+ {
+  "xsdd": "slag inclusion/1074.jpg",
+  "sdx": "si_74",
+  "corr": 0.9984844923019409,
+  "mae": 1.06109619140625
+ },
+ {
+  "xsdd": "slag inclusion/1075.jpg",
+  "sdx": "si_75",
+  "corr": 0.9981529712677002,
+  "mae": 2.2548828125
+ },
+ {
+  "xsdd": "slag inclusion/1076.jpg",
+  "sdx": "si_76",
+  "corr": 0.999177098274231,
+  "mae": 1.37738037109375
+ },
+ {
+  "xsdd": "slag inclusion/1077.jpg",
+  "sdx": "si_77",
+  "corr": 0.9963172078132629,
+  "mae": 1.236572265625
+ },
+ {
+  "xsdd": "slag inclusion/1078.jpg",
+  "sdx": "si_78",
+  "corr": 0.9997466802597046,
+  "mae": 1.30023193359375
+ },
+ {
+  "xsdd": "slag inclusion/1079.jpg",
+  "sdx": "si_79",
+  "corr": 0.9995766878128052,
+  "mae": 1.30999755859375
+ },
+ {
+  "xsdd": "slag inclusion/1080.jpg",
+  "sdx": "si_80",
+  "corr": 0.9996992349624634,
+  "mae": 1.6737060546875
+ },
+ {
+  "xsdd": "slag inclusion/1081.jpg",
+  "sdx": "si_81",
+  "corr": 0.9984802007675171,
+  "mae": 1.3775634765625
+ },
+ {
+  "xsdd": "slag inclusion/1082.jpg",
+  "sdx": "si_82",
+  "corr": 0.999657392501831,
+  "mae": 1.72021484375
+ },
+ {
+  "xsdd": "slag inclusion/1083.jpg",
+  "sdx": "si_83",
+  "corr": 0.9997689127922058,
+  "mae": 1.70257568359375
+ },
+ {
+  "xsdd": "slag inclusion/1084.jpg",
+  "sdx": "si_84",
+  "corr": 0.9954501390457153,
+  "mae": 1.1783447265625
+ },
+ {
+  "xsdd": "slag inclusion/1085.jpg",
+  "sdx": "si_85",
+  "corr": 0.9989549517631531,
+  "mae": 1.09765625
+ },
+ {
+  "xsdd": "slag inclusion/1086.jpg",
+  "sdx": "si_86",
+  "corr": 0.9991747140884399,
+  "mae": 1.29034423828125
+ },
+ {
+  "xsdd": "slag inclusion/1087.jpg",
+  "sdx": "si_87",
+  "corr": 0.999691903591156,
+  "mae": 1.67242431640625
+ },
+ {
+  "xsdd": "slag inclusion/1088.jpg",
+  "sdx": "si_88",
+  "corr": 0.9996341466903687,
+  "mae": 2.00665283203125
+ },
+ {
+  "xsdd": "slag inclusion/1089.jpg",
+  "sdx": "si_89",
+  "corr": 0.9998805522918701,
+  "mae": 1.96490478515625
+ },
+ {
+  "xsdd": "slag inclusion/1090.jpg",
+  "sdx": "si_90",
+  "corr": 0.9988961815834045,
+  "mae": 1.22308349609375
+ },
+ {
+  "xsdd": "slag inclusion/1091.jpg",
+  "sdx": "si_91",
+  "corr": 0.9996750354766846,
+  "mae": 1.76287841796875
+ },
+ {
+  "xsdd": "slag inclusion/1092.jpg",
+  "sdx": "si_92",
+  "corr": 0.9953938722610474,
+  "mae": 1.107177734375
+ },
+ {
+  "xsdd": "slag inclusion/1093.jpg",
+  "sdx": "si_93",
+  "corr": 0.9982216358184814,
+  "mae": 1.31488037109375
+ },
+ {
+  "xsdd": "slag inclusion/1094.jpg",
+  "sdx": "si_94",
+  "corr": 0.9975574612617493,
+  "mae": 1.137451171875
+ },
+ {
+  "xsdd": "slag inclusion/1095.jpg",
+  "sdx": "si_95",
+  "corr": 0.9994686245918274,
+  "mae": 1.6190185546875
+ },
+ {
+  "xsdd": "slag inclusion/1096.jpg",
+  "sdx": "si_96",
+  "corr": 0.9993972778320312,
+  "mae": 1.651611328125
+ },
+ {
+  "xsdd": "slag inclusion/1097.jpg",
+  "sdx": "si_97",
+  "corr": 0.998921811580658,
+  "mae": 1.05230712890625
+ },
+ {
+  "xsdd": "slag inclusion/1098.jpg",
+  "sdx": "si_98",
+  "corr": 0.9998078942298889,
+  "mae": 1.88372802734375
+ },
+ {
+  "xsdd": "slag inclusion/1099.jpg",
+  "sdx": "si_99",
+  "corr": 0.9997929334640503,
+  "mae": 1.59716796875
+ },
+ {
+  "xsdd": "slag inclusion/1100.jpg",
+  "sdx": "si_100",
+  "corr": 0.9998639822006226,
+  "mae": 1.88323974609375
+ },
+ {
+  "xsdd": "slag inclusion/1101.jpg",
+  "sdx": "si_101",
+  "corr": 0.9963976740837097,
+  "mae": 1.0526123046875
+ },
+ {
+  "xsdd": "slag inclusion/1102.jpg",
+  "sdx": "si_102",
+  "corr": 0.999833881855011,
+  "mae": 1.97064208984375
+ },
+ {
+  "xsdd": "slag inclusion/1103.jpg",
+  "sdx": "si_103",
+  "corr": 0.9993687868118286,
+  "mae": 1.5223388671875
+ },
+ {
+  "xsdd": "slag inclusion/1104.jpg",
+  "sdx": "si_104",
+  "corr": 0.998916745185852,
+  "mae": 1.47137451171875
+ },
+ {
+  "xsdd": "slag inclusion/1105.jpg",
+  "sdx": "si_105",
+  "corr": 0.9991379380226135,
+  "mae": 1.13983154296875
+ },
+ {
+  "xsdd": "slag inclusion/1106.jpg",
+  "sdx": "si_106",
+  "corr": 0.9968897700309753,
+  "mae": 1.19329833984375
+ },
+ {
+  "xsdd": "slag inclusion/1107.jpg",
+  "sdx": "si_107",
+  "corr": 0.9996574521064758,
+  "mae": 1.2313232421875
+ },
+ {
+  "xsdd": "slag inclusion/1108.jpg",
+  "sdx": "si_108",
+  "corr": 0.998177707195282,
+  "mae": 1.3426513671875
+ },
+ {
+  "xsdd": "slag inclusion/1109.jpg",
+  "sdx": "si_109",
+  "corr": 0.9984598159790039,
+  "mae": 1.16888427734375
+ },
+ {
+  "xsdd": "slag inclusion/1110.jpg",
+  "sdx": "si_110",
+  "corr": 0.9991941452026367,
+  "mae": 1.30047607421875
+ },
+ {
+  "xsdd": "slag inclusion/1111.jpg",
+  "sdx": "si_111",
+  "corr": 0.9994299411773682,
+  "mae": 1.3642578125
+ },
+ {
+  "xsdd": "slag inclusion/1112.jpg",
+  "sdx": "si_112",
+  "corr": 0.9996240139007568,
+  "mae": 1.534423828125
+ },
+ {
+  "xsdd": "slag inclusion/1113.jpg",
+  "sdx": "si_113",
+  "corr": 0.9959349036216736,
+  "mae": 1.285888671875
+ },
+ {
+  "xsdd": "slag inclusion/1114.jpg",
+  "sdx": "si_114",
+  "corr": 0.9996916055679321,
+  "mae": 1.43548583984375
+ },
+ {
+  "xsdd": "slag inclusion/1115.jpg",
+  "sdx": "si_115",
+  "corr": 0.9981056451797485,
+  "mae": 1.19268798828125
+ },
+ {
+  "xsdd": "slag inclusion/1116.jpg",
+  "sdx": "si_116",
+  "corr": 0.9993086457252502,
+  "mae": 1.37738037109375
+ },
+ {
+  "xsdd": "slag inclusion/1117.jpg",
+  "sdx": "si_117",
+  "corr": 0.9957520961761475,
+  "mae": 1.77459716796875
+ },
+ {
+  "xsdd": "slag inclusion/1118.jpg",
+  "sdx": "si_118",
+  "corr": 0.9998289346694946,
+  "mae": 1.913330078125
+ },
+ {
+  "xsdd": "slag inclusion/1119.jpg",
+  "sdx": "si_119",
+  "corr": 0.9997519254684448,
+  "mae": 1.39215087890625
+ },
+ {
+  "xsdd": "slag inclusion/1120.jpg",
+  "sdx": "si_120",
+  "corr": 0.9969646334648132,
+  "mae": 1.09381103515625
+ },
+ {
+  "xsdd": "slag inclusion/1121.jpg",
+  "sdx": "si_121",
+  "corr": 0.9997575283050537,
+  "mae": 1.5816650390625
+ },
+ {
+  "xsdd": "slag inclusion/1122.jpg",
+  "sdx": "si_122",
+  "corr": 0.9996931552886963,
+  "mae": 1.4805908203125
+ },
+ {
+  "xsdd": "slag inclusion/1123.jpg",
+  "sdx": "si_123",
+  "corr": 0.9997222423553467,
+  "mae": 1.68115234375
+ },
+ {
+  "xsdd": "slag inclusion/1124.jpg",
+  "sdx": "si_124",
+  "corr": 0.9997278451919556,
+  "mae": 2.40582275390625
+ },
+ {
+  "xsdd": "slag inclusion/1125.jpg",
+  "sdx": "si_125",
+  "corr": 0.9995883107185364,
+  "mae": 1.737548828125
+ },
+ {
+  "xsdd": "slag inclusion/1126.jpg",
+  "sdx": "si_126",
+  "corr": 0.9995496273040771,
+  "mae": 1.52203369140625
+ },
+ {
+  "xsdd": "slag inclusion/1127.jpg",
+  "sdx": "si_127",
+  "corr": 0.9996931552886963,
+  "mae": 1.53851318359375
+ },
+ {
+  "xsdd": "slag inclusion/1128.jpg",
+  "sdx": "si_128",
+  "corr": 0.9990271925926208,
+  "mae": 1.333984375
+ },
+ {
+  "xsdd": "slag inclusion/1129.jpg",
+  "sdx": "si_129",
+  "corr": 0.9994509220123291,
+  "mae": 1.2532958984375
+ },
+ {
+  "xsdd": "slag inclusion/1130.jpg",
+  "sdx": "si_130",
+  "corr": 0.9997544288635254,
+  "mae": 1.5609130859375
+ },
+ {
+  "xsdd": "slag inclusion/1131.jpg",
+  "sdx": "si_131",
+  "corr": 0.99974524974823,
+  "mae": 1.63751220703125
+ },
+ {
+  "xsdd": "slag inclusion/1132.jpg",
+  "sdx": "si_132",
+  "corr": 0.998559296131134,
+  "mae": 1.27569580078125
+ },
+ {
+  "xsdd": "slag inclusion/1133.jpg",
+  "sdx": "si_133",
+  "corr": 0.9997419118881226,
+  "mae": 1.54888916015625
+ },
+ {
+  "xsdd": "slag inclusion/1134.jpg",
+  "sdx": "si_134",
+  "corr": 0.9997967481613159,
+  "mae": 1.6270751953125
+ },
+ {
+  "xsdd": "slag inclusion/1135.jpg",
+  "sdx": "si_135",
+  "corr": 0.9997439384460449,
+  "mae": 1.58551025390625
+ },
+ {
+  "xsdd": "slag inclusion/1136.jpg",
+  "sdx": "si_136",
+  "corr": 0.998590350151062,
+  "mae": 1.25335693359375
+ },
+ {
+  "xsdd": "slag inclusion/1137.jpg",
+  "sdx": "si_137",
+  "corr": 0.999764084815979,
+  "mae": 2.03106689453125
+ },
+ {
+  "xsdd": "slag inclusion/1138.jpg",
+  "sdx": "si_138",
+  "corr": 0.9992222189903259,
+  "mae": 1.497802734375
+ },
+ {
+  "xsdd": "slag inclusion/1139.jpg",
+  "sdx": "si_139",
+  "corr": 0.9983745813369751,
+  "mae": 1.156982421875
+ },
+ {
+  "xsdd": "slag inclusion/1140.jpg",
+  "sdx": "si_140",
+  "corr": 0.9984270930290222,
+  "mae": 2.2364501953125
+ },
+ {
+  "xsdd": "slag inclusion/1141.jpg",
+  "sdx": "si_141",
+  "corr": 0.9989955425262451,
+  "mae": 1.44122314453125
+ },
+ {
+  "xsdd": "slag inclusion/1142.jpg",
+  "sdx": "si_142",
+  "corr": 0.9988455176353455,
+  "mae": 1.32440185546875
+ },
+ {
+  "xsdd": "slag inclusion/1143.jpg",
+  "sdx": "si_143",
+  "corr": 0.997900128364563,
+  "mae": 1.16204833984375
+ },
+ {
+  "xsdd": "slag inclusion/1144.jpg",
+  "sdx": "si_144",
+  "corr": 0.9941259622573853,
+  "mae": 1.10760498046875
+ },
+ {
+  "xsdd": "slag inclusion/1145.jpg",
+  "sdx": "si_145",
+  "corr": 0.9982417821884155,
+  "mae": 1.33282470703125
+ },
+ {
+  "xsdd": "slag inclusion/1146.jpg",
+  "sdx": "si_146",
+  "corr": 0.9965879917144775,
+  "mae": 1.31219482421875
+ },
+ {
+  "xsdd": "slag inclusion/1147.jpg",
+  "sdx": "si_147",
+  "corr": 0.9984446167945862,
+  "mae": 1.3330078125
+ },
+ {
+  "xsdd": "slag inclusion/1148.jpg",
+  "sdx": "si_148",
+  "corr": 0.998807430267334,
+  "mae": 1.4310302734375
+ },
+ {
+  "xsdd": "slag inclusion/1149.jpg",
+  "sdx": "si_149",
+  "corr": 0.9987613558769226,
+  "mae": 1.27227783203125
+ },
+ {
+  "xsdd": "slag inclusion/1150.jpg",
+  "sdx": "si_150",
+  "corr": 0.999485969543457,
+  "mae": 1.326904296875
+ },
+ {
+  "xsdd": "slag inclusion/1151.jpg",
+  "sdx": "si_151",
+  "corr": 0.9984332323074341,
+  "mae": 1.434326171875
+ },
+ {
+  "xsdd": "slag inclusion/1152.jpg",
+  "sdx": "si_152",
+  "corr": 0.9993130564689636,
+  "mae": 1.404296875
+ },
+ {
+  "xsdd": "slag inclusion/1153.jpg",
+  "sdx": "si_153",
+  "corr": 0.9975179433822632,
+  "mae": 1.234130859375
+ },
+ {
+  "xsdd": "slag inclusion/1154.jpg",
+  "sdx": "si_154",
+  "corr": 0.9987071752548218,
+  "mae": 1.45977783203125
+ },
+ {
+  "xsdd": "slag inclusion/1155.jpg",
+  "sdx": "si_155",
+  "corr": 0.9989749193191528,
+  "mae": 1.49505615234375
+ },
+ {
+  "xsdd": "slag inclusion/1156.jpg",
+  "sdx": "si_156",
+  "corr": 0.9989557862281799,
+  "mae": 1.327880859375
+ },
+ {
+  "xsdd": "slag inclusion/1157.jpg",
+  "sdx": "si_157",
+  "corr": 0.9969953298568726,
+  "mae": 1.32275390625
+ },
+ {
+  "xsdd": "slag inclusion/1158.jpg",
+  "sdx": "si_158",
+  "corr": 0.998741865158081,
+  "mae": 1.37689208984375
+ },
+ {
+  "xsdd": "slag inclusion/1159.jpg",
+  "sdx": "si_159",
+  "corr": 0.9996737241744995,
+  "mae": 1.345458984375
+ },
+ {
+  "xsdd": "slag inclusion/1160.jpg",
+  "sdx": "si_160",
+  "corr": 0.9996869564056396,
+  "mae": 1.35430908203125
+ },
+ {
+  "xsdd": "slag inclusion/1161.jpg",
+  "sdx": "si_161",
+  "corr": 0.9993555545806885,
+  "mae": 1.38275146484375
+ },
+ {
+  "xsdd": "slag inclusion/1162.jpg",
+  "sdx": "si_162",
+  "corr": 0.9995995759963989,
+  "mae": 1.3304443359375
+ },
+ {
+  "xsdd": "slag inclusion/1163.jpg",
+  "sdx": "si_163",
+  "corr": 0.9990741014480591,
+  "mae": 1.07000732421875
+ },
+ {
+  "xsdd": "slag inclusion/1164.jpg",
+  "sdx": "si_164",
+  "corr": 0.9997173547744751,
+  "mae": 1.14654541015625
+ },
+ {
+  "xsdd": "slag inclusion/1165.jpg",
+  "sdx": "si_165",
+  "corr": 0.9988875389099121,
+  "mae": 1.30474853515625
+ },
+ {
+  "xsdd": "slag inclusion/1166.jpg",
+  "sdx": "si_166",
+  "corr": 0.9987243413925171,
+  "mae": 1.3609619140625
+ },
+ {
+  "xsdd": "slag inclusion/1167.jpg",
+  "sdx": "si_167",
+  "corr": 0.9986985921859741,
+  "mae": 1.176025390625
+ },
+ {
+  "xsdd": "slag inclusion/1168.jpg",
+  "sdx": "si_168",
+  "corr": 0.9998483061790466,
+  "mae": 1.26983642578125
+ },
+ {
+  "xsdd": "slag inclusion/1169.jpg",
+  "sdx": "si_169",
+  "corr": 0.9976844787597656,
+  "mae": 1.255615234375
+ },
+ {
+  "xsdd": "slag inclusion/1170.jpg",
+  "sdx": "si_170",
+  "corr": 0.9994994401931763,
+  "mae": 1.45465087890625
+ },
+ {
+  "xsdd": "slag inclusion/1171.jpg",
+  "sdx": "si_171",
+  "corr": 0.999132513999939,
+  "mae": 1.4434814453125
+ },
+ {
+  "xsdd": "slag inclusion/1172.jpg",
+  "sdx": "si_172",
+  "corr": 0.9929811954498291,
+  "mae": 1.32342529296875
+ },
+ {
+  "xsdd": "slag inclusion/1173.jpg",
+  "sdx": "si_173",
+  "corr": 0.9990576505661011,
+  "mae": 1.68218994140625
+ },
+ {
+  "xsdd": "slag inclusion/1174.jpg",
+  "sdx": "si_174",
+  "corr": 0.9984027147293091,
+  "mae": 1.6064453125
+ },
+ {
+  "xsdd": "slag inclusion/1175.jpg",
+  "sdx": "si_175",
+  "corr": 0.9997574090957642,
+  "mae": 1.4788818359375
+ },
+ {
+  "xsdd": "slag inclusion/1176.jpg",
+  "sdx": "si_176",
+  "corr": 0.9996215105056763,
+  "mae": 1.504638671875
+ },
+ {
+  "xsdd": "slag inclusion/1177.jpg",
+  "sdx": "si_177",
+  "corr": 0.9938902258872986,
+  "mae": 1.14337158203125
+ },
+ {
+  "xsdd": "slag inclusion/1178.jpg",
+  "sdx": "si_178",
+  "corr": 0.9992095232009888,
+  "mae": 1.762451171875
+ },
+ {
+  "xsdd": "slag inclusion/1179.jpg",
+  "sdx": "si_179",
+  "corr": 0.999805748462677,
+  "mae": 1.4385986328125
+ },
+ {
+  "xsdd": "slag inclusion/1180.jpg",
+  "sdx": "si_180",
+  "corr": 0.9995179176330566,
+  "mae": 1.49078369140625
+ },
+ {
+  "xsdd": "slag inclusion/1181.jpg",
+  "sdx": "si_181",
+  "corr": 0.9910715818405151,
+  "mae": 1.06646728515625
+ },
+ {
+  "xsdd": "slag inclusion/1182.jpg",
+  "sdx": "si_182",
+  "corr": 0.9997998476028442,
+  "mae": 1.6900634765625
+ },
+ {
+  "xsdd": "slag inclusion/1183.jpg",
+  "sdx": "si_183",
+  "corr": 0.9981151819229126,
+  "mae": 1.2281494140625
+ },
+ {
+  "xsdd": "slag inclusion/1184.jpg",
+  "sdx": "si_184",
+  "corr": 0.9995094537734985,
+  "mae": 1.50079345703125
+ },
+ {
+  "xsdd": "slag inclusion/1185.jpg",
+  "sdx": "si_185",
+  "corr": 0.9997237920761108,
+  "mae": 1.64385986328125
+ },
+ {
+  "xsdd": "slag inclusion/1186.jpg",
+  "sdx": "si_186",
+  "corr": 0.9993444681167603,
+  "mae": 1.31048583984375
+ },
+ {
+  "xsdd": "slag inclusion/1187.jpg",
+  "sdx": "si_187",
+  "corr": 0.9998899102210999,
+  "mae": 1.82061767578125
+ },
+ {
+  "xsdd": "slag inclusion/1188.jpg",
+  "sdx": "si_188",
+  "corr": 0.9997497797012329,
+  "mae": 1.79376220703125
+ },
+ {
+  "xsdd": "slag inclusion/1189.jpg",
+  "sdx": "si_189",
+  "corr": 0.9997712969779968,
+  "mae": 1.44683837890625
+ },
+ {
+  "xsdd": "slag inclusion/1190.jpg",
+  "sdx": "si_190",
+  "corr": 0.9996484518051147,
+  "mae": 1.568359375
+ },
+ {
+  "xsdd": "slag inclusion/1191.jpg",
+  "sdx": "si_191",
+  "corr": 0.9977818727493286,
+  "mae": 1.277587890625
+ },
+ {
+  "xsdd": "slag inclusion/1192.jpg",
+  "sdx": "si_192",
+  "corr": 0.9966878890991211,
+  "mae": 1.47210693359375
+ },
+ {
+  "xsdd": "slag inclusion/1193.jpg",
+  "sdx": "si_193",
+  "corr": 0.9960784912109375,
+  "mae": 1.3521728515625
+ },
+ {
+  "xsdd": "slag inclusion/1194.jpg",
+  "sdx": "si_194",
+  "corr": 0.997044563293457,
+  "mae": 1.4058837890625
+ },
+ {
+  "xsdd": "slag inclusion/1195.jpg",
+  "sdx": "si_195",
+  "corr": 0.9996954202651978,
+  "mae": 1.9049072265625
+ },
+ {
+  "xsdd": "slag inclusion/1196.jpg",
+  "sdx": "si_196",
+  "corr": 0.9997926950454712,
+  "mae": 1.851806640625
+ },
+ {
+  "xsdd": "slag inclusion/1197.jpg",
+  "sdx": "si_197",
+  "corr": 0.9995542764663696,
+  "mae": 1.6456298828125
+ },
+ {
+  "xsdd": "slag inclusion/1198.jpg",
+  "sdx": "si_198",
+  "corr": 0.9980548024177551,
+  "mae": 1.19366455078125
+ },
+ {
+  "xsdd": "slag inclusion/1199.jpg",
+  "sdx": "si_199",
+  "corr": 0.9979196786880493,
+  "mae": 1.14556884765625
+ },
+ {
+  "xsdd": "slag inclusion/1200.jpg",
+  "sdx": "si_200",
+  "corr": 0.9998852014541626,
+  "mae": 1.62542724609375
+ },
+ {
+  "xsdd": "slag inclusion/1201.jpg",
+  "sdx": "si_201",
+  "corr": 0.9953399300575256,
+  "mae": 1.014892578125
+ },
+ {
+  "xsdd": "slag inclusion/1202.jpg",
+  "sdx": "si_202",
+  "corr": 0.9952455759048462,
+  "mae": 1.0281982421875
+ },
+ {
+  "xsdd": "slag inclusion/1203.jpg",
+  "sdx": "si_203",
+  "corr": 0.9995054602622986,
+  "mae": 1.6146240234375
+ },
+ {
+  "xsdd": "slag inclusion/1204.jpg",
+  "sdx": "si_204",
+  "corr": 0.9976858496665955,
+  "mae": 1.39166259765625
+ },
+ {
+  "xsdd": "slag inclusion/1205.jpg",
+  "sdx": "si_205",
+  "corr": 0.999001145362854,
+  "mae": 1.5169677734375
+ },
+ {
+  "xsdd": "slag inclusion/1206.jpg",
+  "sdx": "si_206",
+  "corr": 0.9976053833961487,
+  "mae": 1.2840576171875
+ },
+ {
+  "xsdd": "slag inclusion/1207.jpg",
+  "sdx": "si_207",
+  "corr": 0.9988375306129456,
+  "mae": 1.5096435546875
+ },
+ {
+  "xsdd": "slag inclusion/1208.jpg",
+  "sdx": "si_208",
+  "corr": 0.9980046153068542,
+  "mae": 1.37921142578125
+ },
+ {
+  "xsdd": "slag inclusion/1209.jpg",
+  "sdx": "si_209",
+  "corr": 0.999049186706543,
+  "mae": 1.39801025390625
+ },
+ {
+  "xsdd": "slag inclusion/1210.jpg",
+  "sdx": "si_210",
+  "corr": 0.9843307137489319,
+  "mae": 1.01373291015625
+ },
+ {
+  "xsdd": "slag inclusion/1211.jpg",
+  "sdx": "si_211",
+  "corr": 0.975879430770874,
+  "mae": 1.0152587890625
+ },
+ {
+  "xsdd": "slag inclusion/1212.jpg",
+  "sdx": "si_212",
+  "corr": 0.9909863471984863,
+  "mae": 1.075439453125
+ },
+ {
+  "xsdd": "slag inclusion/1213.jpg",
+  "sdx": "si_213",
+  "corr": 0.9966025352478027,
+  "mae": 1.377685546875
+ },
+ {
+  "xsdd": "slag inclusion/1214.jpg",
+  "sdx": "si_214",
+  "corr": 0.9943444728851318,
+  "mae": 1.39263916015625
+ },
+ {
+  "xsdd": "slag inclusion/1215.jpg",
+  "sdx": "si_215",
+  "corr": 0.9971616268157959,
+  "mae": 1.373046875
+ },
+ {
+  "xsdd": "slag inclusion/1216.jpg",
+  "sdx": "si_216",
+  "corr": 0.9989054203033447,
+  "mae": 1.31781005859375
+ },
+ {
+  "xsdd": "slag inclusion/1217.jpg",
+  "sdx": "si_217",
+  "corr": 0.9989559650421143,
+  "mae": 1.37017822265625
+ },
+ {
+  "xsdd": "slag inclusion/1218.jpg",
+  "sdx": "si_218",
+  "corr": 0.9917721152305603,
+  "mae": 1.15594482421875
+ },
+ {
+  "xsdd": "slag inclusion/1219.jpg",
+  "sdx": "si_219",
+  "corr": 0.982683002948761,
+  "mae": 1.117431640625
+ },
+ {
+  "xsdd": "slag inclusion/1220.jpg",
+  "sdx": "si_220",
+  "corr": 0.9994597434997559,
+  "mae": 1.30865478515625
+ },
+ {
+  "xsdd": "slag inclusion/1221.jpg",
+  "sdx": "si_221",
+  "corr": 0.9930950403213501,
+  "mae": 1.15386962890625
+ },
+ {
+  "xsdd": "slag inclusion/1222.jpg",
+  "sdx": "si_222",
+  "corr": 0.9991608262062073,
+  "mae": 1.28741455078125
+ },
+ {
+  "xsdd": "slag inclusion/1223.jpg",
+  "sdx": "si_223",
+  "corr": 0.9997960329055786,
+  "mae": 1.394775390625
+ },
+ {
+  "xsdd": "slag inclusion/1224.jpg",
+  "sdx": "si_224",
+  "corr": 0.9990566968917847,
+  "mae": 1.24847412109375
+ },
+ {
+  "xsdd": "slag inclusion/1225.jpg",
+  "sdx": "si_225",
+  "corr": 0.999420166015625,
+  "mae": 1.4471435546875
+ },
+ {
+  "xsdd": "slag inclusion/1226.jpg",
+  "sdx": "si_226",
+  "corr": 0.9993240833282471,
+  "mae": 1.3875732421875
+ },
+ {
+  "xsdd": "slag inclusion/1227.jpg",
+  "sdx": "si_227",
+  "corr": 0.9992840886116028,
+  "mae": 1.24542236328125
+ },
+ {
+  "xsdd": "slag inclusion/1228.jpg",
+  "sdx": "si_228",
+  "corr": 0.9938338994979858,
+  "mae": 1.08795166015625
+ },
+ {
+  "xsdd": "slag inclusion/1229.jpg",
+  "sdx": "si_229",
+  "corr": 0.9988409280776978,
+  "mae": 1.12066650390625
+ },
+ {
+  "xsdd": "slag inclusion/1230.jpg",
+  "sdx": "si_230",
+  "corr": 0.9946463108062744,
+  "mae": 1.01702880859375
+ },
+ {
+  "xsdd": "slag inclusion/1231.jpg",
+  "sdx": "si_231",
+  "corr": 0.9954982995986938,
+  "mae": 1.5609130859375
+ },
+ {
+  "xsdd": "slag inclusion/1232.jpg",
+  "sdx": "si_232",
+  "corr": 0.9970352649688721,
+  "mae": 1.578369140625
+ },
+ {
+  "xsdd": "slag inclusion/1233.jpg",
+  "sdx": "si_233",
+  "corr": 0.9964364171028137,
+  "mae": 1.151123046875
+ },
+ {
+  "xsdd": "slag inclusion/1234.jpg",
+  "sdx": "si_234",
+  "corr": 0.9973273873329163,
+  "mae": 1.20458984375
+ },
+ {
+  "xsdd": "slag inclusion/1235.jpg",
+  "sdx": "si_235",
+  "corr": 0.9978600144386292,
+  "mae": 1.8338623046875
+ },
+ {
+  "xsdd": "slag inclusion/1236.jpg",
+  "sdx": "si_236",
+  "corr": 0.9966487884521484,
+  "mae": 1.77288818359375
+ },
+ {
+  "xsdd": "slag inclusion/1237.jpg",
+  "sdx": "si_237",
+  "corr": 0.9996645450592041,
+  "mae": 1.65118408203125
+ },
+ {
+  "xsdd": "slag inclusion/1238.jpg",
+  "sdx": "si_238",
+  "corr": 0.9997355937957764,
+  "mae": 1.44805908203125
+ },
+ {
+  "xsdd": "surface scratch/4001.jpg",
+  "sdx": "ds_135",
+  "corr": 0.9986650943756104,
+  "mae": 1.65234375
+ },
+ {
+  "xsdd": "surface scratch/4002.jpg",
+  "sdx": "ds_136",
+  "corr": 0.986814558506012,
+  "mae": 1.30419921875
+ },
+ {
+  "xsdd": "surface scratch/4003.jpg",
+  "sdx": "ds_137",
+  "corr": 0.9856470823287964,
+  "mae": 1.35791015625
+ },
+ {
+  "xsdd": "surface scratch/4004.jpg",
+  "sdx": "ds_138",
+  "corr": 0.9923263192176819,
+  "mae": 1.08447265625
+ },
+ {
+  "xsdd": "surface scratch/4005.jpg",
+  "sdx": "ds_139",
+  "corr": 0.9877691864967346,
+  "mae": 1.360595703125
+ },
+ {
+  "xsdd": "surface scratch/4006.jpg",
+  "sdx": "ds_140",
+  "corr": 0.9895718097686768,
+  "mae": 1.42584228515625
+ },
+ {
+  "xsdd": "surface scratch/4007.jpg",
+  "sdx": "ds_141",
+  "corr": 0.9928776025772095,
+  "mae": 1.15350341796875
+ },
+ {
+  "xsdd": "surface scratch/4008.jpg",
+  "sdx": "ds_142",
+  "corr": 0.9838355779647827,
+  "mae": 1.4056396484375
+ },
+ {
+  "xsdd": "surface scratch/4009.jpg",
+  "sdx": "ds_143",
+  "corr": 0.9818998575210571,
+  "mae": 1.470458984375
+ },
+ {
+  "xsdd": "surface scratch/4010.jpg",
+  "sdx": "ds_144",
+  "corr": 0.9929301738739014,
+  "mae": 1.1585693359375
+ },
+ {
+  "xsdd": "surface scratch/4011.jpg",
+  "sdx": "ds_145",
+  "corr": 0.9924095869064331,
+  "mae": 1.33697509765625
+ },
+ {
+  "xsdd": "surface scratch/4012.jpg",
+  "sdx": "ds_146",
+  "corr": 0.9947112202644348,
+  "mae": 1.4813232421875
+ },
+ {
+  "xsdd": "surface scratch/4013.jpg",
+  "sdx": "ds_147",
+  "corr": 0.9971097707748413,
+  "mae": 1.43438720703125
+ },
+ {
+  "xsdd": "surface scratch/4014.jpg",
+  "sdx": "ds_148",
+  "corr": 0.9919513463973999,
+  "mae": 1.17108154296875
+ },
+ {
+  "xsdd": "surface scratch/4015.jpg",
+  "sdx": "ds_149",
+  "corr": 0.9932429194450378,
+  "mae": 1.1156005859375
+ },
+ {
+  "xsdd": "surface scratch/4016.jpg",
+  "sdx": "ds_150",
+  "corr": 0.9952988028526306,
+  "mae": 1.23480224609375
+ },
+ {
+  "xsdd": "surface scratch/4017.jpg",
+  "sdx": "ds_151",
+  "corr": 0.9974287748336792,
+  "mae": 1.35760498046875
+ },
+ {
+  "xsdd": "surface scratch/4018.jpg",
+  "sdx": "ds_152",
+  "corr": 0.9822795391082764,
+  "mae": 1.39105224609375
+ },
+ {
+  "xsdd": "surface scratch/4019.jpg",
+  "sdx": "ds_153",
+  "corr": 0.9739904403686523,
+  "mae": 1.467041015625
+ },
+ {
+  "xsdd": "surface scratch/4020.jpg",
+  "sdx": "ds_154",
+  "corr": 0.9922654032707214,
+  "mae": 1.123779296875
+ },
+ {
+  "xsdd": "surface scratch/4021.jpg",
+  "sdx": "ds_155",
+  "corr": 0.9924063086509705,
+  "mae": 1.22503662109375
+ },
+ {
+  "xsdd": "surface scratch/4022.jpg",
+  "sdx": "ds_156",
+  "corr": 0.993458092212677,
+  "mae": 1.1680908203125
+ },
+ {
+  "xsdd": "surface scratch/4023.jpg",
+  "sdx": "ds_157",
+  "corr": 0.9930124282836914,
+  "mae": 1.2518310546875
+ },
+ {
+  "xsdd": "surface scratch/4024.jpg",
+  "sdx": "ds_158",
+  "corr": 0.9999322891235352,
+  "mae": 2.12890625
+ },
+ {
+  "xsdd": "surface scratch/4025.jpg",
+  "sdx": "ds_159",
+  "corr": 0.9926203489303589,
+  "mae": 1.14727783203125
+ },
+ {
+  "xsdd": "surface scratch/4026.jpg",
+  "sdx": "ds_160",
+  "corr": 0.9932631254196167,
+  "mae": 1.35626220703125
+ },
+ {
+  "xsdd": "surface scratch/4027.jpg",
+  "sdx": "ds_161",
+  "corr": 0.9918987154960632,
+  "mae": 1.0833740234375
+ },
+ {
+  "xsdd": "surface scratch/4028.jpg",
+  "sdx": "ds_162",
+  "corr": 0.9915315508842468,
+  "mae": 1.54779052734375
+ },
+ {
+  "xsdd": "surface scratch/4029.jpg",
+  "sdx": "ds_163",
+  "corr": 0.9874004125595093,
+  "mae": 1.52239990234375
+ },
+ {
+  "xsdd": "surface scratch/4030.jpg",
+  "sdx": "ds_164",
+  "corr": 0.9949947595596313,
+  "mae": 1.38873291015625
+ },
+ {
+  "xsdd": "surface scratch/4031.jpg",
+  "sdx": "ds_165",
+  "corr": 0.9966901540756226,
+  "mae": 1.2703857421875
+ },
+ {
+  "xsdd": "surface scratch/4032.jpg",
+  "sdx": "ds_166",
+  "corr": 0.9997854828834534,
+  "mae": 1.699462890625
+ },
+ {
+  "xsdd": "surface scratch/4033.jpg",
+  "sdx": "ds_167",
+  "corr": 0.9994583129882812,
+  "mae": 1.60455322265625
+ },
+ {
+  "xsdd": "surface scratch/4034.jpg",
+  "sdx": "ds_168",
+  "corr": 0.9932024478912354,
+  "mae": 1.54803466796875
+ },
+ {
+  "xsdd": "surface scratch/4035.jpg",
+  "sdx": "ds_169",
+  "corr": 0.9961806535720825,
+  "mae": 1.11102294921875
+ },
+ {
+  "xsdd": "surface scratch/4036.jpg",
+  "sdx": "ds_170",
+  "corr": 0.9860349297523499,
+  "mae": 1.39739990234375
+ },
+ {
+  "xsdd": "surface scratch/4037.jpg",
+  "sdx": "ds_171",
+  "corr": 0.9910244941711426,
+  "mae": 1.45782470703125
+ },
+ {
+  "xsdd": "surface scratch/4038.jpg",
+  "sdx": "ds_172",
+  "corr": 0.9874992370605469,
+  "mae": 1.5350341796875
+ },
+ {
+  "xsdd": "surface scratch/4039.jpg",
+  "sdx": "ds_173",
+  "corr": 0.9870046377182007,
+  "mae": 1.33917236328125
+ },
+ {
+  "xsdd": "surface scratch/4040.jpg",
+  "sdx": "ds_174",
+  "corr": 0.9857438802719116,
+  "mae": 1.344970703125
+ },
+ {
+  "xsdd": "surface scratch/4041.jpg",
+  "sdx": "ds_175",
+  "corr": 0.9957938194274902,
+  "mae": 1.4273681640625
+ },
+ {
+  "xsdd": "surface scratch/4042.jpg",
+  "sdx": "ds_176",
+  "corr": 0.9927120208740234,
+  "mae": 1.33026123046875
+ },
+ {
+  "xsdd": "surface scratch/4043.jpg",
+  "sdx": "ds_177",
+  "corr": 0.9998461604118347,
+  "mae": 1.47613525390625
+ },
+ {
+  "xsdd": "surface scratch/4044.jpg",
+  "sdx": "ds_178",
+  "corr": 0.9920192956924438,
+  "mae": 1.29754638671875
+ },
+ {
+  "xsdd": "surface scratch/4045.jpg",
+  "sdx": "ds_179",
+  "corr": 0.9959836006164551,
+  "mae": 1.41754150390625
+ },
+ {
+  "xsdd": "surface scratch/4046.jpg",
+  "sdx": "ds_180",
+  "corr": 0.9942048788070679,
+  "mae": 1.49237060546875
+ },
+ {
+  "xsdd": "surface scratch/4047.jpg",
+  "sdx": "ds_181",
+  "corr": 0.9959233403205872,
+  "mae": 1.3116455078125
+ },
+ {
+  "xsdd": "surface scratch/4048.jpg",
+  "sdx": "ds_182",
+  "corr": 0.9963280558586121,
+  "mae": 1.21380615234375
+ },
+ {
+  "xsdd": "surface scratch/4049.jpg",
+  "sdx": "ds_183",
+  "corr": 0.9950922131538391,
+  "mae": 1.55023193359375
+ },
+ {
+  "xsdd": "surface scratch/4050.jpg",
+  "sdx": "ds_184",
+  "corr": 0.9899011254310608,
+  "mae": 1.3656005859375
+ },
+ {
+  "xsdd": "surface scratch/4051.jpg",
+  "sdx": "ds_185",
+  "corr": 0.992404580116272,
+  "mae": 1.4693603515625
+ },
+ {
+  "xsdd": "surface scratch/4052.jpg",
+  "sdx": "ds_186",
+  "corr": 0.9911911487579346,
+  "mae": 1.41644287109375
+ },
+ {
+  "xsdd": "surface scratch/4053.jpg",
+  "sdx": "ds_187",
+  "corr": 0.9885338544845581,
+  "mae": 1.0740966796875
+ },
+ {
+  "xsdd": "surface scratch/4054.jpg",
+  "sdx": "ds_188",
+  "corr": 0.995545506477356,
+  "mae": 1.3890380859375
+ },
+ {
+  "xsdd": "surface scratch/4055.jpg",
+  "sdx": "ds_189",
+  "corr": 0.9943726658821106,
+  "mae": 1.42083740234375
+ },
+ {
+  "xsdd": "surface scratch/4056.jpg",
+  "sdx": "ds_190",
+  "corr": 0.9981281757354736,
+  "mae": 1.2510986328125
+ },
+ {
+  "xsdd": "surface scratch/4057.jpg",
+  "sdx": "ds_191",
+  "corr": 0.9934839606285095,
+  "mae": 1.371826171875
+ },
+ {
+  "xsdd": "surface scratch/4058.jpg",
+  "sdx": "ds_192",
+  "corr": 0.9957642555236816,
+  "mae": 1.1988525390625
+ },
+ {
+  "xsdd": "surface scratch/4059.jpg",
+  "sdx": "ds_193",
+  "corr": 0.9960652589797974,
+  "mae": 1.16485595703125
+ },
+ {
+  "xsdd": "surface scratch/4060.jpg",
+  "sdx": "ds_194",
+  "corr": 0.9965290427207947,
+  "mae": 1.15020751953125
+ },
+ {
+  "xsdd": "surface scratch/4061.jpg",
+  "sdx": "ds_195",
+  "corr": 0.9899661540985107,
+  "mae": 1.56298828125
+ },
+ {
+  "xsdd": "surface scratch/4062.jpg",
+  "sdx": "ds_196",
+  "corr": 0.9941662549972534,
+  "mae": 1.21435546875
+ },
+ {
+  "xsdd": "surface scratch/4063.jpg",
+  "sdx": "ds_197",
+  "corr": 0.9995371699333191,
+  "mae": 1.39874267578125
+ },
+ {
+  "xsdd": "surface scratch/4064.jpg",
+  "sdx": "ds_198",
+  "corr": 0.992480993270874,
+  "mae": 1.3958740234375
+ },
+ {
+  "xsdd": "surface scratch/4065.jpg",
+  "sdx": "ds_199",
+  "corr": 0.9966163635253906,
+  "mae": 1.2650146484375
+ },
+ {
+  "xsdd": "surface scratch/4066.jpg",
+  "sdx": "ds_200",
+  "corr": 0.9975723624229431,
+  "mae": 1.26947021484375
+ },
+ {
+  "xsdd": "surface scratch/4067.jpg",
+  "sdx": "ds_201",
+  "corr": 0.9963593482971191,
+  "mae": 1.3052978515625
+ },
+ {
+  "xsdd": "surface scratch/4068.jpg",
+  "sdx": "ds_202",
+  "corr": 0.9976664185523987,
+  "mae": 1.29119873046875
+ },
+ {
+  "xsdd": "surface scratch/4069.jpg",
+  "sdx": "ds_203",
+  "corr": 0.9968746304512024,
+  "mae": 1.27197265625
+ },
+ {
+  "xsdd": "surface scratch/4070.jpg",
+  "sdx": "ds_204",
+  "corr": 0.9968631863594055,
+  "mae": 1.22198486328125
+ },
+ {
+  "xsdd": "surface scratch/4071.jpg",
+  "sdx": "ds_205",
+  "corr": 0.9980364441871643,
+  "mae": 1.30181884765625
+ },
+ {
+  "xsdd": "surface scratch/4072.jpg",
+  "sdx": "ds_206",
+  "corr": 0.9877983331680298,
+  "mae": 1.36181640625
+ },
+ {
+  "xsdd": "surface scratch/4073.jpg",
+  "sdx": "ds_207",
+  "corr": 0.9884402751922607,
+  "mae": 1.40673828125
+ },
+ {
+  "xsdd": "surface scratch/4074.jpg",
+  "sdx": "ds_208",
+  "corr": 0.9933481216430664,
+  "mae": 1.4005126953125
+ },
+ {
+  "xsdd": "surface scratch/4075.jpg",
+  "sdx": "ds_209",
+  "corr": 0.984968900680542,
+  "mae": 1.49822998046875
+ },
+ {
+  "xsdd": "surface scratch/4076.jpg",
+  "sdx": "ds_210",
+  "corr": 0.9966388940811157,
+  "mae": 1.35211181640625
+ },
+ {
+  "xsdd": "surface scratch/4077.jpg",
+  "sdx": "ds_211",
+  "corr": 0.9985802173614502,
+  "mae": 1.14984130859375
+ },
+ {
+  "xsdd": "surface scratch/4078.jpg",
+  "sdx": "ds_212",
+  "corr": 0.9963909387588501,
+  "mae": 1.33892822265625
+ },
+ {
+  "xsdd": "surface scratch/4079.jpg",
+  "sdx": "ds_213",
+  "corr": 0.9864141941070557,
+  "mae": 1.426025390625
+ },
+ {
+  "xsdd": "surface scratch/4080.jpg",
+  "sdx": "ds_214",
+  "corr": 0.9942734241485596,
+  "mae": 1.34271240234375
+ },
+ {
+  "xsdd": "surface scratch/4081.jpg",
+  "sdx": "ds_215",
+  "corr": 0.9960729479789734,
+  "mae": 1.73492431640625
+ },
+ {
+  "xsdd": "surface scratch/4082.jpg",
+  "sdx": "ds_216",
+  "corr": 0.9980031847953796,
+  "mae": 1.6337890625
+ },
+ {
+  "xsdd": "surface scratch/4083.jpg",
+  "sdx": "ds_217",
+  "corr": 0.9896164536476135,
+  "mae": 1.02728271484375
+ },
+ {
+  "xsdd": "surface scratch/4084.jpg",
+  "sdx": "ds_218",
+  "corr": 0.9980797171592712,
+  "mae": 1.34783935546875
+ },
+ {
+  "xsdd": "surface scratch/4085.jpg",
+  "sdx": "ds_219",
+  "corr": 0.9898337721824646,
+  "mae": 1.14886474609375
+ },
+ {
+  "xsdd": "surface scratch/4086.jpg",
+  "sdx": "ds_220",
+  "corr": 0.9944536685943604,
+  "mae": 1.1826171875
+ },
+ {
+  "xsdd": "surface scratch/4087.jpg",
+  "sdx": "ds_221",
+  "corr": 0.9942309856414795,
+  "mae": 1.1685791015625
+ },
+ {
+  "xsdd": "surface scratch/4088.jpg",
+  "sdx": "ds_222",
+  "corr": 0.9937111735343933,
+  "mae": 1.4097900390625
+ },
+ {
+  "xsdd": "surface scratch/4089.jpg",
+  "sdx": "ds_223",
+  "corr": 0.9973112344741821,
+  "mae": 1.3994140625
+ },
+ {
+  "xsdd": "surface scratch/4090.jpg",
+  "sdx": "ds_224",
+  "corr": 0.9955320358276367,
+  "mae": 1.47174072265625
+ },
+ {
+  "xsdd": "surface scratch/4091.jpg",
+  "sdx": "ds_225",
+  "corr": 0.9896548390388489,
+  "mae": 1.29193115234375
+ },
+ {
+  "xsdd": "surface scratch/4092.jpg",
+  "sdx": "ds_226",
+  "corr": 0.9973013401031494,
+  "mae": 1.35052490234375
+ },
+ {
+  "xsdd": "surface scratch/4093.jpg",
+  "sdx": "ds_227",
+  "corr": 0.9972550868988037,
+  "mae": 1.41436767578125
+ },
+ {
+  "xsdd": "surface scratch/4094.jpg",
+  "sdx": "ds_228",
+  "corr": 0.9915733933448792,
+  "mae": 1.4556884765625
+ },
+ {
+  "xsdd": "surface scratch/4095.jpg",
+  "sdx": "ds_229",
+  "corr": 0.9964132308959961,
+  "mae": 1.30462646484375
+ },
+ {
+  "xsdd": "surface scratch/4096.jpg",
+  "sdx": "ds_230",
+  "corr": 0.9957008957862854,
+  "mae": 1.13275146484375
+ },
+ {
+  "xsdd": "surface scratch/4097.jpg",
+  "sdx": "ds_231",
+  "corr": 0.9978590607643127,
+  "mae": 1.0743408203125
+ },
+ {
+  "xsdd": "surface scratch/4098.jpg",
+  "sdx": "ds_232",
+  "corr": 0.9883574843406677,
+  "mae": 1.28533935546875
+ },
+ {
+  "xsdd": "surface scratch/4099.jpg",
+  "sdx": "ds_233",
+  "corr": 0.9947580099105835,
+  "mae": 1.3238525390625
+ },
+ {
+  "xsdd": "surface scratch/4100.jpg",
+  "sdx": "ds_235",
+  "corr": 0.997434675693512,
+  "mae": 1.07830810546875
+ },
+ {
+  "xsdd": "surface scratch/4101.jpg",
+  "sdx": "ds_236",
+  "corr": 0.9868281483650208,
+  "mae": 1.13519287109375
+ },
+ {
+  "xsdd": "surface scratch/4102.jpg",
+  "sdx": "ds_237",
+  "corr": 0.9961886405944824,
+  "mae": 1.12872314453125
+ },
+ {
+  "xsdd": "surface scratch/4103.jpg",
+  "sdx": "ds_238",
+  "corr": 0.9939428567886353,
+  "mae": 1.239013671875
+ },
+ {
+  "xsdd": "surface scratch/4104.jpg",
+  "sdx": "ds_239",
+  "corr": 0.9974006414413452,
+  "mae": 1.53118896484375
+ },
+ {
+  "xsdd": "surface scratch/4105.jpg",
+  "sdx": "ds_240",
+  "corr": 0.9981092214584351,
+  "mae": 1.300048828125
+ },
+ {
+  "xsdd": "surface scratch/4106.jpg",
+  "sdx": "ds_241",
+  "corr": 0.993579626083374,
+  "mae": 1.50799560546875
+ },
+ {
+  "xsdd": "surface scratch/4107.jpg",
+  "sdx": "ds_242",
+  "corr": 0.9935908317565918,
+  "mae": 1.13525390625
+ },
+ {
+  "xsdd": "surface scratch/4108.jpg",
+  "sdx": "ds_243",
+  "corr": 0.9873440861701965,
+  "mae": 1.13232421875
+ },
+ {
+  "xsdd": "surface scratch/4109.jpg",
+  "sdx": "ds_244",
+  "corr": 0.992400050163269,
+  "mae": 1.12432861328125
+ },
+ {
+  "xsdd": "surface scratch/4110.jpg",
+  "sdx": "ds_245",
+  "corr": 0.9947142601013184,
+  "mae": 1.092041015625
+ },
+ {
+  "xsdd": "surface scratch/4111.jpg",
+  "sdx": "ds_246",
+  "corr": 0.9900736808776855,
+  "mae": 1.307861328125
+ },
+ {
+  "xsdd": "surface scratch/4112.jpg",
+  "sdx": "ds_247",
+  "corr": 0.9861908555030823,
+  "mae": 1.38568115234375
+ },
+ {
+  "xsdd": "surface scratch/4113.jpg",
+  "sdx": "ds_248",
+  "corr": 0.9982825517654419,
+  "mae": 1.212890625
+ },
+ {
+  "xsdd": "surface scratch/4114.jpg",
+  "sdx": "ds_249",
+  "corr": 0.9971734881401062,
+  "mae": 1.11004638671875
+ },
+ {
+  "xsdd": "surface scratch/4115.jpg",
+  "sdx": "ds_250",
+  "corr": 0.9935017824172974,
+  "mae": 1.1156005859375
+ },
+ {
+  "xsdd": "surface scratch/4116.jpg",
+  "sdx": "ds_251",
+  "corr": 0.9958342909812927,
+  "mae": 1.36669921875
+ },
+ {
+  "xsdd": "surface scratch/4117.jpg",
+  "sdx": "ds_252",
+  "corr": 0.9936378002166748,
+  "mae": 1.10699462890625
+ },
+ {
+  "xsdd": "surface scratch/4118.jpg",
+  "sdx": "ds_253",
+  "corr": 0.9953122138977051,
+  "mae": 1.33209228515625
+ },
+ {
+  "xsdd": "surface scratch/4119.jpg",
+  "sdx": "ds_254",
+  "corr": 0.9938737154006958,
+  "mae": 1.1221923828125
+ },
+ {
+  "xsdd": "surface scratch/4120.jpg",
+  "sdx": "ds_255",
+  "corr": 0.993340015411377,
+  "mae": 1.2528076171875
+ },
+ {
+  "xsdd": "surface scratch/4121.jpg",
+  "sdx": "ds_256",
+  "corr": 0.993195116519928,
+  "mae": 1.1922607421875
+ },
+ {
+  "xsdd": "surface scratch/4122.jpg",
+  "sdx": "ds_257",
+  "corr": 0.996181845664978,
+  "mae": 1.56829833984375
+ },
+ {
+  "xsdd": "surface scratch/4123.jpg",
+  "sdx": "ds_258",
+  "corr": 0.9885971546173096,
+  "mae": 1.3076171875
+ },
+ {
+  "xsdd": "surface scratch/4124.jpg",
+  "sdx": "ds_259",
+  "corr": 0.9946173429489136,
+  "mae": 1.0972900390625
+ },
+ {
+  "xsdd": "surface scratch/4125.jpg",
+  "sdx": "ds_260",
+  "corr": 0.9952268600463867,
+  "mae": 1.08636474609375
+ },
+ {
+  "xsdd": "surface scratch/4126.jpg",
+  "sdx": "ds_261",
+  "corr": 0.9943863153457642,
+  "mae": 1.08062744140625
+ },
+ {
+  "xsdd": "surface scratch/4127.jpg",
+  "sdx": "ds_262",
+  "corr": 0.9931609034538269,
+  "mae": 1.09857177734375
+ },
+ {
+  "xsdd": "surface scratch/4128.jpg",
+  "sdx": "ds_263",
+  "corr": 0.9869051575660706,
+  "mae": 1.0699462890625
+ },
+ {
+  "xsdd": "surface scratch/4129.jpg",
+  "sdx": "ds_264",
+  "corr": 0.991354763507843,
+  "mae": 1.06292724609375
+ },
+ {
+  "xsdd": "surface scratch/4130.jpg",
+  "sdx": "ds_265",
+  "corr": 0.9812659621238708,
+  "mae": 1.13397216796875
+ },
+ {
+  "xsdd": "surface scratch/4131.jpg",
+  "sdx": "ds_266",
+  "corr": 0.9974535703659058,
+  "mae": 1.3876953125
+ },
+ {
+  "xsdd": "surface scratch/4132.jpg",
+  "sdx": "ds_267",
+  "corr": 0.9991621375083923,
+  "mae": 1.0013427734375
+ },
+ {
+  "xsdd": "surface scratch/4133.jpg",
+  "sdx": "ds_268",
+  "corr": 0.9957683086395264,
+  "mae": 1.34478759765625
+ },
+ {
+  "xsdd": "surface scratch/4134.jpg",
+  "sdx": "ds_269",
+  "corr": 0.9970142245292664,
+  "mae": 1.41778564453125
+ }
+]

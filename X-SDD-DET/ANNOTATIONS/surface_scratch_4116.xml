@@ -1,0 +1,29 @@
+<annotation>
+  <folder>surface scratch</folder>
+  <filename>surface_scratch_4116.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>surface scratch</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>108</xmin>
+      <ymin>0</ymin>
+      <xmax>128</xmax>
+      <ymax>2</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>surface scratch</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>41</xmin>
+      <ymin>1</ymin>
+      <xmax>44</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+</annotation>

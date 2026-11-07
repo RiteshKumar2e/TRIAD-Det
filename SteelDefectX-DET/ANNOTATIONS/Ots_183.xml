@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Oxide scale of temperature system</folder>
+  <filename>Ots_183.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>6</ymin>
+      <xmax>109</xmax>
+      <ymax>13</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>45</ymin>
+      <xmax>178</xmax>
+      <ymax>52</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Oxide scale of temperature system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>223</ymin>
+      <xmax>179</xmax>
+      <ymax>229</ymax>
+    </bndbox>
+  </object>
+</annotation>

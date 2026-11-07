@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Silk spot</folder>
+  <filename>ss_385.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>167</xmin>
+      <ymin>0</ymin>
+      <xmax>190</xmax>
+      <ymax>154</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>104</ymin>
+      <xmax>169</xmax>
+      <ymax>148</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Silk spot</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>172</xmin>
+      <ymin>227</ymin>
+      <xmax>182</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+</annotation>

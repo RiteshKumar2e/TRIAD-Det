@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Welding line</folder>
+  <filename>wl_375.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Welding line</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>77</ymin>
+      <xmax>256</xmax>
+      <ymax>88</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+  <folder>slag inclusion</folder>
+  <filename>slag_inclusion_1041.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>14</ymin>
+      <xmax>76</xmax>
+      <ymax>34</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>55</xmin>
+      <ymin>36</ymin>
+      <xmax>62</xmax>
+      <ymax>40</ymax>
+    </bndbox>
+  </object>
+</annotation>

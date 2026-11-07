@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Slag inclusion</folder>
+  <filename>si_49.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Slag inclusion</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>22</ymin>
+      <xmax>88</xmax>
+      <ymax>50</ymax>
+    </bndbox>
+  </object>
+</annotation>

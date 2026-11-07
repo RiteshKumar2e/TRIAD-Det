@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Red iron sheet</folder>
+  <filename>ris_342.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Red iron sheet</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>164</xmin>
+      <ymin>0</ymin>
+      <xmax>188</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Red iron sheet</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>196</xmin>
+      <ymin>120</ymin>
+      <xmax>211</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+  <folder>finishing roll printing</folder>
+  <filename>finishing_roll_printing_6120.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>finishing roll printing</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>39</ymin>
+      <xmax>119</xmax>
+      <ymax>83</ymax>
+    </bndbox>
+  </object>
+</annotation>

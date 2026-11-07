@@ -1,0 +1,29 @@
+<annotation>
+  <folder>Rolled pit</folder>
+  <filename>rp_39.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Rolled pit</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155</xmin>
+      <ymin>20</ymin>
+      <xmax>190</xmax>
+      <ymax>29</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled pit</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>100</ymin>
+      <xmax>169</xmax>
+      <ymax>173</ymax>
+    </bndbox>
+  </object>
+</annotation>

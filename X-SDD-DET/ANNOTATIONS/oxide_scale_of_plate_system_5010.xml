@@ -1,0 +1,19 @@
+<annotation>
+  <folder>oxide scale of plate system</folder>
+  <filename>oxide_scale_of_plate_system_5010.jpg</filename>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>oxide scale of plate system</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>0</ymin>
+      <xmax>62</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>

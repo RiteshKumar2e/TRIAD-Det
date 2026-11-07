@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Secondary rust skin</folder>
+  <filename>Srs_07.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Secondary rust skin</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>94</ymin>
+      <xmax>134</xmax>
+      <ymax>103</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Secondary rust skin</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128</xmin>
+      <ymin>114</ymin>
+      <xmax>163</xmax>
+      <ymax>134</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Secondary rust skin</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>145</xmin>
+      <ymin>149</ymin>
+      <xmax>167</xmax>
+      <ymax>170</ymax>
+    </bndbox>
+  </object>
+</annotation>

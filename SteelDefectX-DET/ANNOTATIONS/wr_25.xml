@@ -1,0 +1,39 @@
+<annotation>
+  <folder>White rust</folder>
+  <filename>wr_25.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>White rust</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>0</ymin>
+      <xmax>153</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>White rust</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>170</ymin>
+      <xmax>152</xmax>
+      <ymax>198</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>White rust</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>202</ymin>
+      <xmax>152</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+</annotation>

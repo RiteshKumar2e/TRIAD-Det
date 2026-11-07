@@ -1,0 +1,77 @@
+{
+ "mask_to_box": {
+  "threshold": 127,
+  "group_steps": [
+   0.02,
+   0.05,
+   0.08,
+   0.12,
+   0.2
+  ],
+  "max_boxes": 10,
+  "min_frac": 0.0005,
+  "min_px": 16,
+  "box_extent": "defect pixels inside each group"
+ },
+ "sdx_empty_mask": [
+  "in_197.jpg",
+  "in_276.jpg",
+  "in_427.jpg",
+  "in_180.jpg",
+  "in_219.jpg"
+ ],
+ "sdx_images": 7778,
+ "sdx_grouping_distance_counts": {
+  "0.02": 6033,
+  "0.05": 820,
+  "0.08": 502,
+  "0.12": 261,
+  "0.2": 162
+ },
+ "sdx_per_class": {
+  "Bright scratch": 429,
+  "Crazing": 300,
+  "Crease": 75,
+  "Crescent gap": 245,
+  "Finishing roll printing": 203,
+  "Inclusion": 795,
+  "Iron scale compression": 200,
+  "Iron sheet ash": 122,
+  "Oil spot": 498,
+  "Oxide scale of plate system": 63,
+  "Oxide scale of temperature system": 203,
+  "Patches": 300,
+  "Pitted surface": 300,
+  "Punching": 399,
+  "Red iron sheet": 397,
+  "Rolled in scale": 300,
+  "Rolled pit": 50,
+  "Scratches": 334,
+  "Secondary rust skin": 198,
+  "Silk spot": 578,
+  "Slag inclusion": 238,
+  "Waist folding": 198,
+  "Water spot": 700,
+  "Welding line": 500,
+  "White rust": 153
+ },
+ "sdx_boxes_per_image": {
+  "0": 5,
+  "1": 3217,
+  "2": 1178,
+  "3": 758,
+  "4": 551,
+  "5": 444,
+  "6": 356,
+  "7": 330,
+  "8": 347,
+  "9": 302,
+  "10": 285,
+  "11": 3,
+  "12": 1,
+  "13": 1
+ },
+ "xsdd_matched": 1360,
+ "xsdd_unmatched": [],
+ "xsdd_unmatched_count": 0
+}

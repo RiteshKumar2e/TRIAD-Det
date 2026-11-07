@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Rolled in scale</folder>
+  <filename>rs_57.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>231</xmin>
+      <ymin>7</ymin>
+      <xmax>242</xmax>
+      <ymax>12</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>212</xmin>
+      <ymin>91</ymin>
+      <xmax>228</xmax>
+      <ymax>106</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rolled in scale</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>197</ymin>
+      <xmax>252</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+  </object>
+</annotation>

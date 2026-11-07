@@ -1,0 +1,19 @@
+<annotation>
+  <folder>White rust</folder>
+  <filename>wr_29.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>White rust</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>165</xmin>
+      <ymin>28</ymin>
+      <xmax>190</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+</annotation>

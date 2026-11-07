@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Finishing roll printing</folder>
+  <filename>frp_67.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Finishing roll printing</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>0</ymin>
+      <xmax>134</xmax>
+      <ymax>96</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Finishing roll printing</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>100</ymin>
+      <xmax>100</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Finishing roll printing</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>165</ymin>
+      <xmax>83</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+</annotation>

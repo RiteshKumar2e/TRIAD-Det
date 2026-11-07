@@ -1,0 +1,19 @@
+<annotation>
+  <folder>Bright scratch</folder>
+  <filename>bs_13.jpg</filename>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Bright scratch</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>43</ymin>
+      <xmax>125</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+</annotation>
