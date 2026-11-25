@@ -33,7 +33,7 @@ The study covers four detectors on four datasets. It includes TRIAD-Det, a new a
 
 ## Key results
 
-All numbers are on held-out test splits and come from [`results.csv`](TRIAD_det/results.csv).
+All numbers are on held-out test splits. The first two tables come from [`results.csv`](TRIAD_det/results.csv); the later ones name their source file.
 
 ### Risk control at α = 0.10, δ = 0.10
 
@@ -67,6 +67,46 @@ No single detector wins everywhere. TRIAD-Det leads mAP50 on SteelDefectX and NE
   <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig03_risk_coverage.png" alt="Risk-coverage curves for the four detectors on each dataset" width="85%">
 </p>
 
+### Does the guarantee hold?
+
+Violation rates at α = δ = 0.10 for `L_any`, over all 16 model × dataset combinations and 500 random calib/test re-splits. Source: `in_domain_validity.csv`.
+
+| Method | Mean violation rate | Highest |
+|---|---:|---:|
+| LTT, Hoeffding–Bentkus | 2.1% | 8.4% |
+| LTT, exact binomial (headline) | 4.2% | 16.6% |
+| Naive empirical threshold | 56.7% | 66.4% |
+| Conformal Risk Control (joint risk) | 99.6% | 100% |
+
+These rates compare the empirical risk on a finite test half with α, so they include sampling noise. `validity_decomposition.csv` separates the two by measuring the true risk on a known population, over the 10 combinations in that file's α = 0.10 slice. There the highest true violation rate is 8.2% for the binomial test and 2.6% for Hoeffding–Bentkus, both below δ. Conformal Risk Control bounds the joint risk, not the risk among accepted images, so a high rate here is expected.
+
+### Under a change of dataset
+
+All 48 cross-dataset cases (four models × 12 directed pairs) at α = 0.10, with class-agnostic matching. Source: `cross_domain_selective.csv`.
+
+| Protocol | Certified | Exceeded α on target test | Mean coverage |
+|---|---:|---:|---:|
+| LTT threshold calibrated on the source | 15 / 48 | 14 | 3.0% |
+| Naive threshold calibrated on the source | 45 / 48 | 38 | 7.9% |
+| LTT threshold recalibrated on the target | 2 / 48 | 0 | 0.1% |
+
+A threshold calibrated on one dataset should not be reused on another: 14 of the 15 certified transfers exceeded α on the target. Recalibrating on the target is safe, but it accepts almost nothing.
+
+**Target adaptation.** Only part of the planned grid has been run: TRIAD-Det, 100 target images, one draw, six fine-tuning transfers and three from-scratch controls. No run was certified at α ≤ 0.20. At α = 0.30, 4 of 18 cases were certified, and none exceeded α on test. Source: `adaptation/target_adaptation.csv`.
+
+### Does the census branch help?
+
+Test AURC of the `stats` score for TRIAD-Det, without and with the four census statistics. Lower is better. Source: `census_ablation_stats_comparison.csv`.
+
+| Dataset | Without census | With census | Difference (95% bootstrap CI) |
+|---|---:|---:|---|
+| SteelDefectX | 0.1362 | 0.1343 | −0.0019 (−0.0029 to −0.0009) |
+| NEU-DET | 0.3205 | 0.3160 | −0.0045 (−0.0233 to 0.0131) |
+| GC10-DET | 0.2112 | 0.2123 | +0.0012 (−0.0113 to 0.0130) |
+| X-SDD | 0.4100 | 0.4138 | +0.0035 (−0.0094 to 0.0178) |
+
+The gain is small and its interval excludes zero only on SteelDefectX. The census branch itself is fairly accurate (count MAE 0.51–1.25, presence micro-F1 0.88–0.99), but most of its information is already in the detection statistics.
+
 ## Method
 
 ### TRIAD-Det detector
@@ -82,7 +122,7 @@ TRIAD-Det (Triple-branch Risk-Aware Inspection Detector) is a single-stage, anch
 | Census branch | Image-level defect count (Poisson rate) and class presence |
 | Training (v2) | ATSS assignment, quality focal loss, EMA weights, mosaic augmentation |
 
-The census branch gives a signal that needs no ground truth: a gap between the expected number of defects and the number of confident boxes suggests a defect may have been missed.
+The census branch gives a signal that needs no ground truth: a gap between the expected number of defects and the number of confident boxes suggests a defect may have been missed. The measured benefit is small; see [Does the census branch help?](#does-the-census-branch-help)
 
 ### Compared models
 
@@ -217,6 +257,8 @@ cd TRIAD_Det_Risk_Control
 | `validity_check.py` | Is a re-split violation a real guarantee failure or finite-test noise? |
 | `target_adaptation.py` | Can a small labelled target set restore auto-acceptance on a new dataset? |
 
+`census_ablation.py` defaults to `--variant selected`, while `validity_check.py` defaults to `full`. Pass `--variant full` to the first to match the tables above.
+
 **Rebuild the derived datasets** from fresh downloads:
 
 ```powershell
@@ -242,6 +284,9 @@ Paths are under `TRIAD_det/`.
 
 - **Exchangeability.** The guarantee holds only when new images are exchangeable with the calib split. Cross-dataset results are empirical, not guaranteed.
 - **Certification is often infeasible.** Most combinations at α = 0.10 certify nothing, including every model on NEU-DET and X-SDD.
+- **No transfer guarantee in practice.** Source-calibrated thresholds usually exceeded α on a new dataset, and target recalibration rarely certified anything.
+- **Adaptation study is partial.** Only one budget, one draw and one detector have been run.
+- **v2 is not uniformly better.** Compared with v1, the v2 recipe has lower mAP50 on GC10-DET (0.598 against 0.624) and a higher any-miss image risk on NEU-DET (0.589 against 0.481).
 - **Defect-only data.** Every image contains a defect, so false alarms on defect-free steel cannot be measured.
 - **Shared sources.** Pairs involving SteelDefectX share source images and are flagged `shares_source_images`.
 - **Subjective boxes.** Boxes derived from masks of diffuse texture defects are partly subjective.
@@ -255,7 +300,7 @@ Paths are under `TRIAD_det/`.
 | Result tables, figures, AUTO-ACCEPT / MANUAL-REVIEW decisions | Included |
 | Per-image predictions in `results/predictions/{full,selected,smoke,v1}/` | **Not included.** Excluded by `.gitignore` because of their size. Re-generate them with the prediction steps |
 | `TRIAD_det/configs/` (`default.yaml`, `smoke.yaml`, `triad_yolo.yaml`) | **Missing.** `run_all.py`, `tools/train_one.py` and `tools/run_everything.py` need these files |
-| `TRIAD_det/runs/` (split manifests, YOLO-family checkpoints, training logs) | **Not included.** Excluded by `.gitignore`. `in_domain.py` and `figures.py` read manifests from it |
+| `TRIAD_det/runs/` (split manifests, YOLO-family checkpoints, training logs) | **Not included.** Excluded by `.gitignore`. `in_domain.py`, `figures.py`, `predict_yolo.py` and `target_adaptation.py` read manifests from it |
 | Model weights (`*.pt`) | **Not included.** Excluded by `.gitignore`, so trained checkpoints must be retrained |
 
 The published tables and figures can be inspected as they are. Re-running the pipeline requires restoring `configs/` first.
