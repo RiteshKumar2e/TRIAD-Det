@@ -78,7 +78,7 @@ Violation rates at α = δ = 0.10 for `L_any`, over all 16 model × dataset comb
 | Naive empirical threshold | 56.7% | 66.4% |
 | Conformal Risk Control (joint risk) | 99.6% | 100% |
 
-These rates compare the empirical risk on a finite test half with α, so they include sampling noise. `validity_decomposition.csv` separates the two by measuring the true risk on a known population, over the 10 combinations in that file's α = 0.10 slice. There the highest true violation rate is 8.2% for the binomial test and 2.6% for Hoeffding–Bentkus, both below δ. Conformal Risk Control bounds the joint risk, not the risk among accepted images, so a high rate here is expected.
+These rates compare the empirical risk on a finite test half with α, so they include sampling noise. `validity_decomposition.csv` separates the two by measuring the true risk on a known population. Over the same 16 combinations, the highest true violation rate is 8.2% for the binomial test and 2.6% for Hoeffding–Bentkus, both below δ. Conformal Risk Control bounds the joint risk, not the risk among accepted images, so a high rate here is expected.
 
 ### Under a change of dataset
 
