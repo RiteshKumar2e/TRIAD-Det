@@ -15,7 +15,7 @@ from triad.evaluate import box_iou, match
 
 
 def test_dataset_colours_are_fixed():
-    assert DATASET_COLOURS == {"SteelDefectX": "#DC2626", "NEU-DET": "#2563EB", "GC10-DET": "#16A34A"}
+    assert DATASET_COLOURS == {"SteelDefectX": "#DC2626", "NEU-DET": "#2563EB", "GC10-DET": "#16A34A", "X-SDD": "#9333EA"}
 
 
 def test_min_accepted():

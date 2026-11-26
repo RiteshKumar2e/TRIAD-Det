@@ -5,3 +5,5 @@ TRIAD_det/TRIAD_Det_Risk_Control/results/predictions/full/
 TRIAD_det/TRIAD_Det_Risk_Control/results/predictions/selected/
 TRIAD_det/TRIAD_Det_Risk_Control/results/predictions/smoke/
 TRIAD_det/TRIAD_Det_Risk_Control/results/predictions/v1/
+__pycache__/
+*.pyc

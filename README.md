@@ -216,7 +216,7 @@ Check the install:
 .venv\Scripts\python -m pytest tests TRIAD_Det_Risk_Control/tests -q
 ```
 
-The first command must print `True`. If it prints `False`, the CPU-only torch was installed: uninstall `torch` and `torchvision`, then repeat the install commands. Pretrained weights download on first use.
+The first command must print `True`, and the tests should report 15 passed. If the first command prints `False`, the CPU-only torch was installed: uninstall `torch` and `torchvision`, then repeat the install commands. Pretrained weights download on first use.
 
 ## Usage
 
