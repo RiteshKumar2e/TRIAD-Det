@@ -21,6 +21,11 @@ The study covers four detectors on four datasets. It includes TRIAD-Det, a new a
 ## Contents
 
 - [Key results](#key-results)
+  - [Risk control at α = 0.10, δ = 0.10](#risk-control-at-α--010-δ--010)
+  - [Detection](#detection-test-map50--map50-95)
+  - [Does the guarantee hold?](#does-the-guarantee-hold)
+  - [Under a change of dataset](#under-a-change-of-dataset)
+  - [Does the census branch help?](#does-the-census-branch-help)
 - [Method](#method)
 - [Repository layout](#repository-layout)
 - [Datasets](#datasets)
@@ -216,7 +221,7 @@ Check the install:
 .venv\Scripts\python -m pytest tests TRIAD_Det_Risk_Control/tests -q
 ```
 
-The first command must print `True`, and the tests should report 15 passed. If the first command prints `False`, the CPU-only torch was installed: uninstall `torch` and `torchvision`, then repeat the install commands. Pretrained weights download on first use.
+The first command must print `True`, and the tests should report 15 passed (about 2–3 minutes; the calibration validity tests take most of it). If the first command prints `False`, the CPU-only torch was installed: uninstall `torch` and `torchvision`, then repeat the install commands. Pretrained weights download on first use.
 
 ## Usage
 
@@ -267,7 +272,7 @@ cd TRIAD_Det_Risk_Control
 
 ## Results and outputs
 
-Paths are under `TRIAD_det/`.
+Paths are under `TRIAD_det/`. Everything listed here is in the repository, so you can browse the tables and figures without installing anything or having a GPU.
 
 | Location | Contents |
 |---|---|
