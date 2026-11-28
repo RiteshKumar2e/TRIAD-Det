@@ -25,6 +25,7 @@ The study covers four detectors on four datasets. It includes TRIAD-Det, a new a
   - [Detection](#detection-test-map50--map50-95)
   - [Does the guarantee hold?](#does-the-guarantee-hold)
   - [Under a change of dataset](#under-a-change-of-dataset)
+  - [Example decisions](#example-decisions)
   - [Does the census branch help?](#does-the-census-branch-help)
 - [Method](#method)
 - [Repository layout](#repository-layout)
@@ -57,6 +58,12 @@ All numbers are on held-out test splits. The first two tables come from [`result
 
 The guarantee is a probability over calibration draws, so one test split can land slightly above α. The GC10-DET row at 10.6% is an example, and its interval contains 10%.
 
+<p align="center">
+  <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig03_risk_coverage.png" alt="Risk-coverage curves for the four detectors on each dataset" width="85%">
+</p>
+
+*Risk among accepted images (`L_any`) against coverage on the test split, per dataset. The dashed line is α = 0.10. A curve that stays below it over a wider range of coverage means the uncertainty score ranks risky images better; TRIAD-Det does this on SteelDefectX.*
+
 ### Detection (test mAP50 / mAP50-95)
 
 | Model | SteelDefectX | NEU-DET | GC10-DET | X-SDD |
@@ -69,7 +76,7 @@ The guarantee is a probability over calibration draws, so one test split can lan
 No single detector wins everywhere. TRIAD-Det leads mAP50 on SteelDefectX and NEU-DET, and YOLO11s leads on GC10-DET and X-SDD.
 
 <p align="center">
-  <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig03_risk_coverage.png" alt="Risk-coverage curves for the four detectors on each dataset" width="85%">
+  <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig02_detection_map.png" alt="Test mAP50 and mAP50-95 bar charts for the four detectors on each dataset" width="80%">
 </p>
 
 ### Does the guarantee hold?
@@ -85,6 +92,12 @@ Violation rates at α = δ = 0.10 for `L_any`, over all 16 model × dataset comb
 
 These rates compare the empirical risk on a finite test half with α, so they include sampling noise. `validity_decomposition.csv` separates the two by measuring the true risk on a known population. Over the same 16 combinations, the highest true violation rate is 8.2% for the binomial test and 2.6% for Hoeffding–Bentkus, both below δ. Conformal Risk Control bounds the joint risk, not the risk among accepted images, so a high rate here is expected.
 
+<p align="center">
+  <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig06_validity.png" alt="Bar charts of the share of re-splits where test risk exceeded alpha, per method, model and dataset" width="85%">
+</p>
+
+*Share of the 500 re-splits in which the test risk exceeded α = 0.10 (dashed line), per method. LTT bars are missing or near zero on NEU-DET and X-SDD because it certified almost nothing there, so there was little to violate.*
+
 ### Under a change of dataset
 
 All 48 cross-dataset cases (four models × 12 directed pairs) at α = 0.10, with class-agnostic matching. Source: `cross_domain_selective.csv`.
@@ -97,7 +110,23 @@ All 48 cross-dataset cases (four models × 12 directed pairs) at α = 0.10, with
 
 A threshold calibrated on one dataset should not be reused on another: 14 of the 15 certified transfers exceeded α on the target. Recalibrating on the target is safe, but it accepts almost nothing.
 
+<p align="center">
+  <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig09_cross_domain.png" alt="Heatmaps of risk among accepted images and coverage for each source and target dataset pair, one per model" width="85%">
+</p>
+
+*Thresholds calibrated on the source (rows) and applied to the target (columns), at α = 0.10. Each cell shows risk among accepted images over coverage; "none" means no threshold was certified.*
+
 **Target adaptation.** Only part of the planned grid has been run: TRIAD-Det, 100 target images, one draw, six fine-tuning transfers and three from-scratch controls. No run was certified at α ≤ 0.20. At α = 0.30, 4 of 18 cases were certified, and none exceeded α on test. Source: `adaptation/target_adaptation.csv`.
+
+### Example decisions
+
+<p align="center">
+  <img src="TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_SteelDefectX.png" alt="SteelDefectX test images with ground-truth and predicted boxes, split into auto-accepted and manual-review rows" width="90%">
+</p>
+
+*TRIAD-Det on SteelDefectX test images. Green boxes are ground truth and red dashed boxes are predictions; `u` is the uncertainty score and `miss` marks an image with at least one missed defect. The top row was auto-accepted and the bottom row sent to review. One accepted image still has a miss, which is what a risk of up to α allows.*
+
+The same figure for the other datasets: [NEU-DET](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_NEU-DET.png), [GC10-DET](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_GC10-DET.png), [X-SDD](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_X-SDD.png).
 
 ### Does the census branch help?
 
@@ -279,9 +308,26 @@ Paths are under `TRIAD_det/`. Everything listed here is in the repository, so yo
 | `results.csv` | Training, detection and risk-control summary |
 | `TRIAD_Det_Risk_Control/results/tables/full/` | In-domain, cross-domain, recalibration, ablation, census and validity tables |
 | `TRIAD_Det_Risk_Control/results/tables/adaptation/` | Target adaptation results |
-| `TRIAD_Det_Risk_Control/results/figures/full/` | Figures 1–12 as 300-DPI PNG and PDF |
+| `TRIAD_Det_Risk_Control/results/figures/full/` | Figures 1–12 as 300-DPI PNG and PDF (index below) |
 | `TRIAD_Det_Risk_Control/results/predictions/` | AUTO-ACCEPT / MANUAL-REVIEW decisions and adaptation predictions |
 | `OUTPUT/batches/` | Annotated test batches and `batch_summary.csv` |
+
+**Figure index** (`figures/full/`, each as `.png` and `.pdf`):
+
+| Figure | Shows |
+|---|---|
+| [fig01_dataset_splits](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig01_dataset_splits.png) | Images per split for each dataset |
+| [fig02_detection_map](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig02_detection_map.png) | Test mAP50 and mAP50-95 per model and dataset |
+| [fig03_risk_coverage](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig03_risk_coverage.png) | Risk among accepted images against coverage |
+| [fig04_coverage_vs_alpha](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig04_coverage_vs_alpha.png) | AUTO-ACCEPT coverage as α varies (LTT-binomial) |
+| [fig05_risk_vs_alpha](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig05_risk_vs_alpha.png) | Test risk among accepted images as α varies, with 95% CI and the y = α line |
+| [fig06_validity](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig06_validity.png) | Violation rates over 500 re-splits, per method |
+| [fig07_method_coverage](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig07_method_coverage.png) | Coverage of each calibration method at α = 0.10 |
+| [fig08_score_aurc](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig08_score_aurc.png) | Test AURC of each uncertainty score |
+| [fig09_cross_domain](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig09_cross_domain.png) | Source-calibrated thresholds applied to other datasets |
+| [fig10_recalibration](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig10_recalibration.png) | Target recalibration with a growing number of labelled target images |
+| [fig11_iou_ablation](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig11_iou_ablation.png) | Coverage and any-miss risk as the matching IoU changes (0.3, 0.5, 0.7) |
+| fig12_examples_* | Example AUTO-ACCEPT and MANUAL-REVIEW images, one file per dataset: [SteelDefectX](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_SteelDefectX.png), [NEU-DET](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_NEU-DET.png), [GC10-DET](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_GC10-DET.png), [X-SDD](TRIAD_det/TRIAD_Det_Risk_Control/results/figures/full/fig12_examples_X-SDD.png) |
 
 **Result variants.** `full` is the primary analysis, with the v2 TRIAD-Det recipe on every dataset. `selected` uses the v1 recipe for TRIAD-Det on GC10-DET. `v1` and `v1_archive` keep the earlier recipe, `smoke` is a plumbing test, and none of these three should be read as final results.
 
